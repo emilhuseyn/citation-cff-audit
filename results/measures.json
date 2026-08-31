@@ -1,5 +1,5 @@
 {
- "analysed_utc": "2026-08-31T02:11:04.669242+00:00",
+ "analysed_utc": "2026-08-31T02:24:31.259993+00:00",
  "harvest": {
   "harvested_utc": "2026-08-31T01:24:08.375607+00:00",
   "joss_papers": 3696,
@@ -7,6 +7,15 @@
   "distinct_repos": 3486,
   "cached": 3486,
   "with_citation_cff": 1120
+ },
+ "pilot": {
+  "files": 70,
+  "with_doi": 68,
+  "unresolved": 5,
+  "names_software": 38,
+  "names_paper": 23,
+  "title_mismatch": 9,
+  "resolving": 63
  },
  "joss_papers": 3696,
  "repos_probed": 3486,

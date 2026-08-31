@@ -126,9 +126,35 @@ def load_dois():
     return out
 
 
+# THE PILOT, CARRIED FORWARD SO THE COMPARISON IS AUDITABLE. These are the counts the frozen analysis
+# plan recorded before this harvest ran, on 70 files reachable through GitHub's code search index.
+# They are not recomputed here, because the pilot's population no longer exists as a reachable set.
+# They are also not simply retyped: every one of them is checked against the plan file below, and the
+# analysis refuses to write its results if the plan does not contain them. A number the manuscript
+# compares against must be traceable to the document that froze it.
+PILOT = {"files": 70, "with_doi": 68, "unresolved": 5, "names_software": 38, "names_paper": 23,
+         "title_mismatch": 9}
+
+
+def check_pilot_against_plan():
+    path = os.path.join(ROOT, "analysis_plan.md")
+    if not os.path.exists(path):
+        raise SystemExit("STOP: the frozen plan is missing, so the pilot cannot be verified")
+    plan = io.open(path, encoding="utf-8").read()
+    block = plan.split("## The pilot", 1)[-1].split("## Topics screened", 1)[0]
+    missing = [k for k, v in PILOT.items() if str(v) not in block]
+    if missing:
+        raise SystemExit("STOP: the plan's pilot section does not contain %s. The comparison in the "
+                         "manuscript would be against numbers with no frozen source." % missing)
+    out = dict(PILOT)
+    out["resolving"] = PILOT["with_doi"] - PILOT["unresolved"]
+    return out
+
+
 def main():
     stamp = json.load(io.open(os.path.join(RESEARCH, "harvest_stamp.json"), encoding="utf-8")) \
         if os.path.exists(os.path.join(RESEARCH, "harvest_stamp.json")) else {}
+    pilot = check_pilot_against_plan()
     papers = json.load(io.open(os.path.join(RESEARCH, "joss_published.json"), encoding="utf-8"))
     resolved = load_dois()
     files = sorted(f for f in os.listdir(CFFDIR) if f.endswith(".json"))
@@ -316,7 +342,7 @@ def main():
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     json.dump({
         "analysed_utc": datetime.datetime.now(datetime.timezone.utc).isoformat(),
-        "harvest": stamp,
+        "harvest": stamp, "pilot": pilot,
         "joss_papers": len(papers), "repos_probed": len(recs), "repos_with_cff": len(have),
         "missing_status": dict(missing_status),
         "files_with_top_doi": len(with_doi), "files_without_doi": no_doi,
