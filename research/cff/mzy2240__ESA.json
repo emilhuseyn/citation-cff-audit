@@ -1,0 +1,9 @@
+{
+ "repo": "mzy2240/ESA",
+ "joss_doi": "10.21105/joss.02289",
+ "joss_title": "Easy SimAuto (ESA): A Python Package that Simplifies Interacting with PowerWorld Simulator",
+ "joss_published": "2020-06-17T20:03:13.711Z",
+ "software_repository": "https://github.com/mzy2240/ESA",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Mao\"\n  given-names: \"Zeyu\"\n- family-names: \"Thayer\"\n  given-names: \"Brandon\"\n- family-names: \"Liu\"\n  given-names: \"Yijing\"\ntitle: \"Easy SimAuto (ESA)\"\nversion: 1.2.6\ndoi: 10.21105/joss.02289\ndate-released: 2022-02-20\nurl: \"https://github.com/mzy2240/ESA\"\npreferred-citation:\n  type: article\n  authors:\n    - family-names: \"Mao\"\n      given-names: \"Zeyu\"\n    - family-names: \"Thayer\"\n      given-names: \"Brandon\"\n    - family-names: \"Liu\"\n      given-names: \"Yijing\"\n    - family-names: \"Davis\"\n      given-names: \"Katherine\"\n    - family-names: \"Overbye\"\n      given-names: \"Thomas\"\n  doi: \"10.21105/joss.02289\"\n  url: \"https://doi.org/10.21105/joss.02289\"\n  journal: \"The Journal of Open Source Software\"\n  title: \"Easy SimAuto (ESA): A Python Package that Simplifies Interacting with PowerWorld Simulator\"\n  volume: 5\n  number: 50\n  pages: 2289\n  year: 2020"
+}

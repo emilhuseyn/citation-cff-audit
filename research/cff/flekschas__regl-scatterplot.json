@@ -1,0 +1,9 @@
+{
+ "repo": "flekschas/regl-scatterplot",
+ "joss_doi": "10.21105/joss.05275",
+ "joss_title": "Regl-Scatterplot: A Scalable Interactive JavaScript-based Scatter Plot Library",
+ "joss_published": "2023-04-11T14:04:20.515Z",
+ "software_repository": "https://github.com/flekschas/regl-scatterplot",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Lekschas\n  given-names: Fritz\n  orcid: \"https://orcid.org/0000-0001-8432-4835\"\ndoi: 10.5281/zenodo.7796642\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Lekschas\n    given-names: Fritz\n    orcid: \"https://orcid.org/0000-0001-8432-4835\"\n  date-published: 2023-04-11\n  doi: 10.21105/joss.05275\n  issn: 2475-9066\n  issue: 84\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5275\n  title: \"Regl-Scatterplot: A Scalable Interactive JavaScript-based\n    Scatter Plot Library\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05275\"\n  volume: 8\ntitle: \"Regl-Scatterplot: A Scalable Interactive JavaScript-based\n  Scatter Plot Library\"\n"
+}

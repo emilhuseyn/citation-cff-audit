@@ -1,0 +1,9 @@
+{
+ "repo": "FraunhoferIWES/foxes",
+ "joss_doi": "10.21105/joss.05464",
+ "joss_title": "FOXES: Farm Optimization and eXtended yield Evaluation Software",
+ "joss_published": "2023-06-28T13:27:59.611Z",
+ "software_repository": "https://github.com/FraunhoferIWES/foxes",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Schmidt\n  given-names: Jonas\n  orcid: \"https://orcid.org/0000-0002-8191-8141\"\n- family-names: Vollmer\n  given-names: Lukas\n- family-names: D\u00f6renk\u00e4mper\n  given-names: Martin\n  orcid: \"https://orcid.org/0000-0002-0210-5733\"\n- family-names: Stoevesandt\n  given-names: Bernhard\n  orcid: \"https://orcid.org/0000-0001-6626-1084\"\ncontact:\n- family-names: Schmidt\n  given-names: Jonas\n  orcid: \"https://orcid.org/0000-0002-8191-8141\"\ndoi: 10.5281/zenodo.8027929\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Schmidt\n    given-names: Jonas\n    orcid: \"https://orcid.org/0000-0002-8191-8141\"\n  - family-names: Vollmer\n    given-names: Lukas\n  - family-names: D\u00f6renk\u00e4mper\n    given-names: Martin\n    orcid: \"https://orcid.org/0000-0002-0210-5733\"\n  - family-names: Stoevesandt\n    given-names: Bernhard\n    orcid: \"https://orcid.org/0000-0001-6626-1084\"\n  date-published: 2023-06-28\n  doi: 10.21105/joss.05464\n  issn: 2475-9066\n  issue: 86\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5464\n  title: \"FOXES: Farm Optimization and eXtended yield Evaluation\n    Software\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05464\"\n  volume: 8\ntitle: \"FOXES: Farm Optimization and eXtended yield Evaluation Software\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "PIK-LPJmL/lpjmlkit",
+ "joss_doi": "10.21105/joss.05447",
+ "joss_title": "lpjmlkit: A toolkit for operating LPJmL and model-specific data processing",
+ "joss_published": "2024-11-22T23:45:39.774Z",
+ "software_repository": "https://github.com/PIK-LPJmL/lpjmlkit",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: If you use this software, please cite it using the metadata from this file.\ntype: software\ntitle: 'lpjmlkit: Toolkit for Basic LPJmL Handling'\nversion: 1.8.2\ndate-released: '2026-07-06'\nabstract: A collection of basic functions to facilitate the work with the Dynamic\n  Global Vegetation Model (DGVM) Lund-Potsdam-Jena managed Land (LPJmL) hosted at\n  the Potsdam Institute for Climate Impact Research (PIK). It provides functions for\n  performing LPJmL simulations, as well as reading, processing and writing model-related\n  data such as inputs and outputs or configuration files.\nauthors:\n- family-names: Breier\n  given-names: Jannes\n  email: jannesbr@pik-potsdam.de\n  orcid: https://orcid.org/0000-0002-9055-6904\n- family-names: Ostberg\n  given-names: Sebastian\n  email: ostberg@pik-potsdam.de\n  orcid: https://orcid.org/0000-0002-2368-7015\n- family-names: Wirth\n  given-names: Stephen Bj\u00f6rn\n  email: wirth@pik-potsdam.de\n  orcid: https://orcid.org/0000-0003-3090-3318\n- family-names: Minoli\n  given-names: Sara\n  email: minoli@pik-potsdam.de\n  orcid: https://orcid.org/0000-0001-7920-3107\n- family-names: Stenzel\n  given-names: Fabian\n  email: stenzel@pik-potsdam.de\n  orcid: https://orcid.org/0000-0002-5109-0048\n- family-names: H\u00f6tten\n  given-names: David\n  email: davidho@pik-potsdam.de\n- family-names: M\u00fcller\n  given-names: Christoph\n  email: cmueller@pik-potsdam.de\n  orcid: https://orcid.org/0000-0002-9491-3550\nlicense: AGPL-3.0\nrepository-code: https://github.com/PIK-LPJmL/lpjmlkit\ndoi: 10.5281/zenodo.7773134\n\n"
+}

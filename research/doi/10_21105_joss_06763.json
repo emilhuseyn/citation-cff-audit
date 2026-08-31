@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.06763",
+ "source": "crossref",
+ "state": "ok",
+ "title": "GeophysicalModelGenerator.jl: A Julia package to visualise geoscientific data and create numerical model setups",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

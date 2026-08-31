@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.12711232",
+ "source": "datacite",
+ "state": "ok",
+ "title": "ddtlcm: An R package for overcoming weak separation in Bayesian latent class analysis via tree-regularization",
+ "type": "Software",
+ "container": ""
+}

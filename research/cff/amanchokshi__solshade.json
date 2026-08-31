@@ -1,0 +1,9 @@
+{
+ "repo": "amanchokshi/solshade",
+ "joss_doi": "10.21105/joss.09944",
+ "joss_title": "Solshade: Terrain-aware Solar Illumination Modelling using Digital Elevation Models and Orbital Geometry",
+ "joss_published": "2026-06-02T17:47:55.288Z",
+ "software_repository": "https://github.com/amanchokshi/solshade",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Chokshi\n  given-names: Aman\n  orcid: \"https://orcid.org/0000-0003-1130-6390\"\ndoi: 10.5281/zenodo.20405097\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Chokshi\n    given-names: Aman\n    orcid: \"https://orcid.org/0000-0003-1130-6390\"\n  date-published: 2026-06-02\n  doi: 10.21105/joss.09944\n  issn: 2475-9066\n  issue: 122\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9944\n  title: \"Solshade: Terrain-aware Solar Illumination Modelling using\n    Digital Elevation Models and Orbital Geometry\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09944\"\n  volume: 11\ntitle: \"Solshade: Terrain-aware Solar Illumination Modelling using\n  Digital Elevation Models and Orbital Geometry\"\n"
+}

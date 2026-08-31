@@ -1,0 +1,9 @@
+{
+ "repo": "MarnieMaddock/ProntoPCR",
+ "joss_doi": "10.21105/joss.09949",
+ "joss_title": "ProntoPCR: Efficient qPCR Data Analysis Software",
+ "joss_published": "2026-06-25T15:53:48.463Z",
+ "software_repository": "https://github.com/MarnieMaddock/ProntoPCR",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Maddock\n  given-names: Marnie L.\n  orcid: \"https://orcid.org/0000-0001-6393-4837\"\n- family-names: Dottori\n  given-names: Mirella\n  orcid: \"https://orcid.org/0000-0003-0598-4195\"\n- family-names: Nettel-Aguirre\n  given-names: Alberto\n  orcid: \"https://orcid.org/0000-0001-6604-0652\"\ncontact:\n- family-names: Maddock\n  given-names: Marnie L.\n  orcid: \"https://orcid.org/0000-0001-6393-4837\"\n- family-names: Nettel-Aguirre\n  given-names: Alberto\n  orcid: \"https://orcid.org/0000-0001-6604-0652\"\ndoi: 10.5281/zenodo.20789353\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Maddock\n    given-names: Marnie L.\n    orcid: \"https://orcid.org/0000-0001-6393-4837\"\n  - family-names: Dottori\n    given-names: Mirella\n    orcid: \"https://orcid.org/0000-0003-0598-4195\"\n  - family-names: Nettel-Aguirre\n    given-names: Alberto\n    orcid: \"https://orcid.org/0000-0001-6604-0652\"\n  date-published: 2026-06-25\n  doi: 10.21105/joss.09949\n  issn: 2475-9066\n  issue: 122\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9949\n  title: \"ProntoPCR: Efficient qPCR Data Analysis Software\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09949\"\n  volume: 11\ntitle: \"ProntoPCR: Efficient qPCR Data Analysis Software\"\n"
+}

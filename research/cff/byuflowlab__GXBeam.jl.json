@@ -1,0 +1,9 @@
+{
+ "repo": "byuflowlab/GXBeam.jl",
+ "joss_doi": "10.21105/joss.03997",
+ "joss_title": "GXBeam: A Pure Julia Implementation of Geometrically Exact Beam Theory",
+ "joss_published": "2022-05-25T14:32:40.069Z",
+ "software_repository": "https://github.com/byuflowlab/GXBeam.jl",
+ "status": 404,
+ "cff": null
+}

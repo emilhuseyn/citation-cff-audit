@@ -1,0 +1,9 @@
+{
+ "repo": "pythonraster/rastereasy",
+ "joss_doi": "10.21105/joss.08666",
+ "joss_title": "Rastereasy: A Python package for easy manipulation of remote sensing images",
+ "joss_published": "2025-12-05T23:24:12.159Z",
+ "software_repository": "https://github.com/pythonraster/rastereasy/",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Corpetti\n  given-names: Thomas\n  orcid: \"https://orcid.org/0000-0002-0257-138X\"\n- family-names: Matelot\n  given-names: Pierrick\n- family-names: Brosse\n  given-names: Augustin\n  name-particle: de la\n- family-names: Lissak\n  given-names: Candide\n  orcid: \"https://orcid.org/0000-0003-3393-7767\"\ncontact:\n- family-names: Corpetti\n  given-names: Thomas\n  orcid: \"https://orcid.org/0000-0002-0257-138X\"\ndoi: 10.5281/zenodo.17822344\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Corpetti\n    given-names: Thomas\n    orcid: \"https://orcid.org/0000-0002-0257-138X\"\n  - family-names: Matelot\n    given-names: Pierrick\n  - family-names: Brosse\n    given-names: Augustin\n    name-particle: de la\n  - family-names: Lissak\n    given-names: Candide\n    orcid: \"https://orcid.org/0000-0003-3393-7767\"\n  date-published: 2025-12-05\n  doi: 10.21105/joss.08666\n  issn: 2475-9066\n  issue: 116\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 8666\n  title: \"Rastereasy: A Python package for easy manipulation of remote\n    sensing images\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.08666\"\n  volume: 10\ntitle: \"Rastereasy: A Python package for easy manipulation of remote\n  sensing images\"\n"
+}

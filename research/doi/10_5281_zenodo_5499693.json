@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.5499693",
+ "source": "datacite",
+ "state": "ok",
+ "title": "NiTransforms: A Python tool to read, represent, manipulate, and apply N-dimensional spatial transforms",
+ "type": "Software",
+ "container": ""
+}

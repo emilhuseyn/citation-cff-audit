@@ -1,0 +1,9 @@
+{
+ "repo": "vbaliga/gaussplotR",
+ "joss_doi": "10.21105/joss.03074",
+ "joss_title": "gaussplotR: Fit, Predict and Plot 2D-Gaussians in R",
+ "joss_published": "2021-04-06T21:05:32.239Z",
+ "software_repository": "https://github.com/vbaliga/gaussplotR",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Baliga\"\n  given-names: \"Vikram B.\"\n  orcid: \"https://orcid.org/0000-0002-9367-8974\"\ntitle: \"gaussplotR\"\nversion: 0.2.6\ndoi: 10.21105/joss.03074\ndate-released: 2021-07-29\nurl: \"https://github.com/vbaliga/gaussplotR\"\n"
+}

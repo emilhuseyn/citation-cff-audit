@@ -1,0 +1,9 @@
+{
+ "repo": "fieldtrip/fieldtrip",
+ "joss_doi": "10.21105/joss.05566",
+ "joss_title": "Reducing the efforts to create reproducible analysis code with FieldTrip",
+ "joss_published": "2024-02-21T08:51:15.662Z",
+ "software_repository": "https://github.com/fieldtrip/fieldtrip",
+ "status": 200,
+ "cff": "cff-version: 1.3.0\ntitle: FieldTrip\nauthors:\n  - family-names: \"Oostenveld\"\n    given-names: \"Robert\"\n    orcid: \"0000-0002-1974-1293\"\n  - family-names: \"Fries\"\n    given-names: \"Pascal\"\n    orcid: \"0000-0002-4270-1468\"\n  - family-names: \"Maris\"\n    given-names: \"Eric\"\n    orcid: \"0000-0001-5166-1800\"\n  - family-names: \"Schoffelen\"\n    given-names: \"Jan-Mathijs\"\n    orcid: \"0000-0003-0923-6610\"\nversion: \"\"\ndate-released:\nlicense: \"gpl-3.0\"\nrepository-code: \"https://github.com/fieldtrip/fieldtrip\"\nmessage: \"If you use this software, please cite relevant articles below.\"\nreferences:\n  - type: article\n    authors:\n      - family-names: \"Oostenveld\"\n        given names: \"Robert\"\n      - family-names: \"Fries\"\n        given names: \"Pascal\"\n      - family-names: \"Maris\"\n        given names: \"Eric\"\n      - family-names: \"Schoffelen\"\n        given names: \"Jan-Mathijs\"\n    title: \"FieldTrip: Open Source Software for Advanced Analysis of MEG, EEG, and Invasive Electrophysiological Data.\"\n    journal: \"Computational Intelligence and Neuroscience\"\n    date-published: \"2011\"\n    number-volumes: \"2011\"\n    pages: \"156869\"\n    doi: \"10.1155/2011/156869\"\n"
+}

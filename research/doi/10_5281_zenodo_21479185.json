@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.21479185",
+ "source": "datacite",
+ "state": "ok",
+ "title": "DL_PY2F: A library for Python-Fortran interoperability",
+ "type": "Software",
+ "container": ""
+}

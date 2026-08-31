@@ -1,0 +1,9 @@
+{
+ "repo": "pyvista/pyvista",
+ "joss_doi": "10.21105/joss.01450",
+ "joss_title": "PyVista: 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)",
+ "joss_published": "2019-05-19T20:40:42.985Z",
+ "software_repository": "https://github.com/pyvista/pyvista",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you are using PyVista in your research, please help our scientific visibility by citing our work!\"\ntype: software\nauthors:\n- family-names: \"Sullivan\"\n  given-names: \"Bane\"\n  orcid: \"https://orcid.org/0000-0001-8628-4566\"\n- family-names: \"Kaszynski\"\n  given-names: \"Alexander\"\n  orcid: \"https://orcid.org/0000-0002-8232-7212\"\ndoi: 10.21105/joss.01450\njournal: \"Journal of Open Source Software\"\npublisher:\n  name: \"The Open Journal\"\ntitle: \"PyVista: 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)\"\nvolume: 4\nissue: 37\nstart: 1450\ndate-released: 2019-05-19\nurl: \"https://github.com/pyvista/pyvista\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "NREL/G2Aero",
+ "joss_doi": "10.21105/joss.05408",
+ "joss_title": "G2Aero: A Python package for separable shape tensors",
+ "joss_published": "2023-09-20T15:12:26.166Z",
+ "software_repository": "https://github.com/NREL/G2Aero",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle: 'G2Aero: A Python package for separable shape tensors'\nmessage: If you use this software, please cite it as below.\ntype: software\nauthors:\n  - given-names: Olga\n    family-names: Doronina\n  - given-names: Andrew\n    family-names: Glaws\n  - given-names: Ryan\n    family-names: King\n  - given-names: Ganesh\n    family-names: Vijayakumar\n  - given-names: Zachary\n    family-names: Grey\nidentifiers:\n  - type: doi\n    value: 10.11578/dc.20220422.1\nrepository-code: 'https://github.com/NREL/G2Aero'\nurl: 'https://g2aero.readthedocs.io/en/latest/index.html'\nlicense: BSD-3-Clause\nversion: v1.0.0\ndate-released: 2023-08-07\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Olga A.\"\n    given-names: \"Doronina\"\n  - family-names: \"Zachary J.\"\n    given-names: \"Grey\"\n  - family-names: \"Andrew\"\n    given-names: \"Glaws\"\n  doi: \"10.21105/joss.05408\"\n  journal: \"Journal of Open Source Software\"\n  start: 5408 # First page number\n  title: \"G2Aero: A Python package for separable shape tensors\"\n  issue: 89\n  volume: 8\n  year: 2023"
+}

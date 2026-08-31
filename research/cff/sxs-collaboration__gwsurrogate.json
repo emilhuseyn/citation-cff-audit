@@ -1,0 +1,9 @@
+{
+ "repo": "sxs-collaboration/gwsurrogate",
+ "joss_doi": "10.21105/joss.07073",
+ "joss_title": "GWSurrogate: A Python package for gravitational wave surrogate models",
+ "joss_published": "2025-03-29T19:39:18.557Z",
+ "software_repository": "https://github.com/sxs-collaboration/gwsurrogate",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: \"Field\"\n    given-names: \"Scott E.\"\n    orcid: \"https://orcid.org/0000-0002-6037-3277\"\n    equal-contrib: true\n  - family-names: \"Varma\"\n    given-names: \"Vijay\"\n    orcid: \"https://orcid.org/0000-0002-9994-1761\"\n    equal-contrib: true\n  - family-names: \"Blackman\"\n    given-names: \"Jonathan\"\n  - family-names: \"Gadre\"\n    given-names: \"Bhooshan\"\n    orcid: \"https://orcid.org/0000-0002-1534-9761\"\n  - family-names: \"Galley\"\n    given-names: \"Chad R.\"\n  - family-names: \"Islam\"\n    given-names: \"Tousif\"\n    orcid: \"https://orcid.org/0000-0002-3434-0084\"\n  - family-names: \"Mitman\"\n    given-names: \"Keefe\"\n    orcid: \"https://orcid.org/0000-0003-0276-3856\"\n  - family-names: \"P\u00fcrrer\"\n    given-names: \"Michael\"\n    orcid: \"https://orcid.org/0000-0002-3329-9788\"\n  - family-names: \"Ravichandran\"\n    given-names: \"Adhrit\"\n  - family-names: \"Scheel\"\n    given-names: \"Mark A.\"\n    orcid: \"https://orcid.org/0000-0001-6656-9134\"\n  - family-names: \"Stein\"\n    given-names: \"Leo C.\"\n    orcid: \"https://orcid.org/0000-0001-7559-9597\"\n  - family-names: \"Yoo\"\n    given-names: \"Jooheon\"\n    orcid: \"https://orcid.org/0000-0002-3251-0924\"\ntitle: \"gwsurrogate\"\nversion: 1.1.7\ndate-released: \"2025-02-25\"\nlicense: MIT\nrepository-code: \"https://github.com/sxs-collaboration/gwsurrogate\"\n"
+}

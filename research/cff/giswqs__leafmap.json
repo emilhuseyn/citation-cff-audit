@@ -1,0 +1,9 @@
+{
+ "repo": "giswqs/leafmap",
+ "joss_doi": "10.21105/joss.03414",
+ "joss_title": "Leafmap: A Python package for interactive mapping and geospatial analysis with minimal coding in a Jupyter environment",
+ "joss_published": "2021-07-26T17:05:32.898Z",
+ "software_repository": "https://github.com/giswqs/leafmap",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Wu\n    given-names: Qiusheng\n    orcid: https://orcid.org/0000-0001-5437-4073\ntitle: \"Leafmap: A Python package for interactive mapping and geospatial analysis with minimal coding in a Jupyter environment\"\nversion: 0.3.5\ndoi: 10.21105/joss.03414\ndate-released: 2021-07-26\nurl: \"https://github.com/opengeos/leafmap\"\n"
+}

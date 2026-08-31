@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.13334589",
+ "source": "datacite",
+ "state": "ok",
+ "title": "Aurora: An open-source Python implementation of the EMTF package for magnetotelluric data processing using MTH5 and mt_metadata",
+ "type": "Software",
+ "container": ""
+}

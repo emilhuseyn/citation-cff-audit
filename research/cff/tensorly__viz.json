@@ -1,0 +1,9 @@
+{
+ "repo": "tensorly/viz",
+ "joss_doi": "10.21105/joss.04754",
+ "joss_title": "TLViz: Visualising and analysing tensor decomposition models with Python",
+ "joss_published": "2022-11-25T07:51:09.480Z",
+ "software_repository": "https://github.com/tensorly/viz",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Marie\n    given-names: Roald\n    orcid: https://orcid.org/0000-0002-9571-8829\n  - family-names: Yngve Mardal\n    given-names: Moe\n    orcid: https://orcid.org/0000-0002-5159-9012\ntitle: \"TensorLy-Viz\"\nversion: 0.1.8\npreferred-citation:\n  authors:\n    - family-names: Marie\n      given-names: Roald\n      orcid: https://orcid.org/0000-0002-9571-8829\n    - family-names: Yngve Mardal\n      given-names: Moe\n      orcid: https://orcid.org/0000-0002-5159-9012\n  type: article\n  doi: 10.21105/joss.04754\n  title: \"TLViz: Visualising and analysing tensor decomposition models with Python\"\n  journal: \"Journal of Open Source Software\"\n  date-released: 2022-11-25"
+}

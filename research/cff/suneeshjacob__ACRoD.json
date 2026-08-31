@@ -1,0 +1,9 @@
+{
+ "repo": "suneeshjacob/ACRoD",
+ "joss_doi": "10.21105/joss.05927",
+ "joss_title": "Automatic Computation for Robot Design (ACRoD): A Python package for numerical calculation of Jacobian of a robot at a given configuration around a specified end-effector point",
+ "joss_published": "2024-03-21T10:22:23.533Z",
+ "software_repository": "https://github.com/suneeshjacob/ACRoD",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Jacob\n  given-names: Akkarapakam Suneesh\n  orcid: \"https://orcid.org/0000-0002-9855-9368\"\n- family-names: Datta\n  given-names: Rituparna\n  orcid: \"https://orcid.org/0000-0003-3816-2438\"\ncontact:\n- family-names: Jacob\n  given-names: Akkarapakam Suneesh\n  orcid: \"https://orcid.org/0000-0002-9855-9368\"\ndoi: 10.5281/zenodo.10819242\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Jacob\n    given-names: Akkarapakam Suneesh\n    orcid: \"https://orcid.org/0000-0002-9855-9368\"\n  - family-names: Datta\n    given-names: Rituparna\n    orcid: \"https://orcid.org/0000-0003-3816-2438\"\n  date-published: 2024-03-21\n  doi: 10.21105/joss.05927\n  issn: 2475-9066\n  issue: 95\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5927\n  title: \"Automatic Computation for Robot Design (ACRoD): A Python\n    package for numerical calculation of Jacobian of a robot at a given\n    configuration around a specified end-effector point\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05927\"\n  volume: 9\ntitle: \"Automatic Computation for Robot Design (ACRoD): A Python package\n  for numerical calculation of Jacobian of a robot at a given\n  configuration around a specified end-effector point\"\n"
+}

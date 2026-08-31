@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.06467",
+ "source": "crossref",
+ "state": "ok",
+ "title": "HealpixMPI.jl: an MPI-parallel implementation of the\nHealpix tessellation scheme in Julia",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

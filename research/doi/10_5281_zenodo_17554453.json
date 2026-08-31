@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.17554453",
+ "source": "datacite",
+ "state": "ok",
+ "title": "Tabbed: A Python package for reading variably structured text files at scale",
+ "type": "Software",
+ "container": ""
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "thesketh/pygen-structures",
+ "joss_doi": "10.21105/joss.02157",
+ "joss_title": "pygen-structures: A Python package to generate 3D molecular structures for simulations using the CHARMM forcefield",
+ "joss_published": "2020-04-13T17:51:30.280Z",
+ "software_repository": "https://github.com/thesketh/pygen-structures",
+ "status": 404,
+ "cff": null
+}

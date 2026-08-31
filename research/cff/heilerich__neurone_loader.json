@@ -1,0 +1,9 @@
+{
+ "repo": "heilerich/neurone_loader",
+ "joss_doi": "10.21105/joss.01626",
+ "joss_title": "neurone_loader: A Python module for loading EEG data recorded with Bittium NeurOne",
+ "joss_published": "2019-10-01T23:48:40.357Z",
+ "software_repository": "https://github.com/heilerich/neurone_loader",
+ "status": 404,
+ "cff": null
+}

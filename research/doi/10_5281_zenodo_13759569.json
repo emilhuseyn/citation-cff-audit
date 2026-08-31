@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.13759569",
+ "source": "datacite",
+ "state": "ok",
+ "title": "primerForge: a Python program for identifying primer pairs capable of distinguishing groups of genomes from each other",
+ "type": "Software",
+ "container": ""
+}

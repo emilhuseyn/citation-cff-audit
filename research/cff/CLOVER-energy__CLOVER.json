@@ -1,0 +1,9 @@
+{
+ "repo": "CLOVER-energy/CLOVER",
+ "joss_doi": "10.21105/joss.04799",
+ "joss_title": "CLOVER: A modelling framework for sustainable community-scale energy systems",
+ "joss_published": "2023-02-08T19:11:30.119Z",
+ "software_repository": "https://github.com/CLOVER-energy/CLOVER",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Winchester\n    given-names: Benedict\n    orcid: https://orcid.org/0000-0002-2880-1243\n  - family-names: Beath\n    given-names: Hamish\n    orcid: https://orcid.org/0000-0002-5124-9143\n  - family-names: Nelson\n    given-names: Jenny\n    orcid: https://orcid.org/0000-0003-1048-1330\n  - family-names: Sandwell\n    given-names: Philip\n    orcid: https://orcid.org/0000-0003-1117-5095\ntitle: CLOVER\nversion: v5.1.2b3\ndoi: 10.5281/zenodo.6925535\ndate-released: 2023-08-04\n"
+}

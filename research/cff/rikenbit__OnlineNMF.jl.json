@@ -1,0 +1,9 @@
+{
+ "repo": "rikenbit/OnlineNMF.jl",
+ "joss_doi": "10.21105/joss.09293",
+ "joss_title": "OnlineNMF.jl: A Julia Package for Out-of-core and Sparse Non-negative Matrix Factorization",
+ "joss_published": "2026-01-29T19:50:36.095Z",
+ "software_repository": "https://github.com/rikenbit/OnlineNMF.jl",
+ "status": 404,
+ "cff": null
+}

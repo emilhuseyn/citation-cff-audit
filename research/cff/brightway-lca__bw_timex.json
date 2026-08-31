@@ -1,0 +1,9 @@
+{
+ "repo": "brightway-lca/bw_timex",
+ "joss_doi": "10.21105/joss.09621",
+ "joss_title": "bw_timex: A Python Package for Time-Explicit Life Cycle Assessment",
+ "joss_published": "2026-04-16T08:00:15.786Z",
+ "software_repository": "https://github.com/brightway-lca/bw_timex",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Diepers\n  given-names: Timo\n  orcid: \"https://orcid.org/0009-0002-8566-8618\"\n- family-names: M\u00fcller\n  given-names: Amelie\n  orcid: \"https://orcid.org/0000-0001-5609-5609\"\n- family-names: Jakobs\n  given-names: Arthur\n  orcid: \"https://orcid.org/0000-0003-0825-2184\"\ndoi: 10.5281/zenodo.19230937\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Diepers\n    given-names: Timo\n    orcid: \"https://orcid.org/0009-0002-8566-8618\"\n  - family-names: M\u00fcller\n    given-names: Amelie\n    orcid: \"https://orcid.org/0000-0001-5609-5609\"\n  - family-names: Jakobs\n    given-names: Arthur\n    orcid: \"https://orcid.org/0000-0003-0825-2184\"\n  date-published: 2026-04-16\n  doi: 10.21105/joss.09621\n  issn: 2475-9066\n  issue: 120\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9621\n  title: \"bw_timex: A Python Package for Time-Explicit Life Cycle\n    Assessment\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09621\"\n  volume: 11\ntitle: \"bw_timex: A Python Package for Time-Explicit Life Cycle\n  Assessment\""
+}

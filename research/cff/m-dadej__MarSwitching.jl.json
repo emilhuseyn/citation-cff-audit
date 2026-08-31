@@ -1,0 +1,9 @@
+{
+ "repo": "m-dadej/MarSwitching.jl",
+ "joss_doi": "10.21105/joss.06441",
+ "joss_title": "MarSwitching.jl: A Julia package for Markov switching dynamic models",
+ "joss_published": "2024-06-14T11:59:53.206Z",
+ "software_repository": "https://github.com/m-dadej/MarSwitching.jl",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite the JOSS article below.\"\ntitle: \"MarSwitching.jl: Markov switching dynamic models in Julia\"\nabstract: >-\n  MarSwitching.jl is a Julia package for estimating Markov switching dynamic\n  models, also known as regime switching models. It supports k regimes with\n  independently switching or non-switching intercept, variance and covariates,\n  time-varying transition probabilities, Markov switching ARCH, non-Gaussian\n  error distributions, and filtered and smoothed regime probabilities.\ntype: software\nauthors:\n  - family-names: Dadej\n    given-names: Mateusz\n    orcid: \"https://orcid.org/0000-0002-1791-7611\"\n    email: mateuszdadej@gmail.com\n    affiliation: \"University of Brescia\"\nrepository-code: \"https://github.com/m-dadej/MarSwitching.jl\"\nurl: \"https://m-dadej.github.io/MarSwitching.jl/stable\"\nlicense: MIT\nkeywords:\n  - Julia\n  - Markov switching\n  - regime switching\n  - hidden Markov model\n  - time series\n  - econometrics\n  - Markov processes\n  - nonlinear models\n  - maximum likelihood\n  - ARCH\npreferred-citation:\n  type: article\n  title: \"MarSwitching.jl: A Julia package for Markov switching dynamic models\"\n  authors:\n    - family-names: Dadej\n      given-names: Mateusz\n      orcid: \"https://orcid.org/0000-0002-1791-7611\"\n  journal: \"Journal of Open Source Software\"\n  publisher:\n    name: \"The Open Journal\"\n  year: 2024\n  volume: 9\n  issue: 98\n  start: 6441\n  doi: \"10.21105/joss.06441\"\n  url: \"https://doi.org/10.21105/joss.06441\"\n"
+}

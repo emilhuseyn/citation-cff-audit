@@ -1,0 +1,9 @@
+{
+ "repo": "titipata/pubmed_parser",
+ "joss_doi": "10.21105/joss.01979",
+ "joss_title": "Pubmed Parser: A Python Parser for PubMed Open-Access XML Subset and MEDLINE XML Dataset XML Dataset",
+ "joss_published": "2020-02-08T20:33:40.142Z",
+ "software_repository": "https://github.com/titipata/pubmed_parser",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"Citation for Pubmed Parser library\"\nauthors:\n  - family-names: Achakulvisut\n    given-names: Titipat\n  - family-names: Acuna\n    given-names: Daniel\n  - family-names: Kording\n    given-names: Konrad\ntitle: \"Pubmed Parser: A Python Parser for PubMed Open-Access XML Subset and MEDLINE XML Dataset XML Dataset\"\ndate-released: 2019-12-15\ndoi: 10.21105/joss.01979\nurl: https://github.com/titipata/pubmed_parser\npreferred-citation:\n  type: article\n  authors:\n    - family-names: Achakulvisut\n      given-names: Titipat\n    - family-names: Acuna\n      given-names: Daniel\n    - family-names: Kording\n      given-names: Konrad\n  doi: 10.21105/joss.01979\n  journal: \"Journal of Open Source Software\"\n  publisher: The Open Journal\n  month: 9\n  year: 2020\n  number: 46\n  volume: 5\n  start: 1979\n  title: \"Pubmed Parser: A Python Parser for PubMed Open-Access XML Subset and MEDLINE XML Dataset XML Dataset\"\n  url: https://doi.org/10.21105/joss.01979\n  \n"
+}

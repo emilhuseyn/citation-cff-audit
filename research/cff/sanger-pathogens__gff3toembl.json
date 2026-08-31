@@ -1,0 +1,9 @@
+{
+ "repo": "sanger-pathogens/gff3toembl",
+ "joss_doi": "10.21105/joss.00080",
+ "joss_title": "GFF3toEMBL: Preparing annotated assemblies for submission to EMBL",
+ "joss_published": "2016-10-06T00:00:00.000Z",
+ "software_repository": "https://github.com/sanger-pathogens/gff3toembl.git",
+ "status": 404,
+ "cff": null
+}

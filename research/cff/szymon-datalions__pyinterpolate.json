@@ -1,0 +1,9 @@
+{
+ "repo": "szymon-datalions/pyinterpolate",
+ "joss_doi": "10.21105/joss.02869",
+ "joss_title": "Pyinterpolate: Spatial interpolation in Python for point measurements and aggregated datasets",
+ "joss_published": "2022-02-23T11:58:54.064Z",
+ "software_repository": "https://github.com/szymon-datalions/pyinterpolate",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: If you use this software, please cite both the article from preferred-citation and the software itself.\nauthors:\n  - family-names: Moli\u0144ski\n    given-names: Szymon\ntitle: 'Pyinterpolate: Spatial interpolation in Python for point measurements and aggregated datasets'\nversion: 1.0.0\nurl: https://doi.org/10.21105/joss.02869\ndoi: 10.21105/joss.02869\ndate-released: '2022-11-09'\npreferred-citation:\n  authors:\n    - family-names: Moli\u0144ski\n      given-names: Szymon\n  title: 'Pyinterpolate: Spatial interpolation in Python for point measurements and aggregated datasets'\n  doi: 10.21105/joss.02869\n  url: https://doi.org/10.21105/joss.02869\n  type: article-journal\n  pages: '2869'\n  year: '2022'\n  conference: {}\n  publisher:\n    name: The Open Journal\n"
+}

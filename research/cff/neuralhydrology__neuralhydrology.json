@@ -1,0 +1,9 @@
+{
+ "repo": "neuralhydrology/neuralhydrology",
+ "joss_doi": "10.21105/joss.04050",
+ "joss_title": "NeuralHydrology --- A Python library for Deep Learning research in hydrology",
+ "joss_published": "2022-03-04T22:06:33.078Z",
+ "software_repository": "https://github.com/neuralhydrology/neuralhydrology",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Kratzert\"\n  given-names: \"Frederik\"\n- family-names: \"Gauch\"\n  given-names: \"Martin\"\n- family-names: \"Nearing\"\n  given-names: \"Grey\"\n- family-names: \"Klotz\"\n  given-names: \"Daniel\"\ntitle: \"NeuralHydrology --- A Python library for Deep Learning research in hydrology\"\ndoi: 10.21105/joss.04050\nurl: \"https://doi.org/10.21105/joss.04050\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Kratzert\"\n    given-names: \"Frederik\"\n  - family-names: \"Gauch\"\n    given-names: \"Martin\"\n  - family-names: \"Nearing\"\n    given-names: \"Grey\"\n  - family-names: \"Klotz\"\n    given-names: \"Daniel\"\n  doi: \"10.21105/joss.04050\"\n  journal: \"Journal of Open Source Software\"\n  publisher: \n    name: \"The Open Journal\"\n  start: 4050 # First page number\n  end: 4050 # Last page number\n  title: \"NeuralHydrology --- A Python library for Deep Learning research in hydrology\"\n  number: 71\n  volume: 7\n  year: 2022\n"
+}

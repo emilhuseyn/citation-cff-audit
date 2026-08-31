@@ -1,0 +1,9 @@
+{
+ "repo": "elabftw/elabftw",
+ "joss_doi": "10.21105/joss.00146",
+ "joss_title": "eLabFTW: An open source laboratory notebook for research labs",
+ "joss_published": "2017-04-14T00:00:00.000Z",
+ "software_repository": "https://github.com/elabftw/elabftw",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: CARPi\n    given-names: Nicolas\n    orcid: https://orcid.org/0000-0002-7494-5555\n  - family-names: Minges\n    given-names: Alexander\n    orcid: https://orcid.org/0000-0001-7760-2753\n  - family-names: Piel\n    given-names: Matthieu\n    orcid: https://orcid.org/0000-0002-2848-177X\ntitle: \"eLabFTW: An open source laboratory notebook for research labs\"\nversion: 1.4.0\ndoi: 10.21105/joss.00146\ndate-released: 2017-04-14\n"
+}

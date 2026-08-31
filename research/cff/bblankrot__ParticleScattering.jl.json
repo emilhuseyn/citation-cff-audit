@@ -1,0 +1,9 @@
+{
+ "repo": "bblankrot/ParticleScattering.jl",
+ "joss_doi": "10.21105/joss.00691",
+ "joss_title": "ParticleScattering: Solving and optimizing multiple-scattering problems in Julia",
+ "joss_published": "2018-05-15T00:17:00.404Z",
+ "software_repository": "https://github.com/bblankrot/ParticleScattering.jl",
+ "status": 404,
+ "cff": null
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "nekStab/LightKrylov",
+ "joss_doi": "10.21105/joss.09623",
+ "joss_title": "LightKrylov: Lightweight implementation of Krylov subspace techniques in modern Fortran",
+ "joss_published": "2026-01-29T10:50:51.699Z",
+ "software_repository": "https://github.com/nekStab/LightKrylov",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Kern\n  given-names: J. Simon\n  orcid: \"https://orcid.org/0000-0002-2460-578X\"\n- family-names: Frantz\n  given-names: Ricardo S.\n  orcid: \"https://orcid.org/0000-0001-8219-3368\"\n- family-names: Loiseau\n  given-names: Jean-Christophe\n  orcid: \"https://orcid.org/0000-0002-7244-8416\"\ncontact:\n- family-names: Loiseau\n  given-names: Jean-Christophe\n  orcid: \"https://orcid.org/0000-0002-7244-8416\"\ndoi: 10.5281/zenodo.18412137\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Kern\n    given-names: J. Simon\n    orcid: \"https://orcid.org/0000-0002-2460-578X\"\n  - family-names: Frantz\n    given-names: Ricardo S.\n    orcid: \"https://orcid.org/0000-0001-8219-3368\"\n  - family-names: Loiseau\n    given-names: Jean-Christophe\n    orcid: \"https://orcid.org/0000-0002-7244-8416\"\n  date-published: 2026-01-29\n  doi: 10.21105/joss.09623\n  issn: 2475-9066\n  issue: 117\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9623\n  title: \"LightKrylov: Lightweight implementation of Krylov subspace\n    techniques in modern Fortran\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09623\"\n  volume: 11\ntitle: \"`LightKrylov`: Lightweight implementation of Krylov subspace\n  techniques in modern Fortran\"\n"
+}

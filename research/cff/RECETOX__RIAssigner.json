@@ -1,0 +1,9 @@
+{
+ "repo": "RECETOX/RIAssigner",
+ "joss_doi": "10.21105/joss.04337",
+ "joss_title": "RIAssigner: A package for gas chromatographic retention index calculation",
+ "joss_published": "2022-07-25T14:29:52.641Z",
+ "software_repository": "https://github.com/RECETOX/RIAssigner",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: Skoryk\n  given-names: Maksym\n- family-names: Hecht\n  given-names: Helge\n  orcid: https://orcid.org/0000-0001-6744-996X\ntitle: RIAssigner\nversion: 0.6.1\ndate-released: 2026-03-11"
+}

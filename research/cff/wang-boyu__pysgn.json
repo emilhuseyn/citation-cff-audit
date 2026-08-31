@@ -1,0 +1,9 @@
+{
+ "repo": "wang-boyu/pysgn",
+ "joss_doi": "10.21105/joss.09346",
+ "joss_title": "PySGN: A Python package for constructing synthetic geospatial networks",
+ "joss_published": "2026-03-15T18:44:47.525Z",
+ "software_repository": "https://github.com/wang-boyu/pysgn",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Wang\n  given-names: Boyu\n  orcid: \"https://orcid.org/0000-0001-9879-2138\"\n- family-names: Crooks\n  given-names: Andrew\n  orcid: \"https://orcid.org/0000-0002-5034-6654\"\n- family-names: Anderson\n  given-names: Taylor\n  orcid: \"https://orcid.org/0000-0003-1145-0608\"\n- family-names: Z\u00fcfle\n  given-names: Andreas\n  orcid: \"https://orcid.org/0000-0001-7001-4123\"\ncontact:\n- family-names: Wang\n  given-names: Boyu\n  orcid: \"https://orcid.org/0000-0001-9879-2138\"\ndoi: 10.5281/zenodo.18883898\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Wang\n    given-names: Boyu\n    orcid: \"https://orcid.org/0000-0001-9879-2138\"\n  - family-names: Crooks\n    given-names: Andrew\n    orcid: \"https://orcid.org/0000-0002-5034-6654\"\n  - family-names: Anderson\n    given-names: Taylor\n    orcid: \"https://orcid.org/0000-0003-1145-0608\"\n  - family-names: Z\u00fcfle\n    given-names: Andreas\n    orcid: \"https://orcid.org/0000-0001-7001-4123\"\n  date-published: 2026-03-15\n  doi: 10.21105/joss.09346\n  issn: 2475-9066\n  issue: 119\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9346\n  title: \"PySGN: A Python package for constructing synthetic geospatial\n    networks\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09346\"\n  volume: 11\ntitle: \"PySGN: A Python package for constructing synthetic geospatial\n  networks\"\n"
+}

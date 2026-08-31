@@ -1,0 +1,9 @@
+{
+ "repo": "phenology/cgc",
+ "joss_doi": "10.21105/joss.04032",
+ "joss_title": "CGC: a Scalable Python Package for Co- and Tri-Clustering of Geodata Cubes",
+ "joss_published": "2022-04-10T06:43:33.329Z",
+ "software_repository": "https://github.com/phenology/cgc",
+ "status": 200,
+ "cff": "# YAML 1.2\n---\nabstract: \"Clustering Geo-Data Cubes (CGC) is a Python package to perform clustering analysis for multidimensional geospatial data. The included tools allow the user to efficiently run tasks in parallel on local and distributed systems. \"\nauthors:\n  -\n    affiliation: \"Netherlands eScience Center\"\n    family-names: Nattino\n    given-names: Francesco\n    orcid: https://orcid.org/0000-0003-3286-0139\n  -\n    affiliation: \"Netherlands eScience Center\"\n    family-names: Ku\n    given-names: Ou\n    orcid: https://orcid.org/0000-0002-5373-5209\n  -\n    affiliation: \"Netherlands eScience Center\"\n    family-names: Grootes\n    given-names: \"Meiert W.\"\n    orcid: https://orcid.org/0000-0002-5733-4795\n  -\n    affiliation: \"Institute of Geomatics, Vienna BOKU\"\n    family-names: Izquierdo-Verdiguier\n    given-names: Emma\n    orcid: https://orcid.org/0000-0003-2179-1262\n  -\n    affiliation: \"Faculty ITC - University of Twente\"\n    family-names: Girgin\n    given-names: Serkan\n    orcid: https://orcid.org/0000-0002-0156-185X\n  -\n    affiliation: \"Faculty ITC - University of Twente\"\n    family-names: Zurita-Milla\n    given-names: Raul\n    orcid: https://orcid.org/0000-0002-1769-6310\ncff-version: \"1.2.0\"\ndate-released: 2023-07-08\ndoi: \"10.5281/zenodo.3979172\"\nkeywords:\n  - \"clustering\"\n  - \"co-clustering\"\n  - \"tri-clustering\"\n  - \"earth observation\"\n  - \"distributed computing\"\nlicense: \"Apache-2.0\"\nmessage: \"If you use this software, please cite it using these metadata.\"\ntitle: \"CGC: a Scalable Python Package for Co- and Tri-Clustering of Geodata Cubes\"\nversion: \"0.8.0\"\n...\n"
+}

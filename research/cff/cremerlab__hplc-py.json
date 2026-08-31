@@ -1,0 +1,9 @@
+{
+ "repo": "cremerlab/hplc-py",
+ "joss_doi": "10.21105/joss.06270",
+ "joss_title": "hplc-py: A Python Utility For Rapid Quantification of Complex Chemical Chromatograms",
+ "joss_published": "2024-02-16T17:47:05.952Z",
+ "software_repository": "https://github.com/cremerlab/hplc-py",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Chure\"\n  given-names: \"Griffin\"\n  orcid: \"https://orcid.org/0000-0002-2216-2057\"\n- family-names: \"Cremer\"\n  given-names: \"Jonas\"\n  orcid: \"https://orcid.org/0000-0003-2328-5152\"\ntitle: \"hplc-py v0.2.5\"\nversion: 0.2.5\ndoi: 10.5281/zenodo.8197910\ndate-released: 2023-07-30\nurl: \"https://github.com/cremerlab/hplc-py\""
+}

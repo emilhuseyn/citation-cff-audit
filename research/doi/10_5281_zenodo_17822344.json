@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.17822344",
+ "source": "datacite",
+ "state": "ok",
+ "title": "rastereasy: A Python library for easy manipulation of geospatial raster data",
+ "type": "Software",
+ "container": ""
+}

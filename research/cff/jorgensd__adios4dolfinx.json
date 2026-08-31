@@ -1,0 +1,9 @@
+{
+ "repo": "jorgensd/adios4dolfinx",
+ "joss_doi": "10.21105/joss.06451",
+ "joss_title": "ADIOS4DOLFINx: A framework for checkpointing in FEniCS",
+ "joss_published": "2024-04-30T22:01:50.665Z",
+ "software_repository": "https://github.com/jorgensd/adios4dolfinx",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n  - family-names: Dokken\n    given-names: J\u00f8rgen Schartum\n    orcid: \"https://orcid.org/0000-0001-6489-8858\"\ncontact:\n  - family-names: Dokken\n    given-names: J\u00f8rgen Schartum\n    orcid: \"https://orcid.org/0000-0001-6489-8858\"\ndoi: 10.5281/zenodo.11094985\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n    - family-names: Dokken\n      given-names: J\u00f8rgen Schartum\n      orcid: \"https://orcid.org/0000-0001-6489-8858\"\n  date-published: 2024-04-30\n  doi: 10.21105/joss.06451\n  issn: 2475-9066\n  issue: 96\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6451\n  title: \"ADIOS4DOLFINx: A framework for checkpointing in FEniCS\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06451\"\n  volume: 9\ntitle: \"ADIOS4DOLFINx: A framework for checkpointing in FEniCS\"\n"
+}

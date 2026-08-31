@@ -1,0 +1,9 @@
+{
+ "repo": "IMMM-SFA/mosartwmpy",
+ "joss_doi": "10.21105/joss.03221",
+ "joss_title": "mosartwmpy: A Python implementation of the MOSART-WM coupled hydrologic routing and water management model",
+ "joss_published": "2021-06-24T22:33:10.213Z",
+ "software_repository": "https://github.com/IMMM-SFA/mosartwmpy",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Thurber\"\n  given-names: \"Travis\"\n  orcid: \"https://orcid.org/0000-0002-4370-9971\"\n- family-names: \"Rexer\"\n  given-names: \"Emily\"\n  orcid: \"https://orcid.org/0000-0002-0327-183X\"\n- family-names: \"Vernon\"\n  given-names: \"Chris\"\n  orcid: \"https://orcid.org/0000-0002-3406-6214\"\n- family-names: \"Sun\"\n  given-names: \"Ning\"\n  orcid: \"https://orcid.org/0000-0002-4094-4482\"\n- family-names: \"Turner\"\n  given-names: \"Sean\"\n  orcid: \"https://orcid.org/0000-0003-4400-9800\"\n- family-names: \"Yoon\"\n  given-names: \"Jim\"\n  orcid: \"https://orcid.org/0000-0002-8025-2587\"\n- family-names: \"Broman\"\n  given-names: \"Daniel\"\n  orcid: \"https://orcid.org/0000-0001-8281-3299\"\n- family-names: \"Voisin\"\n  given-names: \"Nathalie\"\n  orcid: \"https://orcid.org/0000-0002-6848-449X\"\ntitle: \"mosartwmpy\"\nversion: 0.2.7\ndate-released: \"2022-02-03\"\nurl: \"https://github.com/IMMM-SFA/mosartwmpy\"\nidentifiers:\n  - description: \"mosartwmpy: A Python implementation of the MOSART-WM coupled hydrologic routing and water management model\"\n    type: doi\n    value: \"10.21105/joss.03221\"\n    date-released: \"2021-06-24\" \n"
+}

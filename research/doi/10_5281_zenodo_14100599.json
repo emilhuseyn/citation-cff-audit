@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.14100599",
+ "source": "datacite",
+ "state": "ok",
+ "title": "modisfast: An R package for fast and efficient access to MODIS, VIIRS and GPM Earth Observation data",
+ "type": "Software",
+ "container": ""
+}

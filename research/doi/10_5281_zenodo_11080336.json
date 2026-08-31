@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.11080336",
+ "source": "datacite",
+ "state": "ok",
+ "title": "Thresholdmann: A Web tool for interactively creating adaptive thresholds to segment MRI data.",
+ "type": "Software",
+ "container": ""
+}

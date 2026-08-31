@@ -1,0 +1,9 @@
+{
+ "repo": "SWIFTSIM/SOAP",
+ "joss_doi": "10.21105/joss.08252",
+ "joss_title": "SOAP: A Python Package for Calculating the Properties of Galaxies and Halos Formed in Cosmological Simulations",
+ "joss_published": "2025-07-29T20:26:43.646Z",
+ "software_repository": "https://github.com/SWIFTSIM/SOAP",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: \"McGibbon\"\n    given-names: \"Robert\"\n  - family-names: \"Helly\"\n    given-names: \"John\"\n  - family-names: \"Schaye\"\n    given-names: \"Joop\"\n  - family-names: \"Schaller\"\n    given-names: \"Matthieu\"\n  - family-names: \"Vandenbroucke\"\n    given-names: \"Bert\"\ntitle: \"SOAP: A Python Package for Calculating the Properties of Galaxies and Halos Formed in Cosmological Simulations\"\ndoi: \"10.21105/joss.08252\"\ndate-released: \"2025-07-01\"\npreferred-citation:\n  type: article\n  authors:\n    - family-names: \"McGibbon\"\n      given-names: \"Robert\"\n    - family-names: \"Helly\"\n      given-names: \"John\"\n    - family-names: \"Schaye\"\n      given-names: \"Joop\"\n    - family-names: \"Schaller\"\n      given-names: \"Matthieu\"\n    - family-names: \"Vandenbroucke\"\n      given-names: \"Bert\"\n  doi: \"10.21105/joss.08252\"\n  journal: \"The Journal of Open Source Software\"\n  month: 7\n  year: 2025\n  title: \"SOAP: A Python Package for Calculating the Properties of Galaxies and Halos Formed in Cosmological Simulations\"\n  volume: 10\n  issue: 111\n  start: 8252\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "NSAPH-Software/GPCERF",
+ "joss_doi": "10.21105/joss.05465",
+ "joss_title": "GPCERF - An R package for implementing Gaussian processes for estimating causal exposure response curves",
+ "joss_published": "2024-03-13T22:02:50.713Z",
+ "software_repository": "https://github.com/NSAPH-Software/GPCERF",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Khoshnevis\n  given-names: Naeem\n  orcid: \"https://orcid.org/0000-0003-4315-1426\"\n- family-names: Ren\n  given-names: Boyu\n  orcid: \"https://orcid.org/0000-0002-5300-1184\"\n- family-names: Braun\n  given-names: Danielle\n  orcid: \"https://orcid.org/0000-0002-5177-8598\"\ncontact:\n- family-names: Khoshnevis\n  given-names: Naeem\n  orcid: \"https://orcid.org/0000-0003-4315-1426\"\ndoi: 10.5281/zenodo.10757333\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Khoshnevis\n    given-names: Naeem\n    orcid: \"https://orcid.org/0000-0003-4315-1426\"\n  - family-names: Ren\n    given-names: Boyu\n    orcid: \"https://orcid.org/0000-0002-5300-1184\"\n  - family-names: Braun\n    given-names: Danielle\n    orcid: \"https://orcid.org/0000-0002-5177-8598\"\n  date-published: 2024-03-13\n  doi: 10.21105/joss.05465\n  issn: 2475-9066\n  issue: 95\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5465\n  title: GPCERF - An R package for implementing Gaussian processes for\n    estimating causal exposure response curves\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05465\"\n  volume: 9\ntitle: GPCERF - An R package for implementing Gaussian processes for\n  estimating causal exposure response curves\n"
+}

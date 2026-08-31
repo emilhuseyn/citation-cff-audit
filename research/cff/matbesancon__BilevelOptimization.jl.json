@@ -1,0 +1,9 @@
+{
+ "repo": "matbesancon/BilevelOptimization.jl",
+ "joss_doi": "10.21105/joss.01278",
+ "joss_title": "A Julia package for bilevel optimization problems",
+ "joss_published": "2019-07-01T15:38:49.886Z",
+ "software_repository": "https://github.com/matbesancon/BilevelOptimization.jl",
+ "status": 404,
+ "cff": null
+}

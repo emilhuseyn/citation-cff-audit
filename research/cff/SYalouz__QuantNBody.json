@@ -1,0 +1,9 @@
+{
+ "repo": "SYalouz/QuantNBody",
+ "joss_doi": "10.21105/joss.04759",
+ "joss_title": "QuantNBody: a Python package for quantum chemistry and physics to build and manipulate many-body operators and wave functions.",
+ "joss_published": "2022-12-15T15:15:03.179Z",
+ "software_repository": "https://github.com/SYalouz/QuantNBody",
+ "status": 404,
+ "cff": null
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "autotwin/automesh",
+ "joss_doi": "10.21105/joss.08768",
+ "joss_title": "automesh: Automatic mesh generation in Rust",
+ "joss_published": "2025-11-04T21:43:03.119Z",
+ "software_repository": "https://github.com/autotwin/automesh",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle: automesh\nmessage: 'If you use this software, please cite it as below.'\ntype: software\nauthors:\n  - family-names: Hovey\n    given-names: Chad B.\n    orcid: 'https://orcid.org/0000-0003-1892-0502'\n    email: chovey@sandia.gov\n    affiliation: Sandia National Laboratories\n  - family-names: Buche\n    given-names: Michael R.\n    orcid: 'https://orcid.org/0000-0003-0915-5765'\n    email: mrbuche@sandia.gov\n    affiliation: Sandia National Laboratories\nidentifiers:\n  - type: doi\n    value: 10.5281/zenodo.13845433\nrepository-code: 'https://github.com/autotwin/automesh'\nurl: 'https://autotwin.github.io/automesh'\nabstract: Automatic mesh generation.\nlicense: GPL-3.0\n"
+}

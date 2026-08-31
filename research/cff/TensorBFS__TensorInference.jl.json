@@ -1,0 +1,9 @@
+{
+ "repo": "TensorBFS/TensorInference.jl",
+ "joss_doi": "10.21105/joss.05700",
+ "joss_title": "TensorInference: A Julia package for tensor-based probabilistic inference",
+ "joss_published": "2023-10-03T09:14:22.766Z",
+ "software_repository": "https://github.com/TensorBFS/TensorInference.jl",
+ "status": 404,
+ "cff": null
+}

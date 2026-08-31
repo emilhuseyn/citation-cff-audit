@@ -1,0 +1,9 @@
+{
+ "repo": "Tomoaki-Ishiyama/mpi-rockstar",
+ "joss_doi": "10.21105/joss.08295",
+ "joss_title": "MPI-Rockstar: a Hybrid MPI and OpenMP Parallel Implementation of the Rockstar Halo finder",
+ "joss_published": "2026-04-25T20:08:34.627Z",
+ "software_repository": "https://github.com/Tomoaki-Ishiyama/mpi-rockstar",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Tokuue\n  given-names: Tomoyuki\n- family-names: Ishiyama\n  given-names: Tomoaki\n  orcid: \"https://orcid.org/0000-0002-5316-9171\"\n- family-names: Osato\n  given-names: Ken\n  orcid: \"https://orcid.org/0000-0002-7934-2569\"\n- family-names: Tanaka\n  given-names: Satoshi\n  orcid: \"https://orcid.org/0000-0003-2442-8784\"\n- family-names: Behroozi\n  given-names: Peter\n  orcid: \"https://orcid.org/0000-0002-2517-6446\"\ndoi: 10.5281/zenodo.19199548\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Tokuue\n    given-names: Tomoyuki\n  - family-names: Ishiyama\n    given-names: Tomoaki\n    orcid: \"https://orcid.org/0000-0002-5316-9171\"\n  - family-names: Osato\n    given-names: Ken\n    orcid: \"https://orcid.org/0000-0002-7934-2569\"\n  - family-names: Tanaka\n    given-names: Satoshi\n    orcid: \"https://orcid.org/0000-0003-2442-8784\"\n  - family-names: Behroozi\n    given-names: Peter\n    orcid: \"https://orcid.org/0000-0002-2517-6446\"\n  date-published: 2026-04-25\n  doi: 10.21105/joss.08295\n  issn: 2475-9066\n  issue: 120\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 8295\n  title: \"MPI-Rockstar: a Hybrid MPI and OpenMP Parallel Implementation\n    of the Rockstar Halo finder\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.08295\"\n  volume: 11\ntitle: \"MPI-Rockstar: a Hybrid MPI and OpenMP Parallel Implementation of\n  the Rockstar Halo finder\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "firefly-cpp/NiaARM.jl",
+ "joss_doi": "10.21105/joss.09925",
+ "joss_title": "NiaARM.jl: A Julia Framework for Numerical Association Rule Mining Using Nature\u2011Inspired Optimization Algorithms",
+ "joss_published": "2026-04-01T14:32:00.256Z",
+ "software_repository": "https://github.com/firefly-cpp/NiaARM.jl",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\n\ntitle: \"NiaARM.jl: A Julia Framework for Numerical Association Rule Mining Using Nature-Inspired Optimization Algorithms\"\n\nauthors:\n  - family-names: Stupan\n    given-names: \u017diga\n    orcid: \"https://orcid.org/0000-0001-9847-7306\"\n  - family-names: Hli\u0161\n    given-names: Tilen\n    orcid: \"https://orcid.org/0000-0002-4973-4844\"\n  - family-names: Fister Jr.\n    given-names: Iztok\n    orcid: \"https://orcid.org/0000-0002-6418-1272\"\n\ndoi: \"10.21105/joss.09925\"\nurl: \"https://github.com/firefly-cpp/NiaARM.jl\"\nrepository-code: \"https://github.com/firefly-cpp/NiaARM.jl\"\n\ndate-released: \"2026-04-01\"\nlicense: \"MIT\"\n\npreferred-citation:\n  type: article\n  authors:\n    - family-names: Stupan\n      given-names: \u017diga\n      orcid: \"https://orcid.org/0000-0001-9847-7306\"\n    - family-names: Hli\u0161\n      given-names: Tilen\n      orcid: \"https://orcid.org/0000-0002-4973-4844\"\n    - family-names: Fister Jr.\n      given-names: Iztok\n      orcid: \"https://orcid.org/0000-0002-6418-1272\"\n  doi: \"10.21105/joss.09925\"\n  journal: \"Journal of Open Source Software\"\n  month: 4\n  start: 9925\n  title: \"NiaARM.jl: A Julia Framework for Numerical Association Rule Mining Using Nature-Inspired Optimization Algorithms\"\n  volume: 11\n  issue: 120\n  year: 2026"
+}

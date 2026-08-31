@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.8026567",
+ "source": "datacite",
+ "state": "ok",
+ "title": "LyceanEM: A python package for virtual prototyping of antenna arrays, time and frequency domain channel modelling",
+ "type": "Software",
+ "container": ""
+}

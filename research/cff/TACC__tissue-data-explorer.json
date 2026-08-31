@@ -1,0 +1,9 @@
+{
+ "repo": "TACC/tissue-data-explorer",
+ "joss_doi": "10.21105/joss.09218",
+ "joss_title": "Tissue Data Explorer: a website template for presenting tissue sample research findings",
+ "joss_published": "2026-03-23T16:14:23.001Z",
+ "software_repository": "https://github.com/TACC/tissue-data-explorer",
+ "status": 200,
+ "cff": "message: \"If you use this software, please cite it using these metadata.\"\ncff-version: 1.2.0\nauthors:\n  - name: \"James A. Labyer\"\n    orcid: https://orcid.org/0009-0003-8222-2079\n  - name: \"Erik Ferlanti\"\n    orcid: https://orcid.org/0000-0001-5128-1584\n  - name: \"Martha Campbell-Thompson\"\n    orcid: https://orcid.org/0000-0001-6878-1235\n  - name: \"Clayton E. Mathews\"\n    orcid: https://orcid.org/0000-0002-8817-6355\n  - name: \"Wei-Jun Qian\"\n    orcid: https://orcid.org/0000-0002-5393-2827\n  - name: \"James P. Carson\"\n    orcid: https://orcid.org/0000-0001-9009-5645\ntitle: \"Tissue Data Explorer\"\nversion: 1.0.0\n"
+}

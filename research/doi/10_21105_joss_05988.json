@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.05988",
+ "source": "crossref",
+ "state": "ok",
+ "title": "Gibbs Sea Water Oceanographic Toolbox of TEOS-10\nimplemented in Rust",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.mgcv",
+ "source": "crossref",
+ "state": "ok",
+ "title": "mgcv: Mixed GAM Computation Vehicle with Automatic Smoothness Estimation",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

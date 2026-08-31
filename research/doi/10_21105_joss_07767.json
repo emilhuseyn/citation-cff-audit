@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.07767",
+ "source": "crossref",
+ "state": "ok",
+ "title": "QGDipoles.jl: A Julia package for calculating dipolar vortex solutions to the Quasi-Geostrophic equations",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

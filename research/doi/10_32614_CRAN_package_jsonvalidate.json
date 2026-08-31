@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.jsonvalidate",
+ "source": "crossref",
+ "state": "ok",
+ "title": "jsonvalidate: Validate 'JSON' Schema",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "cthoyt/chembl-downloader",
+ "joss_doi": "10.21105/joss.08844",
+ "joss_title": "Improving reproducibility of cheminformatics workflows with chembl-downloader",
+ "joss_published": "2025-09-13T07:52:50.238Z",
+ "software_repository": "https://github.com/cthoyt/chembl-downloader",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- email: cthoyt@gmail.com\n  family-names: Hoyt\n  given-names: Charles Tapley\n  orcid: \"https://orcid.org/0000-0003-4423-4370\"\ncontact:\n- email: cthoyt@gmail.com\n  family-names: Hoyt\n  given-names: Charles Tapley\n  orcid: \"https://orcid.org/0000-0003-4423-4370\"\ndoi: 10.5281/zenodo.17053149\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - email: cthoyt@gmail.com\n    family-names: Hoyt\n    given-names: Charles Tapley\n    orcid: \"https://orcid.org/0000-0003-4423-4370\"\n  date-published: 2025-09-13\n  doi: 10.21105/joss.08844\n  issn: 2475-9066\n  issue: 113\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 8844\n  title: Improving reproducibility of cheminformatics workflows with\n    chembl-downloader\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.08844\"\n  volume: 10\ntitle: Improving reproducibility of cheminformatics workflows with\n  `chembl-downloader`\n"
+}

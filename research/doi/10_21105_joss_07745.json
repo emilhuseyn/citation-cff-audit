@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.07745",
+ "source": "crossref",
+ "state": "ok",
+ "title": "NMRInversions.jl, a Julia package for time-domain Nuclear Magnetic Resonance",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

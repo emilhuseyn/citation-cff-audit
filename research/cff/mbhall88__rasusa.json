@@ -1,0 +1,9 @@
+{
+ "repo": "mbhall88/rasusa",
+ "joss_doi": "10.21105/joss.03941",
+ "joss_title": "Rasusa: Randomly subsample sequencing reads to a specified coverage",
+ "joss_published": "2022-01-29T00:57:26.136Z",
+ "software_repository": "https://github.com/mbhall88/rasusa",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use Rasusa, please cite it as below.\"\nauthors:\n- family-names: \"Furqon\"\n  given-names: \"Achmad Dimas Cahyaning\"\n  orcid: \"https://orcid.org/0009-0007-8039-1951\"\n- family-names: \"Roberts\"\n  given-names: \"Leah W.\"\n  orcid: \"https://orcid.org/0000-0002-1024-0564\"\n- family-names: \"Hall\"\n  given-names: \"Michael B.\"\n  orcid: \"https://orcid.org/0000-0003-3683-6208\"\ntitle: \"Rasusa: Randomly subsample sequencing reads or alignments\"\nversion: 4.0.0\ndoi: 10.46471/gigabyte.180\ndate-released: 2026-04-28\nurl: \"https://github.com/mbhall88/rasusa\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Furqon\"\n    given-names: \"Achmad Dimas Cahyaning\"\n    orcid: \"https://orcid.org/0009-0007-8039-1951\"\n  - family-names: \"Roberts\"\n    given-names: \"Leah W.\"\n    orcid: \"https://orcid.org/0000-0002-1024-0564\"\n  - family-names: \"Hall\"\n    given-names: \"Michael B.\"\n    orcid: \"https://orcid.org/0000-0003-3683-6208\"\n  doi: \"10.46471/gigabyte.180\"\n  journal: \"Gigabyte\"\n  month: 4\n  title: \"Efficient downsampling of genome alignments with Rasusa\"\n  year: 2026\n  publisher:\n    name: \"GigaScience Press\"\nreferences:\n  - type: article\n    authors:\n    - family-names: \"Hall\"\n      given-names: \"Michael B.\"\n      orcid: \"https://orcid.org/0000-0003-3683-6208\"\n    doi: \"10.21105/joss.03941\"\n    journal: \"Journal of Open Source Software\"\n    title: \"Rasusa: Randomly subsample sequencing reads to a specified coverage\"\n    year: 2022\n    volume: 7\n    issue: 69\n    start: 3941\n"
+}

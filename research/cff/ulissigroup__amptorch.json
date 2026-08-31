@@ -1,0 +1,9 @@
+{
+ "repo": "ulissigroup/amptorch",
+ "joss_doi": "10.21105/joss.05035",
+ "joss_title": "AmpTorch: A Python package for scalable fingerprint-based neural network training on multi-element systems with integrated uncertainty quantification",
+ "joss_published": "2023-07-26T13:30:49.988Z",
+ "software_repository": "https://github.com/ulissigroup/amptorch",
+ "status": 404,
+ "cff": null
+}

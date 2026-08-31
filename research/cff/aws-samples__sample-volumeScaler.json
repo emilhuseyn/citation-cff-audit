@@ -1,0 +1,9 @@
+{
+ "repo": "aws-samples/sample-volumeScaler",
+ "joss_doi": "10.21105/joss.08846",
+ "joss_title": "VolumeScaler: A Kubernetes Controller for Automated PVC Scaling",
+ "joss_published": "2026-03-31T20:07:18.909Z",
+ "software_repository": "https://github.com/aws-samples/sample-volumeScaler",
+ "status": 404,
+ "cff": null
+}

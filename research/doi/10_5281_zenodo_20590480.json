@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.20590480",
+ "source": "datacite",
+ "state": "ok",
+ "title": "pedon: A Python package for analyzing unsaturated soil hydraulic properties",
+ "type": "Software",
+ "container": ""
+}

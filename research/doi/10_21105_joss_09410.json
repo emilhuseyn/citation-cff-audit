@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.09410",
+ "source": "crossref",
+ "state": "ok",
+ "title": "traversability_generator3d: A C++ library for 3D traversability estimation from MLS maps",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

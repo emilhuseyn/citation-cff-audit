@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.10580",
+ "source": "crossref",
+ "state": "ok",
+ "title": "pharmsol: A high-performance Rust library for pharmacokinetic and pharmacodynamic modeling and simulation",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

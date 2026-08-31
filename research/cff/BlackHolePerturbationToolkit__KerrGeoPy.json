@@ -1,0 +1,9 @@
+{
+ "repo": "BlackHolePerturbationToolkit/KerrGeoPy",
+ "joss_doi": "10.21105/joss.06587",
+ "joss_title": "KerrGeoPy: A Python Package for Computing Timelike Geodesics in Kerr Spacetime",
+ "joss_published": "2024-06-01T21:23:37.431Z",
+ "software_repository": "https://github.com/BlackHolePerturbationToolkit/KerrGeoPy",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Park\n  given-names: Seyong\n  orcid: \"https://orcid.org/0009-0002-1152-9324\"\n- family-names: Nasipak\n  given-names: Zachary\n  orcid: \"https://orcid.org/0000-0002-5109-9704\"\ndoi: 10.5281/zenodo.11386563\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Park\n    given-names: Seyong\n    orcid: \"https://orcid.org/0009-0002-1152-9324\"\n  - family-names: Nasipak\n    given-names: Zachary\n    orcid: \"https://orcid.org/0000-0002-5109-9704\"\n  date-published: 2024-06-01\n  doi: 10.21105/joss.06587\n  issn: 2475-9066\n  issue: 98\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6587\n  title: \"KerrGeoPy: A Python Package for Computing Timelike Geodesics\n    in Kerr Spacetime\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06587\"\n  volume: 9\ntitle: \"`KerrGeoPy`: A Python Package for Computing Timelike Geodesics\n  in Kerr Spacetime\""
+}

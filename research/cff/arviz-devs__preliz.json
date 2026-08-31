@@ -1,0 +1,9 @@
+{
+ "repo": "arviz-devs/preliz",
+ "joss_doi": "10.21105/joss.05499",
+ "joss_title": "PreliZ: A tool-box for prior elicitation",
+ "joss_published": "2023-09-22T03:44:04.185Z",
+ "software_repository": "https://github.com/arviz-devs/preliz",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Icazatti\n  given-names: Alejandro\n  orcid: \"https://orcid.org/0000-0003-1491-7330\"\n- family-names: Abril-Pla\n  given-names: Oriol\n  orcid: \"https://orcid.org/0000-0002-1847-9481\"\n- family-names: Klami\n  given-names: Arto\n  orcid: \"https://orcid.org/0000-0002-7950-1355\"\n- family-names: Martin\n  given-names: Osvaldo A\n  orcid: \"https://orcid.org/0000-0001-7419-8978\"\ncontact:\n- family-names: Martin\n  given-names: Osvaldo A\n  orcid: \"https://orcid.org/0000-0001-7419-8978\"\ndoi: 10.5281/zenodo.8368516\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Icazatti\n    given-names: Alejandro\n    orcid: \"https://orcid.org/0000-0003-1491-7330\"\n  - family-names: Abril-Pla\n    given-names: Oriol\n    orcid: \"https://orcid.org/0000-0002-1847-9481\"\n  - family-names: Klami\n    given-names: Arto\n    orcid: \"https://orcid.org/0000-0002-7950-1355\"\n  - family-names: Martin\n    given-names: Osvaldo A\n    orcid: \"https://orcid.org/0000-0001-7419-8978\"\n  date-published: 2023-09-22\n  doi: 10.21105/joss.05499\n  issn: 2475-9066\n  issue: 89\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5499\n  title: \"PreliZ: A tool-box for prior elicitation\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05499\"\n  volume: 8\ntitle: \"PreliZ: A tool-box for prior elicitation\"\n"
+}

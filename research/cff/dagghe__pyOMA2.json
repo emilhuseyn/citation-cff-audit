@@ -1,0 +1,9 @@
+{
+ "repo": "dagghe/pyOMA2",
+ "joss_doi": "10.21105/joss.07656",
+ "joss_title": "pyOMA2: A Python module for conducting operational modal analysis",
+ "joss_published": "2025-11-17T21:42:47.682Z",
+ "software_repository": "https://github.com/dagghe/pyOMA2",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Pasca\n  given-names: Dag P.\n  orcid: \"https://orcid.org/0000-0002-3830-2835\"\n- family-names: Margoni\n  given-names: Diego Federico\ncontact:\n- family-names: Pasca\n  given-names: Dag P.\n  orcid: \"https://orcid.org/0000-0002-3830-2835\"\ndoi: 10.5281/zenodo.17118724\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Pasca\n    given-names: Dag P.\n    orcid: \"https://orcid.org/0000-0002-3830-2835\"\n  - family-names: Margoni\n    given-names: Diego Federico\n  date-published: 2025-11-17\n  doi: 10.21105/joss.07656\n  issn: 2475-9066\n  issue: 115\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7656\n  title: \"pyOMA2: A Python module for conducting operational modal\n    analysis\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07656\"\n  volume: 10\ntitle: \"pyOMA2: A Python module for conducting operational modal\n  analysis\"\n"
+}

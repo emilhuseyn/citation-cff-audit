@@ -1,0 +1,9 @@
+{
+ "repo": "arm61/uravu",
+ "joss_doi": "10.21105/joss.02214",
+ "joss_title": "uravu: Making Bayesian modelling easy(er)",
+ "joss_published": "2020-06-05T20:36:59.269Z",
+ "software_repository": "https://github.com/arm61/uravu",
+ "status": 200,
+ "cff": "abstract: \"making Bayesian modelling easy(er)\"\nauthors: \n  - affiliation: \"European Spallation Source ERIC; Department of Chemistry, University of Bath\"\n    family-names: McCluskey\n    given-names: \"Andrew R.\"\n    orcid: \"https://orcid.org/0000-0003-3381-5911\"\n  - affiliation: \"Geollect Ltd.\"\n    family-names: Symington\n    given-names: \"Adam R.\"\n    orcid: \"https://orcid.org/0000-0001-6059-497X\"\n  - affiliation: \"Department of Chemistry, University of Bath\"\n    family-names: Dean\n    given-names: \"Jacob M.\"\n    orcid: \"https://orcid.org/0000-0003-3363-4256\"\ncff-version: \"1.1.0\"\ndate-released: 2021-12-03\nlicense: MIT\nmessage: \"If you use this software, please cite it using these metadata.\"\nrepository-code: \"https://github.com/arm61/uravu\"\ntitle: uravu\nversion: \"1.2.7\"\n"
+}

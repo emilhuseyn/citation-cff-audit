@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.7738651",
+ "source": "datacite",
+ "state": "ok",
+ "title": "UnfoldSim.jl: Simulating continuous event-based time series data for EEG and beyond",
+ "type": "Software",
+ "container": ""
+}

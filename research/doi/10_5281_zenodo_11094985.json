@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.11094985",
+ "source": "datacite",
+ "state": "ok",
+ "title": "ADIOS4DOLFINx: A framework for checkpointing in FEniCS",
+ "type": "Software",
+ "container": ""
+}

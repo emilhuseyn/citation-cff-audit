@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.15066846",
+ "source": "datacite",
+ "state": "ok",
+ "title": "AutoEIS: Automated equivalent circuit modeling from electrochemical impedance spectroscopy data using statistical machine learning",
+ "type": "Software",
+ "container": ""
+}

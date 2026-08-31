@@ -1,0 +1,9 @@
+{
+ "repo": "everval/LongMemory.jl",
+ "joss_doi": "10.21105/joss.07708",
+ "joss_title": "LongMemory.jl: Generating, Estimating, and Forecasting Long Memory Models in Julia",
+ "joss_published": "2025-04-04T08:59:27.267Z",
+ "software_repository": "https://github.com/everval/LongMemory.jl",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Vera-Vald\u00e9s\n  given-names: J. Eduardo\n  orcid: \"https://orcid.org/0000-0002-0337-8055\"\ndoi: 10.5281/zenodo.15096773\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Vera-Vald\u00e9s\n    given-names: J. Eduardo\n    orcid: \"https://orcid.org/0000-0002-0337-8055\"\n  date-published: 2025-04-04\n  doi: 10.21105/joss.07708\n  issn: 2475-9066\n  issue: 108\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7708\n  title: \"LongMemory.jl: Generating, Estimating, and Forecasting Long\n    Memory Models in Julia\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07708\"\n  volume: 10\ntitle: \"LongMemory.jl: Generating, Estimating, and Forecasting Long\n  Memory Models in Julia\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "ropensci/stantargets",
+ "joss_doi": "10.21105/joss.03193",
+ "joss_title": "The stantargets R package: a workflow framework for efficient reproducible Stan-powered Bayesian data analysis pipelines",
+ "joss_published": "2021-04-21T06:09:36.110Z",
+ "software_repository": "https://github.com/ropensci/stantargets",
+ "status": 404,
+ "cff": null
+}

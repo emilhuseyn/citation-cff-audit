@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.14868050",
+ "source": "datacite",
+ "state": "ok",
+ "title": "validateHOT - an R package for the analysis of holdout/validation tasks and other choice modeling tools",
+ "type": "Software",
+ "container": ""
+}

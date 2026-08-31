@@ -1,0 +1,9 @@
+{
+ "repo": "thorstone25/qups",
+ "joss_doi": "10.21105/joss.06772",
+ "joss_title": "QUPS: A MATLAB Toolbox for Rapid Prototyping of Ultrasound Beamforming and Imaging Techniques",
+ "joss_published": "2024-09-16T08:50:07.123Z",
+ "software_repository": "https://github.com/thorstone25/qups",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Brevett\n  given-names: Thurston\n  orcid: \"https://orcid.org/0000-0002-0720-6955\"\ndoi: 10.5281/zenodo.13363957\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Brevett\n    given-names: Thurston\n    orcid: \"https://orcid.org/0000-0002-0720-6955\"\n  date-published: 2024-09-16\n  doi: 10.21105/joss.06772\n  issn: 2475-9066\n  issue: 101\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6772\n  title: \"QUPS: A MATLAB Toolbox for Rapid Prototyping of Ultrasound\n    Beamforming and Imaging Techniques\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06772\"\n  volume: 9\ntitle: \"QUPS: A MATLAB Toolbox for Rapid Prototyping of Ultrasound\n  Beamforming and Imaging Techniques\"\n"
+}

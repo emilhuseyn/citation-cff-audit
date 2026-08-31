@@ -1,0 +1,9 @@
+{
+ "repo": "cmmr/ecodive",
+ "joss_doi": "10.21105/joss.09777",
+ "joss_title": "ecodive: Parallel and Memory-Efficient R Package for Ecological Diversity Analysis",
+ "joss_published": "2026-05-29T23:51:13.826Z",
+ "software_repository": "https://github.com/cmmr/ecodive",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Smith\n  given-names: Daniel P\n  orcid: \"https://orcid.org/0000-0002-2479-2044\"\n- family-names: Cregeen\n  given-names: Sara J Javornik\n  orcid: \"https://orcid.org/0009-0000-2698-6478\"\n- family-names: Petrosino\n  given-names: Joseph F\n  orcid: \"https://orcid.org/0000-0002-4046-6898\"\ncontact:\n- family-names: Smith\n  given-names: Daniel P\n  orcid: \"https://orcid.org/0000-0002-2479-2044\"\ndoi: 10.5281/zenodo.19190015\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Smith\n    given-names: Daniel P\n    orcid: \"https://orcid.org/0000-0002-2479-2044\"\n  - family-names: Cregeen\n    given-names: Sara J Javornik\n    orcid: \"https://orcid.org/0009-0000-2698-6478\"\n  - family-names: Petrosino\n    given-names: Joseph F\n    orcid: \"https://orcid.org/0000-0002-4046-6898\"\n  date-published: 2026-05-29\n  doi: 10.21105/joss.09777\n  issn: 2475-9066\n  issue: 121\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9777\n  title: \"ecodive: Parallel and Memory-Efficient R Package for\n    Ecological Diversity Analysis\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09777\"\n  volume: 11\ntitle: \"ecodive: Parallel and Memory-Efficient R Package for Ecological\n  Diversity Analysis\"\n"
+}

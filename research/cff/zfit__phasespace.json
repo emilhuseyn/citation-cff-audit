@@ -1,0 +1,9 @@
+{
+ "repo": "zfit/phasespace",
+ "joss_doi": "10.21105/joss.01570",
+ "joss_title": "phasespace: n-body phase space generation in Python",
+ "joss_published": "2019-10-29T11:50:30.628Z",
+ "software_repository": "https://github.com/zfit/phasespace/",
+ "status": 200,
+ "cff": "title: 'phasespace: n-body phase space generation in Python'\nabstract: 'This repository contains the source code of the paper phasespace: n-body phase space generation in Python by Albert Navarro and Jonas Eschle, from JOSS'\ndoi: 10.21105/joss.01570\nrepository-code: https://github.com/zfit/phasespace\nversion: 1.0.0\ndate-released: 2019-10-29\nauthors:\n  - given-names: Albert\n    family-names: Navarro\n  - given-names: Jonas\n    family-names: Eschle\n    affiliation: University of Zurich\nkeywords:\n  - Python\n  - Simulation\n  - High Energy Physics\n  - Phasespace\n  - PWA\n  - kinematics\n  - null\ncff-version: 1.2.0\n"
+}

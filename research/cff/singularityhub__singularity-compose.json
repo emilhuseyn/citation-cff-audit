@@ -1,0 +1,9 @@
+{
+ "repo": "singularityhub/singularity-compose",
+ "joss_doi": "10.21105/joss.01578",
+ "joss_title": "Singularity Compose: Orchestration for Singularity Instances",
+ "joss_published": "2019-08-26T17:22:50.250Z",
+ "software_repository": "https://github.com/singularityhub/singularity-compose",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Sochat\n    given-names: Vanessa\n    orcid: https://orcid.org/0000-0002-4387-3819\ntitle: \"Singularity Compose: Orchestration for Singularity Instances\"\nversion: 0.1.0\ndoi: 10.21105/joss.01578\ndate-released: 2019-08-26\n"
+}

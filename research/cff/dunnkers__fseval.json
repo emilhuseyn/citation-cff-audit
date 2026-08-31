@@ -1,0 +1,9 @@
+{
+ "repo": "dunnkers/fseval",
+ "joss_doi": "10.21105/joss.04611",
+ "joss_title": "fseval: A Benchmarking Framework for Feature Selection and Feature Ranking Algorithms",
+ "joss_published": "2022-11-23T18:54:13.165Z",
+ "software_repository": "https://github.com/dunnkers/fseval",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use fseval, please cite it as below.\"\nauthors:\n- family-names: \"Overschie\"\n  given-names: \"Jeroen Gerard Sebastiaan\"\n  orcid: \"https://orcid.org/0000-0003-3304-3800\"\n- family-names: \"Alsahaf\"\n  given-names: \"Ahmad\"\n  orcid: \"https://orcid.org/0000-0002-0770-1390\"\n- family-names: \"Azzopardi\"\n  given-names: \"George\"\n  orcid: \"https://orcid.org/0000-0001-6552-2596\"\ntitle: \"fseval\"\nversion: 3.1.0\ndoi: 10.21105/joss.04611\ndate-released: 2022-11-23\nurl: \"https://joss.theoj.org/papers/10.21105/joss.04611\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Overschie\"\n    given-names: \"Jeroen Gerard Sebastiaan\"\n    orcid: \"https://orcid.org/0000-0003-3304-3800\"\n  - family-names: \"Alsahaf\"\n    given-names: \"Ahmad\"\n    orcid: \"https://orcid.org/0000-0002-0770-1390\"\n  - family-names: \"Azzopardi\"\n    given-names: \"George\"\n    orcid: \"https://orcid.org/0000-0001-6552-2596\"\n  doi: \"10.21105/joss.04611\"\n  journal: \"Journal of Open Source Software\"\n  month: 11\n  start: 1\n  end: 5\n  title: \"fseval: A Benchmarking Framework for Feature Selection and Feature Ranking Algorithms\"\n  volume: 7\n  number: 79\n  publisher: \"The Open Journal\"\n  pages: 4611\n  year: 2022\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "thermohub/thermofun",
+ "joss_doi": "10.21105/joss.04624",
+ "joss_title": "ThermoFun: A C++/Python library for computing standard thermodynamic properties of substances and reactions across wide ranges of temperatures and pressures",
+ "joss_published": "2023-03-01T14:33:26.687Z",
+ "software_repository": "https://github.com/thermohub/thermofun",
+ "status": 404,
+ "cff": null
+}

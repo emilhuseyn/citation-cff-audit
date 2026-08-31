@@ -1,0 +1,9 @@
+{
+ "repo": "pasteurlabs/tesseract-core",
+ "joss_doi": "10.21105/joss.08385",
+ "joss_title": "Tesseract Core: Universal, autodiff-native software components for Simulation Intelligence",
+ "joss_published": "2025-07-22T21:21:08.951Z",
+ "software_repository": "https://github.com/pasteurlabs/tesseract-core",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: H\u00e4fner\n  given-names: Dion\n  orcid: \"https://orcid.org/0000-0002-4465-7317\"\n- family-names: Lavin\n  given-names: Alexander\n  orcid: \"https://orcid.org/0000-0003-3422-7820\"\ncontact:\n- family-names: H\u00e4fner\n  given-names: Dion\n  orcid: \"https://orcid.org/0000-0002-4465-7317\"\ndoi: 10.5281/zenodo.16333901\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: H\u00e4fner\n    given-names: Dion\n    orcid: \"https://orcid.org/0000-0002-4465-7317\"\n  - family-names: Lavin\n    given-names: Alexander\n    orcid: \"https://orcid.org/0000-0003-3422-7820\"\n  date-published: 2025-07-22\n  doi: 10.21105/joss.08385\n  issn: 2475-9066\n  issue: 111\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 8385\n  title: \"Tesseract Core: Universal, autodiff-native software components\n    for Simulation Intelligence\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.08385\"\n  volume: 10\ntitle: \"Tesseract Core: Universal, autodiff-native software components\n  for Simulation Intelligence\"\n"
+}

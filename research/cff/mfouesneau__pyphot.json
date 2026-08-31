@@ -1,0 +1,9 @@
+{
+ "repo": "mfouesneau/pyphot",
+ "joss_doi": "10.21105/joss.08814",
+ "joss_title": "Pyphot: A tool for computing photometry from spectra",
+ "joss_published": "2026-03-06T20:57:27.822Z",
+ "software_repository": "https://github.com/mfouesneau/pyphot",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Fouesneau\"\n  given-names: \"Morgan\"\n  orcid: \"https://orcid.org/0000-0001-9256-5516\"\n- family-names: \"Lan\u00e7on\"\n  given-names: \"Ariane\"\n  orcid: 0000-0002-7214-8296\ntitle: \"pyphot: A tool for computing photometry from spectra\"\nversion: 2.1.1\ndate-released: 2026-03-03\nurl: \"https://github.com/mfouesneau/pyphot\"\ndoi: 10.5281/zenodo.18846845\npreferred-citation:\n  authors:\n  - family-names: Fouesneau\n    given-names: Morgan\n    orcid: \"https://orcid.org/0000-0001-9256-5516\"\n  - family-names: Lan\u00e7on\n    given-names: Ariane\n    orcid: \"https://orcid.org/0000-0002-7214-8296\"\n  date-published: 2026-03-06\n  doi: 10.21105/joss.08814\n  issn: 2475-9066\n  issue: 119\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 8814\n  title: \"Pyphot: A tool for computing photometry from spectra\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.08814\"\n  volume: 11\n"
+}

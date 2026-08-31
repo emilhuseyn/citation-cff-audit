@@ -1,0 +1,9 @@
+{
+ "repo": "vyrjana/DearEIS",
+ "joss_doi": "10.21105/joss.04808",
+ "joss_title": "DearEIS - A GUI program for analyzing impedance spectra",
+ "joss_published": "2022-12-13T13:54:18.341Z",
+ "software_repository": "https://github.com/vyrjana/DearEIS",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: If you use this software, please cite it using these metadata.\ntitle: DearEIS\ntype: software\nidentifiers:\n  - description: Archived snapshots of versions\n    type: doi\n    value: \"10.5281/zenodo.7371986\"\nlicense: GPL-3.0-or-later\nrepository-code: \"https://github.com/vyrjana/DearEIS\"\nauthors:\n  - family-names: Yrj\u00e4n\u00e4\n    given-names: Ville\n    orcid: \"https://orcid.org/0000-0001-5779-5201\"\npreferred-citation:\n  type: article\n  doi: \"10.21105/joss.04808\"\n  url: \"https://joss.theoj.org/papers/10.21105/joss.04808\"\n  year: 2022\n  volume: 7\n  number: 80\n  pages: 4808\n  title: \"DearEIS - A GUI program for analyzing impedance spectra\"\n  journal: \"Journal of Open Source Software\"\n  authors:\n    - family-names: Yrj\u00e4n\u00e4\n      given-names: Ville\n      orcid: \"https://orcid.org/0000-0001-5779-5201\"\n"
+}

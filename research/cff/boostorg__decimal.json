@@ -1,0 +1,9 @@
+{
+ "repo": "boostorg/decimal",
+ "joss_doi": "10.21105/joss.10345",
+ "joss_title": "Boost.Decimal: A C++14 Library for Decimal Floating Point Arithmetic",
+ "joss_published": "2026-08-12T01:40:03.805Z",
+ "software_repository": "https://github.com/boostorg/decimal",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Borland\n  given-names: Matt\n  orcid: \"https://orcid.org/0009-0005-8183-4254\"\n- family-names: Kormanyos\n  given-names: Christopher\ndoi: 10.5281/zenodo.21889781\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Borland\n    given-names: Matt\n    orcid: \"https://orcid.org/0009-0005-8183-4254\"\n  - family-names: Kormanyos\n    given-names: Christopher\n  date-published: 2026-08-12\n  doi: 10.21105/joss.10345\n  issn: 2475-9066\n  issue: 124\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 10345\n  title: \"Boost.Decimal: A C++14 Library for Decimal Floating Point\n    Arithmetic\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.10345\"\n  volume: 11\ntitle: \"Boost.Decimal: A C++14 Library for Decimal Floating Point\n  Arithmetic\""
+}

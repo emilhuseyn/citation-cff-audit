@@ -1,0 +1,9 @@
+{
+ "repo": "benmaier/netwulf",
+ "joss_doi": "10.21105/joss.01425",
+ "joss_title": "Netwulf: Interactive visualization of networks in Python",
+ "joss_published": "2019-10-01T17:11:23.470Z",
+ "software_repository": "https://github.com/benmaier/netwulf",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle: Netwulf\nmessage: >-\n  If you use this software, please cite it using the\n  metadata from this file.\ntype: software\nauthors:\n  - given-names: Ulf\n    family-names: Aslak\n    email: ulfaslak@gmail.com\n  - given-names: Benjamin Frank\n    family-names: Maier\n    email: benjaminfrankmaier@gmail.com\nidentifiers:\n  - type: doi\n    value: \nrepository-code: 'https://github.com/benmaier/netwulf'\nabstract: >-\n  Netwulf is a light-weight Python library that provides a simple API for interactively visualizing\n  a network and returning the computed layout and style. It is build around the philosophy\n  that network manipulation and preprocessing should be done programmatically, but that the\n  efficient generation of a visually appealing network is best done interactively, without code.\n  Therefore, it offers no analysis functionality and only few exploration features, but instead\n  focuses almost entirely on fast and intuitive layout manipulation and node/link styling.\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Aslak\"\n    given-names: \"Ulf\"\n    orcid: \"https://orcid.org/0000-0003-4704-3609\"\n  - family-names: \"Benjamin Frank\"\n    given-names: \"Maier\"\n    orcid: \"https://orcid.org/0000-0001-7414-8823\"\n  journal: \"Journal of Open Source Software\"\n  title: \"Netwulf: Interactive visualization of networks in Python\"\n  volume: 4\n  issue: 42\n  year: 2019\n  start: 1425\n  doi: \"10.21105/joss.01425\"\n  url: \"https://doi.org/10.21105/joss.01425\"\n  publisher: \"The Open Journal\"\n"
+}

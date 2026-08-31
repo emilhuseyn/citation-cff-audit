@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.18405764",
+ "source": "datacite",
+ "state": "ok",
+ "title": "pyDARTdiags: A Python package for manipulating observation sequences and calculating observation-space diagnostics for the Data Assimilation Research Testbed (DART)",
+ "type": "Software",
+ "container": ""
+}

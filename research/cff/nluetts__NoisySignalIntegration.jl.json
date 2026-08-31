@@ -1,0 +1,9 @@
+{
+ "repo": "nluetts/NoisySignalIntegration.jl",
+ "joss_doi": "10.21105/joss.03526",
+ "joss_title": "NoisySignalIntegration.jl: A Julia package for uncertainty evaluation of numeric integrals",
+ "joss_published": "2021-08-31T16:05:50.351Z",
+ "software_repository": "https://github.com/nluetts/NoisySignalIntegration.jl",
+ "status": 404,
+ "cff": null
+}

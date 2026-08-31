@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.13963754",
+ "source": "datacite",
+ "state": "ok",
+ "title": "PyXAB - A Python Library for X-Armed Bandit and Online Blackbox Optimization Algorithms",
+ "type": "Software",
+ "container": ""
+}

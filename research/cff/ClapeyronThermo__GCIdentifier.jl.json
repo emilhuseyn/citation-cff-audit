@@ -1,0 +1,9 @@
+{
+ "repo": "ClapeyronThermo/GCIdentifier.jl",
+ "joss_doi": "10.21105/joss.06453",
+ "joss_title": "GCIdentifier.jl: A Julia package for identifying molecular fragments from SMILES",
+ "joss_published": "2024-04-05T09:22:34.059Z",
+ "software_repository": "https://github.com/ClapeyronThermo/GCIdentifier.jl",
+ "status": 404,
+ "cff": null
+}

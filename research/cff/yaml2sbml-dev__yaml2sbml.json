@@ -1,0 +1,9 @@
+{
+ "repo": "yaml2sbml-dev/yaml2sbml",
+ "joss_doi": "10.21105/joss.03215",
+ "joss_title": "yaml2sbml: Human-readable and -writable specification of ODE models and their conversion to SBML",
+ "joss_published": "2021-05-27T16:05:54.914Z",
+ "software_repository": "https://github.com/yaml2sbml-dev/yaml2sbml",
+ "status": 404,
+ "cff": null
+}

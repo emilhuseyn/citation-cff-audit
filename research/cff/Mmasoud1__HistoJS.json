@@ -1,0 +1,9 @@
+{
+ "repo": "Mmasoud1/HistoJS",
+ "joss_doi": "10.21105/joss.06317",
+ "joss_title": "HistoJS: Web-Based Analytical Tool for Advancing Multiplexed Images",
+ "joss_published": "2024-02-07T21:38:40.349Z",
+ "software_repository": "https://github.com/Mmasoud1/HistoJS",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Masoud\n  given-names: Mohamed\n  orcid: \"https://orcid.org/0000-0002-5365-242X\"\n- family-names: Gutman\n  given-names: David\n  orcid: \"https://orcid.org/0000-0002-1386-8701\"\n- family-names: Plis\n  given-names: Sergey\n  orcid: \"https://orcid.org/0000-0003-0040-0365\"\ncontact:\n- family-names: Masoud\n  given-names: Mohamed\n  orcid: \"https://orcid.org/0000-0002-5365-242X\"\ndoi: 10.5281/zenodo.10626533\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Masoud\n    given-names: Mohamed\n    orcid: \"https://orcid.org/0000-0002-5365-242X\"\n  - family-names: Gutman\n    given-names: David\n    orcid: \"https://orcid.org/0000-0002-1386-8701\"\n  - family-names: Plis\n    given-names: Sergey\n    orcid: \"https://orcid.org/0000-0003-0040-0365\"\n  date-published: 2024-02-07\n  doi: 10.21105/joss.06317\n  issn: 2475-9066\n  issue: 94\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6317\n  title: \"HistoJS: Web-Based Analytical Tool for Advancing Multiplexed\n    Images\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06317\"\n  volume: 9\ntitle: \"HistoJS: Web-Based Analytical Tool for Advancing Multiplexed\n  Images\"\n"
+}

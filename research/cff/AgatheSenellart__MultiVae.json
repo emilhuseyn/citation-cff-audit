@@ -1,0 +1,9 @@
+{
+ "repo": "AgatheSenellart/MultiVae",
+ "joss_doi": "10.21105/joss.07996",
+ "joss_title": "MultiVae: A Python package for Multimodal Variational Autoencoders on Partial Datasets.",
+ "joss_published": "2025-06-05T11:54:39.447Z",
+ "software_repository": "https://github.com/AgatheSenellart/MultiVae/",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Senellart\n  given-names: Agathe\n  orcid: \"https://orcid.org/0009-0000-3176-6461\"\n- family-names: Chadebec\n  given-names: Cl\u00e9ment\n- family-names: Allassonni\u00e8re\n  given-names: St\u00e9phanie\ncontact:\n- family-names: Senellart\n  given-names: Agathe\n  orcid: \"https://orcid.org/0009-0000-3176-6461\"\ndoi: 10.5281/zenodo.15577722\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Senellart\n    given-names: Agathe\n    orcid: \"https://orcid.org/0009-0000-3176-6461\"\n  - family-names: Chadebec\n    given-names: Cl\u00e9ment\n  - family-names: Allassonni\u00e8re\n    given-names: St\u00e9phanie\n  date-published: 2025-06-05\n  doi: 10.21105/joss.07996\n  issn: 2475-9066\n  issue: 110\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7996\n  title: \"MultiVae: A Python package for Multimodal Variational\n    Autoencoders on Partial Datasets.\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07996\"\n  volume: 10\ntitle: \"MultiVae: A Python package for Multimodal Variational\n  Autoencoders on Partial Datasets.\"\n"
+}

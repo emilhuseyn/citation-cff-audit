@@ -1,0 +1,9 @@
+{
+ "repo": "jabirali/bodge",
+ "joss_doi": "10.21105/joss.07134",
+ "joss_title": "Bodge: Python package for efficient tight-binding modeling of superconducting nanostructures",
+ "joss_published": "2024-10-09T15:13:33.923Z",
+ "software_repository": "https://github.com/jabirali/bodge/",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- email: jabir.ali.ouassou@hvl.no\n  family-names: Ouassou\n  given-names: Jabir Ali\n  orcid: \"https://orcid.org/0000-0002-3725-0885\"\ndoi: 10.5281/zenodo.13839641\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - email: jabir.ali.ouassou@hvl.no\n    family-names: Ouassou\n    given-names: Jabir Ali\n    orcid: \"https://orcid.org/0000-0002-3725-0885\"\n  date-published: 2024-10-09\n  doi: 10.21105/joss.07134\n  issn: 2475-9066\n  issue: 102\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7134\n  title: \"Bodge: Python package for efficient tight-binding modeling of\n    superconducting nanostructures\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07134\"\n  volume: 9\ntitle: \"Bodge: Python package for efficient tight-binding modeling of\n  superconducting nanostructures\"\n\n"
+}

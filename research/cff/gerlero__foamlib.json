@@ -1,0 +1,9 @@
+{
+ "repo": "gerlero/foamlib",
+ "joss_doi": "10.21105/joss.07633",
+ "joss_title": "foamlib: A modern Python package for working with OpenFOAM",
+ "joss_published": "2025-05-23T14:13:40.101Z",
+ "software_repository": "https://github.com/gerlero/foamlib",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Gerlero\n  given-names: Gabriel S.\n  orcid: \"https://orcid.org/0000-0002-5138-0328\"\n- family-names: Kler\n  given-names: Pablo A.\n  orcid: \"https://orcid.org/0000-0003-4217-698X\"\ncontact:\n- family-names: Gerlero\n  given-names: Gabriel S.\n  orcid: \"https://orcid.org/0000-0002-5138-0328\"\ndoi: 10.5281/zenodo.15442960\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Gerlero\n    given-names: Gabriel S.\n    orcid: \"https://orcid.org/0000-0002-5138-0328\"\n  - family-names: Kler\n    given-names: Pablo A.\n    orcid: \"https://orcid.org/0000-0003-4217-698X\"\n  date-published: 2025-05-23\n  doi: 10.21105/joss.07633\n  issn: 2475-9066\n  issue: 109\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7633\n  title: \"foamlib: A modern Python package for working with OpenFOAM\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07633\"\n  volume: 10\ntitle: \"foamlib: A modern Python package for working with OpenFOAM\"\n"
+}

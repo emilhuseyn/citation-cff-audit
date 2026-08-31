@@ -1,0 +1,9 @@
+{
+ "repo": "flor14/paper",
+ "joss_doi": "10.21105/joss.00785",
+ "joss_title": "shinyssd v1.0: Species Sensitivity Distributions for Ecotoxicological Risk Assessment",
+ "joss_published": "2019-05-29T21:42:07.300Z",
+ "software_repository": "https://github.com/flor14/paper",
+ "status": 200,
+ "cff": "# This CITATION.cff file was generated with cffinit.\n# Visit https://bit.ly/cffinit to generate yours today!\n\ncff-version: 1.2.0\ntitle: shinyssd\nmessage: >-\n  Species Sensitivity Distribution for Ecotoxicological Risk\n  Assessment\ntype: software\nauthors:\n  - given-names: Florencia\n    family-names: D'Andrea\n    email: florencia.dandrea@gmail.com\n    orcid: 'https://orcid.org/0000-0002-0041-097X'\nidentifiers:\n  - type: doi\n    value: 10.5281/zenodo.3233033\nrepository-code: 'https://github.com/flor14/shinyssd'\nurl: 'https://flor.shinyapps.io/shinyssd/'\nkeywords:\n  - species sensitivity deistribution\n  - ecotox database\n  - ecotoxicology\n  - R-shiny\n  - ecological risk assessment\nlicense: MIT\n"
+}

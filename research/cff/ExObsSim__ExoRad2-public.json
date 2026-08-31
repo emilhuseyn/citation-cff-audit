@@ -1,0 +1,9 @@
+{
+ "repo": "ExObsSim/ExoRad2-public",
+ "joss_doi": "10.21105/joss.05348",
+ "joss_title": "ExoRad 2.0: The generic point source radiometric model",
+ "joss_published": "2023-09-26T11:36:06.078Z",
+ "software_repository": "https://github.com/ExObsSim/ExoRad2-public",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Mugnai\n    given-names: Lorenzo V.\n    orcid: https://orcid.org/0000-0002-9007-9802\n  - family-names: Bocchieri\n    given-names: Andrea\n    orcid: http://orcid.org/0000-0002-8846-7961\n  - family-names: Pascale\n    given-names: Enzo\n    orcid: http://orcid.org/0000-0002-3242-8154\n\ntitle: \"ExoRad 2.0: The generic point source radiometric model\"\ndoi: 10.21105/joss.05348\ndate-released: 2023-09-26\n"
+}

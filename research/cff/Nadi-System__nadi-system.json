@@ -1,0 +1,9 @@
+{
+ "repo": "Nadi-System/nadi-system",
+ "joss_doi": "10.21105/joss.08655",
+ "joss_title": "NADI -- Network Analysis and Data Integration with a Domain Specific Language",
+ "joss_published": "2025-08-27T18:31:41.506Z",
+ "software_repository": "https://github.com/Nadi-System/nadi-system",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Atreya\n  given-names: Gaurav\n  orcid: \"https://orcid.org/0000-0002-0234-2165\"\n- family-names: Steissberg\n  given-names: Todd\n  orcid: \"https://orcid.org/0000-0003-3744-701X\"\n- family-names: Ray\n  given-names: Patrick A.\n  orcid: \"https://orcid.org/0000-0001-9495-2317\"\ncontact:\n- family-names: Atreya\n  given-names: Gaurav\n  orcid: \"https://orcid.org/0000-0002-0234-2165\"\ndoi: 10.5281/zenodo.16956958\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Atreya\n    given-names: Gaurav\n    orcid: \"https://orcid.org/0000-0002-0234-2165\"\n  - family-names: Steissberg\n    given-names: Todd\n    orcid: \"https://orcid.org/0000-0003-3744-701X\"\n  - family-names: Ray\n    given-names: Patrick A.\n    orcid: \"https://orcid.org/0000-0001-9495-2317\"\n  date-published: 2025-08-27\n  doi: 10.21105/joss.08655\n  issn: 2475-9066\n  issue: 112\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 8655\n  title: NADI -- Network Analysis and Data Integration with a Domain\n    Specific Language\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.08655\"\n  volume: 10\ntitle: NADI -- Network Analysis and Data Integration with a Domain\n  Specific Language\n"
+}

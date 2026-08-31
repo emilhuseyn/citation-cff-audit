@@ -1,0 +1,9 @@
+{
+ "repo": "LeeoBianchi/HealpixMPI.jl",
+ "joss_doi": "10.21105/joss.06467",
+ "joss_title": "HealpixMPI.jl: an MPI-parallel implementation of the Healpix tessellation scheme in Julia",
+ "joss_published": "2024-05-20T12:47:40.888Z",
+ "software_repository": "https://github.com/LeeoBianchi/HealpixMPI.jl",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Bianchi\n  given-names: Leo A.\n  orcid: \"https://orcid.org/0009-0002-6351-5426\"\ndoi: 10.5281/zenodo.11192548\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Bianchi\n    given-names: Leo A.\n    orcid: \"https://orcid.org/0009-0002-6351-5426\"\n  date-published: 2024-05-20\n  doi: 10.21105/joss.06467\n  issn: 2475-9066\n  issue: 97\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6467\n  title: \"HealpixMPI.jl: an MPI-parallel implementation of the Healpix\n    tessellation scheme in Julia\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06467\"\n  volume: 9\ntitle: \"HealpixMPI.jl: an MPI-parallel implementation of the Healpix\n  tessellation scheme in Julia\"\n"
+}

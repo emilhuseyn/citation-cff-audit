@@ -1,0 +1,9 @@
+{
+ "repo": "ascii-supply-networks/ascii-hydra",
+ "joss_doi": "10.21105/joss.07695",
+ "joss_title": "Cost-Effective Big Data Orchestration Using Dagster: A Multi-Platform Approach",
+ "joss_published": "2026-03-12T15:14:41.137Z",
+ "software_repository": "https://github.com/ascii-supply-networks/ascii-hydra",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\n\nmessage: \"If you use this software in your work, please cite it using the metadata below.\"\ntitle: \"ASCII Hydra\"\nversion: \"V1.0.0\"\n\ndoi: \"10.5281/zenodo.15310252\"\n\ndate-released: 2025-04-30\n\nauthors:\n  - family-names: \"Picatto\"\n    given-names: \"Hernan\"\n    orcid: \"0000-0001-6662-464X\"\n  - family-names: \"Heiler\"\n    given-names: \"Georg\"\n    orcid: \"0000-0002-8684-1163\"\n  - family-names: \"Klimek\"\n    given-names: \"Peter\"\n\n\nrepository-code: \"https://github.com/ascii-supply-networks/ascii-hydra\"\nlicense: \"GPL-3.0-only\"\n\nabstract: \"ASCII Hydra provides a framework for executing PySpark data pipelines flexibly across different environments (local, AWS EMR, Databricks), serving as a cost-efficient alternative to vendor lock-in for Spark workflows.\"\nkeywords:\n  - \"pyspark\"\n  - \"apache-spark\"\n  - \"data-pipeline\"\n  - \"aws-emr\"\n  - \"databricks\"\n  - \"workflow\"\n  - \"reproducibility\"\n  - \"software\""
+}

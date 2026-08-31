@@ -1,0 +1,9 @@
+{
+ "repo": "chocoteam/choco-solver",
+ "joss_doi": "10.21105/joss.04708",
+ "joss_title": "Choco-solver: A Java library for constraint programming",
+ "joss_published": "2022-10-12T15:25:25.873Z",
+ "software_repository": "https://github.com/chocoteam/choco-solver",
+ "status": 200,
+ "cff": "# This CITATION.cff file was generated with cffinit.\n# Visit https://bit.ly/cffinit to generate yours today!\n\ncff-version: 1.2.0\ntitle: Choco-solver\nmessage: >-\n  If you use this software, please cite it using the\n  metadata from this file.\ntype: software\nauthors:\n  - given-names: Charles\n    family-names: Prud'homme\n    affiliation: 'IMT Atlantique, LS2N'\n    orcid: 'https://orcid.org/0000-0002-4546-9027'\n  - given-names: Jean-Guillaume\n    family-names: Fages\n    affiliation: COSLING S.A.S.\n    orcid: 'https://orcid.org/0000-0001-5638-4777'\nidentifiers:\n  - type: doi\n    value: 10.5281/zenodo.7185962\n    description: The concept DOI of the software\nrepository-code: 'https://github.com/chocoteam/choco-solver'\nurl: 'https://choco-solver.org/'\nlicense: BSD-3-Clause\npreferred-citation:\n  authors:\n    - given-names: Charles\n      family-names: Prud'homme\n      affiliation: IMT Atlantique\n      orcid: 'https://orcid.org/0000-0002-4546-9027'\n    - given-names: Jean-Guillaume\n      family-names: Fages\n      affiliation: COSLING S.A.S\n      orcid: 'https://orcid.org/0000-0001-5638-4777'\n  doi: \"10.21105/joss.04708\"\n  journal: \"Journal of Open Source Software\"\n  publisher:\n    -name: \"The Open Journal\"\n  title: \"Choco-solver: A Java library for constraint programming\"\n  type: article\n  start: 4708\n  volume: 7\n  issue: 78\n  year: 2022\n"
+}

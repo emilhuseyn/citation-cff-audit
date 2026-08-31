@@ -1,0 +1,9 @@
+{
+ "repo": "fAndreuzzi/BisPy",
+ "joss_doi": "10.21105/joss.03519",
+ "joss_title": "BisPy: Bisimulation in Python",
+ "joss_published": "2021-09-28T13:28:54.757Z",
+ "software_repository": "https://github.com/fAndreuzzi/BisPy",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Andreuzzi\"\n  given-names: \"Francesco\"\n  orcid: \"https://orcid.org/0000-0002-9508-7801\"\ntitle: \"BisPy: Bisimulation in Python\"\nversion: 0.2.3\ndoi: 10.21105/joss.03519\ndate-released: 2021-09-28\nurl: \"https://github.com/fAndreuzzi/BisPy\"\n"
+}

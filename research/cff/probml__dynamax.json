@@ -1,0 +1,9 @@
+{
+ "repo": "probml/dynamax",
+ "joss_doi": "10.21105/joss.07069",
+ "joss_title": "Dynamax: A Python package for probabilistic state space modeling with JAX",
+ "joss_published": "2025-04-03T14:34:42.202Z",
+ "software_repository": "https://github.com/probml/dynamax",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Linderman\n  given-names: Scott W.\n  orcid: \"https://orcid.org/0000-0002-3878-9073\"\n- family-names: Chang\n  given-names: Peter\n- family-names: Harper-Donnelly\n  given-names: Giles\n- family-names: Kara\n  given-names: Aleyna\n- family-names: Li\n  given-names: Xinglong\n- family-names: Duran-Martin\n  given-names: Gerardo\n- family-names: Murphy\n  given-names: Kevin\ncontact:\n- family-names: Linderman\n  given-names: Scott W.\n  orcid: \"https://orcid.org/0000-0002-3878-9073\"\n- family-names: Murphy\n  given-names: Kevin\ndoi: 10.6084/m9.figshare.28665131\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Linderman\n    given-names: Scott W.\n    orcid: \"https://orcid.org/0000-0002-3878-9073\"\n  - family-names: Chang\n    given-names: Peter\n  - family-names: Harper-Donnelly\n    given-names: Giles\n  - family-names: Kara\n    given-names: Aleyna\n  - family-names: Li\n    given-names: Xinglong\n  - family-names: Duran-Martin\n    given-names: Gerardo\n  - family-names: Murphy\n    given-names: Kevin\n  date-published: 2025-04-03\n  doi: 10.21105/joss.07069\n  issn: 2475-9066\n  issue: 108\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7069\n  title: \"Dynamax: A Python package for probabilistic state space\n    modeling with JAX\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07069\"\n  volume: 10\ntitle: \"Dynamax: A Python package for probabilistic state space modeling\n  with JAX\""
+}

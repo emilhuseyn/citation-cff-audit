@@ -1,0 +1,9 @@
+{
+ "repo": "arkavo/CUDA-METRO",
+ "joss_doi": "10.21105/joss.07589",
+ "joss_title": "CUDA-METRO: Parallel Metropolis Monte Carlo for 2D Atomistic Spin Texture Simulation",
+ "joss_published": "2025-05-19T08:17:35.212Z",
+ "software_repository": "https://github.com/arkavo/CUDA-METRO",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- email: arkavohait@iisc.ac.in\n  family-names: Hait\n  given-names: Arkavo\n  orcid: \"https://orcid.org/0009-0006-6741-9377\"\n- email: santanu@iisc.ac.in\n  family-names: Mahapatra\n  given-names: Santanu\n  orcid: \"https://orcid.org/0000-0003-1112-8109\"\ndoi: 10.5281/zenodo.15275575\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - email: arkavohait@iisc.ac.in\n    family-names: Hait\n    given-names: Arkavo\n    orcid: \"https://orcid.org/0009-0006-6741-9377\"\n  - email: santanu@iisc.ac.in\n    family-names: Mahapatra\n    given-names: Santanu\n    orcid: \"https://orcid.org/0000-0003-1112-8109\"\n  date-published: 2025-05-19\n  doi: 10.21105/joss.07589\n  issn: 2475-9066\n  issue: 109\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7589\n  title: \"CUDA-METRO: Parallel Metropolis Monte Carlo for 2D Atomistic\n    Spin Texture Simulation\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07589\"\n  volume: 10\ntitle: \"CUDA-METRO: Parallel Metropolis Monte Carlo for 2D Atomistic\n  Spin Texture Simulation\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "Yehor-Mishchyriak/PureML",
+ "joss_doi": "10.21105/joss.09631",
+ "joss_title": "PureML: a transparent NumPy-only deep learning framework for teaching and prototyping",
+ "joss_published": "2026-01-23T14:16:41.015Z",
+ "software_repository": "https://github.com/Yehor-Mishchyriak/PureML",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle: \"PureML: a lightweight, NumPy-based deep learning framework\"\nmessage: \"If you use PureML in your work, please cite this software.\"\ntype: software\nauthors:\n  - family-names: Mishchyriak\n    given-names: Yehor\n    orcid: 0009-0001-8371-7159\nrepository-code: https://github.com/Yehor-Mishchyriak/PureML\nurl: https://github.com/Yehor-Mishchyriak/PureML\nlicense: Apache-2.0\nversion: 1.2.9\nrelease-date: 2026-03-21\nkeywords: [\"deep learning\", \"numpy\", \"autodiff\", \"education\"]\npreferred-citation:\n  type: article\n  title: \"PureML: a transparent NumPy-only deep learning framework for teaching and prototyping\"\n  authors:\n    - family-names: Mishchyriak\n      given-names: Yehor\n  doi: 10.21105/joss.09631\n  journal: \"Journal of Open Source Software\"\n  year: 2026\n  volume: 11\n  issue: 117\n  pages: 9631\n  url: https://doi.org/10.21105/joss.09631\n"
+}

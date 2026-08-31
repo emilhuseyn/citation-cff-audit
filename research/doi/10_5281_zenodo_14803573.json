@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.14803573",
+ "source": "datacite",
+ "state": "ok",
+ "title": "jax-smfsb: A Python library for stochastic systems biology modelling and inference",
+ "type": "Software",
+ "container": ""
+}

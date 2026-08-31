@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.googleCloudStorageR",
+ "source": "crossref",
+ "state": "ok",
+ "title": "googleCloudStorageR: Interface with Google Cloud Storage API",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

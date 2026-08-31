@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.14736597",
+ "source": "datacite",
+ "state": "ok",
+ "title": "robot_collision_checking: A Lightweight ROS 2 Interface to FCL (Flexible Collision Library)",
+ "type": "Software",
+ "container": ""
+}

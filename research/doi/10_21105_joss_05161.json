@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.05161",
+ "source": "crossref",
+ "state": "ok",
+ "title": "RxInfer: A Julia package for reactive real-time\nBayesian inference",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

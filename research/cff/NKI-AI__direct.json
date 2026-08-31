@@ -1,0 +1,9 @@
+{
+ "repo": "NKI-AI/direct",
+ "joss_doi": "10.21105/joss.04278",
+ "joss_title": "DIRECT: Deep Image REConstruction Toolkit",
+ "joss_published": "2022-05-30T22:45:05.880Z",
+ "software_repository": "https://github.com/NKI-AI/direct",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Yiasemis\n    given-names: George\n    email: g.yiasemis@nki.nl\n    orcid:  https://orcid.org/0000-0002-1348-8987\n  - family-names: Moriakov\n    given-names: Nikita\n    email: n.moriakov@nki.nl\n    orcid:  https://orcid.org/0000-0002-7127-1006\n  - family-names: Karkalousos\n    given-names: Dimitrios\n    email: d.karkalousos@amsterdamumc.nl\n    orcid: https://orcid.org/0000-0001-5983-0322\n  - family-names: Caan\n    given-names: Matthan\n    email: m.w.a.caan@amsterdamumc.nl\n    orcid: https://orcid.org/0000-0002-5162-8880\n  - family-names: Teuwen\n    given-names: Jonas\n    email: j.teuwen@nki.nl\n    orcid:  https://orcid.org/0000-0002-1825-1428\ntitle: \"DIRECT: Deep Image REConstruction Toolkit\"\ndoi: 10.21105/joss.04278\nurl: https://doi.org/10.21105/joss.04278\njournal: Journal of Open Source Software\npublisher: he Open Journal\nvolume: \"7\"\nnumber: \"73\"\npages: \"4278\"\nyear: \"2022\"\n\n"
+}

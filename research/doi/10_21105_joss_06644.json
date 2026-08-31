@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.06644",
+ "source": "crossref",
+ "state": "ok",
+ "title": "PyPEEC: A 3D Quasi-Magnetostatic Solver using an FFT-Accelerated PEEC Method with Voxelization",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

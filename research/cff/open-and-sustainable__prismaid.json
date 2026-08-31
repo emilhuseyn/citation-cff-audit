@@ -1,0 +1,9 @@
+{
+ "repo": "open-and-sustainable/prismaid",
+ "joss_doi": "10.21105/joss.07616",
+ "joss_title": "An Introduction to prismAId: Open-Source and Open Science AI for Advancing Information Extraction in Systematic Reviews",
+ "joss_published": "2025-04-11T14:51:58.292Z",
+ "software_repository": "https://github.com/open-and-sustainable/prismaid",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle: prismAId - Open Science AI Tools for Systematic, Protocol-Based Literature Reviews\nmessage: >-\n  v0.17.1 - Fixed resilient chunked review merging and preservation of partial results.\ntype: software\ndoi: 10.5281/zenodo.11210796\nauthors:\n  - given-names: Riccardo\n    family-names: Boero\n    email: ribo@nilu.no\n    orcid: 'https://orcid.org/0000-0002-7468-9096'\n    affiliation: NILU\nidentifiers:\n  - type: doi\n    value: 10.5281/zenodo.11210796\n    description: This DOI represents all software versions.\nrepository-code: 'https://github.com/open-and-sustainable/prismaid'\nurl: 'https://prismaid.review/'\nabstract: >-\n  prismAId leverages generative AI models to screen and extract data from scientific literature. It provides efficient, replicable, and user-friendly methods for conducting systematic reviews. Designed in line with Open Science practices, prismAId requires no coding skills to use.\nkeywords:\n  - Systematic Review\n  - Generative AI\n  - Open Source\n  - Open Science\nlicense: AGPL-3.0-only\n"
+}

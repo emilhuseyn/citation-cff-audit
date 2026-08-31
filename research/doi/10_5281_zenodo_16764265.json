@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.16764265",
+ "source": "datacite",
+ "state": "ok",
+ "title": "PyPEEC: A 3D Quasi-Magnetostatic Solver using an FFT-Accelerated PEEC Method with Voxelization",
+ "type": "Software",
+ "container": ""
+}

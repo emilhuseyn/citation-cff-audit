@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.20560917",
+ "source": "datacite",
+ "state": "ok",
+ "title": "open_nipals: An sklearn-compatible Python package for NIPALS dimensionality reduction",
+ "type": "Software",
+ "container": ""
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "muellerj2/netroles",
+ "joss_doi": "10.21105/joss.05903",
+ "joss_title": "netroles: A Java library for role equivalence analysis in networks",
+ "joss_published": "2024-01-17T17:48:17.276Z",
+ "software_repository": "https://github.com/muellerj2/netroles",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: M\u00fcller\n  given-names: Julian\n  orcid: \"https://orcid.org/0000-0001-6440-8046\"\ndoi: 10.5281/zenodo.10070537\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: M\u00fcller\n    given-names: Julian\n    orcid: \"https://orcid.org/0000-0001-6440-8046\"\n  date-published: 2024-01-17\n  doi: 10.21105/joss.05903\n  issn: 2475-9066\n  issue: 93\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5903\n  title: \"netroles: A Java library for role equivalence analysis in\n    networks\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05903\"\n  volume: 9\ntitle: \"netroles: A Java library for role equivalence analysis in\n  networks\"\n"
+}

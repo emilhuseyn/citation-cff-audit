@@ -1,0 +1,9 @@
+{
+ "repo": "manzt/anywidget",
+ "joss_doi": "10.21105/joss.06939",
+ "joss_title": "anywidget: reusable widgets for interactive analysis and visualization in computational notebooks",
+ "joss_published": "2024-10-23T19:59:50.554Z",
+ "software_repository": "https://github.com/manzt/anywidget",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle: \"anywidget\"\nauthors:\n  - given-names: \"Trevor\"\n    family-names: \"Manz\"\n    orcid: \"https://orcid.org/0000-0001-7694-5164\"\n    affiliation: \"Harvard Medical School\"\nurl: \"https://github.com/manzt/anywidget\"\nkeywords:\n  - Jupyter Notebooks\n  - Jupyter Widgets\n  - Data Visualization\n  - Interactive Computing\n  - Data Analysis\nlicense: MIT\npreferred-citation:\n  type: article\n  title: \"anywidget: reusable widgets for interactive analysis and visualization in computational notebooks\"\n  authors:\n    - given-names: \"Trevor\"\n      family-names: \"Manz\"\n      orcid: \"https://orcid.org/0000-0001-7694-5164\"\n      affiliation: \"Harvard Medical School\"\n    - given-names: \"Nezar\"\n      family-names: \"Abdennur\"\n      affiliation: \"University of Massachusetts Chan Medical School\"\n      orcid: \"https://orcid.org/0000-0001-5814-0864\"\n    - given-names: \"Nils\"\n      family-names: \"Gehlenborg\"\n      affiliation: \"Harvard Medical School\"\n      orcid: \"https://orcid.org/0000-0003-0327-8297\"\n  doi: \"10.21105/joss.06939\"\n  journal: \"Journal of Open Source Software\"\n  volume: \"9\"\n  number: \"102\"\n  pages: \"6939\"\n  year: 2024\n  publisher:\n    name: \"The Open Journal\"\n"
+}

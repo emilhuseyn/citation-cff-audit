@@ -1,0 +1,9 @@
+{
+ "repo": "eclipse/mosquitto",
+ "joss_doi": "10.21105/joss.00265",
+ "joss_title": "Mosquitto: server and client implementation of the MQTT protocol",
+ "joss_published": "2017-05-26T00:00:00.000Z",
+ "software_repository": "https://github.com/eclipse/mosquitto",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Light\"\n  given-names: \"Roger A.\"\n  orcid: \"https://orcid.org/0000-0001-9218-7797\"\ntitle: \"My Research Software\"\nversion: 2.0.21\ndoi: 10.21105/joss.00265\nurl: \"https://github.com/eclise-mosquitto/mosquitto\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Light\"\n    given-names: \"Roger A.\"\n    orcid: \"https://orcid.org/0000-0001-9218-7797\"\n  doi: \"10.21105/joss.00265\"\n  journal: \"Journal of Open Source Software\"\n  start: 265\n  title: \"Mosquitto: server and client implementation of the MQTT protocol\"\n  issue: 13\n  volume: 2\n  year: 2017\n"
+}

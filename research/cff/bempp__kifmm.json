@@ -1,0 +1,9 @@
+{
+ "repo": "bempp/kifmm",
+ "joss_doi": "10.21105/joss.07124",
+ "joss_title": "kifmm-rs: A Kernel-Independent Fast Multipole Framework in Rust",
+ "joss_published": "2025-06-24T15:35:41.509Z",
+ "software_repository": "https://github.com/bempp/kifmm/",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: Please cite the following works when using this software.\ntype: software\nauthors:\n  - family-names: Kailasa\n    given-names: Srinath\n    orcid: https://orcid.org/0000-0001-9734-8318\ndoi: 10.21105/joss.07124\nidentifiers:\n  - type: doi\n    value: 10.21105/joss.07124\n  - type: url\n    value: http://dx.doi.org/10.21105/joss.07124\n  - type: other\n    value: urn:issn:2475-9066\ntitle: 'kifmm-rs: A Kernel-Independent Fast Multipole Framework in Rust'\nurl: http://dx.doi.org/10.21105/joss.07124\n"
+}

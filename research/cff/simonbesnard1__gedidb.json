@@ -1,0 +1,9 @@
+{
+ "repo": "simonbesnard1/gedidb",
+ "joss_doi": "10.21105/joss.08593",
+ "joss_title": "gediDB: A toolbox for processing and providing Global Ecosystem Dynamics Investigation (GEDI) L2A-B and L4A-C data",
+ "joss_published": "2025-09-26T22:43:00.424Z",
+ "software_repository": "https://github.com/simonbesnard1/gedidb",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Besnard\n  given-names: Simon\n  orcid: \"https://orcid.org/0000-0002-1137-103X\"\n- family-names: Dombrowski\n  given-names: Felix\n  orcid: \"https://orcid.org/0009-0000-9210-3530\"\n- family-names: Holcomb\n  given-names: Amelia\n  orcid: \"https://orcid.org/0000-0001-5081-7201\"\ncontact:\n- family-names: Besnard\n  given-names: Simon\n  orcid: \"https://orcid.org/0000-0002-1137-103X\"\ndoi: 10.5281/zenodo.17191670\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Besnard\n    given-names: Simon\n    orcid: \"https://orcid.org/0000-0002-1137-103X\"\n  - family-names: Dombrowski\n    given-names: Felix\n    orcid: \"https://orcid.org/0009-0000-9210-3530\"\n  - family-names: Holcomb\n    given-names: Amelia\n    orcid: \"https://orcid.org/0000-0001-5081-7201\"\n  date-published: 2025-09-26\n  doi: 10.21105/joss.08593\n  issn: 2475-9066\n  issue: 113\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 8593\n  title: \"gediDB: A toolbox for processing and providing Global\n    Ecosystem Dynamics Investigation (GEDI) L2A-B and L4A-C data\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.08593\"\n  volume: 10\ntitle: \"gediDB: A toolbox for processing and providing Global Ecosystem\n  Dynamics Investigation (GEDI) L2A-B and L4A-C data\"\n\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "youssef-mesri/sofia-mesh",
+ "joss_doi": "10.21105/joss.09729",
+ "joss_title": "SOFIA: A Python Library for High-Quality 2D Triangular Mesh Adaptation",
+ "joss_published": "2026-05-11T13:31:53.746Z",
+ "software_repository": "https://github.com/youssef-mesri/sofia-mesh",
+ "status": 200,
+ "cff": "# Citation File Format (CFF)\n# https://citation-file-format.github.io/\n\ncff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\ntype: software\ntitle: \"SOFIA: Scalable Operators for Field-driven Iso/Ani Adaptation\"\nversion: 1.0.0\ndate-released: 2026-05-04\nurl: \"https://github.com/youssef-mesri/sofia-mesh\"\nrepository-code: \"https://github.com/youssef-mesri/sofia-mesh\"\nlicense: MIT\nauthors:\n  - family-names: \"Mesri\"\n    given-names: \"Youssef\"\n    email: \"youssef.mesri@minesparis.psl.eu\"\n    affiliation: \"Mines Paris - PSL\"\n    orcid: \"https://orcid.org/0000-0002-5136-5435\"\nkeywords:\n  - mesh generation\n  - triangular mesh\n  - remeshing\n  - computational geometry\n  - mesh modification\n  - mesh quality\nabstract: \"SOFIA is a pure Python library for 2D triangular mesh modification and remeshing. It provides robust, high-quality local operations to edit, refine, and optimize meshes while maintaining mesh conformity and quality.\"\n"
+}

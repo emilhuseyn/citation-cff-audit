@@ -1,0 +1,9 @@
+{
+ "repo": "auctus-team/pycapacity",
+ "joss_doi": "10.21105/joss.05670",
+ "joss_title": "Pycapacity: a real-time task-space capacity calculation package for robotics and biomechanics",
+ "joss_published": "2023-09-12T15:36:37.792Z",
+ "software_repository": "https://github.com/auctus-team/pycapacity",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Skuric\n  given-names: Antun\n  orcid: \"https://orcid.org/0000-0002-3323-4482\"\n- family-names: Padois\n  given-names: Vincent\n- family-names: Daney\n  given-names: David\ncontact:\n- family-names: Skuric\n  given-names: Antun\n  orcid: \"https://orcid.org/0000-0002-3323-4482\"\ndoi: 10.5281/zenodo.8333929\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Skuric\n    given-names: Antun\n    orcid: \"https://orcid.org/0000-0002-3323-4482\"\n  - family-names: Padois\n    given-names: Vincent\n  - family-names: Daney\n    given-names: David\n  date-published: 2023-09-12\n  doi: 10.21105/joss.05670\n  issn: 2475-9066\n  issue: 89\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5670\n  title: \"Pycapacity: a real-time task-space capacity calculation\n    package for robotics and biomechanics\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05670\"\n  volume: 8\ntitle: \"Pycapacity: a real-time task-space capacity calculation package\n  for robotics and biomechanics\"\n"
+}

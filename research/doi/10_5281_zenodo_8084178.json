@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.8084178",
+ "source": "datacite",
+ "state": "ok",
+ "title": "MembraneAnalysis.jl: A Julia package for analyzing molecular dynamics simulations of lipid membranes",
+ "type": "Software",
+ "container": ""
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "gridap/GridapDistributed.jl",
+ "joss_doi": "10.21105/joss.04157",
+ "joss_title": "GridapDistributed: a massively parallel finite element toolbox in Julia",
+ "joss_published": "2022-06-09T14:33:25.343Z",
+ "software_repository": "https://github.com/gridap/GridapDistributed.jl/",
+ "status": 404,
+ "cff": null
+}

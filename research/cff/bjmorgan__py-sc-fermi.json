@@ -1,0 +1,9 @@
+{
+ "repo": "bjmorgan/py-sc-fermi",
+ "joss_doi": "10.21105/joss.04962",
+ "joss_title": "py-sc-fermi: self-consistent Fermi energies and defect concentrations from electronic structure calculations",
+ "joss_published": "2023-02-03T08:56:29.136Z",
+ "software_repository": "https://github.com/bjmorgan/py-sc-fermi",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Squires\"\n  given-names: \"Alexander G.\"\n  orcid: \"https://orcid.org/0000-0001-6967-3690\"\n- family-names: \"Morgan\"\n  given-names: \"Benjamin J.\"\n  orcid: \"https://orcid.org/0000-0002-3056-8233\"\ntitle: \"py-sc-Fermi\"\nversion: 1.0.0\ndoi: 10.5281/zenodo.7566489\nurl: https://github.com/bjmorgan/py-sc-fermi\nlicense: MIT\npreferred-citation:\n  type: article\n  authors:\n    - family-names: \"Squires\"\n      given-names: \"Alexander G.\"\n    - family-names: \"Scanlon\"\n      given-names: \"David O.\"\n    - family-names: \"Morgan\"\n      given-names: \"Benjamin J.\"\n  title: \"py-sc-fermi: self-consistent Fermi energies and defect concentrations from electronic structure calculations\"\n  year: 2023\n  journal: \"Journal of Open Source Software\"\n  doi: \"10.21105/joss.04962\"\n   \n   \n"
+}

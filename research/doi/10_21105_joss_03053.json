@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.03053",
+ "source": "crossref",
+ "state": "ok",
+ "title": "GeophysicalFlows.jl: Solvers for geophysical fluid dynamics problems in periodic domains on CPUs  GPUs",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

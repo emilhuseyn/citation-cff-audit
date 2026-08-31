@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.httptest",
+ "source": "crossref",
+ "state": "ok",
+ "title": "httptest: A Test Environment for HTTP Requests",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

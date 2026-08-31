@@ -1,0 +1,9 @@
+{
+ "repo": "WBK-Robotics/pybullet_industrial",
+ "joss_doi": "10.21105/joss.05174",
+ "joss_title": "PyBullet Industrial: A process-aware robot simulation",
+ "joss_published": "2023-05-18T13:10:37.737Z",
+ "software_repository": "https://github.com/WBK-Robotics/pybullet_industrial",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Baumg\u00e4rtner\n  given-names: Jan\n  orcid: \"https://orcid.org/0000-0002-7825-3476\"\n- family-names: Hansjosten\n  given-names: Malte\n- family-names: Sch\u00f6nhofen\n  given-names: Dominik\n- family-names: Fleischer\n  given-names: Prof. Dr.-Ing. J\u00fcrgen\n  orcid: \"https://orcid.org/0000-0003-0961-7675\"\ndoi: 10.5281/zenodo.7833292\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Baumg\u00e4rtner\n    given-names: Jan\n    orcid: \"https://orcid.org/0000-0002-7825-3476\"\n  - family-names: Hansjosten\n    given-names: Malte\n  - family-names: Sch\u00f6nhofen\n    given-names: Dominik\n  - family-names: Fleischer\n    given-names: Prof. Dr.-Ing. J\u00fcrgen\n    orcid: \"https://orcid.org/0000-0003-0961-7675\"\n  date-published: 2023-05-18\n  doi: 10.21105/joss.05174\n  issn: 2475-9066\n  issue: 85\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5174\n  title: \"PyBullet Industrial: A process-aware robot simulation\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05174\"\n  volume: 8\ntitle: \"PyBullet Industrial: A process-aware robot simulation\"\n"
+}

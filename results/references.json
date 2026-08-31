@@ -1,0 +1,988 @@
+{
+ "principles": {
+  "handle": "principles",
+  "doi": "10.7717/peerj-cs.86",
+  "title": "Software citation principles",
+  "year": 2016,
+  "type": "journal-article",
+  "ratio": 1.0,
+  "container": "PeerJ Computer Science",
+  "volume": "2",
+  "issue": "",
+  "pages": "e86",
+  "authors": [
+   {
+    "family": "Smith",
+    "given": "Arfon M."
+   },
+   {
+    "family": "Katz",
+    "given": "Daniel S."
+   },
+   {
+    "family": "Niemeyer",
+    "given": "Kyle E."
+   },
+   {
+    "family": "",
+    "given": ""
+   }
+  ],
+  "authors_apa": "Smith, A. M., Katz, D. S., Niemeyer, K. E., & FORCE11 Software Citation Working Group",
+  "apa": "Smith, A. M., Katz, D. S., Niemeyer, K. E., & FORCE11 Software Citation Working Group (2016). Software citation principles. *PeerJ Computer Science*, *2*, e86. https://doi.org/10.7717/peerj-cs.86",
+  "cite": "Smith et al. (2016)",
+  "paren": "Smith et al., 2016"
+ },
+ "progress": {
+  "handle": "progress",
+  "doi": "10.7717/peerj-cs.1022",
+  "title": "Understanding progress in software citation: a study of software citation in the CORD-19 corpus",
+  "year": 2022,
+  "type": "journal-article",
+  "ratio": 1.0,
+  "container": "PeerJ Computer Science",
+  "volume": "8",
+  "issue": "",
+  "pages": "e1022",
+  "authors": [
+   {
+    "family": "Du",
+    "given": "Caifan"
+   },
+   {
+    "family": "Cohoon",
+    "given": "Johanna"
+   },
+   {
+    "family": "Lopez",
+    "given": "Patrice"
+   },
+   {
+    "family": "Howison",
+    "given": "James"
+   }
+  ],
+  "authors_apa": "Du, C., Cohoon, J., Lopez, P., & Howison, J.",
+  "apa": "Du, C., Cohoon, J., Lopez, P., & Howison, J. (2022). Understanding progress in software citation: a study of software citation in the CORD-19 corpus. *PeerJ Computer Science*, *8*, e1022. https://doi.org/10.7717/peerj-cs.1022",
+  "cite": "Du et al. (2022)",
+  "paren": "Du et al., 2022"
+ },
+ "r_formats": {
+  "handle": "r_formats",
+  "doi": "10.1007/s11192-024-05064-6",
+  "title": "How do official software citation formats evolve over time? A longitudinal analysis of R programming language packages",
+  "year": 2024,
+  "type": "journal-article",
+  "ratio": 1.0,
+  "container": "Scientometrics",
+  "volume": "129",
+  "issue": "7",
+  "pages": "3997-4019",
+  "authors": [
+   {
+    "family": "Wang",
+    "given": "Yuzhuo"
+   },
+   {
+    "family": "Li",
+    "given": "Kai"
+   }
+  ],
+  "authors_apa": "Wang, Y., & Li, K.",
+  "apa": "Wang, Y., & Li, K. (2024). How do official software citation formats evolve over time? A longitudinal analysis of R programming language packages. *Scientometrics*, *129*(7), 3997-4019. https://doi.org/10.1007/s11192-024-05064-6",
+  "cite": "Wang and Li (2024)",
+  "paren": "Wang & Li, 2024"
+ },
+ "metadata_bench": {
+  "handle": "metadata_bench",
+  "doi": "10.1007/s11192-026-05727-6",
+  "title": "Beyond existence checks: a cross-database benchmark of bibliographic metadata consistency across academic domains and LLM-generated citations",
+  "year": 2026,
+  "type": "journal-article",
+  "ratio": 1.0,
+  "container": "Scientometrics",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "authors": [
+   {
+    "family": "Chen",
+    "given": "Chung-Kuang"
+   },
+   {
+    "family": "Liang",
+    "given": "Shu-Hao"
+   },
+   {
+    "family": "Wang",
+    "given": "Teng-Shih"
+   }
+  ],
+  "authors_apa": "Chen, C., Liang, S., & Wang, T.",
+  "apa": "Chen, C., Liang, S., & Wang, T. (2026). Beyond existence checks: a cross-database benchmark of bibliographic metadata consistency across academic domains and LLM-generated citations. *Scientometrics*. https://doi.org/10.1007/s11192-026-05727-6",
+  "cite": "Chen et al. (2026)",
+  "paren": "Chen et al., 2026"
+ },
+ "dci": {
+  "handle": "dci",
+  "doi": "10.1016/j.joi.2019.03.005",
+  "title": "Research software citation in the Data Citation Index: Current practices and implications for research software sharing and reuse",
+  "year": 2019,
+  "type": "journal-article",
+  "ratio": 1.0,
+  "container": "Journal of Informetrics",
+  "volume": "13",
+  "issue": "2",
+  "pages": "574-582",
+  "authors": [
+   {
+    "family": "Park",
+    "given": "Hyoungjoo"
+   },
+   {
+    "family": "Wolfram",
+    "given": "Dietmar"
+   }
+  ],
+  "authors_apa": "Park, H., & Wolfram, D.",
+  "apa": "Park, H., & Wolfram, D. (2019). Research software citation in the Data Citation Index: Current practices and implications for research software sharing and reuse. *Journal of Informetrics*, *13*(2), 574-582. https://doi.org/10.1016/j.joi.2019.03.005",
+  "cite": "Park and Wolfram (2019)",
+  "paren": "Park & Wolfram, 2019"
+ },
+ "in_code": {
+  "handle": "in_code",
+  "doi": "10.1016/j.joi.2021.101139",
+  "title": "In-code citation practices in open research software libraries",
+  "year": 2021,
+  "type": "journal-article",
+  "ratio": 1.0,
+  "container": "Journal of Informetrics",
+  "volume": "15",
+  "issue": "2",
+  "pages": "101139",
+  "authors": [
+   {
+    "family": "Alsudais",
+    "given": "Abdulkareem"
+   }
+  ],
+  "authors_apa": "Alsudais, A.",
+  "apa": "Alsudais, A. (2021). In-code citation practices in open research software libraries. *Journal of Informetrics*, *15*(2), 101139. https://doi.org/10.1016/j.joi.2021.101139",
+  "cite": "Alsudais (2021)",
+  "paren": "Alsudais, 2021"
+ },
+ "challenges": {
+  "handle": "challenges",
+  "doi": "10.1016/j.joi.2019.02.007",
+  "title": "Challenges of measuring software impact through citations: An examination of the lme4 R package",
+  "year": 2019,
+  "type": "journal-article",
+  "ratio": 1.0,
+  "container": "Journal of Informetrics",
+  "volume": "13",
+  "issue": "1",
+  "pages": "449-461",
+  "authors": [
+   {
+    "family": "Li",
+    "given": "Kai"
+   },
+   {
+    "family": "Chen",
+    "given": "Pei-Ying"
+   },
+   {
+    "family": "Yan",
+    "given": "Erjia"
+   }
+  ],
+  "authors_apa": "Li, K., Chen, P., & Yan, E.",
+  "apa": "Li, K., Chen, P., & Yan, E. (2019). Challenges of measuring software impact through citations: An examination of the lme4 R package. *Journal of Informetrics*, *13*(1), 449-461. https://doi.org/10.1016/j.joi.2019.02.007",
+  "cite": "Li et al. (2019)",
+  "paren": "Li et al., 2019"
+ },
+ "bootstrapped": {
+  "handle": "bootstrapped",
+  "doi": "10.1016/j.joi.2015.07.012",
+  "title": "Assessing the impact of software on science: A bootstrapped learning of software entities in full-text papers",
+  "year": 2015,
+  "type": "journal-article",
+  "ratio": 1.0,
+  "container": "Journal of Informetrics",
+  "volume": "9",
+  "issue": "4",
+  "pages": "860-871",
+  "authors": [
+   {
+    "family": "Pan",
+    "given": "Xuelian"
+   },
+   {
+    "family": "Yan",
+    "given": "Erjia"
+   },
+   {
+    "family": "Wang",
+    "given": "Qianqian"
+   },
+   {
+    "family": "Hua",
+    "given": "Weina"
+   }
+  ],
+  "authors_apa": "Pan, X., Yan, E., Wang, Q., & Hua, W.",
+  "apa": "Pan, X., Yan, E., Wang, Q., & Hua, W. (2015). Assessing the impact of software on science: A bootstrapped learning of software entities in full-text papers. *Journal of Informetrics*, *9*(4), 860-871. https://doi.org/10.1016/j.joi.2015.07.012",
+  "cite": "Pan et al. (2015)",
+  "paren": "Pan et al., 2015"
+ },
+ "lis_software": {
+  "handle": "lis_software",
+  "doi": "10.1016/j.joi.2019.02.002",
+  "title": "How important is software to library and information science research? A content analysis of full-text publications",
+  "year": 2019,
+  "type": "journal-article",
+  "ratio": 1.0,
+  "container": "Journal of Informetrics",
+  "volume": "13",
+  "issue": "1",
+  "pages": "397-406",
+  "authors": [
+   {
+    "family": "Pan",
+    "given": "Xuelian"
+   },
+   {
+    "family": "Yan",
+    "given": "Erjia"
+   },
+   {
+    "family": "Cui",
+    "given": "Ming"
+   },
+   {
+    "family": "Hua",
+    "given": "Weina"
+   }
+  ],
+  "authors_apa": "Pan, X., Yan, E., Cui, M., & Hua, W.",
+  "apa": "Pan, X., Yan, E., Cui, M., & Hua, W. (2019). How important is software to library and information science research? A content analysis of full-text publications. *Journal of Informetrics*, *13*(1), 397-406. https://doi.org/10.1016/j.joi.2019.02.002",
+  "cite": "Pan et al. (2019)",
+  "paren": "Pan et al., 2019"
+ },
+ "where_is_it": {
+  "handle": "where_is_it",
+  "doi": "10.7717/peerj-cs.1546",
+  "title": "Where is all the research software? An analysis of software in UK academic repositories",
+  "year": 2023,
+  "type": "journal-article",
+  "ratio": 1.0,
+  "container": "PeerJ Computer Science",
+  "volume": "9",
+  "issue": "",
+  "pages": "e1546",
+  "authors": [
+   {
+    "family": "Carlin",
+    "given": "Domhnall"
+   },
+   {
+    "family": "Rainer",
+    "given": "Austen"
+   },
+   {
+    "family": "Wilson",
+    "given": "David"
+   }
+  ],
+  "authors_apa": "Carlin, D., Rainer, A., & Wilson, D.",
+  "apa": "Carlin, D., Rainer, A., & Wilson, D. (2023). Where is all the research software? An analysis of software in UK academic repositories. *PeerJ Computer Science*, *9*, e1546. https://doi.org/10.7717/peerj-cs.1546",
+  "cite": "Carlin et al. (2023)",
+  "paren": "Carlin et al., 2023"
+ },
+ "registries": {
+  "handle": "registries",
+  "doi": "10.7717/peerj-cs.1023",
+  "title": "Nine best practices for research software registries and repositories",
+  "year": 2022,
+  "type": "journal-article",
+  "ratio": 1.0,
+  "container": "PeerJ Computer Science",
+  "volume": "8",
+  "issue": "",
+  "pages": "e1023",
+  "authors": [
+   {
+    "family": "Garijo",
+    "given": "Daniel"
+   },
+   {
+    "family": "Ménager",
+    "given": "Hervé"
+   },
+   {
+    "family": "Hwang",
+    "given": "Lorraine"
+   },
+   {
+    "family": "Trisovic",
+    "given": "Ana"
+   },
+   {
+    "family": "Hucka",
+    "given": "Michael"
+   },
+   {
+    "family": "Morrell",
+    "given": "Thomas"
+   },
+   {
+    "family": "Allen",
+    "given": "Alice"
+   },
+   {
+    "family": "",
+    "given": ""
+   },
+   {
+    "family": "",
+    "given": ""
+   }
+  ],
+  "authors_apa": "Garijo, D., Ménager, H., Hwang, L., Trisovic, A., Hucka, M., Morrell, T., Allen, A., Task Force on Best Practices for Software Registries, & SciCodes Consortium",
+  "apa": "Garijo, D., Ménager, H., Hwang, L., Trisovic, A., Hucka, M., Morrell, T., Allen, A., Task Force on Best Practices for Software Registries, & SciCodes Consortium (2022). Nine best practices for research software registries and repositories. *PeerJ Computer Science*, *8*, e1023. https://doi.org/10.7717/peerj-cs.1023",
+  "cite": "Garijo et al. (2022)",
+  "paren": "Garijo et al., 2022"
+ },
+ "joss": {
+  "handle": "joss",
+  "doi": "10.7717/peerj-cs.147",
+  "title": "Journal of Open Source Software (JOSS): design and first-year review",
+  "year": 2018,
+  "type": "journal-article",
+  "ratio": 1.0,
+  "container": "PeerJ Computer Science",
+  "volume": "4",
+  "issue": "",
+  "pages": "e147",
+  "authors": [
+   {
+    "family": "Smith",
+    "given": "Arfon M."
+   },
+   {
+    "family": "Niemeyer",
+    "given": "Kyle E."
+   },
+   {
+    "family": "Katz",
+    "given": "Daniel S."
+   },
+   {
+    "family": "Barba",
+    "given": "Lorena A."
+   },
+   {
+    "family": "Githinji",
+    "given": "George"
+   },
+   {
+    "family": "Gymrek",
+    "given": "Melissa"
+   },
+   {
+    "family": "Huff",
+    "given": "Kathryn D."
+   },
+   {
+    "family": "Madan",
+    "given": "Christopher R."
+   },
+   {
+    "family": "Cabunoc Mayes",
+    "given": "Abigail"
+   },
+   {
+    "family": "Moerman",
+    "given": "Kevin M."
+   },
+   {
+    "family": "Prins",
+    "given": "Pjotr"
+   },
+   {
+    "family": "Ram",
+    "given": "Karthik"
+   },
+   {
+    "family": "Rokem",
+    "given": "Ariel"
+   },
+   {
+    "family": "Teal",
+    "given": "Tracy K."
+   },
+   {
+    "family": "Valls Guimera",
+    "given": "Roman"
+   },
+   {
+    "family": "Vanderplas",
+    "given": "Jacob T."
+   }
+  ],
+  "authors_apa": "Smith, A. M., Niemeyer, K. E., Katz, D. S., Barba, L. A., Githinji, G., Gymrek, M., Huff, K. D., Madan, C. R., Cabunoc Mayes, A., Moerman, K. M., Prins, P., Ram, K., Rokem, A., Teal, T. K., Valls Guimera, R., & Vanderplas, J. T.",
+  "apa": "Smith, A. M., Niemeyer, K. E., Katz, D. S., Barba, L. A., Githinji, G., Gymrek, M., Huff, K. D., Madan, C. R., Cabunoc Mayes, A., Moerman, K. M., Prins, P., Ram, K., Rokem, A., Teal, T. K., Valls Guimera, R., & Vanderplas, J. T. (2018). Journal of Open Source Software (JOSS): design and first-year review. *PeerJ Computer Science*, *4*, e147. https://doi.org/10.7717/peerj-cs.147",
+  "cite": "Smith et al. (2018)",
+  "paren": "Smith et al., 2018"
+ },
+ "fair4rs": {
+  "handle": "fair4rs",
+  "doi": "10.1038/s41597-022-01710-x",
+  "title": "Introducing the FAIR Principles for research software",
+  "year": 2022,
+  "type": "journal-article",
+  "ratio": 1.0,
+  "container": "Scientific Data",
+  "volume": "9",
+  "issue": "1",
+  "pages": "",
+  "authors": [
+   {
+    "family": "Barker",
+    "given": "Michelle"
+   },
+   {
+    "family": "Chue Hong",
+    "given": "Neil P."
+   },
+   {
+    "family": "Katz",
+    "given": "Daniel S."
+   },
+   {
+    "family": "Lamprecht",
+    "given": "Anna-Lena"
+   },
+   {
+    "family": "Martinez-Ortiz",
+    "given": "Carlos"
+   },
+   {
+    "family": "Psomopoulos",
+    "given": "Fotis"
+   },
+   {
+    "family": "Harrow",
+    "given": "Jennifer"
+   },
+   {
+    "family": "Castro",
+    "given": "Leyla Jael"
+   },
+   {
+    "family": "Gruenpeter",
+    "given": "Morane"
+   },
+   {
+    "family": "Martinez",
+    "given": "Paula Andrea"
+   },
+   {
+    "family": "Honeyman",
+    "given": "Tom"
+   }
+  ],
+  "authors_apa": "Barker, M., Chue Hong, N. P., Katz, D. S., Lamprecht, A., Martinez-Ortiz, C., Psomopoulos, F., Harrow, J., Castro, L. J., Gruenpeter, M., Martinez, P. A., & Honeyman, T.",
+  "apa": "Barker, M., Chue Hong, N. P., Katz, D. S., Lamprecht, A., Martinez-Ortiz, C., Psomopoulos, F., Harrow, J., Castro, L. J., Gruenpeter, M., Martinez, P. A., & Honeyman, T. (2022). Introducing the FAIR Principles for research software. *Scientific Data*, *9*(1). https://doi.org/10.1038/s41597-022-01710-x",
+  "cite": "Barker et al. (2022)",
+  "paren": "Barker et al., 2022"
+ },
+ "fair": {
+  "handle": "fair",
+  "doi": "10.1038/sdata.2016.18",
+  "title": "The FAIR Guiding Principles for scientific data management and stewardship",
+  "year": 2016,
+  "type": "journal-article",
+  "ratio": 1.0,
+  "container": "Scientific Data",
+  "volume": "3",
+  "issue": "1",
+  "pages": "",
+  "authors": [
+   {
+    "family": "Wilkinson",
+    "given": "Mark D."
+   },
+   {
+    "family": "Dumontier",
+    "given": "Michel"
+   },
+   {
+    "family": "Aalbersberg",
+    "given": "IJsbrand Jan"
+   },
+   {
+    "family": "Appleton",
+    "given": "Gabrielle"
+   },
+   {
+    "family": "Axton",
+    "given": "Myles"
+   },
+   {
+    "family": "Baak",
+    "given": "Arie"
+   },
+   {
+    "family": "Blomberg",
+    "given": "Niklas"
+   },
+   {
+    "family": "Boiten",
+    "given": "Jan-Willem"
+   },
+   {
+    "family": "da Silva Santos",
+    "given": "Luiz Bonino"
+   },
+   {
+    "family": "Bourne",
+    "given": "Philip E."
+   },
+   {
+    "family": "Bouwman",
+    "given": "Jildau"
+   },
+   {
+    "family": "Brookes",
+    "given": "Anthony J."
+   },
+   {
+    "family": "Clark",
+    "given": "Tim"
+   },
+   {
+    "family": "Crosas",
+    "given": "Mercè"
+   },
+   {
+    "family": "Dillo",
+    "given": "Ingrid"
+   },
+   {
+    "family": "Dumon",
+    "given": "Olivier"
+   },
+   {
+    "family": "Edmunds",
+    "given": "Scott"
+   },
+   {
+    "family": "Evelo",
+    "given": "Chris T."
+   },
+   {
+    "family": "Finkers",
+    "given": "Richard"
+   },
+   {
+    "family": "Gonzalez-Beltran",
+    "given": "Alejandra"
+   },
+   {
+    "family": "Gray",
+    "given": "Alasdair J.G."
+   },
+   {
+    "family": "Groth",
+    "given": "Paul"
+   },
+   {
+    "family": "Goble",
+    "given": "Carole"
+   },
+   {
+    "family": "Grethe",
+    "given": "Jeffrey S."
+   },
+   {
+    "family": "Heringa",
+    "given": "Jaap"
+   },
+   {
+    "family": "’t Hoen",
+    "given": "Peter A.C"
+   },
+   {
+    "family": "Hooft",
+    "given": "Rob"
+   },
+   {
+    "family": "Kuhn",
+    "given": "Tobias"
+   },
+   {
+    "family": "Kok",
+    "given": "Ruben"
+   },
+   {
+    "family": "Kok",
+    "given": "Joost"
+   },
+   {
+    "family": "Lusher",
+    "given": "Scott J."
+   },
+   {
+    "family": "Martone",
+    "given": "Maryann E."
+   },
+   {
+    "family": "Mons",
+    "given": "Albert"
+   },
+   {
+    "family": "Packer",
+    "given": "Abel L."
+   },
+   {
+    "family": "Persson",
+    "given": "Bengt"
+   },
+   {
+    "family": "Rocca-Serra",
+    "given": "Philippe"
+   },
+   {
+    "family": "Roos",
+    "given": "Marco"
+   },
+   {
+    "family": "van Schaik",
+    "given": "Rene"
+   },
+   {
+    "family": "Sansone",
+    "given": "Susanna-Assunta"
+   },
+   {
+    "family": "Schultes",
+    "given": "Erik"
+   },
+   {
+    "family": "Sengstag",
+    "given": "Thierry"
+   },
+   {
+    "family": "Slater",
+    "given": "Ted"
+   },
+   {
+    "family": "Strawn",
+    "given": "George"
+   },
+   {
+    "family": "Swertz",
+    "given": "Morris A."
+   },
+   {
+    "family": "Thompson",
+    "given": "Mark"
+   },
+   {
+    "family": "van der Lei",
+    "given": "Johan"
+   },
+   {
+    "family": "van Mulligen",
+    "given": "Erik"
+   },
+   {
+    "family": "Velterop",
+    "given": "Jan"
+   },
+   {
+    "family": "Waagmeester",
+    "given": "Andra"
+   },
+   {
+    "family": "Wittenburg",
+    "given": "Peter"
+   },
+   {
+    "family": "Wolstencroft",
+    "given": "Katherine"
+   },
+   {
+    "family": "Zhao",
+    "given": "Jun"
+   },
+   {
+    "family": "Mons",
+    "given": "Barend"
+   }
+  ],
+  "authors_apa": "Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., Appleton, G., Axton, M., Baak, A., Blomberg, N., Boiten, J., da Silva Santos, L. B., Bourne, P. E., Bouwman, J., Brookes, A. J., Clark, T., Crosas, M., Dillo, I., Dumon, O., Edmunds, S., Evelo, C. T., Finkers, R., ... Mons, B.",
+  "apa": "Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., Appleton, G., Axton, M., Baak, A., Blomberg, N., Boiten, J., da Silva Santos, L. B., Bourne, P. E., Bouwman, J., Brookes, A. J., Clark, T., Crosas, M., Dillo, I., Dumon, O., Edmunds, S., Evelo, C. T., Finkers, R., ... Mons, B. (2016). The FAIR Guiding Principles for scientific data management and stewardship. *Scientific Data*, *3*(1). https://doi.org/10.1038/sdata.2016.18",
+  "cite": "Wilkinson et al. (2016)",
+  "paren": "Wilkinson et al., 2016"
+ },
+ "guide": {
+  "handle": "guide",
+  "doi": "10.12688/f1000research.26932.2",
+  "title": "Recognizing the value of software: a software citation guide",
+  "year": 2021,
+  "type": "journal-article",
+  "ratio": 1.0,
+  "container": "F1000Research",
+  "volume": "9",
+  "issue": "",
+  "pages": "1257",
+  "authors": [
+   {
+    "family": "Katz",
+    "given": "Daniel S."
+   },
+   {
+    "family": "Chue Hong",
+    "given": "Neil P."
+   },
+   {
+    "family": "Clark",
+    "given": "Tim"
+   },
+   {
+    "family": "Muench",
+    "given": "August"
+   },
+   {
+    "family": "Stall",
+    "given": "Shelley"
+   },
+   {
+    "family": "Bouquin",
+    "given": "Daina"
+   },
+   {
+    "family": "Cannon",
+    "given": "Matthew"
+   },
+   {
+    "family": "Edmunds",
+    "given": "Scott"
+   },
+   {
+    "family": "Faez",
+    "given": "Telli"
+   },
+   {
+    "family": "Feeney",
+    "given": "Patricia"
+   },
+   {
+    "family": "Fenner",
+    "given": "Martin"
+   },
+   {
+    "family": "Friedman",
+    "given": "Michael"
+   },
+   {
+    "family": "Grenier",
+    "given": "Gerry"
+   },
+   {
+    "family": "Harrison",
+    "given": "Melissa"
+   },
+   {
+    "family": "Heber",
+    "given": "Joerg"
+   },
+   {
+    "family": "Leary",
+    "given": "Adam"
+   },
+   {
+    "family": "MacCallum",
+    "given": "Catriona"
+   },
+   {
+    "family": "Murray",
+    "given": "Hollydawn"
+   },
+   {
+    "family": "Pastrana",
+    "given": "Erika"
+   },
+   {
+    "family": "Perry",
+    "given": "Katherine"
+   },
+   {
+    "family": "Schuster",
+    "given": "Douglas"
+   },
+   {
+    "family": "Stockhause",
+    "given": "Martina"
+   },
+   {
+    "family": "Yeston",
+    "given": "Jake"
+   }
+  ],
+  "authors_apa": "Katz, D. S., Chue Hong, N. P., Clark, T., Muench, A., Stall, S., Bouquin, D., Cannon, M., Edmunds, S., Faez, T., Feeney, P., Fenner, M., Friedman, M., Grenier, G., Harrison, M., Heber, J., Leary, A., MacCallum, C., Murray, H., Pastrana, E., ... Yeston, J.",
+  "apa": "Katz, D. S., Chue Hong, N. P., Clark, T., Muench, A., Stall, S., Bouquin, D., Cannon, M., Edmunds, S., Faez, T., Feeney, P., Fenner, M., Friedman, M., Grenier, G., Harrison, M., Heber, J., Leary, A., MacCallum, C., Murray, H., Pastrana, E., ... Yeston, J. (2021). Recognizing the value of software: a software citation guide. *F1000Research*, *9*, 1257. https://doi.org/10.12688/f1000research.26932.2",
+  "cite": "Katz et al. (2021)",
+  "paren": "Katz et al., 2021"
+ },
+ "softcite": {
+  "handle": "softcite",
+  "doi": "10.1002/asi.24454",
+  "title": "Softcite dataset: A dataset of software mentions in biomedical and economic research publications",
+  "year": 2021,
+  "type": "journal-article",
+  "ratio": 1.0,
+  "container": "Journal of the Association for Information Science and Technology",
+  "volume": "72",
+  "issue": "7",
+  "pages": "870-884",
+  "authors": [
+   {
+    "family": "Du",
+    "given": "Caifan"
+   },
+   {
+    "family": "Cohoon",
+    "given": "Johanna"
+   },
+   {
+    "family": "Lopez",
+    "given": "Patrice"
+   },
+   {
+    "family": "Howison",
+    "given": "James"
+   }
+  ],
+  "authors_apa": "Du, C., Cohoon, J., Lopez, P., & Howison, J.",
+  "apa": "Du, C., Cohoon, J., Lopez, P., & Howison, J. (2021). Softcite dataset: A dataset of software mentions in biomedical and economic research publications. *Journal of the Association for Information Science and Technology*, *72*(7), 870-884. https://doi.org/10.1002/asi.24454",
+  "cite": "Du et al. (2021)",
+  "paren": "Du et al., 2021"
+ },
+ "rse_encyclopedia": {
+  "handle": "rse_encyclopedia",
+  "doi": "10.5334/jors.359",
+  "title": "The Research Software Encyclopedia: A Community Framework to Define Research Software",
+  "year": 2022,
+  "type": "journal-article",
+  "ratio": 1.0,
+  "container": "Journal of Open Research Software",
+  "volume": "10",
+  "issue": "1",
+  "pages": "2",
+  "authors": [
+   {
+    "family": "Sochat",
+    "given": "Vanessa"
+   },
+   {
+    "family": "May",
+    "given": "Nicholas"
+   },
+   {
+    "family": "Cosden",
+    "given": "Ian"
+   },
+   {
+    "family": "Martinez-Ortiz",
+    "given": "Carlos"
+   },
+   {
+    "family": "Bartholomew",
+    "given": "Sadie"
+   }
+  ],
+  "authors_apa": "Sochat, V., May, N., Cosden, I., Martinez-Ortiz, C., & Bartholomew, S.",
+  "apa": "Sochat, V., May, N., Cosden, I., Martinez-Ortiz, C., & Bartholomew, S. (2022). The Research Software Encyclopedia: A Community Framework to Define Research Software. *Journal of Open Research Software*, *10*(1), 2. https://doi.org/10.5334/jors.359",
+  "cite": "Sochat et al. (2022)",
+  "paren": "Sochat et al., 2022"
+ },
+ "perils": {
+  "handle": "perils",
+  "doi": "10.1145/2597073.2597074",
+  "title": "The promises and perils of mining GitHub",
+  "year": 2014,
+  "type": "proceedings-article",
+  "ratio": 1.0,
+  "container": "Proceedings of the 11th Working Conference on Mining Software Repositories",
+  "volume": "",
+  "issue": "",
+  "pages": "92-101",
+  "authors": [
+   {
+    "family": "Kalliamvakou",
+    "given": "Eirini"
+   },
+   {
+    "family": "Gousios",
+    "given": "Georgios"
+   },
+   {
+    "family": "Blincoe",
+    "given": "Kelly"
+   },
+   {
+    "family": "Singer",
+    "given": "Leif"
+   },
+   {
+    "family": "German",
+    "given": "Daniel M."
+   },
+   {
+    "family": "Damian",
+    "given": "Daniela"
+   }
+  ],
+  "authors_apa": "Kalliamvakou, E., Gousios, G., Blincoe, K., Singer, L., German, D. M., & Damian, D.",
+  "apa": "Kalliamvakou, E., Gousios, G., Blincoe, K., Singer, L., German, D. M., & Damian, D. (2014). The promises and perils of mining GitHub. *Proceedings of the 11th Working Conference on Mining Software Repositories*, 92-101. https://doi.org/10.1145/2597073.2597074",
+  "cite": "Kalliamvakou et al. (2014)",
+  "paren": "Kalliamvakou et al., 2014"
+ },
+ "curating": {
+  "handle": "curating",
+  "doi": "10.1007/s10664-017-9512-6",
+  "title": "Curating GitHub for engineered software projects",
+  "year": 2017,
+  "type": "journal-article",
+  "ratio": 1.0,
+  "container": "Empirical Software Engineering",
+  "volume": "22",
+  "issue": "6",
+  "pages": "3219-3253",
+  "authors": [
+   {
+    "family": "Munaiah",
+    "given": "Nuthan"
+   },
+   {
+    "family": "Kroh",
+    "given": "Steven"
+   },
+   {
+    "family": "Cabrey",
+    "given": "Craig"
+   },
+   {
+    "family": "Nagappan",
+    "given": "Meiyappan"
+   }
+  ],
+  "authors_apa": "Munaiah, N., Kroh, S., Cabrey, C., & Nagappan, M.",
+  "apa": "Munaiah, N., Kroh, S., Cabrey, C., & Nagappan, M. (2017). Curating GitHub for engineered software projects. *Empirical Software Engineering*, *22*(6), 3219-3253. https://doi.org/10.1007/s10664-017-9512-6",
+  "cite": "Munaiah et al. (2017)",
+  "paren": "Munaiah et al., 2017"
+ }
+}

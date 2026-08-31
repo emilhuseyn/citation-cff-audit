@@ -1,0 +1,9 @@
+{
+ "repo": "earthlab/earthpy",
+ "joss_doi": "10.21105/joss.01886",
+ "joss_title": "EarthPy: A Python package that makes it easier to explore and plot raster and vector data using open source Python tools.",
+ "joss_published": "2019-11-13T18:12:20.127Z",
+ "software_repository": "https://github.com/earthlab/earthpy",
+ "status": 404,
+ "cff": null
+}

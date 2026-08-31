@@ -1,0 +1,9 @@
+{
+ "repo": "lskatz/fasten",
+ "joss_doi": "10.21105/joss.06030",
+ "joss_title": "Fasten: a toolkit for streaming operations on fastq files",
+ "joss_published": "2024-02-12T12:06:13.392Z",
+ "software_repository": "https://github.com/lskatz/fasten",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Katz\"\n  given-names: \"Lee\"\n  orcid: \"https://orcid.org/0000-0002-2533-9161\"\n- family-names: \"Phan\"\n  given-names: \"John\"\n- family-names: \"Den Bakker\"\n  given-names: \"Hendrik\"\n  orcid: \"https://orcid.org/0000-0002-4086-1580\"\ntitle: \"fasten\"\nurl: \"https://github.com/lskatz/fasten\"\n"
+}

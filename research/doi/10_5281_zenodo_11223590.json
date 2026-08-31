@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.11223590",
+ "source": "datacite",
+ "state": "ok",
+ "title": "BibDedupe: An Open-Source Python Library for Bibliographic Record Deduplication",
+ "type": "Software",
+ "container": ""
+}

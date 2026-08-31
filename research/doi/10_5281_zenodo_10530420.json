@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.10530420",
+ "source": "datacite",
+ "state": "ok",
+ "title": "hillmaker: A Python package for occupancy analysis in discrete entity flow systems",
+ "type": "Software",
+ "container": ""
+}

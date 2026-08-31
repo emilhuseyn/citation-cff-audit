@@ -1,0 +1,9 @@
+{
+ "repo": "PMEAL/porespy",
+ "joss_doi": "10.21105/joss.01296",
+ "joss_title": "PoreSpy: A Python Toolkit for Quantitative Analysis of Porous Media Images",
+ "joss_published": "2019-05-01T15:10:59.476Z",
+ "software_repository": "https://github.com/PMEAL/porespy",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Gostick\"\n  given-names: \"Jeff\"\n  orcid: \"https://orcid.org/0000-0001-7736-7124\"\ntitle: \"PoreSpy\"\nurl: \"https://github.com/PMEAL/porespy\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Gostick\"\n    given-names: \"Jeff\"\n    orcid: \"https://orcid.org/0000-0001-7736-7124\"\n  - family-names: \"Khan\"\n    given-names: \"Zohaib A.\"\n  - family-names: \"Tranter\"\n    given-names: \"Thomas\"\n  - family-names: \"Kok\"\n    given-names: \"Matthew\"\n  - family-names: \"Agnaou\"\n    given-names: \"Mehrez\"\n  - family-names: \"Sadeghi\"\n    given-names: \"Mohammadamin\"\n  - family-names: \"Jervis\"\n    given-names: \"Rhodri\"\n  doi: \"10.21105/joss.01296\"\n  journal: \"Journal of Open Source Software\"\n  title: \"PoreSpy: A python toolkit for quantitative analysis of porous media images\"\n  year: 2019\n"
+}

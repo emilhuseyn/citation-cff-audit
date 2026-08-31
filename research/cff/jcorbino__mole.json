@@ -1,0 +1,9 @@
+{
+ "repo": "jcorbino/mole",
+ "joss_doi": "10.21105/joss.06288",
+ "joss_title": "MOLE: Mimetic Operators Library Enhanced",
+ "joss_published": "2024-07-17T20:51:59.383Z",
+ "software_repository": "https://github.com/jcorbino/mole",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Corbino\n  given-names: Johnny\n  orcid: \"https://orcid.org/0000-0002-2638-9216\"\n- family-names: Dumett\n  given-names: Miguel A.\n- family-names: Castillo\n  given-names: Jose E.\ncontact:\n- family-names: Corbino\n  given-names: Johnny\n  orcid: \"https://orcid.org/0000-0002-2638-9216\"\ndoi: 10.5281/zenodo.12752946\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Corbino\n    given-names: Johnny\n    orcid: \"https://orcid.org/0000-0002-2638-9216\"\n  - family-names: Dumett\n    given-names: Miguel A.\n  - family-names: Castillo\n    given-names: Jose E.\n  date-published: 2024-07-17\n  doi: 10.21105/joss.06288\n  issn: 2475-9066\n  issue: 99\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6288\n  title: \"MOLE: Mimetic Operators Library Enhanced\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06288\"\n  volume: 9\ntitle: \"MOLE: Mimetic Operators Library Enhanced\"\n"
+}

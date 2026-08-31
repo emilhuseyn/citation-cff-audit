@@ -1,0 +1,9 @@
+{
+ "repo": "unfoldtoolbox/UnfoldMakie.jl",
+ "joss_doi": "10.21105/joss.07560",
+ "joss_title": "UnfoldMakie.jl: EEG/ERP visualization package",
+ "joss_published": "2025-01-09T21:49:06.548Z",
+ "software_repository": "https://github.com/unfoldtoolbox/UnfoldMakie.jl ",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- given-names: Vladimir\n  family-names: Mikheev\n  orcid: 'https://orcid.org/0000-0002-4738-6655'\n- given-names: Benedikt\n  family-names: Ehinger\n  orcid: 'https://orcid.org/0000-0002-6276-3332'\ntitle: 'UnfoldMakie.jl: EEG/ERP visualization package'\nversion: 0.5.10\ndoi: 10.21105/joss.07560\ndate-released: '2025-01-10'\nurl: 'https://github.com/unfoldtoolbox/UnfoldMakie.jl'\npreferred-citation:\n  type: article\n  authors:\n  - given-names: Vladimir\n    family-names: Mikheev\n    orcid: 'https://orcid.org/0000-0002-4738-6655'\n  - given-names: Benedikt\n    family-names: Ehinger\n    orcid: 'https://orcid.org/0000-0002-6276-3332'\n  doi: 10.21105/joss.07560\n  journal: 'Journal of Open Source Software'\n  month: 1\n  title: 'UnfoldMakie.jl: EEG/ERP visualization package'\n  volume : 10\n  number: 105\n  pages: 7560\n  year: 2025"
+}

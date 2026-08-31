@@ -1,0 +1,9 @@
+{
+ "repo": "kerkelae/disimpy",
+ "joss_doi": "10.21105/joss.02527",
+ "joss_title": "Disimpy: A massively parallel Monte Carlo simulator for generating diffusion-weighted MRI data in Python",
+ "joss_published": "2020-08-26T12:31:23.155Z",
+ "software_repository": "https://github.com/kerkelae/disimpy",
+ "status": 404,
+ "cff": null
+}

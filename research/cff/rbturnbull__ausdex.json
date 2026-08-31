@@ -1,0 +1,9 @@
+{
+ "repo": "rbturnbull/ausdex",
+ "joss_doi": "10.21105/joss.04212",
+ "joss_title": "ausdex: A Python package for adjusting Australian dollars for inflation",
+ "joss_published": "2022-07-06T11:31:24.833Z",
+ "software_repository": "https://github.com/rbturnbull/ausdex",
+ "status": 200,
+ "cff": "# YAML 1.2\n---\nauthors: \n  -\n    family-names: Turnbull\n    given-names: Robert\n    orcid: \"https://orcid.org/0000-0003-1274-6750\"\n  -\n    family-names: Garber\n    given-names: Jonathan\n    orcid: \"https://orcid.org/0000-0001-6754-4748\"\ncff-version: \"1.1.0\"\ndate-released: 2021-08-26\nlicense: \"Apache-2.0\"\nmessage: \"If you use this software, please cite it as below.\"\nrepository-code: \"https://github.com/rbturnbull/ausdex.git\"\ntitle: ausdex\n..."
+}

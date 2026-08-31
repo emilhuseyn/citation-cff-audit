@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.covr",
+ "source": "crossref",
+ "state": "ok",
+ "title": "covr: Test Coverage for Packages",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.8251379",
+ "source": "datacite",
+ "state": "ok",
+ "title": "target-methylseq-qc: a lightweight pipeline for collecting metrics from targeted sequence mapping files",
+ "type": "Software",
+ "container": ""
+}

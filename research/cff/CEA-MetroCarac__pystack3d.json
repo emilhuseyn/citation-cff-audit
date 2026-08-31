@@ -1,0 +1,9 @@
+{
+ "repo": "CEA-MetroCarac/pystack3d",
+ "joss_doi": "10.21105/joss.07079",
+ "joss_title": "PyStack3D: A python package for fast image stack correction",
+ "joss_published": "2024-09-23T14:25:08.642Z",
+ "software_repository": "https://github.com/CEA-MetroCarac/pystack3d",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Qu\u00e9m\u00e9r\u00e9\n  given-names: Patrick\n  orcid: \"https://orcid.org/0009-0008-6936-1249\"\n- family-names: David\n  given-names: Thomas\n  orcid: \"https://orcid.org/0000-0002-6796-220X\"\ndoi: 10.5281/zenodo.13827928\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Qu\u00e9m\u00e9r\u00e9\n    given-names: Patrick\n    orcid: \"https://orcid.org/0009-0008-6936-1249\"\n  - family-names: David\n    given-names: Thomas\n    orcid: \"https://orcid.org/0000-0002-6796-220X\"\n  date-published: 2024-09-23\n  doi: 10.21105/joss.07079\n  issn: 2475-9066\n  issue: 101\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7079\n  title: \"PyStack3D: A python package for fast image stack correction\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07079\"\n  volume: 9\ntitle: \"PyStack3D: A python package for fast image stack correction\"\n"
+}

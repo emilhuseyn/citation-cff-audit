@@ -1,0 +1,9 @@
+{
+ "repo": "kassalgroup/dKMC.jl",
+ "joss_doi": "10.21105/joss.08722",
+ "joss_title": "dKMC: Delocalised kinetic Monte Carlo for simulating fundamental transport processes involving partially delocalised carriers in disordered materials",
+ "joss_published": "2025-12-10T15:22:30.949Z",
+ "software_repository": "https://github.com/kassalgroup/dKMC.jl",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Daniel\"\n  given-names: \"Balzer\"\n  orcid: \"https://orcid.org/0000-0002-4640-1059\"\n- family-names: \"Ivan\"\n  given-names: \"Kassal\"\n  orcid: \"https://orcid.org/0000-0002-8376-0819\"\ntitle: \"dKMC\"\nversion: 1.1\ndoi: 10.5281/zenodo.17844629\ndate-released: 2025-12-7\nurl: \"https://github.com/kassalgroup/dKMC.jl\""
+}

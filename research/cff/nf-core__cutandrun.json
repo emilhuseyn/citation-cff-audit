@@ -1,0 +1,9 @@
+{
+ "repo": "nf-core/cutandrun",
+ "joss_doi": "10.21105/joss.09672",
+ "joss_title": "nf-core/cutandrun: A Nextflow pipeline for the analysis of CUT&RUN, CUT&Tag and TIP-seq datasets",
+ "joss_published": "2026-03-16T15:26:39.582Z",
+ "software_repository": "https://github.com/nf-core/cutandrun",
+ "status": 404,
+ "cff": null
+}

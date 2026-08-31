@@ -1,0 +1,9 @@
+{
+ "repo": "dragoon-rs/komodo",
+ "joss_doi": "10.21105/joss.09791",
+ "joss_title": "Komodo: Cryptographically-proven Erasure Coding",
+ "joss_published": "2026-05-06T13:29:33.747Z",
+ "software_repository": "https://github.com/dragoon-rs/komodo",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Stevan\n  given-names: Antoine\n  orcid: \"https://orcid.org/0009-0003-5684-5862\"\n- family-names: Detchart\n  given-names: Jonathan\n  orcid: \"https://orcid.org/0000-0002-4237-5981\"\n- family-names: P\u00e9rennou\n  given-names: Tanguy\n  orcid: \"https://orcid.org/0009-0002-2542-0004\"\n- family-names: Lacan\n  given-names: J\u00e9r\u00f4me\n  orcid: \"https://orcid.org/0000-0002-3121-4824\"\ndoi: 10.34849/8djy-4z09\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Stevan\n    given-names: Antoine\n    orcid: \"https://orcid.org/0009-0003-5684-5862\"\n  - family-names: Detchart\n    given-names: Jonathan\n    orcid: \"https://orcid.org/0000-0002-4237-5981\"\n  - family-names: P\u00e9rennou\n    given-names: Tanguy\n    orcid: \"https://orcid.org/0009-0002-2542-0004\"\n  - family-names: Lacan\n    given-names: J\u00e9r\u00f4me\n    orcid: \"https://orcid.org/0000-0002-3121-4824\"\n  date-published: 2026-05-06\n  doi: 10.21105/joss.09791\n  issn: 2475-9066\n  issue: 121\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9791\n  title: \"Komodo: Cryptographically-proven Erasure Coding\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09791\"\n  volume: 11\ntitle: \"Komodo: Cryptographically-proven Erasure Coding\"\n"
+}

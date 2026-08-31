@@ -1,0 +1,9 @@
+{
+ "repo": "arjunsavel/cortecs",
+ "joss_doi": "10.21105/joss.06104",
+ "joss_title": "cortecs: A Python package for compressing opacities",
+ "joss_published": "2024-08-10T11:05:38.533Z",
+ "software_repository": "https://github.com/arjunsavel/cortecs",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Savel\n  given-names: Arjun B.\n  orcid: \"https://orcid.org/0000-0002-2454-768X\"\n- family-names: Bedell\n  given-names: Megan\n  orcid: \"https://orcid.org/0000-0001-9907-7742\"\n- family-names: Kempton\n  given-names: Eliza M.-R.\n  orcid: \"https://orcid.org/0000-0002-1337-9051\"\ncontact:\n- family-names: Savel\n  given-names: Arjun B.\n  orcid: \"https://orcid.org/0000-0002-2454-768X\"\ndoi: 10.5281/zenodo.13208759\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Savel\n    given-names: Arjun B.\n    orcid: \"https://orcid.org/0000-0002-2454-768X\"\n  - family-names: Bedell\n    given-names: Megan\n    orcid: \"https://orcid.org/0000-0001-9907-7742\"\n  - family-names: Kempton\n    given-names: Eliza M.-R.\n    orcid: \"https://orcid.org/0000-0002-1337-9051\"\n  date-published: 2024-08-10\n  doi: 10.21105/joss.06104\n  issn: 2475-9066\n  issue: 100\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6104\n  title: \"cortecs: A Python package for compressing opacities\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06104\"\n  volume: 9\ntitle: \"cortecs: A Python package for compressing opacities\"\n"
+}

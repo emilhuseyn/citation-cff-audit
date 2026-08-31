@@ -1,0 +1,9 @@
+{
+ "repo": "smillerc/CurvilinearGrids.jl",
+ "joss_doi": "10.21105/joss.07508",
+ "joss_title": "CurvilinearGrids.jl: A Julia package for curvilinear coordinate transformations",
+ "joss_published": "2024-12-17T21:07:17.773Z",
+ "software_repository": "https://github.com/smillerc/CurvilinearGrids.jl",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Miller\n  given-names: Samuel C.\n  orcid: \"https://orcid.org/0000-0001-6452-2308\"\ndoi: 10.5281/zenodo.14510381\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Miller\n    given-names: Samuel C.\n    orcid: \"https://orcid.org/0000-0001-6452-2308\"\n  date-published: 2024-12-17\n  doi: 10.21105/joss.07508\n  issn: 2475-9066\n  issue: 104\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7508\n  title: \"CurvilinearGrids.jl: A Julia package for curvilinear\n    coordinate transformations\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07508\"\n  volume: 9\ntitle: \"CurvilinearGrids.jl: A Julia package for curvilinear coordinate\n  transformations\""
+}

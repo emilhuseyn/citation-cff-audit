@@ -1,0 +1,9 @@
+{
+ "repo": "matthias-mayr/Cartesian-Impedance-Controller",
+ "joss_doi": "10.21105/joss.05194",
+ "joss_title": "A C++ Implementation of a Cartesian Impedance Controller for Robotic Manipulators",
+ "joss_published": "2024-01-23T15:58:31.734Z",
+ "software_repository": "https://github.com/matthias-mayr/Cartesian-Impedance-Controller",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Mayr\n  given-names: Matthias\n  orcid: \"https://orcid.org/0000-0002-8198-3154\"\n- family-names: Salt-Ducaju\n  given-names: Julian M.\n  orcid: \"https://orcid.org/0000-0001-5256-8245\"\ndoi: 10.5281/zenodo.10513691\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Mayr\n    given-names: Matthias\n    orcid: \"https://orcid.org/0000-0002-8198-3154\"\n  - family-names: Salt-Ducaju\n    given-names: Julian M.\n    orcid: \"https://orcid.org/0000-0001-5256-8245\"\n  date-published: 2024-01-23\n  doi: 10.21105/joss.05194\n  issn: 2475-9066\n  issue: 93\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5194\n  title: A C++ Implementation of a Cartesian Impedance Controller for\n    Robotic Manipulators\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05194\"\n  volume: 9\ntitle: A C++ Implementation of a Cartesian Impedance Controller for\n  Robotic Manipulators\n\n"
+}

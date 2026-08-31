@@ -1,0 +1,9 @@
+{
+ "repo": "furrer-lab/abn",
+ "joss_doi": "10.21105/joss.06822",
+ "joss_title": "Additive Bayesian Networks",
+ "joss_published": "2024-09-30T20:45:54.377Z",
+ "software_repository": "https://github.com/furrer-lab/abn",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Delucchi\n  given-names: Matteo\n  orcid: \"https://orcid.org/0000-0002-9327-1496\"\n- family-names: Liechti\n  given-names: Jonas I.\n  orcid: \"https://orcid.org/0000-0003-3447-3060\"\n- family-names: Spinner\n  given-names: Georg R.\n  orcid: \"https://orcid.org/0000-0001-9640-8155\"\n- family-names: Furrer\n  given-names: Reinhard\n  orcid: \"https://orcid.org/0000-0002-6319-2332\"\ncontact:\n- family-names: Furrer\n  given-names: Reinhard\n  orcid: \"https://orcid.org/0000-0002-6319-2332\"\ndoi: 10.5281/zenodo.13788885\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Delucchi\n    given-names: Matteo\n    orcid: \"https://orcid.org/0000-0002-9327-1496\"\n  - family-names: Liechti\n    given-names: Jonas I.\n    orcid: \"https://orcid.org/0000-0003-3447-3060\"\n  - family-names: Spinner\n    given-names: Georg R.\n    orcid: \"https://orcid.org/0000-0001-9640-8155\"\n  - family-names: Furrer\n    given-names: Reinhard\n    orcid: \"https://orcid.org/0000-0002-6319-2332\"\n  date-published: 2024-09-30\n  doi: 10.21105/joss.06822\n  issn: 2475-9066\n  issue: 101\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6822\n  title: Additive Bayesian Networks\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06822\"\n  volume: 9\ntitle: Additive Bayesian Networks\n"
+}

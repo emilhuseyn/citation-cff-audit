@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.10008061",
+ "source": "datacite",
+ "state": "ok",
+ "title": "GridFormat - header-only C++-library for grid file I/O",
+ "type": "Software",
+ "container": ""
+}

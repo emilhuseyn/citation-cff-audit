@@ -1,0 +1,9 @@
+{
+ "repo": "vsoch/gridtest",
+ "joss_doi": "10.21105/joss.02284",
+ "joss_title": "GridTest: testing and metrics collection for Python",
+ "joss_published": "2020-07-05T19:51:13.346Z",
+ "software_repository": "https://github.com/vsoch/gridtest",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Sochat\n    given-names: Vanessa\n    orcid: https://orcid.org/0000-0002-4387-3819\ntitle: \"GridTest: testing and metrics collection for Python\"\nversion: 0.0.15\ndoi: 10.21105/joss.02284\ndate-released: 2020-07-05\n"
+}

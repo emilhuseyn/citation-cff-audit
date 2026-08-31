@@ -1,0 +1,9 @@
+{
+ "repo": "qc-tum/TNC",
+ "joss_doi": "10.21105/joss.09598",
+ "joss_title": "TNC: Distributed Tensor Network Contractions in Rust",
+ "joss_published": "2026-06-02T09:48:38.832Z",
+ "software_repository": "https://github.com/qc-tum/TNC",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Geiger\n  given-names: Manuel\n  orcid: \"https://orcid.org/0000-0003-3514-8657\"\n- family-names: Huang\n  given-names: Qunsheng\n  orcid: \"https://orcid.org/0000-0002-1289-6559\"\n- family-names: Mendl\n  given-names: Christian B.\n  orcid: \"https://orcid.org/0000-0002-6386-0230\"\ndoi: 10.5281/zenodo.20084457\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Geiger\n    given-names: Manuel\n    orcid: \"https://orcid.org/0000-0003-3514-8657\"\n  - family-names: Huang\n    given-names: Qunsheng\n    orcid: \"https://orcid.org/0000-0002-1289-6559\"\n  - family-names: Mendl\n    given-names: Christian B.\n    orcid: \"https://orcid.org/0000-0002-6386-0230\"\n  date-published: 2026-06-02\n  doi: 10.21105/joss.09598\n  issn: 2475-9066\n  issue: 122\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9598\n  title: \"TNC: Distributed Tensor Network Contractions in Rust\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09598\"\n  volume: 11\ntitle: \"TNC: Distributed Tensor Network Contractions in Rust\"\n"
+}

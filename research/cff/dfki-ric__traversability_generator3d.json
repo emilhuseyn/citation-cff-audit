@@ -1,0 +1,9 @@
+{
+ "repo": "dfki-ric/traversability_generator3d",
+ "joss_doi": "10.21105/joss.09410",
+ "joss_title": "traversability_generator3d: A C++ library for 3D traversability estimation from MLS maps",
+ "joss_published": "2026-02-24T14:29:44.478Z",
+ "software_repository": "https://github.com/dfki-ric/traversability_generator3d",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Lodhi\n  given-names: Muhammad Haider Khan\n  orcid: \"https://orcid.org/0009-0008-1199-3489\"\n- family-names: Hertzberg\n  given-names: Christoph\n  orcid: \"https://orcid.org/0009-0005-6467-0286\"\n- family-names: B\u00f6ckmann\n  given-names: Arne\n- family-names: Machowinski\n  given-names: Janosch\ndoi: 10.5281/zenodo.18611473\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Lodhi\n    given-names: Muhammad Haider Khan\n    orcid: \"https://orcid.org/0009-0008-1199-3489\"\n  - family-names: Hertzberg\n    given-names: Christoph\n    orcid: \"https://orcid.org/0009-0005-6467-0286\"\n  - family-names: B\u00f6ckmann\n    given-names: Arne\n  - family-names: Machowinski\n    given-names: Janosch\n  date-published: 2026-02-24\n  doi: 10.21105/joss.09410\n  issn: 2475-9066\n  issue: 118\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9410\n  title: \"traversability_generator3d: A C++ library for 3D\n    traversability estimation from MLS maps\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09410\"\n  volume: 11\ntitle: \"traversability_generator3d: A C++ library for 3D traversability\n  estimation from MLS maps\"\n"
+}

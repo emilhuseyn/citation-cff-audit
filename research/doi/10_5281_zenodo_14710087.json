@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.14710087",
+ "source": "datacite",
+ "state": "ok",
+ "title": "TopologicalNumbers.jl: A Julia package for topological number computation",
+ "type": "Software",
+ "container": ""
+}

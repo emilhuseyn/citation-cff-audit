@@ -1,0 +1,9 @@
+{
+ "repo": "ntampellini/FIRECODE",
+ "joss_doi": "10.21105/joss.10698",
+ "joss_title": "FIRECODE: A Computational Chemistry Workflow Driver and Modular Hub",
+ "joss_published": "2026-08-18T19:05:30.258Z",
+ "software_repository": "https://github.com/ntampellini/FIRECODE",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Tampellini\n  given-names: Nicol\u00f2\n  orcid: \"https://orcid.org/0000-0002-6611-556X\"\ncontact:\n- family-names: Tampellini\n  given-names: Nicol\u00f2\n  orcid: \"https://orcid.org/0000-0002-6611-556X\"\ndoi: 10.5281/zenodo.20816805\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Tampellini\n    given-names: Nicol\u00f2\n    orcid: \"https://orcid.org/0000-0002-6611-556X\"\n  date-published: 2026-08-18\n  doi: 10.21105/joss.10698\n  issn: 2475-9066\n  issue: 124\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 10698\n  title: \"FIRECODE: A Computational Chemistry Workflow Driver and\n    Modular Hub\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.10698\"\n  volume: 11\ntitle: \"FIRECODE: A Computational Chemistry Workflow Driver and Modular\n  Hub\"\n"
+}

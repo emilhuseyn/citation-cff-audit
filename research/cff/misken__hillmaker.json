@@ -1,0 +1,9 @@
+{
+ "repo": "misken/hillmaker",
+ "joss_doi": "10.21105/joss.06154",
+ "joss_title": "hillmaker: A Python package for occupancy analysis in discrete entity flow systems",
+ "joss_published": "2024-01-30T20:22:29.677Z",
+ "software_repository": "https://github.com/misken/hillmaker",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Isken\n  given-names: Mark W.\n  orcid: \"https://orcid.org/0000-0001-8471-9116\"\n- family-names: Norman\n  given-names: Jacob W.\ndoi: 10.5281/zenodo.10530420\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Isken\n    given-names: Mark W.\n    orcid: \"https://orcid.org/0000-0001-8471-9116\"\n  - family-names: Norman\n    given-names: Jacob W.\n  date-published: 2024-01-30\n  doi: 10.21105/joss.06154\n  issn: 2475-9066\n  issue: 93\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6154\n  title: \"hillmaker: A Python package for occupancy analysis in discrete\n    entity flow systems\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06154\"\n  volume: 9\ntitle: \"hillmaker: A Python package for occupancy analysis in discrete\n  entity flow systems\"\n"
+}

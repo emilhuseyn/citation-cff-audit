@@ -1,0 +1,9 @@
+{
+ "repo": "padster/pyNeuroTrace",
+ "joss_doi": "10.21105/joss.06877",
+ "joss_title": "PyNeuroTrace - Python code for neural activity time series",
+ "joss_published": "2024-08-15T21:15:27.053Z",
+ "software_repository": "https://github.com/padster/pyNeuroTrace",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Coleman\n  given-names: Patrick\n  orcid: \"https://orcid.org/0009-0001-5216-7748\"\n- family-names: Hogg\n  given-names: Peter William\n  orcid: \"https://orcid.org/0000-0003-2176-4977\"\n- family-names: Toth\n  given-names: Tristan Dellazizzo\n  orcid: \"https://orcid.org/0009-0001-3239-6930\"\n- family-names: Haas\n  given-names: Kurt\n  orcid: \"https://orcid.org/0000-0003-4754-1560\"\ncontact:\n- family-names: Hogg\n  given-names: Peter William\n  orcid: \"https://orcid.org/0000-0003-2176-4977\"\ndoi: 10.5281/zenodo.13312905\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Coleman\n    given-names: Patrick\n    orcid: \"https://orcid.org/0009-0001-5216-7748\"\n  - family-names: Hogg\n    given-names: Peter William\n    orcid: \"https://orcid.org/0000-0003-2176-4977\"\n  - family-names: Toth\n    given-names: Tristan Dellazizzo\n    orcid: \"https://orcid.org/0009-0001-3239-6930\"\n  - family-names: Haas\n    given-names: Kurt\n    orcid: \"https://orcid.org/0000-0003-4754-1560\"\n  date-published: 2024-08-15\n  doi: 10.21105/joss.06877\n  issn: 2475-9066\n  issue: 100\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6877\n  title: PyNeuroTrace - Python code for neural activity time series\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06877\"\n  volume: 9\ntitle: PyNeuroTrace - Python code for neural activity time series\n"
+}

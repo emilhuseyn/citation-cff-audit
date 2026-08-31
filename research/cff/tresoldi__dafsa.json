@@ -1,0 +1,9 @@
+{
+ "repo": "tresoldi/dafsa",
+ "joss_doi": "10.21105/joss.01986",
+ "joss_title": "DAFSA: a Python library for Deterministic Acyclic Finite State Automata",
+ "joss_published": "2020-02-19T07:03:40.479Z",
+ "software_repository": "https://github.com/tresoldi/dafsa",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it using the metadata from this file.\"\ntitle: \"DAFSA: Finite-state structures for sequence data\"\nabstract: >-\n  dafsa is a Python library for storing and querying sets of sequences as\n  deterministic acyclic finite-state automata. It provides tries, minimal DAFSAs\n  and their path-compacted form, suffix automata and CDAWGs for substring\n  indexing, and acyclic weighted transducers, with weights defined over an\n  explicit semiring.\ntype: software\nauthors:\n  - family-names: Tresoldi\n    given-names: Tiago\n    email: dafsa@tresoldi.org\n    orcid: \"https://orcid.org/0000-0002-2863-1467\"\nversion: 2.0.0\n# Stamped by `make bump-version`; set by hand for the 2.0.0 release itself.\ndate-released: 2026-08-04\nlicense: MIT\ndoi: 10.5281/zenodo.3668870\nrepository-code: \"https://github.com/tresoldi/dafsa\"\nurl: \"https://dafsa.tresoldi.org\"\nkeywords:\n  - dafsa\n  - dawg\n  - finite-state-automata\n  - suffix-automaton\n  - transducer\n  - trie\n  - semiring\n  - computational-linguistics\nreferences:\n  - type: software\n    title: \"DAFSA, a library for computing Deterministic Acyclic Finite State Automata\"\n    authors:\n      - family-names: Tresoldi\n        given-names: Tiago\n        orcid: \"https://orcid.org/0000-0002-2863-1467\"\n    version: \"1.0\"\n    year: 2020\n    doi: 10.5281/zenodo.3668870\n    notes: >-\n      The 1.0 release, described by the JOSS submission whose manuscript source\n      is kept under manuscript/. 2.0 is a rewrite and a deliberate API break.\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "exafmm/exafmm-t",
+ "joss_doi": "10.21105/joss.03145",
+ "joss_title": "ExaFMM: a high-performance fast multipole method library with C++ and Python interfaces",
+ "joss_published": "2021-05-30T19:37:17.299Z",
+ "software_repository": "https://github.com/exafmm/exafmm-t",
+ "status": 404,
+ "cff": null
+}

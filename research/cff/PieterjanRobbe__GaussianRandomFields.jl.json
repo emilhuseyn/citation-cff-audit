@@ -1,0 +1,9 @@
+{
+ "repo": "PieterjanRobbe/GaussianRandomFields.jl",
+ "joss_doi": "10.21105/joss.05595",
+ "joss_title": "GaussianRandomFields.jl: A Julia package to generate and sample from Gaussian random fields",
+ "joss_published": "2023-09-02T03:36:57.334Z",
+ "software_repository": "https://github.com/PieterjanRobbe/GaussianRandomFields.jl",
+ "status": 404,
+ "cff": null
+}

@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.3668870",
+ "source": "datacite",
+ "state": "ok",
+ "title": "DAFSA: a Python Library for Deterministic Acyclic Finite State Automata",
+ "type": "Software",
+ "container": ""
+}

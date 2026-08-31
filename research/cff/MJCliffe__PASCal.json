@@ -1,0 +1,9 @@
+{
+ "repo": "MJCliffe/PASCal",
+ "joss_doi": "10.21105/joss.05556",
+ "joss_title": "PASCal Python: A Principal Axis Strain Calculator",
+ "joss_published": "2023-10-23T16:10:44.175Z",
+ "software_repository": "https://github.com/MJCliffe/PASCal",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Lertkiattrakul\n  given-names: Monthakan\n- family-names: Evans\n  given-names: Matthew L.\n  orcid: \"https://orcid.org/0000-0002-1182-9098\"\n- family-names: Cliffe\n  given-names: Matthew J.\n  orcid: \"https://orcid.org/0000-0002-0408-7647\"\ndoi: 10.5281/zenodo.10004384\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Lertkiattrakul\n    given-names: Monthakan\n  - family-names: Evans\n    given-names: Matthew L.\n    orcid: \"https://orcid.org/0000-0002-1182-9098\"\n  - family-names: Cliffe\n    given-names: Matthew J.\n    orcid: \"https://orcid.org/0000-0002-0408-7647\"\n  date-published: 2023-10-23\n  doi: 10.21105/joss.05556\n  issn: 2475-9066\n  issue: 90\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5556\n  title: \"PASCal Python: A Principal Axis Strain Calculator\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05556\"\n  volume: 8\ntitle: \"PASCal Python: A Principal Axis Strain Calculator\"\n"
+}

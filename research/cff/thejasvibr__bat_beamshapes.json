@@ -1,0 +1,9 @@
+{
+ "repo": "thejasvibr/bat_beamshapes",
+ "joss_doi": "10.21105/joss.03740",
+ "joss_title": "beamshapes: a Python package to generate directivity patterns for various sound source models",
+ "joss_published": "2022-01-10T14:55:57.413Z",
+ "software_repository": "https://github.com/thejasvibr/bat_beamshapes.git",
+ "status": 404,
+ "cff": null
+}

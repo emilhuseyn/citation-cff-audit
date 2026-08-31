@@ -1,0 +1,9 @@
+{
+ "repo": "salbalkus/CausalTables.jl",
+ "joss_doi": "10.21105/joss.07580",
+ "joss_title": "CausalTables.jl: Simulating and storing data for statistical causal inference in Julia",
+ "joss_published": "2025-02-24T22:22:49.279Z",
+ "software_repository": "https://github.com/salbalkus/CausalTables.jl",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Balkus\n  given-names: Salvador V.\n  orcid: \"https://orcid.org/0000-0003-4695-833X\"\n- family-names: Hejazi\n  given-names: Nima S.\n  orcid: \"https://orcid.org/0000-0002-7127-2789\"\ncontact:\n- family-names: Balkus\n  given-names: Salvador V.\n  orcid: \"https://orcid.org/0000-0003-4695-833X\"\ndoi: 10.5281/zenodo.14867116\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Balkus\n    given-names: Salvador V.\n    orcid: \"https://orcid.org/0000-0003-4695-833X\"\n  - family-names: Hejazi\n    given-names: Nima S.\n    orcid: \"https://orcid.org/0000-0002-7127-2789\"\n  date-published: 2025-02-24\n  doi: 10.21105/joss.07580\n  issn: 2475-9066\n  issue: 106\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7580\n  title: \"CausalTables.jl: Simulating and storing data for statistical\n    causal inference in Julia\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07580\"\n  volume: 10\ntitle: \"CausalTables.jl: Simulating and storing data for statistical\n  causal inference in Julia\"\n"
+}

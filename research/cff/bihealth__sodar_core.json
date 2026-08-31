@@ -1,0 +1,9 @@
+{
+ "repo": "bihealth/sodar_core",
+ "joss_doi": "10.21105/joss.01584",
+ "joss_title": "SODAR Core: a Django-based framework for scientific data management and analysis web apps",
+ "joss_published": "2020-11-15T18:51:20.105Z",
+ "software_repository": "https://github.com/bihealth/sodar_core",
+ "status": 404,
+ "cff": null
+}

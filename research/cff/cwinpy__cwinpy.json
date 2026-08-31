@@ -1,0 +1,9 @@
+{
+ "repo": "cwinpy/cwinpy",
+ "joss_doi": "10.21105/joss.04568",
+ "joss_title": "CWInPy: A Python package for inference with continuous gravitational-wave signals from pulsars",
+ "joss_published": "2022-09-29T21:26:26.098Z",
+ "software_repository": "https://github.com/cwinpy/cwinpy",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Pitkin\n  given-names: Matthew\n  orcid: \"https://orcid.org/0000-0003-4548-526X\"\ncontact:\n- family-names: Pitkin\n  given-names: Matthew\n  orcid: \"https://orcid.org/0000-0003-4548-526X\"\ndoi: 10.5281/zenodo.7121400\nmessage: If you use this software, please cite the article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Pitkin\n    given-names: Matthew\n    orcid: \"https://orcid.org/0000-0003-4548-526X\"\n  date-published: 2022-09-29\n  doi: 10.21105/joss.04568\n  issn: 2475-9066\n  issue: 77\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 4568\n  title: \"CWInPy: A Python package for inference with continuous\n    gravitational-wave signals from pulsars\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05582\"\n  volume: 7\ntitle: \"CWInPy: A Python package for inference with continuous gravitational-wave signals from pulsars\"\n"
+}

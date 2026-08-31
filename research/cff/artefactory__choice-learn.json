@@ -1,0 +1,9 @@
+{
+ "repo": "artefactory/choice-learn",
+ "joss_doi": "10.21105/joss.06899",
+ "joss_title": "Choice-Learn: Large-scale choice modeling for operational contexts through the lens of machine learning",
+ "joss_published": "2024-09-10T16:04:11.024Z",
+ "software_repository": "https://github.com/artefactory/choice-learn",
+ "status": 200,
+ "cff": "# This CITATION.cff file was generated with cffinit.\n# Visit https://bit.ly/cffinit to generate yours today!\n\ncff-version: 1.2.0\ntitle: Choice-Learn\nmessage: >-\n  Large-scale choice modeling for operational contexts\n  through the lens of machine learning\ntype: software\nauthors:\n  - given-names: Vincent\n    family-names: Auriau\n    email: vincent.auriau@artefact.com\n    affiliation: CentraleSup\u00e9lec\n    orcid: 'https://orcid.org/0009-0002-9640-2639'\n  - given-names: Ali\n    family-names: Aouad\n    orcid: 'https://orcid.org/0000-0002-9812-6140'\n    affiliation: London Business School\n  - given-names: Antoine\n    family-names: D\u00e9sir\n    affiliation: INSEAD\n    orcid: 'https://orcid.org/0000-0001-5654-3301'\n  - given-names: Emmanuel\n    family-names: Malherbe\n    affiliation: Artefact Research Center\n    orcid: 'https://orcid.org/0009-0006-0898-6873'\nidentifiers:\n  - type: doi\n    value: 10.21105/joss.06899\nrepository-code: 'https://github.com/artefactory/choice-learn'\nurl: 'https://artefactory.github.io/choice-learn/'\nabstract: >-\n  Choice-Learn provides a modular suite of choice modeling\n  tools for practitioners and academic researchers to\n  process choice data, and then formulate, estimate and\n  operationalize choice models.\nlicense: MIT\n"
+}

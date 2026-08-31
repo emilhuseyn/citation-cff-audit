@@ -1,0 +1,9 @@
+{
+ "repo": "DS4Ag/dpest",
+ "joss_doi": "10.21105/joss.08188",
+ "joss_title": "dpest: Streamlining Creation of PEST input files for DSSAT Crop Model Calibration",
+ "joss_published": "2025-07-08T18:32:58.399Z",
+ "software_repository": "https://github.com/DS4Ag/dpest",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Vargas-Rojas\n  given-names: Luis\n  orcid: \"https://orcid.org/0000-0001-8610-9901\"\n- family-names: Wang\n  given-names: Diane R.\n  orcid: \"https://orcid.org/0000-0002-2290-3257\"\ndoi: 10.5281/zenodo.15733807\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Vargas-Rojas\n    given-names: Luis\n    orcid: \"https://orcid.org/0000-0001-8610-9901\"\n  - family-names: Wang\n    given-names: Diane R.\n    orcid: \"https://orcid.org/0000-0002-2290-3257\"\n  date-published: 2025-07-08\n  doi: 10.21105/joss.08188\n  issn: 2475-9066\n  issue: 111\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 8188\n  title: \"dpest: Streamlining Creation of PEST input files for DSSAT\n    Crop Model Calibration\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.08188\"\n  volume: 10\ntitle: \"dpest: Streamlining Creation of PEST input files for DSSAT Crop\n  Model Calibration\""
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "KoesGroup/Snakemake_ChIPseq_PE",
+ "joss_doi": "10.21105/joss.01465",
+ "joss_title": "A reproducible Snakemake pipeline to analyse Illumina paired-end data from ChiP-Seq experiments",
+ "joss_published": "2019-06-06T14:47:49.955Z",
+ "software_repository": "https://github.com/KoesGroup/Snakemake_ChIPseq_PE",
+ "status": 404,
+ "cff": null
+}

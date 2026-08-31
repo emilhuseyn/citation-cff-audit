@@ -1,0 +1,9 @@
+{
+ "repo": "LinkedEarth/pylipd",
+ "joss_doi": "10.21105/joss.08861",
+ "joss_title": "PyLiPD: A python package for the manipulation of paleoclimate datasets",
+ "joss_published": "2025-11-07T01:29:02.243Z",
+ "software_repository": "https://github.com/LinkedEarth/pylipd",
+ "status": 200,
+ "cff": "cff-version: 1.5.3.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: \"Ratnakar\"\n    given-names: \"Varun\"\n    orcid: \"https://orcid.org/0000-0001-9381-705X\"  \n  - family-names: \"Khider\"\n    given-names: \"Deborah\"\n    orcid: \"https://orcid.org/0000-0001-7501-8430\"\ntitle: \"PyLiPD: a Python package for the manipulation of LiPD datasets\"\nversion: v1.5.3\ndoi: 10.5281/zenodo.7951201\ndate-released: 2025-10-16\nlicense: Apache-2.0\nurl: \"https://github.com/LinkedEarth/pylipd\"\n"
+}

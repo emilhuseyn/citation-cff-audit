@@ -1,0 +1,9 @@
+{
+ "repo": "haoboatlab/OceanLight.jl",
+ "joss_doi": "10.21105/joss.08537",
+ "joss_title": "HydrOptics.jl: A Julia package for calculating irradiance in the water body using Monte Carlo simulations",
+ "joss_published": "2026-02-20T19:08:21.332Z",
+ "software_repository": "https://github.com/haoboatlab/OceanLight.jl",
+ "status": 404,
+ "cff": null
+}

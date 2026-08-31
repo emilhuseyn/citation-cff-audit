@@ -1,0 +1,9 @@
+{
+ "repo": "p-slash/qsonic",
+ "joss_doi": "10.21105/joss.06373",
+ "joss_title": "QSOnic: fast quasar continuum fitting",
+ "joss_published": "2024-05-08T15:23:24.039Z",
+ "software_repository": "https://github.com/p-slash/qsonic",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Kara\u00e7ayl\u0131\n  given-names: Naim G\u00f6ksel\n  orcid: \"https://orcid.org/0000-0001-7336-8912\"\ndoi: 10.5281/zenodo.11105006\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Kara\u00e7ayl\u0131\n    given-names: Naim G\u00f6ksel\n    orcid: \"https://orcid.org/0000-0001-7336-8912\"\n  date-published: 2024-05-08\n  doi: 10.21105/joss.06373\n  issn: 2475-9066\n  issue: 97\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6373\n  title: \"QSOnic: fast quasar continuum fitting\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06373\"\n  volume: 9\ntitle: \"QSOnic: fast quasar continuum fitting\"\n"
+}

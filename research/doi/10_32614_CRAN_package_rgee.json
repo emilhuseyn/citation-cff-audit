@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.rgee",
+ "source": "crossref",
+ "state": "ok",
+ "title": "rgee: R Bindings for Calling the 'Earth Engine' API",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

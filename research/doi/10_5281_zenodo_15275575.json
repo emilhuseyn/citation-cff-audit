@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.15275575",
+ "source": "datacite",
+ "state": "ok",
+ "title": "CUDA-METRO: Parallel Metropolis Monte Carlo for 2D Atomistic Spin Texture Simulation",
+ "type": "Software",
+ "container": ""
+}

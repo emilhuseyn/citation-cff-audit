@@ -1,0 +1,9 @@
+{
+ "repo": "IBM/ado",
+ "joss_doi": "10.21105/joss.10304",
+ "joss_title": "ado: a Python framework for computational experimentation and benchmarking",
+ "joss_published": "2026-05-22T17:28:59.305Z",
+ "software_repository": "https://github.com/IBM/ado",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Johnston\n  given-names: Michael A.\n  orcid: \"https://orcid.org/0000-0003-1337-440X\"\n- family-names: Pomponio\n  given-names: Alessandro\n  orcid: \"https://orcid.org/0000-0003-1655-7500\"\ncontact:\n- family-names: Johnston\n  given-names: Michael A.\n  orcid: \"https://orcid.org/0000-0003-1337-440X\"\ndoi: 10.5281/zenodo.18957620\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Johnston\n    given-names: Michael A.\n    orcid: \"https://orcid.org/0000-0003-1337-440X\"\n  - family-names: Pomponio\n    given-names: Alessandro\n    orcid: \"https://orcid.org/0000-0003-1655-7500\"\n  date-published: 2026-05-22\n  doi: 10.21105/joss.10304\n  issn: 2475-9066\n  issue: 121\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 10304\n  title: \"ado: a Python framework for computational experimentation and\n    benchmarking\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.10304\"\n  volume: 11\ntitle: \"ado: a Python framework for computational experimentation and\n  benchmarking\"\n"
+}

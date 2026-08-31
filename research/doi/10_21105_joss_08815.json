@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.08815",
+ "source": "crossref",
+ "state": "ok",
+ "title": "PyDTS: A Python Package for Discrete-Time Survival Analysis with Competing Risks and Optional Penalization",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

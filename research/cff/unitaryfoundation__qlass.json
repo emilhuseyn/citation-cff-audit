@@ -1,0 +1,9 @@
+{
+ "repo": "unitaryfoundation/qlass",
+ "joss_doi": "10.21105/joss.09316",
+ "joss_title": "qlass: A Python Package for Variational Quantum Algorithms on Photonic Devices",
+ "joss_published": "2026-01-15T13:36:38.562Z",
+ "software_repository": "https://github.com/unitaryfoundation/qlass",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Labib\n  given-names: Farrokh\n  orcid: \"https://orcid.org/0009-0005-3729-9602\"\n- family-names: Rajamani\n  given-names: Akilan\n  orcid: \"https://orcid.org/0000-0002-9083-6770\"\n- family-names: Senjean\n  given-names: Bruno\n  orcid: \"https://orcid.org/0000-0003-1706-015X\"\n- family-names: Shammah\n  given-names: Nathan\n  orcid: \"https://orcid.org/0000-0002-8775-3667\"\ndoi: 10.5281/zenodo.18245793\nversion: \"0.2.4\"\ndate-released: \"2026-07-04\"\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Labib\n    given-names: Farrokh\n    orcid: \"https://orcid.org/0009-0005-3729-9602\"\n  - family-names: Rajamani\n    given-names: Akilan\n    orcid: \"https://orcid.org/0000-0002-9083-6770\"\n  - family-names: Senjean\n    given-names: Bruno\n    orcid: \"https://orcid.org/0000-0003-1706-015X\"\n  - family-names: Shammah\n    given-names: Nathan\n    orcid: \"https://orcid.org/0000-0002-8775-3667\"\n  date-published: 2026-01-15\n  doi: 10.21105/joss.09316\n  issn: 2475-9066\n  issue: 117\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9316\n  title: \"qlass: A Python Package for Variational Quantum Algorithms on\n    Photonic Devices\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09316\"\n  volume: 11\ntitle: \"qlass: A Python Package for Variational Quantum Algorithms on\n  Photonic Devices\"\n"
+}

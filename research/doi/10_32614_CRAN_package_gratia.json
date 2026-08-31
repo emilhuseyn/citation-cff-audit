@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.gratia",
+ "source": "crossref",
+ "state": "ok",
+ "title": "gratia: Graceful 'ggplot'-Based Graphics and Other Functions for GAMs Fitted Using 'mgcv'",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

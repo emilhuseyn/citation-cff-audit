@@ -1,0 +1,9 @@
+{
+ "repo": "CMakePP/CMinx",
+ "joss_doi": "10.21105/joss.04680",
+ "joss_title": "CMinx: A CMake Documentation Generator",
+ "joss_published": "2022-09-27T14:38:42.295Z",
+ "software_repository": "https://github.com/CMakePP/CMinx",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Butler\n  given-names: Branden\n- family-names: Richard\n  given-names: Ryan M.\n  orcid: \"https://orcid.org/0000-0003-4235-5179\"\ncontact:\n- family-names: Richard\n  given-names: Ryan M.\n  orcid: \"https://orcid.org/0000-0003-4235-5179\"\ndoi: 10.5281/zenodo.7116601\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Butler\n    given-names: Branden\n  - family-names: Richard\n    given-names: Ryan M.\n    orcid: \"https://orcid.org/0000-0003-4235-5179\"\n  date-published: 2022-09-23\n  doi: 10.21105/joss.04680\n  issn: 2475-9066\n  issue: 77\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 4680\n  title: \"CMinx: A CMake Documentation Generator\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.04680\"\n  volume: 7\ntitle: \"CMinx: A CMake Documentation Generator\"\n"
+}

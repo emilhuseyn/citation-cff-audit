@@ -1,0 +1,9 @@
+{
+ "repo": "canimus/cuallee",
+ "joss_doi": "10.21105/joss.06684",
+ "joss_title": "cuallee: A Python package for data quality checks across multiple DataFrame APIs",
+ "joss_published": "2024-06-23T14:24:45.989Z",
+ "software_repository": "https://github.com/canimus/cuallee",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Vazquez\n  given-names: Herminio\n  orcid: \"https://orcid.org/0000-0003-1937-8006\"\n- family-names: Grosboillot\n  given-names: Virginie\n  orcid: \"https://orcid.org/0000-0002-8249-7182\"\ndoi: 10.5281/zenodo.12206787\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Vazquez\n    given-names: Herminio\n    orcid: \"https://orcid.org/0000-0003-1937-8006\"\n  - family-names: Grosboillot\n    given-names: Virginie\n    orcid: \"https://orcid.org/0000-0002-8249-7182\"\n  date-published: 2024-06-23\n  doi: 10.21105/joss.06684\n  issn: 2475-9066\n  issue: 98\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6684\n  title: \"cuallee: A Python package for data quality checks across\n    multiple DataFrame APIs\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06684\"\n  volume: 9\ntitle: \"cuallee: A Python package for data quality checks across\n  multiple DataFrame APIs\"\n"
+}

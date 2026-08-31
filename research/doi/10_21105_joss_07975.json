@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.07975",
+ "source": "crossref",
+ "state": "ok",
+ "title": "DeepHyper: A Python Package for Massively Parallel Hyperparameter Optimization in Machine Learning",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "Habiba-Eldababy/Parallel-CDM",
+ "joss_doi": "10.21105/joss.07610",
+ "joss_title": "Parallel-CDM: Parallel Implementation of Continuum Damage Mechanics Simulations using FEM and MATLAB",
+ "joss_published": "2025-08-13T18:00:55.901Z",
+ "software_repository": "https://github.com/Habiba-Eldababy/Parallel-CDM",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Eldababy\n  given-names: Habiba\n  orcid: \"https://orcid.org/0009-0005-1659-9411\"\n- family-names: Saji\n  given-names: Roshan Philip\n- family-names: Pantidis\n  given-names: Panos\n- family-names: Mobasher\n  given-names: Mostafa\ndoi: 10.5281/zenodo.16790622\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Eldababy\n    given-names: Habiba\n    orcid: \"https://orcid.org/0009-0005-1659-9411\"\n  - family-names: Saji\n    given-names: Roshan Philip\n  - family-names: Pantidis\n    given-names: Panos\n  - family-names: Mobasher\n    given-names: Mostafa\n  date-published: 2025-08-13\n  doi: 10.21105/joss.07610\n  issn: 2475-9066\n  issue: 112\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7610\n  title: \"Parallel-CDM: Parallel Implementation of Continuum Damage\n    Mechanics Simulations using FEM and MATLAB\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07610\"\n  volume: 10\ntitle: \"Parallel-CDM: Parallel Implementation of Continuum Damage\n  Mechanics Simulations using FEM and MATLAB\"\n"
+}

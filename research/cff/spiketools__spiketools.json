@@ -1,0 +1,9 @@
+{
+ "repo": "spiketools/spiketools",
+ "joss_doi": "10.21105/joss.05268",
+ "joss_title": "spiketools: a Python package for analyzing single-unit neural activity",
+ "joss_published": "2023-11-14T13:13:20.851Z",
+ "software_repository": "https://github.com/spiketools/spiketools",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: >-\n  If you use this software, please cite it using the metadata from this file.\ntype: software\ntitle: 'spiketools'\nauthors:\n- given-names: 'Thomas'\n  family-names: 'Donoghue'\n  orcid: 'https://orcid.org/0000-0001-5911-0472'\n- given-names: 'Sandra'\n  family-names: 'Maesta Pereira'\n  orcid: 'https://orcid.org/0000-0001-6522-8311'\n- given-names: 'Claire Z'\n  family-names: 'Han'\n  orcid: 'https://orcid.org/0000-0001-9710-8381'\n- given-names: 'Salman E'\n  family-names: 'Qasim'\n  orcid: 'https://orcid.org/0000-0001-8739-5962'\n- given-names: 'Joshua'\n  family-names: 'Jacobs'\n  orcid: 'https://orcid.org/0000-0003-1807-6882'\nrepository-code: 'https://github.com/spiketools/spiketools'\nurl: 'https://spiketools.github.io/'\nlicense: Apache-2.0\npreferred-citation:\n  type: article\n  title: 'spiketools: A Python package for analyzing single-unit neural activity'\n  authors:\n  - given-names: Thomas\n    family-names: Donoghue\n    orcid: 'https://orcid.org/0000-0001-5911-0472'\n  - given-names: 'Sandra'\n    family-names: 'Maesta Pereira'\n    orcid: 'https://orcid.org/0000-0001-6522-8311'\n  - given-names: 'Claire Z'\n    family-names: 'Han'\n    orcid: 'https://orcid.org/0000-0001-9710-8381'\n  - given-names: 'Salman E'\n    family-names: 'Qasim'\n    orcid: 'https://orcid.org/0000-0001-8739-5962'\n  - given-names: 'Joshua'\n    family-names: 'Jacobs'\n    orcid: 'https://orcid.org/0000-0003-1807-6882'\n  journal: 'Journal of Open Source Software'\n  doi: '10.21105/joss.05268'\n  issue: 91\n  volume: 8\n  year: 2023\n  start: 5268\n"
+}

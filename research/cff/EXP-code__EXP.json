@@ -1,0 +1,9 @@
+{
+ "repo": "EXP-code/EXP",
+ "joss_doi": "10.21105/joss.07302",
+ "joss_title": "EXP: a Python/C++ package for basis function expansion methods in galactic dynamics",
+ "joss_published": "2025-05-05T18:47:52.686Z",
+ "software_repository": "https://github.com/EXP-code/EXP",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Petersen\n  given-names: Michael S.\n  orcid: \"https://orcid.org/0000-0003-1517-3935\"\n- family-names: Weinberg\n  given-names: Martin D.\n  orcid: \"https://orcid.org/0000-0003-2660-2889\"\ndoi: 10.5281/zenodo.15164151\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Petersen\n    given-names: Michael S.\n    orcid: \"https://orcid.org/0000-0003-1517-3935\"\n  - family-names: Weinberg\n    given-names: Martin D.\n    orcid: \"https://orcid.org/0000-0003-2660-2889\"\n  date-published: 2025-05-05\n  doi: 10.21105/joss.07302\n  issn: 2475-9066\n  issue: 109\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7302\n  title: \"EXP: a Python/C++ package for basis function expansion methods\n    in galactic dynamics\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07302\"\n  volume: 10\ntitle: \"EXP: a Python/C++ package for basis function expansion methods\n  in galactic dynamics\"\n"
+}

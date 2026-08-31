@@ -1,0 +1,9 @@
+{
+ "repo": "alawryaguila/multi-view-AE",
+ "joss_doi": "10.21105/joss.05093",
+ "joss_title": "Multi-view-AE: A Python package for multi-view autoencoder models",
+ "joss_published": "2023-05-16T14:36:36.606Z",
+ "software_repository": "https://github.com/alawryaguila/multi-view-AE",
+ "status": 200,
+ "cff": "cff-version: 1.1.2\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Lawry Aguila\"\n  given-names: \"Ana\"\n  orcid: \"https://orcid.org/0000-0003-0727-3274\"\n- family-names: \"Jayme\"\n  given-names: \"Alejandra\"\n- family-names: \"Monta\u00f1a-Brown\"\n  given-names: \"Nina\"\n  orcid: \"https://orcid.org/0000-0001-5685-971X\"\n- family-names: \"Heuveline\"\n  given-names: \"Vincent\"\n- family-names: \"Altmann\"\n  given-names: \"Andre\"\n  orcid: \"https://orcid.org/0000-0002-9265-2393\"\ntitle: Multi-view-AE: A Python package for multi-view autoencoder models\njournal: Journal of Open Source Software\nurl: https://doi.org/10.21105/joss.05093\ndate-released: 2023-05-16\n"
+}

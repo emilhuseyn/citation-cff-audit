@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.12658544",
+ "source": "datacite",
+ "state": "ok",
+ "title": "nimbleHMC: An R package for Hamiltonian Monte Carlo sampling in nimble",
+ "type": "Software",
+ "container": ""
+}

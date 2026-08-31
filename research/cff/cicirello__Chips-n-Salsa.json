@@ -1,0 +1,9 @@
+{
+ "repo": "cicirello/Chips-n-Salsa",
+ "joss_doi": "10.21105/joss.02448",
+ "joss_title": "Chips-n-Salsa: A Java Library of Customizable, Hybridizable, Iterative, Parallel, Stochastic, and Self-Adaptive Local Search Algorithms",
+ "joss_published": "2020-08-17T04:46:00.724Z",
+ "software_repository": "https://github.com/cicirello/Chips-n-Salsa",
+ "status": 200,
+ "cff": "cff-version: \"1.1.0\"\nmessage: \"If you use this software, please cite it using these metadata.\"\nauthors: \n- family-names: \"Cicirello\"\n  given-names: \"Vincent A\"\n  orcid: \"https://orcid.org/0000-0003-1072-8559\"\ntitle: \"Chips-n-Salsa\"\ndoi: \"10.5281/zenodo.3959773\"\nlicense: \"GPL-3.0-or-later\"\nurl: \"https://github.com/cicirello/Chips-n-Salsa\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Cicirello\"\n    given-names: \"Vincent A\"\n    orcid: \"https://orcid.org/0000-0003-1072-8559\"\n  doi: \"10.21105/joss.02448\"\n  journal: \"Journal of Open Source Software\"\n  start: 2448\n  title: \"Chips-n-Salsa: A Java Library of Customizable, Hybridizable, Iterative, Parallel, Stochastic, and Self-Adaptive Local Search Algorithms\"\n  issue: 52\n  volume: 5\n  year: 2020"
+}

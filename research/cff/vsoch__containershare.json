@@ -1,0 +1,9 @@
+{
+ "repo": "vsoch/containershare",
+ "joss_doi": "10.21105/joss.00878",
+ "joss_title": "Containershare: Open Source Registry to build, test, deploy with CircleCI",
+ "joss_published": "2018-08-07T15:25:03.538Z",
+ "software_repository": "https://www.github.com/vsoch/containershare",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Sochat\n    given-names: Vanessa\n    orcid: https://orcid.org/0000-0002-4387-3819\ntitle: \"Containershare: Open Source Registry to build, test, deploy with CircleCI\"\nversion: 0.0.3\ndoi: 10.21105/joss.00878\ndate-released: 2018-08-07\n"
+}

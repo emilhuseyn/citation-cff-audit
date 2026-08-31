@@ -1,0 +1,9 @@
+{
+ "repo": "bihealth/vcfpy",
+ "joss_doi": "10.21105/joss.00085",
+ "joss_title": "VCFPy: a Python 3 library with good support for both reading and writing VCF",
+ "joss_published": "2016-10-25T00:00:00.000Z",
+ "software_repository": "https://github.com/bihealth/vcfpy",
+ "status": 404,
+ "cff": null
+}

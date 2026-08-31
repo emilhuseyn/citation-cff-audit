@@ -1,0 +1,9 @@
+{
+ "repo": "anscoil/FluxOptics.jl",
+ "joss_doi": "10.21105/joss.09734",
+ "joss_title": "FluxOptics.jl: A Differentiable Wave Optics Framework for Inverse Design in Julia",
+ "joss_published": "2026-02-23T19:30:40.502Z",
+ "software_repository": "https://github.com/anscoil/FluxOptics.jl",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: \"Barr\u00e9\"\n    given-names: \"Nicolas\"\n    orcid: \"https://orcid.org/0000-0002-4460-4151\"\ntitle: \"FluxOptics.jl: A Differentiable Wave Optics Framework for Inverse Design in Julia\"\nversion: 0.1.2\ndoi: 10.21105/joss.09734\ndate-released: 2026-02-24\nurl: \"https://github.com/anscoil/FluxOptics.jl\"\nrepository-code: \"https://github.com/anscoil/FluxOptics.jl\"\nlicense: MIT\npreferred-citation:\n  type: article\n  authors:\n    - family-names: \"Barr\u00e9\"\n      given-names: \"Nicolas\"\n      orcid: \"https://orcid.org/0000-0002-4460-4151\"\n  doi: 10.21105/joss.09734\n  journal: \"Journal of Open Source Software\"\n  title: \"FluxOptics.jl: A Differentiable Wave Optics Framework for Inverse Design in Julia\"\n  volume: 11\n  number: 118\n  pages: 9734\n  year: 2026"
+}

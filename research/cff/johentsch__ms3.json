@@ -1,0 +1,9 @@
+{
+ "repo": "johentsch/ms3",
+ "joss_doi": "10.21105/joss.05195",
+ "joss_title": "ms3: A parser for MuseScore files, serving as data factory for annotated music corpora",
+ "joss_published": "2023-08-14T16:43:04.241Z",
+ "software_repository": "https://github.com/johentsch/ms3",
+ "status": 404,
+ "cff": null
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "TARGENE/targene-pipeline",
+ "joss_doi": "10.21105/joss.09603",
+ "joss_title": "TarGene: A Nextflow pipeline for the estimation of genetic effects on human traits via semi-parametric methods.",
+ "joss_published": "2026-03-24T09:12:10.265Z",
+ "software_repository": "https://github.com/TARGENE/targene-pipeline",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\ntitle: 'TarGene: A Nextflow pipeline for the estimation of genetic effects on human traits via semi-parametric methods.'\ntags:\n  - nextflow\n  - statistics\n  - semi-parametric statistics\n  - population genetics\n  - genetic effects\n  - causal inference\nauthors:\n  - name: Olivier Labayle\n    orcid: 0000-0002-3708-3706\n    affiliation: \"1, 2\"\n  - name: Joshua Slaughter\n    affiliation: \"1, 2\"\n    orcid: 0000-0002-1400-6599\n  - name: Breeshey Roskams-Hieter\n    affiliation: \"1, 2\"\n    orcid: 0000-0002-1119-2576\n  - name: Kelsey Tetley-Campbell\n    affiliation: \"1, 2\"\n  - name: Mark J. van der Laan\n    orcid: 0000-0003-1432-5511\n    affiliation: \"4\"\n  - name: Chris P. Ponting\n    affiliation: \"1\"\n    orcid: 0000-0003-0202-7816\n  - name: Ava Khamseh\n    affiliation: \"1, 2, 4\"\n    orcid: 0000-0001-5203-2205\n  - name: Sjoerd Viktor Beentjes\n    affiliation: \"1, 3, 4\"\n    orcid: 0000-0002-7998-4262\naffiliations:\n  - name: MRC Human Genetics Unit, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh EH4 2XU, United Kingdom.\n    index: 1\n  - name: School of Informatics, University of Edinburgh, Edinburgh EH8 9AB, United Kingdom\n    index: 2\n  - name: School of Mathematics and Maxwell Institute for Mathematical Sciences, University of Edinburgh, Edinburgh EH9 3FD, United Kingdom\n    index: 3\n  - name: Division of Biostatistics, University of California, Berkeley, CA, USA\n    index: 4\nurl: \"https://github.com/TARGENE/targene-pipeline\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "OpenTerrace/openterrace-python",
+ "joss_doi": "10.21105/joss.06411",
+ "joss_title": "OpenTerrace: A fast, flexible and extendable Python framework for thermal energy storage packed bed simulations",
+ "joss_published": "2024-06-04T15:38:22.977Z",
+ "software_repository": "https://github.com/OpenTerrace/openterrace-python",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use OpenTerrace, please cite it as below.\"\npreferred-citation:\n  type: \"article\"\n  authors:\n  - family-names: \"H\u00e6rvig\"\n    given-names: \"Jakob\"\n    orcid: \"https://orcid.org/0000-0001-8710-1610\"\n  date-published: 2024-06-04\n  doi: 10.21105/joss.06411\n  issn: 2475-9066\n  issue: 98\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6411\n  title: \"OpenTerrace: A fast, flexible and extendable Python framework\n    for thermal energy storage packed bed simulations\"\n  journal: \"Journal of Open Source Software\"\n  issue: 98\n  volume: 9\n  start: 6411\n  url: \"https://github.com/OpenTerrace/openterrace-python\"\ntitle: \"OpenTerrace: A fast, flexible and extendable Python framework\n  for thermal energy storage packed bed simulations\""
+}

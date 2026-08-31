@@ -1,0 +1,9 @@
+{
+ "repo": "EIT-ALIVE/eitprocessing",
+ "joss_doi": "10.21105/joss.08179",
+ "joss_title": "eitprocessing: a Python package for analysis of Electrical Impedance Tomography data",
+ "joss_published": "2026-01-04T19:16:14.011Z",
+ "software_repository": "https://github.com/EIT-ALIVE/eitprocessing",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle: \"eitprocessing\"\nauthors:\n  - family-names: Bodor\n    given-names: Dani\n    email: d.bodor@esciencecenter.nl\n    affiliation: Netherlands eScience Center\n    orcid: \"https://orcid.org/0000-0003-2109-2349\"\n\n  - family-names: Somhorst\n    given-names: Peter\n    email: p.somhorst@erasmusmc.nl\n    affiliation: Erasmus MC\n    orcid: \"https://orcid.org/0000-0003-3490-2080\"\n\n  - family-names: Jonkman\n    given-names: Annemijn\n    email: a.jonkman@erasmusmc.nl\n    affiliation: Erasmus MC\n    orcid: \"https://orcid.org/0000-0001-8778-5135\"\n\n  - given-names: Walter\n    family-names: Baccinelli\n    email: w.baccinelli@esciencecenter.nl\n    affiliation: Netherlands eScience Center\n    orcid: \"https://orcid.org/0000-0001-8888-4792\"\n\n  - family-names: Wisse-Smit\n    given-names: Jantine\n    email: j.j.smit@erasmusmc.nl\n    affiliation: Erasmus MC\n    orcid: \"https://orcid.org/0009-0006-6552-5459\"\n\n  - family-names: Francovich\n    given-names: Juliette\n    email: j.francovich@erasmusmc.nl\n    affiliation: Erasmus MC\n    orcid: \"https://orcid.org/0009-0004-0976-5082\"\n\ndate-released: 2023-03-23\ndoi: 10.5281/zenodo.7869553\nversion: \"1.8.8\"\nrepository-code: \"https://github.com/EIT-ALIVE/eitprocessing\"\nkeywords:\n  - Mechanical lung ventilation\n  - Electrical impedance tomography\n  - Image/data processing\n  - Advanced respiratory care\n\nmessage: \"If you use this software, please cite it using these metadata.\"\nlicense: Apache-2.0\n"
+}

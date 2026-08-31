@@ -1,0 +1,9 @@
+{
+ "repo": "martinvonk/pedon",
+ "joss_doi": "10.21105/joss.10409",
+ "joss_title": "pedon: A Python package for analyzing unsaturated soil hydraulic properties",
+ "joss_published": "2026-06-23T21:41:53.963Z",
+ "software_repository": "https://github.com/martinvonk/pedon",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n  - family-names: Vonk\n    given-names: M. A.\n    orcid: \"https://orcid.org/0009-0007-3528-2991\"\n  - family-names: Peche\n    given-names: A.\n    orcid: \"https://orcid.org/0000-0003-3761-2441\"\ndoi: 10.5281/zenodo.20590480\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n    - family-names: Vonk\n      given-names: M. A.\n      orcid: \"https://orcid.org/0009-0007-3528-2991\"\n    - family-names: Peche\n      given-names: A.\n      orcid: \"https://orcid.org/0000-0003-3761-2441\"\n  date-published: 2026-06-23\n  doi: 10.21105/joss.10409\n  issn: 2475-9066\n  issue: 122\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 10409\n  title: \"pedon: A Python package for analyzing unsaturated soil\n    hydraulic properties\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.10409\"\n  volume: 11\ntitle: \"pedon: A Python package for analyzing unsaturated soil hydraulic\n  properties\"\n"
+}

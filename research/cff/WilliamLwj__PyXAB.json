@@ -1,0 +1,9 @@
+{
+ "repo": "WilliamLwj/PyXAB",
+ "joss_doi": "10.21105/joss.06507",
+ "joss_title": "PyXAB - A Python Library for $\\mathcal{X}$-Armed Bandit and Online Blackbox Optimization Algorithms",
+ "joss_published": "2024-10-24T20:46:04.949Z",
+ "software_repository": "https://github.com/WilliamLwj/PyXAB",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Li\n  given-names: Wenjie\n  orcid: \"https://orcid.org/0000-0003-1872-4595\"\n- family-names: Li\n  given-names: Haoze\n- family-names: Song\n  given-names: Qifan\n- family-names: Honorio\n  given-names: Jean\ncontact:\n- family-names: Li\n  given-names: Wenjie\n  orcid: \"https://orcid.org/0000-0003-1872-4595\"\ndoi: 10.5281/zenodo.13963754\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Li\n    given-names: Wenjie\n    orcid: \"https://orcid.org/0000-0003-1872-4595\"\n  - family-names: Li\n    given-names: Haoze\n  - family-names: Song\n    given-names: Qifan\n  - family-names: Honorio\n    given-names: Jean\n  date-published: 2024-10-24\n  doi: 10.21105/joss.06507\n  issn: 2475-9066\n  issue: 102\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6507\n  title: PyXAB - A Python Library for \\\\mathcal{X}-Armed Bandit and\n    Online Blackbox Optimization Algorithms\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06507\"\n  volume: 9\ntitle: PyXAB - A Python Library for $\\mathcal{X}$-Armed Bandit and\n  Online Blackbox Optimization Algorithms\n"
+}

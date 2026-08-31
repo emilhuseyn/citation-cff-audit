@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.19420466",
+ "source": "datacite",
+ "state": "ok",
+ "title": "FastTanhSinhQuadrature.jl: High-performance Tanh-Sinh numerical integration in Julia",
+ "type": "Software",
+ "container": ""
+}

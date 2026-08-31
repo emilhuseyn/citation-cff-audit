@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.7017165",
+ "source": "datacite",
+ "state": "ok",
+ "title": "MNE-ICALabel: Automatically annotating ICA components with ICLabel in Python",
+ "type": "Software",
+ "container": ""
+}

@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.16314799",
+ "source": "datacite",
+ "state": "ok",
+ "title": "MNE-LSL: Real-time framework integrated with MNE-Python for online neuroscience research through LSL-compatible devices.",
+ "type": "Software",
+ "container": ""
+}

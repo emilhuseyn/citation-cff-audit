@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.11122799",
+ "source": "datacite",
+ "state": "ok",
+ "title": "agweather-qaqc: An Interactive Python Package for Quality Assurance and Quality Control of Daily Agricultural Weather Data and Calculation of Reference Evapotranspiration",
+ "type": "Software",
+ "container": ""
+}

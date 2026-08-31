@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.11207482",
+ "source": "datacite",
+ "state": "ok",
+ "title": "AeroAcoustics.jl: A Julia package for aeroacoustics",
+ "type": "Software",
+ "container": ""
+}

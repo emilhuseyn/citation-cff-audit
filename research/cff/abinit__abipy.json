@@ -1,0 +1,9 @@
+{
+ "repo": "abinit/abipy",
+ "joss_doi": "10.21105/joss.09145",
+ "joss_title": "Lumabi: a Python package to streamline the computation of phonon-resolved luminescence spectra of defects and dopants in solids",
+ "joss_published": "2026-05-02T17:10:25.555Z",
+ "software_repository": "https://github.com/abinit/abipy",
+ "status": 404,
+ "cff": null
+}

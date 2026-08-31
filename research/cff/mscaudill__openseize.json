@@ -1,0 +1,9 @@
+{
+ "repo": "mscaudill/openseize",
+ "joss_doi": "10.21105/joss.05126",
+ "joss_title": "Openseize: A digital signal processing package for large EEG datasets in Python",
+ "joss_published": "2023-04-05T14:27:49.877Z",
+ "software_repository": "https://github.com/mscaudill/openseize",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Caudill\n  given-names: Matthew S.\n  orcid: \"https://orcid.org/0000-0002-3656-9261\"\ndoi: 10.5281/zenodo.7760376\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Caudill\n    given-names: Matthew S.\n    orcid: \"https://orcid.org/0000-0002-3656-9261\"\n  date-published: 2023-04-05\n  doi: 10.21105/joss.05126\n  issn: 2475-9066\n  issue: 84\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5126\n  title: \"Openseize: A digital signal processing package for large EEG\n    datasets in Python\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05126\"\n  volume: 8\ntitle: \"Openseize: A digital signal processing package for large EEG\n  datasets in Python\"\n"
+}

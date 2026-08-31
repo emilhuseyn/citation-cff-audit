@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.09616",
+ "source": "crossref",
+ "state": "ok",
+ "title": "ParallelKDE.jl: A Package for Highly Parallel Kernel Density Estimation",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

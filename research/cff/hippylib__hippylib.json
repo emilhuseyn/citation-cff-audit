@@ -1,0 +1,9 @@
+{
+ "repo": "hippylib/hippylib",
+ "joss_doi": "10.21105/joss.00940",
+ "joss_title": "hIPPYlib: An Extensible Software Framework for Large-Scale Inverse Problems",
+ "joss_published": "2018-10-23T19:00:50.795Z",
+ "software_repository": "https://github.com/hippylib/hippylib",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Villa\"\n  given-names: \"Umberto\"\n- family-names: \"Petra\"\n  given-names: \"Noemi\"\n- family-names: \"Ghattas\"\n  given-names: \"Omar\"\ntitle: \"hIPPYlib: An Extensible Software Framework for Large-Scale Inverse Problems Governed by PDEs\"\nversion: 3.0.0\ndoi: 10.5281/zenodo.1234\ndate-released: 2020-02-02\nurl: \"https://github.com/hippylib/hippylib\"\nreferences:\n  - type: article\n    authors:\n    - family-names: \"Villa\"\n      given-names: \"Umberto\"\n    - family-names: \"Petra\"\n      given-names: \"Noemi\"\n    - family-names: \"Ghattas\"\n      given-names: \"Omar\"\n    title: \"hIPPYlib: An Extensible Software Framework for Large-Scale Inverse Problems Governed by PDEs; Part I: Deterministic Inversion and Linearized Bayesian Inference\"\n    journal: \"ACM Trans. Math. Softw.\"\n    volume: 47\n    issue: 2\n    year: 2021\n    doi: 10.1145/3428447\n"
+}

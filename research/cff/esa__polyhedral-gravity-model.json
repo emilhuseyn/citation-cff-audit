@@ -1,0 +1,9 @@
+{
+ "repo": "esa/polyhedral-gravity-model",
+ "joss_doi": "10.21105/joss.06384",
+ "joss_title": "Efficient Polyhedral Gravity Modeling in Modern C++ and Python",
+ "joss_published": "2024-06-01T21:15:53.321Z",
+ "software_repository": "https://github.com/esa/polyhedral-gravity-model",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Schuhmacher\n  given-names: Jonas\n  orcid: \"https://orcid.org/0009-0005-9693-4530\"\n- family-names: Blazquez\n  given-names: Emmanuel\n  orcid: \"https://orcid.org/0000-0001-9697-582X\"\n- family-names: Gratl\n  given-names: Fabio\n  orcid: \"https://orcid.org/0000-0001-5195-7919\"\n- family-names: Izzo\n  given-names: Dario\n  orcid: \"https://orcid.org/0000-0002-9846-8423\"\n- family-names: G\u00f3mez\n  given-names: Pablo\n  orcid: \"https://orcid.org/0000-0002-5631-8240\"\ndoi: 10.5281/zenodo.11221939\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Schuhmacher\n    given-names: Jonas\n    orcid: \"https://orcid.org/0009-0005-9693-4530\"\n  - family-names: Blazquez\n    given-names: Emmanuel\n    orcid: \"https://orcid.org/0000-0001-9697-582X\"\n  - family-names: Gratl\n    given-names: Fabio\n    orcid: \"https://orcid.org/0000-0001-5195-7919\"\n  - family-names: Izzo\n    given-names: Dario\n    orcid: \"https://orcid.org/0000-0002-9846-8423\"\n  - family-names: G\u00f3mez\n    given-names: Pablo\n    orcid: \"https://orcid.org/0000-0002-5631-8240\"\n  date-published: 2024-06-01\n  doi: 10.21105/joss.06384\n  issn: 2475-9066\n  issue: 98\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6384\n  title: Efficient Polyhedral Gravity Modeling in Modern C++ and Python\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06384\"\n  volume: 9\ntitle: Efficient Polyhedral Gravity Modeling in Modern C++ and Python\n"
+}

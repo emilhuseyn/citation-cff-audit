@@ -1,0 +1,9 @@
+{
+ "repo": "prashjha/PeriDEM",
+ "joss_doi": "10.21105/joss.07525",
+ "joss_title": "PeriDEM -- High-fidelity modeling of granular media consisting of deformable complex-shaped particles",
+ "joss_published": "2025-12-19T19:35:35.869Z",
+ "software_repository": "https://github.com/prashjha/PeriDEM",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nauthors:\n  - family-names: Jha\n    given-names: Prashant\n    orcid: https://orcid.org/0000-0003-2158-364X\ntitle: \"Peridynamics-based discrete element method (PeriDEM) model of granular systems\"\nversion: 2.0.4\nidentifiers:\n  - type: doi\n    value: 10.5281/zenodo.13888588\ndate-released: 2024-06-05\n"
+}

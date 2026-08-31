@@ -1,0 +1,9 @@
+{
+ "repo": "complexvariables/ComplexRegions.jl",
+ "joss_doi": "10.21105/joss.01811",
+ "joss_title": "ComplexRegions.jl: A Julia package for regions in the complex plane",
+ "joss_published": "2019-12-02T14:31:20.801Z",
+ "software_repository": "https://github.com/complexvariables/ComplexRegions.jl",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Driscoll\n    given-names: Tobin\n    orcid: https://orcid.org/0000-0002-1490-2545\ntitle: \"ComplexRegions.jl: A Julia package for regions in the complex plane\"\nversion: 0.1.1\ndoi: 10.5281/zenodo.3548866\ndate-released: 2019-11-20\n"
+}

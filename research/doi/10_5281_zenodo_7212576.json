@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.7212576",
+ "source": "datacite",
+ "state": "ok",
+ "title": "pii-codex: a Python library for PII detection, categorization, and severity assessment",
+ "type": "Software",
+ "container": ""
+}

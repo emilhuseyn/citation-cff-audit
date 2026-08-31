@@ -1,0 +1,9 @@
+{
+ "repo": "tongzhouxu/mashpit",
+ "joss_doi": "10.21105/joss.07306",
+ "joss_title": "Mashpit: sketching out genomic epidemiology",
+ "joss_published": "2024-12-17T08:53:28.884Z",
+ "software_repository": "https://github.com/tongzhouxu/mashpit",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Xu\n  given-names: Tongzhou\n  orcid: \"https://orcid.org/0000-0002-3829-8688\"\n- family-names: Bakker\n  given-names: Henk C.\n  name-particle: den\n  orcid: \"https://orcid.org/0000-0002-4086-1580\"\n- family-names: Deng\n  given-names: Xiangyu\n  orcid: \"https://orcid.org/0000-0002-7251-2529\"\n- family-names: Katz\n  given-names: Lee S.\n  orcid: \"https://orcid.org/0000-0002-2533-9161\"\ndoi: 10.5281/zenodo.14498037\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Xu\n    given-names: Tongzhou\n    orcid: \"https://orcid.org/0000-0002-3829-8688\"\n  - family-names: Bakker\n    given-names: Henk C.\n    name-particle: den\n    orcid: \"https://orcid.org/0000-0002-4086-1580\"\n  - family-names: Deng\n    given-names: Xiangyu\n    orcid: \"https://orcid.org/0000-0002-7251-2529\"\n  - family-names: Katz\n    given-names: Lee S.\n    orcid: \"https://orcid.org/0000-0002-2533-9161\"\n  date-published: 2024-12-17\n  doi: 10.21105/joss.07306\n  issn: 2475-9066\n  issue: 104\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7306\n  title: \"Mashpit: sketching out genomic epidemiology\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07306\"\n  volume: 9\ntitle: \"Mashpit: sketching out genomic epidemiology\"\n"
+}

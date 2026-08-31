@@ -1,0 +1,9 @@
+{
+ "repo": "oxinabox/DataDepsGenerators.jl",
+ "joss_doi": "10.21105/joss.00921",
+ "joss_title": "DataDepsGenerators.jl: making reusing data easy by automatically generating DataDeps.jl registration code",
+ "joss_published": "2018-11-06T15:28:21.109Z",
+ "software_repository": "https://github.com/oxinabox/DataDepsGenerators.jl/",
+ "status": 404,
+ "cff": null
+}

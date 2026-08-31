@@ -1,0 +1,9 @@
+{
+ "repo": "JannisHoch/copro",
+ "joss_doi": "10.21105/joss.02855",
+ "joss_title": "CoPro: a data-driven modelling framework for conflict risk projections",
+ "joss_published": "2021-02-21T11:42:08.130Z",
+ "software_repository": "https://github.com/JannisHoch/copro",
+ "status": 200,
+ "cff": "cff-version: \"1.1.0\"\nmessage: \"If you use this software, please cite it using these metadata.\"\ntitle: CoPro\nversion: \"v2.0.2\"\nauthors: \n  - family-names: \"Hoch\"\n    given-names: \"Jannis\"\n    orcid: \"https://orcid.org/0000-0003-3570-6436\"\n    affiliation: \"Fathom\"\n  - family-names: \"de Bruin\"\n    given-names: \"Sophie\"\n    orcid: \"https://orcid.org/0000-0003-3429-349X\"\n    affiliation: \"PBL Netherlands Environmental Assessment Agency\"\n  - family-names: \"Wanders\"\n    given-names: \"Niko\"\n    orcid: \"https://orcid.org/0000-0002-7102-5454\"\n    affiliation: \"Utrecht University\"\ndate-released: 2024-12-20\ndoi: \"10.5281/zenodo.4061705\"\nlicense: MIT\nrepository-code: \"https://github.com/JannisHoch/copro\"\nkeywords: \n  - conflict\n  - \"machine learning\"\n  - \"climate change\"\n  - water\n  - scenarios\n  - projections\n  - \"climate security\"\n"
+}

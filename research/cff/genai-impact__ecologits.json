@@ -1,0 +1,9 @@
+{
+ "repo": "genai-impact/ecologits",
+ "joss_doi": "10.21105/joss.07471",
+ "joss_title": "EcoLogits: Evaluating the Environmental Impacts of Generative AI",
+ "joss_published": "2025-07-09T21:19:25.097Z",
+ "software_repository": "https://github.com/genai-impact/ecologits",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Rinc\u00e9\n  given-names: Samuel\n  orcid: \"https://orcid.org/0009-0000-0739-6114\"\n- family-names: Banse\n  given-names: Adrien\n  orcid: \"https://orcid.org/0000-0002-4456-6618\"\ndoi: 10.5281/zenodo.15601289\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Rinc\u00e9\n    given-names: Samuel\n    orcid: \"https://orcid.org/0009-0000-0739-6114\"\n  - family-names: Banse\n    given-names: Adrien\n    orcid: \"https://orcid.org/0000-0002-4456-6618\"\n  date-published: 2025-07-09\n  doi: 10.21105/joss.07471\n  issn: 2475-9066\n  issue: 111\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7471\n  title: \"EcoLogits: Evaluating the Environmental Impacts of Generative\n    AI\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07471\"\n  volume: 10\ntitle: \"EcoLogits: Evaluating the Environmental Impacts of Generative\n  AI\"\n"
+}

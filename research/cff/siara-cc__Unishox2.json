@@ -1,0 +1,9 @@
+{
+ "repo": "siara-cc/Unishox2",
+ "joss_doi": "10.21105/joss.03919",
+ "joss_title": "Unishox: A hybrid encoder for Short Unicode Strings",
+ "joss_published": "2022-01-18T21:06:42.882Z",
+ "software_repository": "https://github.com/siara-cc/Unishox2",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Ramanathan\"\n  given-names: \"Arundale\"\n  orcid: \"https://orcid.org/0000-0001-6642-447X\"\ntitle: \"Unishox: A hybrid encoder for compressing Short Unicode Strings\"\nversion: 1.0.2\ndoi: 10.5281/zenodo.5800408\ndate-released: 2021-12-23\nurl: \"https://github.com/siara-cc/Unishox2\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Ramanathan\"\n    given-names: \"Arundale\"\n    orcid: \"https://orcid.org/0000-0001-6642-447X\"\n  doi: \"10.5281/zenodo.5573864\"\n  month: 11\n  title: \"Unishox: A hybrid encoder for compressing Short Unicode Strings\"\n  year: 2021\n"
+}

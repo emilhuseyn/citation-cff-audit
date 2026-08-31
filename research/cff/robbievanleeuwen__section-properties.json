@@ -1,0 +1,9 @@
+{
+ "repo": "robbievanleeuwen/section-properties",
+ "joss_doi": "10.21105/joss.06105",
+ "joss_title": "sectionproperties: A Python package for the analysis of arbitrary cross-sections using the finite element method",
+ "joss_published": "2024-04-19T14:25:15.331Z",
+ "software_repository": "https://github.com/robbievanleeuwen/section-properties",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n  - family-names: Leeuwen\n    given-names: Robbie\n    name-particle: van\n    orcid: \"https://orcid.org/0009-0004-8056-3977\"\n  - family-names: Ferster\n    given-names: Connor\n    orcid: \"https://orcid.org/0009-0005-0861-2428\"\ndoi: 10.21105/joss.06105\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n    - family-names: Leeuwen\n      given-names: Robbie\n      name-particle: van\n      orcid: \"https://orcid.org/0009-0004-8056-3977\"\n    - family-names: Ferster\n      given-names: Connor\n      orcid: \"https://orcid.org/0009-0005-0861-2428\"\n  date-published: 2024-04-19\n  doi: 10.21105/joss.06105\n  issn: 2475-9066\n  issue: 96\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6105\n  title: \"sectionproperties: A Python package for the analysis of\n    arbitrary cross-sections using the finite element method\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06105\"\n  volume: 9\ntitle: \"sectionproperties: A Python package for the analysis of\n  arbitrary cross-sections using the finite element method\"\n"
+}

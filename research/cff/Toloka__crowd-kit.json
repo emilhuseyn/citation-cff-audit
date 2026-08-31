@@ -1,0 +1,9 @@
+{
+ "repo": "Toloka/crowd-kit",
+ "joss_doi": "10.21105/joss.06227",
+ "joss_title": "Learning from Crowds with Crowd-Kit",
+ "joss_published": "2024-04-06T05:46:07.336Z",
+ "software_repository": "https://github.com/Toloka/crowd-kit",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: If you use this software, please cite the article from preferred-citation.\ntitle: Crowd-Kit\ntype: software\nauthors:\n- family-names: Ustalov\n  given-names: Dmitry\n  orcid: \"https://orcid.org/0000-0002-9979-2188\"\n- family-names: Pavlichenko\n  given-names: Nikita\n  orcid: \"https://orcid.org/0000-0002-7330-393X\"\n- given-names: Boris\n  family-names: Tseitlin\n  orcid: \"https://orcid.org/0000-0001-8553-4260\"\nrepository-code: \"https://github.com/Toloka/crowd-kit\"\nurl: \"https://crowd-kit.readthedocs.io/\"\nrepository-artifact: \"https://pypi.org/project/crowd-kit/\"\nkeywords:\n- Python\n- crowdsourcing\n- data labeling\n- answer aggregation\n- truth inference\n- learning from crowds\n- machine learning\n- quality control\n- data quality\nlicense: Apache-2.0\npreferred-citation:\n  type: article\n  authors:\n  - family-names: Ustalov\n    given-names: Dmitry\n    orcid: \"https://orcid.org/0000-0002-9979-2188\"\n  - family-names: Pavlichenko\n    given-names: Nikita\n    orcid: \"https://orcid.org/0000-0002-7330-393X\"\n  - given-names: Boris\n    family-names: Tseitlin\n    orcid: \"https://orcid.org/0000-0001-8553-4260\"\n  title: \"Learning from Crowds with Crowd-Kit\"\n  year: 2024\n  journal: Journal of Open Source Software\n  volume: 9\n  issue: 96\n  start: 6227\n  end: 6227\n  doi: \"10.21105/joss.06227\"\n  issn: 2475-9066\n  identifiers:\n  - type: other\n    value: \"arXiv:2109.08584\"\n    description: The ArXiv preprint of the paper\n"
+}

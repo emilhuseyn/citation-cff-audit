@@ -1,0 +1,9 @@
+{
+ "repo": "hrossman/pymsm",
+ "joss_doi": "10.21105/joss.04566",
+ "joss_title": "PyMSM: Python package for Competing Risks and Multi-State models for Survival Data",
+ "joss_published": "2022-10-09T08:17:18.857Z",
+ "software_repository": "https://github.com/hrossman/pymsm",
+ "status": 200,
+ "cff": "# YAML 1.2\n---\nauthors:\n  - family-names: Rossman\n    given-names: Hagai\n  - family-names: Keshet\n    given-names: Ayya\n  - family-names: Gorfine\n    given-names: Malka\ncff-version: 1.2.0\ndoi: \"https://doi.org/10.5281/zenodo.6300873\"\nlicense: MIT\nmessage: \"If you use this software, please cite it using these metadata.\"\nrepository-code: \"https://github.com/hrossman/pymsm\"\ntitle: PyMSM, Multistate modeling in Python\ndate-released: 2022-02-27\n...\n"
+}

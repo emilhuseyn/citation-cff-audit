@@ -1,0 +1,9 @@
+{
+ "repo": "AgentOxygen/HDP",
+ "joss_doi": "10.21105/joss.08111",
+ "joss_title": "Heatwave Diagnostics Package: Efficiently Compute Heatwave Metrics Across Parameter Spaces",
+ "joss_published": "2026-02-03T21:13:45.914Z",
+ "software_repository": "https://github.com/AgentOxygen/HDP",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle: \"Heatwave Diagnostics Package (HDP)\"\nmessage: \"If you use this software, please cite both the software and the accompanying JOSS paper below.\"\ntype: software\nauthors:\n  - given-names: Cameron\n    family-names: Cummins\n    email: cameron.cummins@utexas.edu\n    affiliation: The University of Texas at Austin\n  - given-names: Geeta\n    family-names: Persad\n    affiliation: The University of Texas at Austin\nrepository-code: \"https://github.com/AgentOxygen/HDP\"\nurl: \"https://hdp.readthedocs.io/\"\nlicense: MIT\nversion: 1.0.2\nkeywords:\n  - heatwave\n  - heatwave diagnostics\n  - climate\n  - climate model\n  - heatwave metrics\n  - diagnostics\npreferred-citation:\n  type: article\n  title: \"Heatwave Diagnostics Package: Efficiently Compute Heatwave Metrics Across Parameter Spaces\"\n  authors:\n    - given-names: Cameron\n      family-names: Cummins\n    - given-names: Geeta\n      family-names: Persad\n  doi: \"10.21105/joss.08111\"\n  url: \"https://doi.org/10.21105/joss.08111\"\n  journal: \"Journal of Open Source Software\"\n  publisher:\n    name: \"The Open Journal\"\n  year: 2026\n  volume: 11\n  issue: 118\n  start: 8111\n"
+}

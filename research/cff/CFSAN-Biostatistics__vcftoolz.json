@@ -1,0 +1,9 @@
+{
+ "repo": "CFSAN-Biostatistics/vcftoolz",
+ "joss_doi": "10.21105/joss.01144",
+ "joss_title": "vcftoolz: a Python package for comparing and evaluating Variant Call Format files.",
+ "joss_published": "2019-03-26T06:29:14.313Z",
+ "software_repository": "https://github.com/CFSAN-Biostatistics/vcftoolz",
+ "status": 404,
+ "cff": null
+}

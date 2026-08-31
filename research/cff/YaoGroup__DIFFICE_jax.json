@@ -1,0 +1,9 @@
+{
+ "repo": "YaoGroup/DIFFICE_jax",
+ "joss_doi": "10.21105/joss.07254",
+ "joss_title": "DIFFICE-jax: Differentiable neural-network solver for data assimilation of ice shelves in JAX",
+ "joss_published": "2025-05-01T09:52:33.134Z",
+ "software_repository": "https://github.com/YaoGroup/DIFFICE_jax",
+ "status": 404,
+ "cff": null
+}

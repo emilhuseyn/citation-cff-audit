@@ -1,0 +1,9 @@
+{
+ "repo": "ni1o1/transbigdata",
+ "joss_doi": "10.21105/joss.04021",
+ "joss_title": "TransBigData: A Python package for transportation spatio-temporal big data processing, analysis and visualization",
+ "joss_published": "2022-03-03T18:45:08.213Z",
+ "software_repository": "https://github.com/ni1o1/transbigdata",
+ "status": 200,
+ "cff": "cff-version: 2.0.0\ntitle: \"TransBigData: A Python package for transportation spatio-temporal big data processing, analysis and visualization\"\njournal: \"Journal of Open Source Software\"\nauthors:\n  - name: Qing Yu\n    orcid: 0000-0003-2513-2969\n    affiliation: 1\n  - name: Jian Yuan\n    orcid: 0000-0002-7202-0946\n    affiliation: 1\nlicense: \"BSD 3\"\nrepository-code: \"https://github.com/ni1o1/transbigdata\"\ndate-published: \"2022\"\nvolume: \"7\"\nnumber: \"71\"\npages: \"4021\"\ndoi: \"10.21105/joss.04021\"\nyear: \"2022\"\n"
+}

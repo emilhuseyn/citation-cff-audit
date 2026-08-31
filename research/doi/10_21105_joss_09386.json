@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.09386",
+ "source": "crossref",
+ "state": "ok",
+ "title": "Ellip: An Elliptic Integral Library for Rust",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

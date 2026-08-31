@@ -1,0 +1,9 @@
+{
+ "repo": "virtual-vehicle/pointcloudset",
+ "joss_doi": "10.21105/joss.03471",
+ "joss_title": "pointcloudset: Efficient Analysis of Large Datasets of Point Clouds Recorded Over Time",
+ "joss_published": "2021-09-28T12:08:54.975Z",
+ "software_repository": "https://github.com/virtual-vehicle/pointcloudset/",
+ "status": 200,
+ "cff": "ff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Goelles\"\n    given-names: \"Thomas\"\n  - family-names: \"Schlager\"\n    given-names: \"Birgit\"\n  - family-names: \"Muckenhuber\"\n    given-names: \"Stefan\"\n  - family-names: \"Haas\"\n    given-names: \"Sarah\"\n  - family-names: \"Hammer\"\n    given-names: \"Tobias\"  \n  journal: \"Journal of Open Source Software\"\n  volume: 6\n  issue: 65\n  start: 3471\n  end: 3471\n  title: \"`pointcloudset`: Efficient Analysis of Large Datasets of Point Clouds Recorded Over Time\"\n  url: \"https://doi.org/10.21105/joss.03471\"\n  doi: \"10.21105/joss.03471\"\n  year: 2021\n"
+}

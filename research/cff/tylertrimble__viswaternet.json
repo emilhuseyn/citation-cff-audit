@@ -1,0 +1,9 @@
+{
+ "repo": "tylertrimble/viswaternet",
+ "joss_doi": "10.21105/joss.05139",
+ "joss_title": "VisWaterNet: A Python package for visualization of water distribution networks",
+ "joss_published": "2023-04-11T13:46:32.683Z",
+ "software_repository": "https://github.com/tylertrimble/viswaternet",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Thomas\n  given-names: Meghna\n- family-names: Trimble\n  given-names: Tyler\n- family-names: Sela\n  given-names: Lina\n  orcid: \"https://orcid.org/0000-0002-5834-8451\"\ncontact:\n- family-names: Thomas\n  given-names: Meghna\ndoi: 10.5281/zenodo.7799929\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Thomas\n    given-names: Meghna\n  - family-names: Trimble\n    given-names: Tyler\n  - family-names: Sela\n    given-names: Lina\n    orcid: \"https://orcid.org/0000-0002-5834-8451\"\n  date-published: 2023-04-11\n  doi: 10.21105/joss.05139\n  issn: 2475-9066\n  issue: 84\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5139\n  title: \"VisWaterNet: A Python package for visualization of water\n    distribution networks\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05139\"\n  volume: 8\ntitle: \"VisWaterNet: A Python package for visualization of water\n  distribution networks\"\n"
+}

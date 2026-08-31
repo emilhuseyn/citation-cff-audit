@@ -1,0 +1,9 @@
+{
+ "repo": "FSEC-Photovoltaics/pvrpm-lcoe",
+ "joss_doi": "10.21105/joss.04093",
+ "joss_title": "PyPVRPM: Photovoltaic Reliability and Performance Model in Python",
+ "joss_published": "2022-03-22T12:33:30.272Z",
+ "software_repository": "https://github.com/FSEC-Photovoltaics/pvrpm-lcoe",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software for research or industry applications, please cite it as below.\"\nauthors:\n- family-names: \"Silva\"\n  given-names: \"Brandon\"\n  orcid: \"https://orcid.org/0000-0001-8278-7158\"\n- family-names: \"Lunis\"\n  given-names: \"Paul\"\ntitle: \"Py-PVRPM\"\nversion: 1.7.2\ndoi: 10.5281/zenodo.1234\ndate-released: 2022-01-13\nurl: \"https://github.com/FSEC-Photovoltaics/pvrpm-lcoe\"\n"
+}

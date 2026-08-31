@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.10840604",
+ "source": "datacite",
+ "state": "ok",
+ "title": "matbench-genmetrics: A Python library for benchmarking crystal structure generative models using time-based splits of Materials Project structures",
+ "type": "Software",
+ "container": ""
+}

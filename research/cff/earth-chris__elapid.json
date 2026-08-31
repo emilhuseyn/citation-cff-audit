@@ -1,0 +1,9 @@
+{
+ "repo": "earth-chris/elapid",
+ "joss_doi": "10.21105/joss.04930",
+ "joss_title": "elapid: Species distribution modeling tools for Python",
+ "joss_published": "2023-04-19T13:58:06.141Z",
+ "software_repository": "https://github.com/earth-chris/elapid",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Anderson\n  given-names: Christopher B.\n  orcid: \"https://orcid.org/0000-0001-7392-4368\"\ndoi: 10.5281/zenodo.7813017\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Anderson\n    given-names: Christopher B.\n    orcid: \"https://orcid.org/0000-0001-7392-4368\"\n  date-published: 2023-04-19\n  doi: 10.21105/joss.04930\n  issn: 2475-9066\n  issue: 84\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 4930\n  title: \"elapid: Species distribution modeling tools for Python\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.04930\"\n  volume: 8\ntitle: \"elapid: Species distribution modeling tools for Python\"\n"
+}

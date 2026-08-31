@@ -1,0 +1,9 @@
+{
+ "repo": "LLNL/echemfem",
+ "joss_doi": "10.21105/joss.06531",
+ "joss_title": "EchemFEM: A Firedrake-based Python package for electrochemical transport",
+ "joss_published": "2024-05-31T22:09:05.527Z",
+ "software_repository": "https://github.com/LLNL/echemfem",
+ "status": 404,
+ "cff": null
+}

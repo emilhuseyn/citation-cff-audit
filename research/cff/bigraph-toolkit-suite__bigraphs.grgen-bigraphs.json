@@ -1,0 +1,9 @@
+{
+ "repo": "bigraph-toolkit-suite/bigraphs.grgen-bigraphs",
+ "joss_doi": "10.21105/joss.06491",
+ "joss_title": "BiGGer: A Model Transformation Tool written in Java for Bigraph Rewriting in GrGen.NET",
+ "joss_published": "2024-06-11T19:09:26.984Z",
+ "software_repository": "https://github.com/bigraph-toolkit-suite/bigraphs.grgen-bigraphs",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Grzelak\n  given-names: Dominik\n  orcid: \"https://orcid.org/0000-0001-6334-2356\"\ncontact:\n- family-names: Grzelak\n  given-names: Dominik\n  orcid: \"https://orcid.org/0000-0001-6334-2356\"\ndoi: 10.5281/zenodo.11565998\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Grzelak\n    given-names: Dominik\n    orcid: \"https://orcid.org/0000-0001-6334-2356\"\n  date-published: 2024-06-11\n  doi: 10.21105/joss.06491\n  issn: 2475-9066\n  issue: 98\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6491\n  title: \"BiGGer: A Model Transformation Tool written in Java for\n    Bigraph Rewriting in GrGen.NET\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06491\"\n  volume: 9\ntitle: \"BiGGer: A Model Transformation Tool written in Java for Bigraph\n  Rewriting in GrGen.NET\"\n"
+}

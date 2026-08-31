@@ -1,0 +1,9 @@
+{
+ "repo": "euroargodev/argopy",
+ "joss_doi": "10.21105/joss.02425",
+ "joss_title": "argopy: A Python library for Argo ocean data analysis",
+ "joss_published": "2020-09-01T13:27:04.172Z",
+ "software_repository": "https://github.com/euroargodev/argopy",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle: argopy\nmessage: 'If you use this software, please cite it as below.'\ntype: software\nauthors:\n  - family-names: Maze\n    given-names: Guillaume\n    orcid: 'https://orcid.org/0000-0001-7231-2095'\n  - family-names: Balem\n    given-names: Kevin\n    orcid: 'https://orcid.org/0000-0002-4956-8698'\nidentifiers:\n  - type: doi\n    value: 10.21105/joss.02425\n    description: DOI of the JOSS peer-reviewed article, preferred citation\n  - type: swh\n    value: 'swh:1:dir:3d568702945207a22ac35e038256e4be88d20f17'\n    description: Software Heritage Identifier (SWHID)\n  - type: doi\n    value: 10.5281/zenodo.4010160\n    description: Zenodo archives of the repository\nrepository-code: 'https://github.com/euroargodev/argopy'\nurl: 'https://github.com/euroargodev/argopy'\nrepository: 'https://argopy.readthedocs.io'\nabstract: A python library for Argo data beginners and experts\nlicense: EUPL-1.2\npreferred-citation:\n  type: article\n  authors:\n    - family-names: Maze\n      given-names: Guillaume\n      orcid: 'https://orcid.org/0000-0001-7231-2095'\n    - family-names: Balem\n      given-names: Kevin\n      orcid: 'https://orcid.org/0000-0002-4956-8698'\n  doi: 10.21105/joss.02425\n  journal: Journal of Open Source Software\n  title: 'argopy: A Python library for Argo ocean data analysis'\n  year: 2020\n  volume: 5\n  issue: 53\n  page: 2425\n\n# This CITATION.cff file was generated with cffinit.\n# Visit https://bit.ly/cffinit to generate yours today!\n"
+}

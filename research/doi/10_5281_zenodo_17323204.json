@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.17323204",
+ "source": "datacite",
+ "state": "ok",
+ "title": "ManipulaPy: A GPU-accelerated Python toolkit for manipulator kinematics, dynamics, planning, control, and simulation",
+ "type": "Software",
+ "container": ""
+}

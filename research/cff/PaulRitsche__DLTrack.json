@@ -1,0 +1,9 @@
+{
+ "repo": "PaulRitsche/DLTrack",
+ "joss_doi": "10.21105/joss.05206",
+ "joss_title": "DL_Track_US: a python package to analyse muscle ultrasonography images",
+ "joss_published": "2023-05-02T09:08:00.693Z",
+ "software_repository": "https://github.com/PaulRitsche/DLTrack",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Ritsche\n  given-names: Paul\n  orcid: \"https://orcid.org/0000-0001-9446-7872\"\n- family-names: Seynnes\n  given-names: Olivier\n  orcid: \"https://orcid.org/0000-0002-1289-246X\"\n- family-names: Cronin\n  given-names: Neil\n  orcid: \"https://orcid.org/0000-0002-5332-1188\"\ncontact:\n- family-names: Ritsche\n  given-names: Paul\n  orcid: \"https://orcid.org/0000-0001-9446-7872\"\ndoi: 10.5281/zenodo.7885378\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Ritsche\n    given-names: Paul\n    orcid: \"https://orcid.org/0000-0001-9446-7872\"\n  - family-names: Seynnes\n    given-names: Olivier\n    orcid: \"https://orcid.org/0000-0002-1289-246X\"\n  - family-names: Cronin\n    given-names: Neil\n    orcid: \"https://orcid.org/0000-0002-5332-1188\"\n  date-published: 2023-05-02\n  doi: 10.21105/joss.05206\n  issn: 2475-9066\n  issue: 85\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5206\n  title: \"DL_Track_US: a python package to analyse muscle\n    ultrasonography images\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05206\"\n  volume: 8\ntitle: \"DL_Track_US: a python package to analyse muscle ultrasonography\n  images\"\n"
+}

@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.8338074",
+ "source": "datacite",
+ "state": "ok",
+ "title": "samgeo: A Python package for segmenting geospatial data with the Segment Anything Model (SAM)",
+ "type": "Software",
+ "container": ""
+}

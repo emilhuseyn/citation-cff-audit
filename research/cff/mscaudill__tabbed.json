@@ -1,0 +1,9 @@
+{
+ "repo": "mscaudill/tabbed",
+ "joss_doi": "10.21105/joss.08964",
+ "joss_title": "Tabbed: A Python package for reading variably structured text files at scale",
+ "joss_published": "2025-11-11T12:46:55.424Z",
+ "software_repository": "https://github.com/mscaudill/tabbed",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Caudill\n  given-names: Matthew S.\n  orcid: \"https://orcid.org/0000-0002-3656-9261\"\ndoi: 10.5281/zenodo.17554453\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Caudill\n    given-names: Matthew S.\n    orcid: \"https://orcid.org/0000-0002-3656-9261\"\n  date-published: 2025-11-11\n  doi: 10.21105/joss.08964\n  issn: 2475-9066\n  issue: 115\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 8964\n  title: \"Tabbed: A Python package for reading variably structured text\n    files at scale\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.08964\"\n  volume: 10\ntitle: \"Tabbed: A Python package for reading variably structured text\n  files at scale\"\n"
+}

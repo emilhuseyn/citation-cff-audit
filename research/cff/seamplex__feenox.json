@@ -1,0 +1,9 @@
+{
+ "repo": "seamplex/feenox",
+ "joss_doi": "10.21105/joss.05846",
+ "joss_title": "FeenoX: a cloud-first finite-element(ish) computational engineering tool",
+ "joss_published": "2024-03-16T22:48:59.625Z",
+ "software_repository": "https://github.com/seamplex/feenox/",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Theler\n  given-names: Jeremy\n  orcid: \"https://orcid.org/0000-0002-4142-4980\"\ndoi: 10.5281/zenodo.10819606\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Theler\n    given-names: Jeremy\n    orcid: \"https://orcid.org/0000-0002-4142-4980\"\n  date-published: 2024-03-16\n  doi: 10.21105/joss.05846\n  issn: 2475-9066\n  issue: 95\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5846\n  title: \"FeenoX: a cloud-first finite-element(ish) computational\n    engineering tool\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05846\"\n  volume: 9\ntitle: \"FeenoX: a cloud-first finite-element(ish) computational\n  engineering tool\"\n  \n"
+}

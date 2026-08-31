@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.11206280",
+ "source": "datacite",
+ "state": "ok",
+ "title": "Enlsip.jl: A Julia optimization package to solve constrained nonlinear least-squares problems",
+ "type": "Software",
+ "container": ""
+}

@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.lifecycle",
+ "source": "crossref",
+ "state": "ok",
+ "title": "lifecycle: Manage the Life Cycle of your Package Functions",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

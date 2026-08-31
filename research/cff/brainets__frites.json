@@ -1,0 +1,9 @@
+{
+ "repo": "brainets/frites",
+ "joss_doi": "10.21105/joss.03842",
+ "joss_title": "Frites: A Python package for functional connectivity analysis and group-level statistics of neurophysiological data",
+ "joss_published": "2022-11-11T11:25:25.383Z",
+ "software_repository": "https://github.com/brainets/frites",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Combrisson\"\n  given-names: \"Etienne\"\n  orcid: \"https://orcid.org/0000-0002-7362-3247\"\n- family-names: \"Basanisi\"\n  given-names: \"Ruggero\"\n  orcid: \"https://orcid.org/0000-0003-4776-596X\"\n- family-names: \"Lima Cordeiro\"\n  given-names: \"Vinicius\"\n  orcid: \"https://orcid.org/0000-0001-7115-9041\"\n- family-names: \"Ince\"\n  given-names: \"Robin A.A\"\n  orcid: \"https://orcid.org/0000-0001-8427-0507\"\n- family-names: \"Brovelli\"\n  given-names: \"Andrea\"\n  orcid: \"https://orcid.org/0000-0002-5342-1330\"\ntitle: \"Frites: A Python package for functional connectivity analysis and group-level statistics of neurophysiological data\"\nversion: 0.4.3\ndoi: 10.21105/joss.03842\ndate-released: 2022-11-11\nurl: \"https://github.com/brainets/frites\"\n"
+}

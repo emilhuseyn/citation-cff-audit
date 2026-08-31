@@ -1,0 +1,9 @@
+{
+ "repo": "pypeit/PypeIt",
+ "joss_doi": "10.21105/joss.02308",
+ "joss_title": "PypeIt: The Python Spectroscopic Data Reduction Pipeline",
+ "joss_published": "2020-12-16T19:07:22.501Z",
+ "software_repository": "https://github.com/pypeit/PypeIt",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Prochaska, Hennawi, Westfall, Cooke, Wang, Hsyu, Davies, Farina, Pelliccia\n    given-names: J. Xavier, Joseph, Kyle, Ryan, Feige, Tiffany, Fred, Emanuele, Debora\ntitle: \"PypeIt\"\nversion: 1.14.0\ndoi: 10.21105/joss.02308\ndate-released: 2020-08-28"
+}

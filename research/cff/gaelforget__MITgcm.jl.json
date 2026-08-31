@@ -1,0 +1,9 @@
+{
+ "repo": "gaelforget/MITgcm.jl",
+ "joss_doi": "10.21105/joss.06710",
+ "joss_title": "MITgcm.jl: a Julia Interface to the MITgcm",
+ "joss_published": "2024-10-22T19:13:53.862Z",
+ "software_repository": "https://github.com/gaelforget/MITgcm.jl",
+ "status": 404,
+ "cff": null
+}

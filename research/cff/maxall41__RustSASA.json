@@ -1,0 +1,9 @@
+{
+ "repo": "maxall41/RustSASA",
+ "joss_doi": "10.21105/joss.09537",
+ "joss_title": "RustSASA: A Rust Crate for Accelerated Solvent Accessible Surface Area Calculations",
+ "joss_published": "2026-01-12T17:28:29.767Z",
+ "software_repository": "https://github.com/maxall41/RustSASA",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Campbell\n  given-names: Maxwell J.\n  orcid: \"https://orcid.org/0000-0002-0959-1164\"\ndoi: 10.5281/zenodo.16958791\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Campbell\n    given-names: Maxwell J.\n    orcid: \"https://orcid.org/0000-0002-0959-1164\"\n  date-published: 2026-01-12\n  doi: 10.21105/joss.09537\n  issn: 2475-9066\n  issue: 117\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9537\n  title: \"RustSASA: A Rust Crate for Accelerated Solvent Accessible\n    Surface Area Calculations\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09537\"\n  volume: 11\ntitle: \"RustSASA: A Rust Crate for Accelerated Solvent Accessible\n  Surface Area Calculations\"\n"
+}

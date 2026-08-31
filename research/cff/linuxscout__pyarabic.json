@@ -1,0 +1,9 @@
+{
+ "repo": "linuxscout/pyarabic",
+ "joss_doi": "10.21105/joss.04886",
+ "joss_title": "PyArabic: A Python package for Arabic text",
+ "joss_published": "2023-04-20T13:40:05.374Z",
+ "software_repository": "https://github.com/linuxscout/pyarabic",
+ "status": 200,
+ "cff": "abstract: A specific Arabic language library for Python, provides basic functions to manipulate Arabic letters and text, like detecting Arabic letters, Arabic letters groups and characteristics, remove diacritics etc.\nauthors:\n  - family-names: Zerrouki\n    given-names: Taha\ncff-version: 1.0.0\nmessage: If you use this software, please cite it using these metadata.\ntitle: pyarabic, An Arabic language library for Python."
+}

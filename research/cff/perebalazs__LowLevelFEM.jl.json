@@ -1,0 +1,9 @@
+{
+ "repo": "perebalazs/LowLevelFEM.jl",
+ "joss_doi": "10.21105/joss.10096",
+ "joss_title": "LowLevelFEM.jl: A lightweight finite element toolbox in Julia",
+ "joss_published": "2026-07-28T21:38:21.911Z",
+ "software_repository": "https://github.com/perebalazs/LowLevelFEM.jl",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle: \"LowLevelFEM.jl\"\nmessage: \"If you use this software, please cite the accompanying JOSS paper.\"\ntype: software\n\nauthors:\n  - family-names: \"Pere\"\n    given-names: \"Bal\u00e1zs\"\n    orcid: \"https://orcid.org/0000-0002-1161-4206\"\n\nversion: \"1.13.25\"\n\ndoi: \"10.21105/joss.10096\"\n\nrepository-code: \"https://github.com/perebalazs/LowLevelFEM.jl\"\n\nlicense: \"MIT\"\n\npreferred-citation:\n  type: article\n  authors:\n    - family-names: \"Pere\"\n      given-names: \"Bal\u00e1zs\"\n      orcid: \"https://orcid.org/0000-0002-1161-4206\"\n\n  title: \"LowLevelFEM.jl: A lightweight finite element toolbox in Julia\"\n\n  journal: \"Journal of Open Source Software\"\n\n  year: 2026\n\n  volume: 11\n\n  issue: 123\n\n  start: 10096\n\n  doi: \"10.21105/joss.10096\"\n"
+}

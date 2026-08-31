@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.stars",
+ "source": "crossref",
+ "state": "ok",
+ "title": "stars: Spatiotemporal Arrays, Raster and Vector Data Cubes",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

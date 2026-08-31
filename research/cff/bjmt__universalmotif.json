@@ -1,0 +1,9 @@
+{
+ "repo": "bjmt/universalmotif",
+ "joss_doi": "10.21105/joss.07012",
+ "joss_title": "universalmotif: An R package for biological motif analysis",
+ "joss_published": "2024-08-19T10:55:46.339Z",
+ "software_repository": "https://github.com/bjmt/universalmotif",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Tremblay\n  given-names: Benjamin Jean-Marie\n  orcid: \"https://orcid.org/0000-0002-7441-2951\"\ndoi: 10.5281/zenodo.13341141\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Tremblay\n    given-names: Benjamin Jean-Marie\n    orcid: \"https://orcid.org/0000-0002-7441-2951\"\n  date-published: 2024-08-19\n  doi: 10.21105/joss.07012\n  issn: 2475-9066\n  issue: 100\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7012\n  title: \"universalmotif: An R package for biological motif analysis\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07012\"\n  volume: 9\ntitle: \"universalmotif: An R package for biological motif analysis\"\n"
+}

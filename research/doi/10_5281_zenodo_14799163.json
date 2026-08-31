@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.14799163",
+ "source": "datacite",
+ "state": "ok",
+ "title": "UXsim: lightweight mesoscopic traffic flow simulator in pure Python",
+ "type": "Software",
+ "container": ""
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "AlidesChimin/SATA",
+ "joss_doi": "10.21105/joss.08599",
+ "joss_title": "ATAS - Academic Text Analysis System",
+ "joss_published": "2026-01-07T15:04:57.167Z",
+ "software_repository": "https://github.com/AlidesChimin/SATA",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle: \"SATA - Sistema de An\u00e1lise de Textos Acad\u00eamicos\"\nversion: \"1.1.0\"\nauthors:\n  - name: \"Alides Baptista Chimin Junior\"\n    affiliation: \"Universidade Estadual do Centro-Oeste (UNICENTRO)\"\n    orcid: \"0000-0002-7436-390X\" \ndoi: \"10.5281/zenodo.14868064\"\ndate-released: \"2025-02-13\"\nlicense: \"GPL-3.0\"\nrepository-code: \"https://github.com/AlidesChimin/SATA\"  \nkeywords:\n  - NLP\n  - Text Analysis\n  - Computational Linguistics\n  - Academic Writing\n"
+}

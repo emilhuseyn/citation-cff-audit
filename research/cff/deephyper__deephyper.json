@@ -1,0 +1,9 @@
+{
+ "repo": "deephyper/deephyper",
+ "joss_doi": "10.21105/joss.07975",
+ "joss_title": "DeepHyper: A Python Package for Massively Parallel Hyperparameter Optimization in Machine Learning",
+ "joss_published": "2025-05-19T01:27:31.160Z",
+ "software_repository": "https://github.com/deephyper/deephyper",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: If you use this software, please cite both the article from preferred-citation and the software itself.\nauthors:\n  - family-names: Romain Egele\n    given-names: Prasanna Balaprakash\n  - family-names: Gavin M. Wiggins\n    given-names: Brett Eiffert\ntitle: 'DeepHyper: A Python Package for Massively Parallel Hyperparameter Optimization in Machine Learning'\nversion: 1.0.0\nurl: https://doi.org/10.21105/joss.07975\ndoi: 10.21105/joss.07975\ndate-released: '2025-01-06'\npreferred-citation:\n  authors:\n    - family-names: Romain Egele\n      given-names: Prasanna Balaprakash\n    - family-names: Gavin M. Wiggins\n      given-names: Brett Eiffert\n  title: 'DeepHyper: A Python Package for Massively Parallel Hyperparameter Optimization in Machine Learning'\n  doi: 10.21105/joss.07975\n  url: https://doi.org/10.21105/joss.07975\n  type: article-journal\n  pages: '7975'\n  year: '2025'\n  conference: {}\n  publisher:\n    name: The Open Journal\n"
+}

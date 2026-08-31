@@ -1,0 +1,9 @@
+{
+ "repo": "stfc/dl_py2f",
+ "joss_doi": "10.21105/joss.08992",
+ "joss_title": "DL_PY2F: A library for Python-Fortran interoperability",
+ "joss_published": "2026-07-21T19:58:14.754Z",
+ "software_repository": "https://github.com/stfc/dl_py2f",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Lu\n  given-names: You\n  orcid: \"https://orcid.org/0000-0002-7524-4179\"\n- family-names: Keal\n  given-names: Thomas W.\n  orcid: \"https://orcid.org/0000-0001-8747-3975\"\ncontact:\n- family-names: Lu\n  given-names: You\n  orcid: \"https://orcid.org/0000-0002-7524-4179\"\ndoi: 10.5281/zenodo.21479185\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Lu\n    given-names: You\n    orcid: \"https://orcid.org/0000-0002-7524-4179\"\n  - family-names: Keal\n    given-names: Thomas W.\n    orcid: \"https://orcid.org/0000-0001-8747-3975\"\n  date-published: 2026-07-21\n  doi: 10.21105/joss.08992\n  issn: 2475-9066\n  issue: 123\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 8992\n  title: \"DL_PY2F: A library for Python-Fortran interoperability\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.08992\"\n  volume: 11\ntitle: \"DL_PY2F: A library for Python-Fortran interoperability\"\n\n\n"
+}

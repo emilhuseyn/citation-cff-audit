@@ -1,0 +1,9 @@
+{
+ "repo": "dgasmith/opt_einsum",
+ "joss_doi": "10.21105/joss.00753",
+ "joss_title": "opt\\_einsum - A Python package for optimizing contraction order for einsum-like expressions",
+ "joss_published": "2018-06-29T10:25:48.762Z",
+ "software_repository": "https://github.com/dgasmith/opt_einsum",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Smith\n    given-names: Daniel\n    orcid: https://orcid.org/0000-0001-8626-0900\n  - family-names: Gray\n    given-names: Johnnie\n    orcid: https://orcid.org/0000-0001-9461-3024\ntitle: \"`opt_einsum` - A Python package for optimizing contraction order for einsum-like expressions\"\nversion: 3.3.0\ndoi: 10.21105/joss.00753\ndate-released: 2019-06-28\nurl: \"https://github.com/dgasmith/opt_einsum\"\n"
+}

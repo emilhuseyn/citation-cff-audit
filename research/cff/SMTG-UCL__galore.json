@@ -1,0 +1,9 @@
+{
+ "repo": "SMTG-UCL/galore",
+ "joss_doi": "10.21105/joss.00773",
+ "joss_title": "Galore: Broadening and weighting for simulation of photoelectron spectroscopy",
+ "joss_published": "2018-06-15T12:49:55.026Z",
+ "software_repository": "https://github.com/SMTG-UCL/galore",
+ "status": 200,
+ "cff": "cff-version: 1.0.3\nmessage: \"Citation information for this software is provided below. You may prefer to cite the JOSS paper, which follows the software details. Citation information for the cross-section data is printed when Galore is used, and included in the JOSS Paper.\"\nauthors:\n  - family-names: Jackson\n    given-names: Adam J.\n  - family-names: Ganose\n    given-names: Alex M.\n  - family-names: Kavanagh\n    given-names: Se\u00e1n R.\n  - family-names: Regoutz\n    given-names: Anna\n  - family-names: Egdell\n    given-names: Russell G.\n  - family-names: Scanlon\n    given-names: David O.\ndoi: 10.5281/zenodo.1491826\nrepository-code: https://github.com/smtg-bham/galore\ntitle: Galore\nversion: 0.9.2\ndate-released: 2023-02-28\nprogramming-languages:\n  - python\nlicense: GPL-3.0-or-later\nreferences:\n  - type: article\n    journal: \"The Journal of Open Source Software\"\n    title: \"Galore: Broadening and weighting for simulation of photoelectron spectroscopy\"\n    volume: 3\n    issue: 26\n    number: 773\n    doi: 10.21105/joss.00773\n    authors:\n    - family-names: Jackson\n      given-names: Adam J.\n    - family-names: Ganose\n      given-names: Alex M.\n    - family-names: Regoutz\n      given-names: Anna\n    - family-names: Egdell\n      given-names: Russell G.\n    - family-names: Scanlon\n      given-names: David O.\n    "
+}

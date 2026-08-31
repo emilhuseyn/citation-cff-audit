@@ -1,0 +1,9 @@
+{
+ "repo": "quanted/esat",
+ "joss_doi": "10.21105/joss.07316",
+ "joss_title": "ESAT: Environmental Source Apportionment Toolkit Python package",
+ "joss_published": "2024-12-10T16:24:27.121Z",
+ "software_repository": "https://github.com/quanted/esat",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Smith\n  given-names: Deron\n  orcid: \"https://orcid.org/0009-0009-4015-5270\"\n- family-names: Cyterski\n  given-names: Michael\n  orcid: \"https://orcid.org/0000-0002-8630-873X\"\n- family-names: Johnston\n  given-names: John M\n  orcid: \"https://orcid.org/0000-0002-5886-7876\"\n- family-names: Wolfe\n  given-names: Kurt\n  orcid: \"https://orcid.org/0009-0009-4679-5922\"\n- family-names: Parmar\n  given-names: Rajbir\n  orcid: \"https://orcid.org/0009-0005-2221-0433\"\ndoi: 10.23719/1531870\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Smith\n    given-names: Deron\n    orcid: \"https://orcid.org/0009-0009-4015-5270\"\n  - family-names: Cyterski\n    given-names: Michael\n    orcid: \"https://orcid.org/0000-0002-8630-873X\"\n  - family-names: Johnston\n    given-names: John M\n    orcid: \"https://orcid.org/0000-0002-5886-7876\"\n  - family-names: Wolfe\n    given-names: Kurt\n    orcid: \"https://orcid.org/0009-0009-4679-5922\"\n  - family-names: Parmar\n    given-names: Rajbir\n    orcid: \"https://orcid.org/0009-0005-2221-0433\"\n  date-published: 2024-12-10\n  doi: 10.21105/joss.07316\n  issn: 2475-9066\n  issue: 104\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7316\n  title: \"ESAT: Environmental Source Apportionment Toolkit Python\n    package\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07316\"\n  volume: 9\ntitle: \"ESAT: Environmental Source Apportionment Toolkit Python package\"\n"
+}

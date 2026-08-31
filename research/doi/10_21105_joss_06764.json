@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.06764",
+ "source": "crossref",
+ "state": "ok",
+ "title": "FastVPINNs: An efficient tensor-based Python library\nfor solving partial differential equations using hp-Variational Physics\nInformed Neural Networks",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

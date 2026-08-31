@@ -1,0 +1,9 @@
+{
+ "repo": "mzabrams/fars-cleaner",
+ "joss_doi": "10.21105/joss.04678",
+ "joss_title": "fars_cleaner: A Python package for downloading and pre-processing vehicle fatality data in the US",
+ "joss_published": "2022-11-07T08:51:46.500Z",
+ "software_repository": "https://github.com/mzabrams/fars-cleaner",
+ "status": 404,
+ "cff": null
+}

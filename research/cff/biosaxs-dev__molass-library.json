@@ -1,0 +1,9 @@
+{
+ "repo": "biosaxs-dev/molass-library",
+ "joss_doi": "10.21105/joss.10403",
+ "joss_title": "Molass Library: A Python Package for SEC-SAXS Data Analysis",
+ "joss_published": "2026-08-30T01:07:23.043Z",
+ "software_repository": "https://github.com/biosaxs-dev/molass-library",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\ntype: software\ntitle: \"Molass Library: A Python Package for SEC-SAXS Data Analysis\"\nauthors:\n  - family-names: Takahashi\n    given-names: Masatsuyo\n    orcid: \"https://orcid.org/0009-0007-1466-5563\"\n    affiliation: \"Structural Biology Research Center, Institute of Materials Structure Science, High Energy Accelerator Research Organization (KEK)\"\n  - family-names: Shimizu\n    given-names: Nobutaka\n    orcid: \"https://orcid.org/0000-0002-3636-1663\"\n    affiliation: \"Photon Factory, Institute of Materials Structure Science, High Energy Accelerator Research Organization (KEK)\"\nversion: 1.0.1\nlicense: GPL-3.0\nurl: \"https://biosaxs-dev.github.io/molass-library\"\nrepository-code: \"https://github.com/biosaxs-dev/molass-library\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "pnsaevik/effluent",
+ "joss_doi": "10.21105/joss.05554",
+ "joss_title": "Effluent: A Python package for modelling effluent discharge",
+ "joss_published": "2023-09-13T15:16:42.143Z",
+ "software_repository": "https://github.com/pnsaevik/effluent",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\n\ntitle: \"Effluent: A Python package for modelling effluent discharge\"\nauthors:\n- family-names: \"S\u00e6vik\"\n  given-names: \"P\u00e5l N\u00e6verlid\"\n  orcid: \"https://orcid.org/0000-0002-7301-2008\"\n\ndoi: 10.5281/zenodo.8333370\nversion: 1.3.3\ndate-released: 2023-09-14\nlicense: MIT\nurl: \"https://effluent.readthedocs.io/en/latest/\"\nrepository-code: \"https://github.com/pnsaevik/effluent/\"\n\npreferred-citation:\n  title: \"Effluent: A Python package for modelling effluent discharge\"\n  authors:\n  - family-names: \"S\u00e6vik\"\n    given-names: \"P\u00e5l N\u00e6verlid\"\n    orcid: \"https://orcid.org/0000-0002-7301-2008\"\n  doi: 10.21105/joss.05554\n  url: https://doi.org/10.21105/joss.05554\n  year: 2023\n  publisher: The Open Journal\n  volume: 8\n  number: 89\n  pages: 5554\n  journal: Journal of Open Source Software\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "pik-piam/flodym",
+ "joss_doi": "10.21105/joss.10105",
+ "joss_title": "flodym: A Python package for dynamic material flow analysis",
+ "joss_published": "2026-03-30T18:51:29.807Z",
+ "software_repository": "https://github.com/pik-piam/flodym",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: D\u00fcrrw\u00e4chter\n  given-names: Jakob\n  orcid: \"https://orcid.org/0000-0001-8961-5340\"\n- family-names: Dacie\n  given-names: Sally\n- family-names: Hosak\n  given-names: Merlin\n  orcid: \"https://orcid.org/0009-0005-7965-1846\"\n- family-names: Weiss\n  given-names: Bennet\n  orcid: \"https://orcid.org/0009-0009-9859-9683\"\n- family-names: Ueckerdt\n  given-names: Falko\n  orcid: \"https://orcid.org/0000-0001-5585-030X\"\ncontact:\n- family-names: D\u00fcrrw\u00e4chter\n  given-names: Jakob\n  orcid: \"https://orcid.org/0000-0001-8961-5340\"\ndoi: 10.5281/zenodo.19064877\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: D\u00fcrrw\u00e4chter\n    given-names: Jakob\n    orcid: \"https://orcid.org/0000-0001-8961-5340\"\n  - family-names: Hosak\n    given-names: Merlin\n    orcid: \"https://orcid.org/0009-0005-7965-1846\"\n  - family-names: Weiss\n    given-names: Bennet\n    orcid: \"https://orcid.org/0009-0009-9859-9683\"\n  - family-names: Ueckerdt\n    given-names: Falko\n    orcid: \"https://orcid.org/0000-0001-5585-030X\"\n  date-published: 2026-03-30\n  doi: 10.21105/joss.10105\n  issn: 2475-9066\n  issue: 119\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 10105\n  title: \"flodym: A Python package for dynamic material flow analysis\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.10105\"\n  volume: 11\ntitle: \"flodym: A Python package for dynamic material flow analysis\"\n"
+}

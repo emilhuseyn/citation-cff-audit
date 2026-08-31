@@ -1,0 +1,9 @@
+{
+ "repo": "mscroggs/symfem",
+ "joss_doi": "10.21105/joss.03556",
+ "joss_title": "Symfem: a symbolic finite element definition library",
+ "joss_published": "2021-08-24T12:40:33.852Z",
+ "software_repository": "https://github.com/mscroggs/symfem",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: If you use this software, please cite it as below.\nauthors:\n  - family-names: Scroggs\n    given-names: Matthew W.\n    orcid: 0000-0002-4658-2443\ntitle: Symfem\nversion: 2025.12.0\ndate-released: 2025-12-10\nlicense: MIT\nurl: https://github.com/mscroggs/symfem\npreferred-citation:\n  type: article\n  authors:\n  - family-names: Scroggs\n    given-names: Matthew W.\n    orcid: https://orcid.org/0000-0002-4658-2443\n  doi: 10.21105/joss.03556\n  journal: Journal of Open Source Software\n  title: \"Symfem: a symbolic finite element definition library\"\n  volume: 6\n  issue: 64\n  start: 3556\n  month: 8\n  year: 2021\n"
+}

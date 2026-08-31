@@ -1,0 +1,8 @@
+{
+ "doi": "10.1016/j.is.2021.101804",
+ "source": "crossref",
+ "state": "ok",
+ "title": "Fast and eager\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" id=\"d1e1883\" altimg=\"si103.svg\">\n                      <mml:mi>k</mml:mi>\n                    </mml:math>\n                    -medoids clustering:\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" id=\"d1e1888\" altimg=\"si10.svg\">\n                      <mml:mrow>\n                        <mml:mi>O</mml:mi>\n                        <mml:mrow>\n                          <mml:mo>(</mml:mo>\n                          <mml:mi>k</mml:mi>\n                          <mml:mo>)</mml:mo>\n                        </mml:mrow>\n                      </mml:mrow>\n                    </mml:math>\n                    runtime improvement of the PAM, CLARA, and CLARANS algorithms",
+ "type": "journal-article",
+ "container": "Information Systems"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "depasquale-lab/StateSpaceDynamics.jl",
+ "joss_doi": "10.21105/joss.08077",
+ "joss_title": "StateSpaceDynamics.jl: A Julia package for probabilistic state space models (SSMs)",
+ "joss_published": "2025-11-14T16:07:05.193Z",
+ "software_repository": "https://github.com/depasquale-lab/StateSpaceDynamics.jl",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Senne\n  given-names: Ryan\n  orcid: \"https://orcid.org/0000-0003-3776-4576\"\n- family-names: Loschinskey\n  given-names: Zachary\n  orcid: \"https://orcid.org/0009-0005-2831-2641\"\n- family-names: Fourie\n  given-names: James\n- family-names: Loughridge\n  given-names: Carson\n- family-names: DePasquale\n  given-names: Brian D.\n  orcid: \"https://orcid.org/0000-0003-4508-0537\"\ndoi: 10.5281/zenodo.17583787\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Senne\n    given-names: Ryan\n    orcid: \"https://orcid.org/0000-0003-3776-4576\"\n  - family-names: Loschinskey\n    given-names: Zachary\n    orcid: \"https://orcid.org/0009-0005-2831-2641\"\n  - family-names: Fourie\n    given-names: James\n  - family-names: Loughridge\n    given-names: Carson\n  - family-names: DePasquale\n    given-names: Brian D.\n    orcid: \"https://orcid.org/0000-0003-4508-0537\"\n  date-published: 2025-11-14\n  doi: 10.21105/joss.08077\n  issn: 2475-9066\n  issue: 115\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 8077\n  title: \"StateSpaceDynamics.jl: A Julia package for probabilistic state\n    space models (SSMs)\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.08077\"\n  volume: 10\ntitle: \"StateSpaceDynamics.jl: A Julia package for probabilistic state\n  space models (SSMs)\"\n"
+}

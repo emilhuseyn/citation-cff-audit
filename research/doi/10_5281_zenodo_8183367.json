@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.8183367",
+ "source": "datacite",
+ "state": "ok",
+ "title": "nctoolkit: A Python package for netCDF analysis and post-processing",
+ "type": "Software",
+ "container": ""
+}

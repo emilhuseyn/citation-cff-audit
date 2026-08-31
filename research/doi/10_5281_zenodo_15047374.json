@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.15047374",
+ "source": "datacite",
+ "state": "ok",
+ "title": "bayes_traj: A Python package for Bayesian trajectory analysis",
+ "type": "Software",
+ "container": ""
+}

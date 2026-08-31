@@ -1,0 +1,9 @@
+{
+ "repo": "rahildoshi97/materforge",
+ "joss_doi": "10.21105/joss.09909",
+ "joss_title": "MaterForge: Materials Formulation Engine with Python",
+ "joss_published": "2026-05-13T23:44:43.460Z",
+ "software_repository": "https://github.com/rahildoshi97/materforge",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: \"Doshi\"\n    given-names: \"Rahil Miten\"\n    email: \"rahil.doshi@fau.de\"\n    affiliation: \"Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg\"\n    orcid: \"0009-0008-3570-9841\"\ncontributors:\n  - family-names: \"Markl\"\n    given-names: \"Matthias\"\n    affiliation: \"Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg\"\ntitle: \"MaterForge: Materials Formulation Engine with Python\"\nversion: \"0.10.0\"\ndate-released: \"2026-06-23\"\nurl: \"https://github.com/rahildoshi97/materforge\"\nrepository-code: \"https://github.com/rahildoshi97/materforge\"\nlicense: \"BSD-3-Clause\"\nabstract: \"MaterForge is an extensible, open-source Python library that streamlines the definition and use of material properties in numerical simulations. The library converts user-friendly YAML configuration files into symbolic mathematical expressions, supports multiple property definition methods, and automatically resolves dependencies. It is designed for high-performance computing applications and serves as a bridge between experimental data and numerical simulation.\"\nkeywords:\n  - \"python\"\n  - \"materials science\"\n  - \"symbolic computation\"\n  - \"scientific computing\"\n  - \"YAML configuration\"\n  - \"high-performance computing\"\n  - \"thermophysical properties\"\n  - \"simulation\"\n  - \"piecewise functions\"\n  - \"material properties\"\n  - \"numerical simulation\"\n  - \"dependency resolution\"\ntype: \"software\"\n"
+}

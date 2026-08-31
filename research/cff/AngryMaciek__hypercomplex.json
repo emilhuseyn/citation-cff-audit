@@ -1,0 +1,9 @@
+{
+ "repo": "AngryMaciek/hypercomplex",
+ "joss_doi": "10.21105/joss.05272",
+ "joss_title": "Hypercomplex: abstract & fast header-only C++ template library for lattice-based cryptosystems in high-dimensional algebras",
+ "joss_published": "2023-05-15T22:41:22.633Z",
+ "software_repository": "https://github.com/AngryMaciek/hypercomplex",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Bak\n  given-names: Maciek\n  orcid: \"https://orcid.org/0000-0003-1361-7301\"\ndoi: 10.5281/zenodo.7938823\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Bak\n    given-names: Maciek\n    orcid: \"https://orcid.org/0000-0003-1361-7301\"\n  date-published: 2023-05-15\n  doi: 10.21105/joss.05272\n  issn: 2475-9066\n  issue: 85\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5272\n  title: \"Hypercomplex: abstract & fast header-only C++ template library\n    for lattice-based cryptosystems in high-dimensional algebras\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05272\"\n  volume: 8\ntitle: \"Hypercomplex: abstract & fast header-only C++ template library\n  for lattice-based cryptosystems in high-dimensional algebras\"\n\n"
+}

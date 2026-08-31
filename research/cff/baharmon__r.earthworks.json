@@ -1,0 +1,9 @@
+{
+ "repo": "baharmon/r.earthworks",
+ "joss_doi": "10.21105/joss.09270",
+ "joss_title": "r.earthworks: a GRASS tool for terrain modeling",
+ "joss_published": "2026-02-13T00:29:25.682Z",
+ "software_repository": "https://github.com/baharmon/r.earthworks",
+ "status": 200,
+ "cff": "cff-version: \"1.4.0\"\nauthors:\n- family-names: Harmon\n  given-names: Brendan A.\n  orcid: \"https://orcid.org/0000-0002-6218-9318\"\n- family-names: Petrasova\n  given-names: Anna\n  orcid: \"https://orcid.org/0000-0002-5120-5538\"\n- family-names: Petras\n  given-names: Vaclav\n  orcid: \"https://orcid.org/0000-0001-5566-9236\"\ndoi: 10.5281/zenodo.15507391\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Harmon\n    given-names: Brendan A.\n    orcid: \"https://orcid.org/0000-0002-6218-9318\"\n  - family-names: Petrasova\n    given-names: Anna\n    orcid: \"https://orcid.org/0000-0002-5120-5538\"\n  - family-names: Petras\n    given-names: Vaclav\n    orcid: \"https://orcid.org/0000-0001-5566-9236\"\n  date-published: 2026-02-13\n  doi: 10.21105/joss.09270\n  issn: 2475-9066\n  issue: 118\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9270\n  title: \"r.earthworks: a GRASS tool for terrain modeling\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09270\"\n  volume: 11\ntitle: \"r.earthworks: a GRASS tool for terrain modeling\""
+}

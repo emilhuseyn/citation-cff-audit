@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.21452056",
+ "source": "datacite",
+ "state": "ok",
+ "title": "bde: A Python Package for Bayesian Deep Ensembles via MILE",
+ "type": "Software",
+ "container": ""
+}

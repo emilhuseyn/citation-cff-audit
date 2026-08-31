@@ -1,0 +1,9 @@
+{
+ "repo": "nanophyto/Abil",
+ "joss_doi": "10.21105/joss.08755",
+ "joss_title": "Abil: A Python package for the interpolation of aquatic biogeochemical datasets",
+ "joss_published": "2025-10-14T14:59:24.317Z",
+ "software_repository": "https://github.com/nanophyto/Abil",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: de Vries\n  given-names: Joost\n  orcid: \"https://orcid.org/0000-0003-3427-6921\"\n- family-names: Wiseman\n  given-names: Nicola Ashlee\n  orcid: \"https://orcid.org/0000-0001-9296-7566\"\n- family-names: Wolf\n  given-names: Levi John\n  orcid: \"https://orcid.org/0000-0003-0274-599X\"\ncontact:\n- family-names: de Vries\n  given-names: Joost\n  orcid: \"https://orcid.org/0000-0003-3427-6921\"\ndoi: 10.5281/zenodo.16886567\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\ntitle: \"Abil: A Python package for the interpolation of aquatic biogeochemical datasets\"\n"
+}

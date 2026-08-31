@@ -1,0 +1,9 @@
+{
+ "repo": "LAPKB/pharmsol",
+ "joss_doi": "10.21105/joss.10580",
+ "joss_title": "pharmsol: A high-performance Rust library for pharmacokinetic and pharmacodynamic modeling and simulation",
+ "joss_published": "2026-08-18T17:31:37.141Z",
+ "software_repository": "https://github.com/LAPKB/pharmsol",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Ot\u00e1lvaro\n  given-names: Juli\u00e1n D.\n  orcid: \"https://orcid.org/0000-0001-5202-1645\"\n- family-names: Hovd\n  given-names: Markus\n  orcid: \"https://orcid.org/0000-0002-6077-0934\"\n- family-names: Yamada\n  given-names: Walter M.\n  orcid: \"https://orcid.org/0000-0003-3512-9202\"\n- family-names: Neely\n  given-names: Michael\n  orcid: \"https://orcid.org/0000-0002-1675-8276\"\ndoi: 10.5281/zenodo.21770517\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Ot\u00e1lvaro\n    given-names: Juli\u00e1n D.\n    orcid: \"https://orcid.org/0000-0001-5202-1645\"\n  - family-names: Hovd\n    given-names: Markus\n    orcid: \"https://orcid.org/0000-0002-6077-0934\"\n  - family-names: Yamada\n    given-names: Walter M.\n    orcid: \"https://orcid.org/0000-0003-3512-9202\"\n  - family-names: Neely\n    given-names: Michael\n    orcid: \"https://orcid.org/0000-0002-1675-8276\"\n  date-published: 2026-08-18\n  doi: 10.21105/joss.10580\n  issn: 2475-9066\n  issue: 124\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 10580\n  title: \"pharmsol: A high-performance Rust library for pharmacokinetic\n    and pharmacodynamic modeling and simulation\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.10580\"\n  volume: 11\ntitle: \"pharmsol: A high-performance Rust library for pharmacokinetic\n  and pharmacodynamic modeling and simulation\"\n"
+}

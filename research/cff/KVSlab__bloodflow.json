@@ -1,0 +1,9 @@
+{
+ "repo": "KVSlab/bloodflow",
+ "joss_doi": "10.21105/joss.01107",
+ "joss_title": "Artery.FE: An implementation of the 1D blood flow equations in FEniCS",
+ "joss_published": "2018-12-18T16:22:52.272Z",
+ "software_repository": "https://github.com/KVSlab/bloodflow",
+ "status": 404,
+ "cff": null
+}

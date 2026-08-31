@@ -1,0 +1,9 @@
+{
+ "repo": "jboynyc/textnets",
+ "joss_doi": "10.21105/joss.02594",
+ "joss_title": "textnets: A Python package for text analysis with networks",
+ "joss_published": "2020-10-15T14:29:10.802Z",
+ "software_repository": "https://github.com/jboynyc/textnets",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this package, please cite it as below.\"\nauthors:\n- family-names: \"Boy\"\n  given-names: \"John\"\n  orcid: \"https://orcid.org/0000-0003-2118-4702\"\ntitle: \"textnets\"\ndoi: \"10.5281/zenodo.3866676\"\nurl: \"https://textnets.readthedocs.io\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Boy\"\n    given-names: \"John\"\n    orcid: \"https://orcid.org/0000-0003-2118-4702\"\n  title: \"textnets: A Python Package for Text Analysis with Networks\"\n  journal: \"Journal of Open Source Software\"\n  volume: 5\n  issue: 54\n  year: 2020\n  start: 2594\n  doi: \"10.21105/joss.02594\"\n"
+}

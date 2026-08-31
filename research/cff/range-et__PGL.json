@@ -1,0 +1,9 @@
+{
+ "repo": "range-et/PGL",
+ "joss_doi": "10.21105/joss.05887",
+ "joss_title": "The plebeian Graph Library: A WebGL based network visualisation and diagnostics package",
+ "joss_published": "2024-04-25T16:57:10.659Z",
+ "software_repository": "https://github.com/range-et/PGL",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Haldar\n  given-names: Indrajeet\n  orcid: \"https://orcid.org/0000-0001-8395-6056\"\ndoi: 10.5281/zenodo.10871132\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Haldar\n    given-names: Indrajeet\n    orcid: \"https://orcid.org/0000-0001-8395-6056\"\n  date-published: 2024-04-25\n  doi: 10.21105/joss.05887\n  issn: 2475-9066\n  issue: 96\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5887\n  title: \"The plebeian Graph Library: A WebGL based network\n    visualisation and diagnostics package\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05887\"\n  volume: 9\ntitle: \"The plebeian Graph Library: A WebGL based network visualisation\n  and diagnostics package\"\n"
+}

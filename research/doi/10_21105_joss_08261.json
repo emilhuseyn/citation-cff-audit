@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.08261",
+ "source": "crossref",
+ "state": "ok",
+ "title": "IntrinsicTimescales.jl: A Julia package to estimate intrinsic (neural) timescales (INTs) from time-series data",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

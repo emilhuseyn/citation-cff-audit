@@ -1,0 +1,9 @@
+{
+ "repo": "sciguy/cgview-js",
+ "joss_doi": "10.21105/joss.09930",
+ "joss_title": "CGView.js: a JavaScript package for visualizing small genomes",
+ "joss_published": "2026-06-01T12:12:06.344Z",
+ "software_repository": "https://github.com/sciguy/cgview-js",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Grant\n  given-names: Jason R.\n  orcid: \"https://orcid.org/0000-0002-0407-9807\"\n- family-names: Stothard\n  given-names: Paul\n  orcid: \"https://orcid.org/0000-0003-4263-969X\"\ncontact:\n- family-names: Grant\n  given-names: Jason R.\n  orcid: \"https://orcid.org/0000-0002-0407-9807\"\ndoi: 10.5281/zenodo.20029587\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Grant\n    given-names: Jason R.\n    orcid: \"https://orcid.org/0000-0002-0407-9807\"\n  - family-names: Stothard\n    given-names: Paul\n    orcid: \"https://orcid.org/0000-0003-4263-969X\"\n  date-published: 2026-06-01\n  doi: 10.21105/joss.09930\n  issn: 2475-9066\n  issue: 122\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9930\n  title: \"CGView.js: a JavaScript package for visualizing small genomes\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09930\"\n  volume: 11\ntitle: \"CGView.js: a JavaScript package for visualizing small genomes\"\n"
+}

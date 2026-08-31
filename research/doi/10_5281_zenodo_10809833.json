@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.10809833",
+ "source": "datacite",
+ "state": "ok",
+ "title": "HofstadterTools: A Python package for analyzing the Hofstadter model",
+ "type": "Software",
+ "container": ""
+}

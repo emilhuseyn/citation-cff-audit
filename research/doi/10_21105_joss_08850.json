@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.08850",
+ "source": "crossref",
+ "state": "ok",
+ "title": "AutoHist.jl: A Julia package for fast and automatic histogram construction",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

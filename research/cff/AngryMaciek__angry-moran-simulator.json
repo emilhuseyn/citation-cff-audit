@@ -1,0 +1,9 @@
+{
+ "repo": "AngryMaciek/angry-moran-simulator",
+ "joss_doi": "10.21105/joss.02643",
+ "joss_title": "Moran Pycess: a Python package to simulate Moran processes driven by game theory",
+ "joss_published": "2020-10-26T00:01:42.033Z",
+ "software_repository": "https://github.com/AngryMaciek/angry-moran-simulator",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Bak\n  given-names: Maciek\n  orcid: \"https://orcid.org/0000-0003-1361-7301\"\n- family-names: Rozlach\n  given-names: Anna M.\n  orcid: \"https://orcid.org/0000-0002-5195-4299\"\ndoi: 10.5281/zenodo.4114143\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Bak\n    given-names: Maciek\n    orcid: \"https://orcid.org/0000-0003-1361-7301\"\n  - family-names: Rozlach\n    given-names: Anna M.\n    orcid: \"https://orcid.org/0000-0002-5195-4299\"\n  date-published: 2020-10-26\n  doi: 10.21105/joss.02643\n  issn: 2475-9066\n  issue: 54\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 2643\n  title: \"Moran Pycess: a Python package to simulate Moran processes\n    driven by game theory\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.02643\"\n  volume: 5\ntitle: \"Moran Pycess: a Python package to simulate Moran processes\n  driven by game theory\"\n"
+}

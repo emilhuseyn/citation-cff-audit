@@ -1,0 +1,9 @@
+{
+ "repo": "rock-learning/pytransform3d",
+ "joss_doi": "10.21105/joss.01159",
+ "joss_title": "pytransform3d: 3D Transformations for Python",
+ "joss_published": "2019-01-31T14:14:52.906Z",
+ "software_repository": "https://github.com/rock-learning/pytransform3d",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: Fabisch\n  given-names: Alexander\ntitle: \"pytransform3d\"\nurl: https://github.com/dfki-ric/pytransform3d\ndoi: 10.5281/zenodo.2553450\npreferred-citation:\n    type: article\n    authors:\n    - family-names: Fabisch\n      given-names: Alexander\n      orcid: https://orcid.org/0000-0003-2824-7956\n    title: \"pytransform3d: 3D Transformations for Python\"\n    doi: 10.21105/joss.01159\n    journal: Journal of Open Source Software\n    start: 1159\n    issue: 33\n    volume: 4\n    month: 1\n    year: 2019\n"
+}

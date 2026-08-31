@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.20693553",
+ "source": "datacite",
+ "state": "ok",
+ "title": "Ndvi2Gif: A Python Package for Multi-Seasonal Remote Sensing Analysis with Google Earth Engine",
+ "type": "Software",
+ "container": ""
+}

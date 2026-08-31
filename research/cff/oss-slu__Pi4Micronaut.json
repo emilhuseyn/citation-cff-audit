@@ -1,0 +1,9 @@
+{
+ "repo": "oss-slu/Pi4Micronaut",
+ "joss_doi": "10.21105/joss.07744",
+ "joss_title": "Pi4Micronaut: A Java Library for IoT Research Instruments on Raspberry Pi",
+ "joss_published": "2025-09-11T16:15:14.562Z",
+ "software_repository": "https://github.com/oss-slu/Pi4Micronaut",
+ "status": 200,
+ "cff": "title: Pi4Micronaut\nauthors:\n  - given-names: Ruthvik\n    family-names: Mannem\n  - given-names: Sinuo\n    family-names: Liu\n  - given-names: Traison\n    family-names: Diedrich\n  - given-names: Austin\n    family-names: Howard\n  - given-names: Greih\n    family-names: Murray\n  - given-names: John\n    family-names: Yanev\n  - given-names: Joe\n    family-names: Folen\n  - given-names: Alex\n    family-names: Delgado\n  - given-names: Adrian\n    family-names: Swindle\n  - given-names: Yenkatarajalaxmimanohar\n    family-names: Meda\n  - given-names: Thomas\n    family-names: Macas\n  - given-names: Seyun\n    family-names: Jeong\n  - given-names: Ralph\n    family-names: Tan\n  - given-names: Ava\n    family-names: Enke\n  - given-names: Leandru\n    family-names: Martin\n  - given-names: Joey Heitzler\n  - given-names: Thomas\n    family-names: Pautler\ncff-version: 1.2.0\nmessage: If you use this software, please cite it using the metadata from this file.\ntype: software\nabstract: \" A Java library combining Micronaut and Pi4j to streamline hardware\n  connectivity to Raspberry Pis\"\nkeywords:\n  - Raspberry Pi\n  - Java\n  - Pi4J\n  - Micronaut\nlicense: Apache-2.0\nrepository-code: https://github.com/oss-slu/Pi4Micronaut\ndate-released: 2024-05-10\nversion: \"1.1\"\n"
+}

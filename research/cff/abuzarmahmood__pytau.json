@@ -1,0 +1,9 @@
+{
+ "repo": "abuzarmahmood/pytau",
+ "joss_doi": "10.21105/joss.08509",
+ "joss_title": "pytau: A Python package for streamlined changepoint model analysis in neuroscience",
+ "joss_published": "2026-01-12T17:31:05.430Z",
+ "software_repository": "https://github.com/abuzarmahmood/pytau",
+ "status": 200,
+ "cff": "# This CITATION.cff file was generated with cffinit.\n# Visit https://bit.ly/cffinit to generate yours today!\n\ncff-version: 1.2.0\ntitle: pytau\nmessage: >-\n  If you use this software, please cite it using the\n  metadata from this file.\ntype: software\nauthors:\n  - given-names: Abuzar\n    family-names: Mahmood\n    email: abuzarmahmood@gmail.com\n    affiliation: Brandeis University\n    orcid: 'https://orcid.org/0000-0002-2448-4818'\nrepository-code: 'https://github.com/abuzarmahmood/pytau'\nurl: 'https://abuzarmahmood.github.io/pytau/'\nabstract: >-\n  PyTau is a Python package for detecting state changes in\n  time series data using Bayesian changepoint models. While\n  originally developed for neural data analysis, the methods\n  are applicable to any sequential data where identifying\n  state transitions is important.\nkeywords:\n  - timeseries\n  - changepoint\n  - bayesian\n  - neuroscience\nlicense: MIT\n"
+}

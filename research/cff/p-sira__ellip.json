@@ -1,0 +1,9 @@
+{
+ "repo": "p-sira/ellip",
+ "joss_doi": "10.21105/joss.09386",
+ "joss_title": "Ellip: An Elliptic Integral Library for Rust",
+ "joss_published": "2026-02-03T13:47:49.544Z",
+ "software_repository": "https://github.com/p-sira/ellip",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Pornsiriprasert\n  given-names: Sira\n  orcid: \"https://orcid.org/0000-0002-5636-8870\"\ncontact:\n- family-names: Pornsiriprasert\n  given-names: Sira\n  orcid: \"https://orcid.org/0000-0002-5636-8870\"\ndoi: 10.5281/zenodo.17990805\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Pornsiriprasert\n    given-names: Sira\n    orcid: \"https://orcid.org/0000-0002-5636-8870\"\n  date-published: 2026-02-03\n  doi: 10.21105/joss.09386\n  issn: 2475-9066\n  issue: 118\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9386\n  title: \"Ellip: An Elliptic Integral Library for Rust\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09386\"\n  volume: 11\ntitle: \"Ellip: An Elliptic Integral Library for Rust\"\n"
+}

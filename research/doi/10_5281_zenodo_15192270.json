@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.15192270",
+ "source": "datacite",
+ "state": "ok",
+ "title": "AutoPDEx: An Automized Partial Differential Equation solver based on JAX",
+ "type": "Software",
+ "container": ""
+}

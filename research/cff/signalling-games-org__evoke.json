@@ -1,0 +1,9 @@
+{
+ "repo": "signalling-games-org/evoke",
+ "joss_doi": "10.21105/joss.06703",
+ "joss_title": "Evoke: A Python package for evolutionary signalling games",
+ "joss_published": "2024-11-20T20:22:37.023Z",
+ "software_repository": "https://github.com/signalling-games-org/evoke",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Mann\n  given-names: Stephen Francis\n  orcid: \"https://orcid.org/0000-0002-4136-8595\"\n- family-names: Mart\u00ednez\n  given-names: Manolo\n  orcid: \"https://orcid.org/0000-0002-6194-7121\"\ncontact:\n- family-names: Mart\u00ednez\n  given-names: Manolo\n  orcid: \"https://orcid.org/0000-0002-6194-7121\"\ndoi: 10.5281/zenodo.14185732\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Mann\n    given-names: Stephen Francis\n    orcid: \"https://orcid.org/0000-0002-4136-8595\"\n  - family-names: Mart\u00ednez\n    given-names: Manolo\n    orcid: \"https://orcid.org/0000-0002-6194-7121\"\n  date-published: 2024-11-20\n  doi: 10.21105/joss.06703\n  issn: 2475-9066\n  issue: 103\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6703\n  title: \"Evoke: A Python package for evolutionary signalling games\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06703\"\n  volume: 9\ntitle: \"Evoke: A Python package for evolutionary signalling games\"\n"
+}

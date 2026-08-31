@@ -1,0 +1,9 @@
+{
+ "repo": "flekschas/jupyter-scatter",
+ "joss_doi": "10.21105/joss.07059",
+ "joss_title": "Jupyter Scatter: Interactive Exploration of Large-Scale Datasets",
+ "joss_published": "2024-09-10T15:57:44.921Z",
+ "software_repository": "https://github.com/flekschas/jupyter-scatter/",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Lekschas\n  given-names: Fritz\n  orcid: \"https://orcid.org/0000-0001-8432-4835\"\n- family-names: Manz\n  given-names: Trevor\n  orcid: \"https://orcid.org/0000-0001-7694-5164\"\ndoi: 10.5281/zenodo.13391017\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Lekschas\n    given-names: Fritz\n    orcid: \"https://orcid.org/0000-0001-8432-4835\"\n  - family-names: Manz\n    given-names: Trevor\n    orcid: \"https://orcid.org/0000-0001-7694-5164\"\n  date-published: 2024-09-10\n  doi: 10.21105/joss.07059\n  issn: 2475-9066\n  issue: 101\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7059\n  title: \"Jupyter Scatter: Interactive Exploration of Large-Scale\n    Datasets\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07059\"\n  volume: 9\ntitle: \"Jupyter Scatter: Interactive Exploration of Large-Scale\n  Datasets\"\n"
+}

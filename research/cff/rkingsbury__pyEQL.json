@@ -1,0 +1,9 @@
+{
+ "repo": "rkingsbury/pyEQL",
+ "joss_doi": "10.21105/joss.06295",
+ "joss_title": "pyEQL: A Python interface for water chemistry",
+ "joss_published": "2024-03-25T16:51:46.913Z",
+ "software_repository": "https://github.com/rkingsbury/pyEQL",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n  - family-names: Kingsbury\n    given-names: Ryan\n    orcid: \"https://orcid.org/0000-0002-7168-3967\"\ndoi: 10.5281/zenodo.8332915\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n    - family-names: Kingsbury\n      given-names: Ryan\n      orcid: \"https://orcid.org/0000-0002-7168-3967\"\n  date-published: 2024-03-25\n  doi: 10.21105/joss.06295\n  issn: 2475-9066\n  issue: 95\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6295\n  title: \"pyEQL: A Python interface for water chemistry\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06295\"\n  volume: 9\ntitle: \"pyEQL: A Python interface for water chemistry\"\n"
+}

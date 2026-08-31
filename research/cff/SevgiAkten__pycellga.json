@@ -1,0 +1,9 @@
+{
+ "repo": "SevgiAkten/pycellga",
+ "joss_doi": "10.21105/joss.07322",
+ "joss_title": "pycellga: A Python package for improved cellular genetic algorithms",
+ "joss_published": "2025-01-03T14:20:46.313Z",
+ "software_repository": "https://github.com/SevgiAkten/pycellga",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Karakaya\n  given-names: Sevgi Akten\n  orcid: \"https://orcid.org/0000-0001-9346-5795\"\n- family-names: Satman\n  given-names: Mehmet Hakan\n  orcid: \"https://orcid.org/0000-0002-9402-1982\"\ndoi: 10.5281/zenodo.14539107\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Karakaya\n    given-names: Sevgi Akten\n    orcid: \"https://orcid.org/0000-0001-9346-5795\"\n  - family-names: Satman\n    given-names: Mehmet Hakan\n    orcid: \"https://orcid.org/0000-0002-9402-1982\"\n  date-published: 2025-01-03\n  doi: 10.21105/joss.07322\n  issn: 2475-9066\n  issue: 105\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7322\n  title: \"pycellga: A Python package for improved cellular genetic\n    algorithms\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07322\"\n  volume: 10\ntitle: \"pycellga: A Python package for improved cellular genetic\n  algorithms\"\n"
+}

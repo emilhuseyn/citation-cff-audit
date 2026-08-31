@@ -1,0 +1,9 @@
+{
+ "repo": "ImperialCollegeLondon/rojak",
+ "joss_doi": "10.21105/joss.09282",
+ "joss_title": "rojak: A Python library and tool for aviation turbulence diagnostics",
+ "joss_published": "2025-12-13T00:52:38.583Z",
+ "software_repository": "https://github.com/ImperialCollegeLondon/rojak",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Wong\n  given-names: Hui Ling\n  orcid: \"https://orcid.org/0009-0006-2314-2660\"\n- family-names: Palacios\n  given-names: Rafael\n  orcid: \"https://orcid.org/0000-0002-6706-3220\"\n- family-names: Gryspeerdt\n  given-names: Edward\n  orcid: \"https://orcid.org/0000-0002-3815-4756\"\ndoi: 10.5281/zenodo.17882683\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Wong\n    given-names: Hui Ling\n    orcid: \"https://orcid.org/0009-0006-2314-2660\"\n  - family-names: Palacios\n    given-names: Rafael\n    orcid: \"https://orcid.org/0000-0002-6706-3220\"\n  - family-names: Gryspeerdt\n    given-names: Edward\n    orcid: \"https://orcid.org/0000-0002-3815-4756\"\n  date-published: 2025-12-13\n  doi: 10.21105/joss.09282\n  issn: 2475-9066\n  issue: 116\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9282\n  title: \"rojak: A Python library and tool for aviation turbulence\n    diagnostics\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09282\"\n  volume: 10\ntitle: \"rojak: A Python library and tool for aviation turbulence\n  diagnostics\"\n"
+}

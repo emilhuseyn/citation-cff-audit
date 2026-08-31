@@ -1,0 +1,9 @@
+{
+ "repo": "apaolillo/pythainer",
+ "joss_doi": "10.21105/joss.09059",
+ "joss_title": "pythainer: composable and reusable Docker builders and runners for reproducible research",
+ "joss_published": "2026-01-09T12:00:30.114Z",
+ "software_repository": "https://github.com/apaolillo/pythainer",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Paolillo\n  given-names: Antonio\n  orcid: \"https://orcid.org/0000-0001-6608-6562\"\ndoi: 10.5281/zenodo.18189906\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Paolillo\n    given-names: Antonio\n    orcid: \"https://orcid.org/0000-0001-6608-6562\"\n  date-published: 2026-01-09\n  doi: 10.21105/joss.09059\n  issn: 2475-9066\n  issue: 117\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9059\n  title: \"pythainer: composable and reusable Docker builders and runners\n    for reproducible research\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09059\"\n  volume: 11\ntitle: \"pythainer: composable and reusable Docker builders and runners\n  for reproducible research\"\n"
+}

@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.12795395",
+ "source": "datacite",
+ "state": "ok",
+ "title": "NLSE: A Python package to solve the nonlinear Schr\u00f6dinger equation",
+ "type": "Software",
+ "container": ""
+}

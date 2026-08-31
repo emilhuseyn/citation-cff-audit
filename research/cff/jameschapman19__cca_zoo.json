@@ -1,0 +1,9 @@
+{
+ "repo": "jameschapman19/cca_zoo",
+ "joss_doi": "10.21105/joss.03823",
+ "joss_title": "CCA-Zoo: A collection of Regularized, Deep Learning based, Kernel, and Probabilistic CCA methods in a scikit-learn style framework",
+ "joss_published": "2021-12-18T19:17:02.314Z",
+ "software_repository": "https://github.com/jameschapman19/cca_zoo",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Chapman\"\n  given-names: \"James\"\n  orcid: \"https://orcid.org/0000-0002-9364-8118\"\n- family-names: \"Wang\"\n  given-names: \"Hao-Ting\"\n  orcid: \"https://orcid.org/0000-0003-4078-2038\"\n- family-names: \"Wells\"\n  given-names: \"Lennie\"\n- family-names: \"Wiesner\"\n  given-names: \"Johannes\"\n\ntitle: \"CCA-Zoo\"\nversion: 3.2.0\ndoi: 10.5281/zenodo.4382739\ndate-released: 2026-08-04\nurl: \"https://github.com/jameschapman19/cca_zoo\"\n"
+}

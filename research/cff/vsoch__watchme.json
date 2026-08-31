@@ -1,0 +1,9 @@
+{
+ "repo": "vsoch/watchme",
+ "joss_doi": "10.21105/joss.01388",
+ "joss_title": "WatchMe: Software for Reproducible Monitoring and Data Collection",
+ "joss_published": "2019-05-09T13:23:46.819Z",
+ "software_repository": "https://www.github.com/vsoch/watchme",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Sochat\n    given-names: Vanessa\n    orcid: https://orcid.org/0000-0002-4387-3819\ntitle: \"WatchMe: Software for Reproducible Monitoring and Data Collection\"\nversion: 0.0.28\ndoi: 10.21105/joss.01388\ndate-released: 2019-05-09\n"
+}

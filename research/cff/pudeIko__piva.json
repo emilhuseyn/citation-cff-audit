@@ -1,0 +1,9 @@
+{
+ "repo": "pudeIko/piva",
+ "joss_doi": "10.21105/joss.09129",
+ "joss_title": "PIVA: Photoemission Interface for Visualization and Analysis",
+ "joss_published": "2025-10-03T23:50:24.027Z",
+ "software_repository": "https://github.com/pudeIko/piva",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite the following paper:\"\nauthors:\n  - family-names: Pudelko\n    given-names: Wojciech R.\n  - family-names: Kramer\n    given-names: Kevin\n  - family-names: K\u00fcspert\n    given-names: Julia\n  - family-names: Chang\n    given-names: Johan\n  - family-names: Plumb\n    given-names: Nicholas C.\ntitle: \"PIVA: Photoemission Interface for Visualization and Analysis\"\ndoi: 10.21105/joss.09129\ndate-released: 2025-10-02\nversion: 1.0.0\nurl: \"https://github.com/yourusername/piva\"\npreferred-citation:\n  type: article\n  authors:\n    - family-names: Pudelko\n      given-names: Wojciech R.\n    - family-names: Kramer\n      given-names: Kevin\n    - family-names: K\u00fcspert\n      given-names: Julia\n    - family-names: Chang\n      given-names: Johan\n    - family-names: Plumb\n      given-names: Nicholas C.\n  title: \"PIVA: Photoemission Interface for Visualization and Analysis\"\n  journal: \"Journal of Open Source Software\"\n  year: 2025\n  volume: 10\n  issue: 114\n  start: 9129\n  doi: 10.21105/joss.09129\n"
+}

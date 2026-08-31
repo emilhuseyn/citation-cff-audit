@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.10463863",
+ "source": "datacite",
+ "state": "ok",
+ "title": "FluidSF: A Python package for calculating turbulent flow statistics",
+ "type": "Software",
+ "container": ""
+}

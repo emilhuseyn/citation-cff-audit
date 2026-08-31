@@ -1,0 +1,9 @@
+{
+ "repo": "stsievert/salmon",
+ "joss_doi": "10.21105/joss.04517",
+ "joss_title": "Efficiently Learning Relative Similarity Embeddings with Crowdsourcing",
+ "joss_published": "2023-04-17T15:58:24.251Z",
+ "software_repository": "https://github.com/stsievert/salmon/",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Sievert\n  given-names: Scott\n  orcid: \"https://orcid.org/0000-0002-4275-3452\"\n- family-names: Nowak\n  given-names: Robert\n- family-names: Rogers\n  given-names: Timothy\n  orcid: \"https://orcid.org/0000-0001-6304-755X\"\ndoi: 10.5281/zenodo.7832431\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Sievert\n    given-names: Scott\n    orcid: \"https://orcid.org/0000-0002-4275-3452\"\n  - family-names: Nowak\n    given-names: Robert\n  - family-names: Rogers\n    given-names: Timothy\n    orcid: \"https://orcid.org/0000-0001-6304-755X\"\n  date-published: 2023-04-17\n  doi: 10.21105/joss.04517\n  issn: 2475-9066\n  issue: 84\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 4517\n  title: Efficiently Learning Relative Similarity Embeddings with\n    Crowdsourcing\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.04517\"\n  volume: 8\ntitle: Efficiently Learning Relative Similarity Embeddings with\n  Crowdsourcing\n"
+}

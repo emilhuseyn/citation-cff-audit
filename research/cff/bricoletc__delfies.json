@@ -1,0 +1,9 @@
+{
+ "repo": "bricoletc/delfies",
+ "joss_doi": "10.21105/joss.07385",
+ "joss_title": "delfies: a Python package for the detection of DNA breakpoints with neo-telomere addition",
+ "joss_published": "2025-01-12T23:49:12.091Z",
+ "software_repository": "https://github.com/bricoletc/delfies",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Letcher\n  given-names: Brice\n  orcid: \"https://orcid.org/0000-0002-8921-6005\"\n- family-names: Delattre\n  given-names: Marie\n  orcid: \"https://orcid.org/0000-0003-1640-0300\"\ndoi: 10.5281/zenodo.14526258\nmessage: If you use this software in your own work, please cite the associated article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Letcher\n    given-names: Brice\n    orcid: \"https://orcid.org/0000-0002-8921-6005\"\n  - family-names: Delattre\n    given-names: Marie\n    orcid: \"https://orcid.org/0000-0003-1640-0300\"\n  date-published: 2025-01-12\n  doi: 10.21105/joss.07385\n  issn: 2475-9066\n  issue: 105\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7385\n  title: \"delfies: a Python package for the detection of DNA breakpoints\n    with neo-telomere addition\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07385\"\n  volume: 10\ntitle: \"delfies: a Python package for the detection of DNA breakpoints\n  with neo-telomere addition\"\n"
+}

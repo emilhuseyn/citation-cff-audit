@@ -1,0 +1,9 @@
+{
+ "repo": "chrissm23/ParallelKDE.jl",
+ "joss_doi": "10.21105/joss.09616",
+ "joss_title": "ParallelKDE.jl: A Package for Highly Parallel Kernel Density Estimation",
+ "joss_published": "2026-03-06T18:58:31.759Z",
+ "software_repository": "https://github.com/chrissm23/ParallelKDE.jl.git",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Sustay Martinez\n  given-names: Christian\n  orcid: \"https://orcid.org/0009-0006-1282-4850\"\n- family-names: Zacharias\n  given-names: Martin\n  orcid: \"https://orcid.org/0000-0001-5163-2663\"\n- family-names: Quoika\n  given-names: Patrick K.\n  orcid: \"https://orcid.org/0000-0002-6227-5443\"\ncontact:\n- family-names: Quoika\n  given-names: Patrick K.\n  orcid: \"https://orcid.org/0000-0002-6227-5443\"\ndoi: 10.5281/zenodo.18712216\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Sustay Martinez\n    given-names: Christian\n    orcid: \"https://orcid.org/0009-0006-1282-4850\"\n  - family-names: Zacharias\n    given-names: Martin\n    orcid: \"https://orcid.org/0000-0001-5163-2663\"\n  - family-names: Quoika\n    given-names: Patrick K.\n    orcid: \"https://orcid.org/0000-0002-6227-5443\"\n  date-published: 2026-03-06\n  doi: 10.21105/joss.09616\n  issn: 2475-9066\n  issue: 119\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9616\n  title: \"ParallelKDE.jl: A Package for Highly Parallel Kernel Density\n    Estimation\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09616\"\n  volume: 11\ntitle: \"ParallelKDE.jl: A Package for Highly Parallel Kernel Density\n  Estimation\"\n"
+}

@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.7839898",
+ "source": "datacite",
+ "state": "ok",
+ "title": "HylleraasMD: Massively parallel hybrid particle-field molecular dynamics in Python",
+ "type": "Software",
+ "container": ""
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "nationalparkservice/NPSdataverse",
+ "joss_doi": "10.21105/joss.08066",
+ "joss_title": "NPSdataverse: a suite of R packages for data processing, authoring Ecological Metadata Language metadata, checking data-metadata congruence, and accessing data",
+ "joss_published": "2025-05-27T18:34:11.898Z",
+ "software_repository": "https://github.com/nationalparkservice/NPSdataverse.git",
+ "status": 404,
+ "cff": null
+}

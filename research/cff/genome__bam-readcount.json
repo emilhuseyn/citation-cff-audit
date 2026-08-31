@@ -1,0 +1,9 @@
+{
+ "repo": "genome/bam-readcount",
+ "joss_doi": "10.21105/joss.03722",
+ "joss_title": "Bam-readcount - rapid generation of basepair-resolution sequence metrics",
+ "joss_published": "2022-01-29T00:44:59.374Z",
+ "software_repository": "https://github.com/genome/bam-readcount",
+ "status": 404,
+ "cff": null
+}

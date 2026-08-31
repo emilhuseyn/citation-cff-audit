@@ -1,0 +1,9 @@
+{
+ "repo": "MDAnalysis/solvation-analysis",
+ "joss_doi": "10.21105/joss.05183",
+ "joss_title": "SolvationAnalysis: A Python toolkit for understanding liquid solvation structure in classical molecular dynamics simulations",
+ "joss_published": "2023-04-17T08:01:50.768Z",
+ "software_repository": "https://github.com/MDAnalysis/solvation-analysis",
+ "status": 404,
+ "cff": null
+}

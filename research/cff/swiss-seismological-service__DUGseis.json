@@ -1,0 +1,9 @@
+{
+ "repo": "swiss-seismological-service/DUGseis",
+ "joss_doi": "10.21105/joss.06768",
+ "joss_title": "DUGseis: A Python package for real-time and post-processing of picoseismicity",
+ "joss_published": "2024-11-22T17:13:19.124Z",
+ "software_repository": "https://github.com/swiss-seismological-service/DUGseis",
+ "status": 404,
+ "cff": null
+}

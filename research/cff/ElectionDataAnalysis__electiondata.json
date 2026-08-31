@@ -1,0 +1,9 @@
+{
+ "repo": "ElectionDataAnalysis/electiondata",
+ "joss_doi": "10.21105/joss.03739",
+ "joss_title": "electiondata: a Python package for consolidating, checking, analyzing, visualizing and exporting election results",
+ "joss_published": "2022-01-05T22:20:02.375Z",
+ "software_repository": "https://github.com/ElectionDataAnalysis/electiondata",
+ "status": 404,
+ "cff": null
+}

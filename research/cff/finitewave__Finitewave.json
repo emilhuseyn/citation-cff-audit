@@ -1,0 +1,9 @@
+{
+ "repo": "finitewave/Finitewave",
+ "joss_doi": "10.21105/joss.09310",
+ "joss_title": "Finitewave: a lightweight and accessible framework for cardiac electrophysiology simulations",
+ "joss_published": "2026-06-01T11:58:08.608Z",
+ "software_repository": "https://github.com/finitewave/Finitewave",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle: Finitewave\nmessage: \"If you use Finitewave in your research, please cite this repository.\"\nauthors:\n  - family-names: Nezlobinsky\n    given-names: Timur\n  - family-names: Okenov\n    given-names: Arstanbek\nrepository-code: https://github.com/finitewave/finitewave\nlicense: MIT"
+}

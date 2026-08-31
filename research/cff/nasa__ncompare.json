@@ -1,0 +1,9 @@
+{
+ "repo": "nasa/ncompare",
+ "joss_doi": "10.21105/joss.06490",
+ "joss_title": "ncompare: A Python package for comparing netCDF structures",
+ "joss_published": "2024-06-06T14:31:08.500Z",
+ "software_repository": "https://github.com/nasa/ncompare",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Kaufman\n  given-names: Daniel E.\n  orcid: \"https://orcid.org/0000-0002-1487-7298\"\n- family-names: Baskin\n  given-names: Walter E.\n  orcid: \"https://orcid.org/0000-0002-2241-3266\"\ndoi: 10.5281/zenodo.11448464\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Kaufman\n    given-names: Daniel E.\n    orcid: \"https://orcid.org/0000-0002-1487-7298\"\n  - family-names: Baskin\n    given-names: Walter E.\n    orcid: \"https://orcid.org/0000-0002-2241-3266\"\n  date-published: 2024-06-06\n  doi: 10.21105/joss.06490\n  issn: 2475-9066\n  issue: 98\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6490\n  title: \"ncompare: A Python package for comparing netCDF structures\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06490\"\n  volume: 9\ntitle: \"ncompare: A Python package for comparing netCDF structures\"\n\ncontact:\n  - name: \"The NASA ncompare issues page\"\n    website: \"https://github.com/nasa/ncompare/issues\"\nkeywords:\n  - \"netcdf\"\n  - \"data comparison\"\n  - \"hierarchical data\"\nurl: \"https://ncompare.readthedocs.io\"\nrepository-code: \"https://github.com/nasa/ncompare\"\n"
+}

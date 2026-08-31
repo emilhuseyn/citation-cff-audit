@@ -1,0 +1,9 @@
+{
+ "repo": "koide3/small_gicp",
+ "joss_doi": "10.21105/joss.06948",
+ "joss_title": "small_gicp: Efficient and parallel algorithms for point cloud registration",
+ "joss_published": "2024-08-10T00:11:05.579Z",
+ "software_repository": "https://github.com/koide3/small_gicp",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Koide\n  given-names: Kenji\n  orcid: \"https://orcid.org/0000-0001-5361-1428\"\ncontact:\n- family-names: Koide\n  given-names: Kenji\n  orcid: \"https://orcid.org/0000-0001-5361-1428\"\ndoi: 10.5281/zenodo.13283012\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Koide\n    given-names: Kenji\n    orcid: \"https://orcid.org/0000-0001-5361-1428\"\n  date-published: 2024-08-10\n  doi: 10.21105/joss.06948\n  issn: 2475-9066\n  issue: 100\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6948\n  title: \"small_gicp: Efficient and parallel algorithms for point cloud\n    registration\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06948\"\n  volume: 9\ntitle: \"small_gicp: Efficient and parallel algorithms for point cloud\n  registration\"\n"
+}

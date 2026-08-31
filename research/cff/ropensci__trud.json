@@ -1,0 +1,9 @@
+{
+ "repo": "ropensci/trud",
+ "joss_doi": "10.21105/joss.09000",
+ "joss_title": "trud: An R interface to the NHS England Technology Reference data Update Distribution (TRUD) API",
+ "joss_published": "2026-01-14T09:32:37.235Z",
+ "software_repository": "https://github.com/ropensci/trud/",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Warwick\n    given-names: Alasdair Neil\n    email: alasdair.warwick.19@ucl.ac.uk\n    orcid: https://orcid.org/0000-0002-0800-2890\n  - family-names: Olvera-Barrios\n    given-names: Abraham\n    orcid: https://orcid.org/0000-0002-3305-4465\n  - family-names: Ung\n    given-names: Chuin Ying\n    orcid: https://orcid.org/0000-0001-8487-4589\n  - family-names: Luben\n    given-names: Robert\n    orcid: https://orcid.org/0000-0002-5088-6343\n\ntitle: \"trud: An R interface to the NHS England Technology Reference data Update Distribution (TRUD) API\"\ndate-released: 2026\ndoi: 10.21105/joss.09000\nurl: https://doi.org/10.21105/joss.09000\n\npreferred-citation:\n  type: article\n  authors:\n    - family-names: Warwick\n      given-names: Alasdair Neil\n      orcid: https://orcid.org/0000-0002-0800-2890\n    - family-names: Olvera-Barrios\n      given-names: Abraham\n      orcid: https://orcid.org/0000-0002-3305-4465\n    - family-names: Ung\n      given-names: Chuin Ying\n      orcid: https://orcid.org/0000-0001-8487-4589\n    - family-names: Luben\n      given-names: Robert\n      orcid: https://orcid.org/0000-0002-5088-6343\n  title: \"trud: An R interface to the NHS England Technology Reference data Update Distribution (TRUD) API\"\n  journal: \"Journal of Open Source Software\"\n  year: 2026\n  volume: 11\n  issue: 117\n  start: 9000\n  doi: 10.21105/joss.09000\n"
+}

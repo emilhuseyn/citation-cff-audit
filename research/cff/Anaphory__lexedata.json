@@ -1,0 +1,9 @@
+{
+ "repo": "Anaphory/lexedata",
+ "joss_doi": "10.21105/joss.04140",
+ "joss_title": "Lexedata: A toolbox to edit CLDF lexical datasets",
+ "joss_published": "2022-04-20T20:51:47.322Z",
+ "software_repository": "https://github.com/Anaphory/lexedata/",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Kaiping\"\n  given-names: \"Gereon A.\"\n  orcid: \"https://orcid.org/0000-0002-8155-9089\"\n- family-names: \"Steiger\"\n  given-names: \"Melvin S.\"\n- family-names: \"Chousou-Polydouri\"\n  given-names: \"Natalia\"\n  orcid: \"https://orcid.org/0000-0002-5693-975X\"\ntitle: \"Lexedata\"\nsubtitle: \"Lexical Data Editing tools\"\nversion: 1.0.7\nlicense: GPL-3.0+\ndoi: 10.5281/zenodo.5541167\ndate-released: 2022-09-22\nurl: \"https://github.com/Anaphory/lexedata\"\n"
+}

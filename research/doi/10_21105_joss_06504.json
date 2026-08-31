@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.06504",
+ "source": "crossref",
+ "state": "ok",
+ "title": "NCDatasets.jl: a Julia package for manipulating netCDF\ndata sets",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

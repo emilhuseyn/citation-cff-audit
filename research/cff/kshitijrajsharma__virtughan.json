@@ -1,0 +1,9 @@
+{
+ "repo": "kshitijrajsharma/virtughan",
+ "joss_doi": "10.21105/joss.08078",
+ "joss_title": "virtughan: A Virtual Computation Cube for EO Data Using On-the-Fly Tiling Computation",
+ "joss_published": "2026-06-24T19:12:30.703Z",
+ "software_repository": "https://github.com/kshitijrajsharma/virtughan/",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle: \"virtughan: A Virtual Computation Cube for EO Data Using On-the-Fly Tiling Computation\"\nmessage: \"If you use this software, please cite the JOSS paper listed under preferred-citation.\"\ntype: software\nauthors:\n  - family-names: Sharma\n    given-names: Kshitij Raj\n    orcid: \"https://orcid.org/0000-0002-2123-3917\"\n    affiliation: \"Paris Lodron University of Salzburg, Austria\"\n  - family-names: Oli\n    given-names: Upendra\n    orcid: \"https://orcid.org/0009-0006-5140-5077\"\n    affiliation: \"Paris Lodron University of Salzburg, Austria\"\nlicense: GPL-3.0-or-later\nrepository-code: \"https://github.com/virtughan/virtughan\"\nurl: \"https://virtughan.com\"\nversion: \"1.1.1\"\ndate-released: \"2026-08-11\"\nkeywords:\n  - geospatial\n  - earth observation\n  - data cube\n  - STAC\n  - cloud optimized geotiff\n  - Python\npreferred-citation:\n  type: article\n  title: \"virtughan: A Virtual Computation Cube for EO Data Using On-the-Fly Tiling Computation\"\n  authors:\n    - family-names: Sharma\n      given-names: Kshitij Raj\n      orcid: \"https://orcid.org/0000-0002-2123-3917\"\n    - family-names: Oli\n      given-names: Upendra\n      orcid: \"https://orcid.org/0009-0006-5140-5077\"\n  journal: \"Journal of Open Source Software\"\n"
+}

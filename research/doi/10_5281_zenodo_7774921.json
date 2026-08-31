@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.7774921",
+ "source": "datacite",
+ "state": "ok",
+ "title": "RxInfer: A Julia package for reactive real-time Bayesian inference",
+ "type": "Software",
+ "container": ""
+}

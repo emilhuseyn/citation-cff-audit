@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.10730468",
+ "source": "datacite",
+ "state": "ok",
+ "title": "Pyheartlib: A Python package for processing electrocardiogram signals",
+ "type": "Software",
+ "container": ""
+}

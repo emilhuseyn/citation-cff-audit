@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.08897",
+ "source": "crossref",
+ "state": "ok",
+ "title": "MDPax: GPU-accelerated MDP solvers in Python with JAX",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

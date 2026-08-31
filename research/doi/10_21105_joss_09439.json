@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.09439",
+ "source": "crossref",
+ "state": "ok",
+ "title": "pyDARTdiags: A Python package for manipulating observation sequences and calculating observation-space diagnostics for the Data Assimilation Research Testbed (DART)",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

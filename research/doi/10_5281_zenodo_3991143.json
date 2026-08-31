@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.3991143",
+ "source": "datacite",
+ "state": "ok",
+ "title": "JSOSolvers.jl: Unconstrained and bound-constrained optimization solvers",
+ "type": "Software",
+ "container": ""
+}

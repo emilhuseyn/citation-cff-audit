@@ -1,0 +1,9 @@
+{
+ "repo": "davemlz/eemont",
+ "joss_doi": "10.21105/joss.03168",
+ "joss_title": "eemont: A Python package that extends Google Earth Engine",
+ "joss_published": "2021-06-08T20:03:28.174Z",
+ "software_repository": "https://github.com/davemlz/eemont",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: \"Please cite the following works when using this software.\"\nauthors:\n  - family-names: Montero\n    given-names: David\n    orcid: \ntitle: \"eemont: A Python package that extends Google Earth Engine.\"\nversion: 0.2.5\ndate-released: 2021-07-26\nrepository: https://github.com/davemlz/eemont\nurl: https://eemont.readthedocs.io/\nreferences:\n  - type: article\n    authors:\n      - family-names: Montero\n        given-names: David\n    title: \"eemont: A Python package that extends Google Earth Engine.\"\n    journal: \"The Jounal of Open Source Software\"\n    doi: https://doi.org/10.21105/joss.03168\n    year: 2021\n    volume: 6\n    number-volumes: 62"
+}

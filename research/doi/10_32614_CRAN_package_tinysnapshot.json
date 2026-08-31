@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.tinysnapshot",
+ "source": "crossref",
+ "state": "ok",
+ "title": "tinysnapshot: Snapshots for Unit Tests using the 'tinytest' Framework",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

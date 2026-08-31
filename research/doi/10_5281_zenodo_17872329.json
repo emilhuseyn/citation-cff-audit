@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.17872329",
+ "source": "datacite",
+ "state": "ok",
+ "title": "MatrixBandwidth.jl: Fast algorithms for matrix bandwidth minimization and recognition",
+ "type": "Software",
+ "container": ""
+}

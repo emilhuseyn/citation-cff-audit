@@ -1,0 +1,9 @@
+{
+ "repo": "enthusi/feline",
+ "joss_doi": "10.21105/joss.07528",
+ "joss_title": "FELINE: A Tool to Detect Emission Line Galaxies in 3D Data",
+ "joss_published": "2025-03-16T20:58:19.140Z",
+ "software_repository": "https://github.com/enthusi/feline",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Wendt\n    given-names: Martin\n    affiliation: University of Potsdam\n    orcid: https://orcid.org/0000-0001-5020-9994\n  - family-names: Henschel\n    given-names: Marvin\n    affiliation: University of Potsdam\n    orcid: https://orcid.org/0009-0000-9462-433X\n  - family-names: Soth\n    given-names: \"Oskar Fjonn\"\n    affiliation: University of Potsdam\n    orcid: https://orcid.org/0009-0004-1200-9130\ntitle: \"FELINE: A Tool to Detect Emission Line Galaxies in 3D Data\"\nversion: 1.1.0\ndoi: 10.21105/joss.07528\ndate-released: 2024-09-12\n"
+}

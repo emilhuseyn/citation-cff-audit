@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.04078",
+ "source": "crossref",
+ "state": "ok",
+ "title": "PyNumDiff: A Python package for numerical\ndifferentiation of noisy time-series data",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

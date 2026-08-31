@@ -1,0 +1,9 @@
+{
+ "repo": "EdyVision/pii-codex",
+ "joss_doi": "10.21105/joss.05402",
+ "joss_title": "PII-Codex: a Python library for PII detection, categorization, and severity assessment",
+ "joss_published": "2023-06-20T12:25:23.854Z",
+ "software_repository": "https://github.com/EdyVision/pii-codex",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Rosado\n    given-names: Eidan J.\n    orcid: https://orcid.org/0000-0003-0665-098X\ntitle: \"pii-codex: a Python library for PII detection, categorization, and severity assessment\"\nversion: 0.6.1\ndoi: 10.5281/zenodo.7212576\ndate-released: 2026-02-15\n"
+}

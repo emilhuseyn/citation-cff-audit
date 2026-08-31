@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.14170051",
+ "source": "datacite",
+ "state": "ok",
+ "title": "ccviR: an R package and Shiny app to implement the NatureServe Climate Change Vulnerability Index",
+ "type": "Software",
+ "container": ""
+}

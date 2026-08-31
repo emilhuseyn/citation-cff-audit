@@ -1,0 +1,9 @@
+{
+ "repo": "mne-tools/mne-lsl",
+ "joss_doi": "10.21105/joss.08088",
+ "joss_title": "MNE-LSL: Real-time framework integrated with MNE-Python for online neuroscience research through LSL-compatible devices.",
+ "joss_published": "2025-07-24T10:16:13.021Z",
+ "software_repository": "https://github.com/mne-tools/mne-lsl",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Scheltienne\n  given-names: Mathieu\n  orcid: \"https://orcid.org/0000-0001-8316-7436\"\n- family-names: Larson\n  given-names: Eric\n  orcid: \"https://orcid.org/0000-0003-4782-5360\"\n- family-names: Desvachez\n  given-names: Arnaud\n- family-names: Lee\n  given-names: Kyuhwa\n  orcid: \"https://orcid.org/0000-0002-3854-4690\"\ndoi: 10.5281/zenodo.16314799\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Scheltienne\n    given-names: Mathieu\n    orcid: \"https://orcid.org/0000-0001-8316-7436\"\n  - family-names: Larson\n    given-names: Eric\n    orcid: \"https://orcid.org/0000-0003-4782-5360\"\n  - family-names: Desvachez\n    given-names: Arnaud\n  - family-names: Lee\n    given-names: Kyuhwa\n    orcid: \"https://orcid.org/0000-0002-3854-4690\"\n  date-published: 2025-07-24\n  doi: 10.21105/joss.08088\n  issn: 2475-9066\n  issue: 111\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 8088\n  title: \"MNE-LSL: Real-time framework integrated with MNE-Python for\n    online neuroscience research through LSL-compatible devices.\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.08088\"\n  volume: 10\ntitle: \"MNE-LSL: Real-time framework integrated with MNE-Python for\n  online neuroscience research through LSL-compatible devices.\"\n"
+}

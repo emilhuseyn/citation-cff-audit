@@ -1,0 +1,9 @@
+{
+ "repo": "bjmorgan/bsym",
+ "joss_doi": "10.21105/joss.00370",
+ "joss_title": "bsym: A basic symmetry module",
+ "joss_published": "2017-08-18T00:00:00.000Z",
+ "software_repository": "https://github.com/bjmorgan/bsym",
+ "status": 200,
+ "cff": "cff-version: 1.0.3\nmessage: If you use this software, please cite both the software repository and the JOSS paper.\nauthor: \n  - family-names: Morgan\n    given-names: Benjamin J.\n    orcid: https://orcid.org/0000-0002-3056-8233\ntitle: bsym\nversion: 1.1.0\ndoi: 10.5281/zenodo.596912\nrepository-code: https://github.com/bjmorgan/bsym\nlicense: MIT\nreferences:\n  - type: article\n    authors:\n      - family-names: Morgan\n        given-names: Benjamin J.\n    title: \"bsym: A basic symmetry module\"\n    year: 2017\n    journal: Journal of Open Source Software\n    volume: 2\n    issue: \"16\"\n    doi: 10.21105/joss.00370 \n"
+}

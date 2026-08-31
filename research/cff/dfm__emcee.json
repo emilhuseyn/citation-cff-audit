@@ -1,0 +1,9 @@
+{
+ "repo": "dfm/emcee",
+ "joss_doi": "10.21105/joss.01864",
+ "joss_title": "emcee v3: A Python ensemble sampling toolkit for affine-invariant MCMC",
+ "joss_published": "2019-11-17T18:29:53.846Z",
+ "software_repository": "https://github.com/dfm/emcee",
+ "status": 404,
+ "cff": null
+}

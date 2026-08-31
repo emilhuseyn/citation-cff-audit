@@ -1,0 +1,9 @@
+{
+ "repo": "PGijsbers/GAMA",
+ "joss_doi": "10.21105/joss.01132",
+ "joss_title": "GAMA: Genetic Automated Machine learning Assistant",
+ "joss_published": "2019-01-30T10:59:06.022Z",
+ "software_repository": "https://github.com/PGijsbers/GAMA",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software in a publication, please cite the metadata from preferred-citation.\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Gijsbers\"\n    given-names: \"Pieter\"\n    orcid: \"https://orcid.org/0000-0001-7346-8075\"\n  - family-names: \"Vanschoren\"\n    given-names: \"Joaquin\"\n    orcid: \"https://orcid.org/0000-0001-7044-9805\"\n  journal: \"CoRR\"\n  title: \"GAMA: a General Automated Machine learning Assistant\"\n  abstract: \"The General Automated Machine learning Assistant (GAMA) is a modular AutoML system developed to empower users to track and control how AutoML algorithms search for optimal machine learning pipelines, and facilitate AutoML research itself. In contrast to current, often black-box systems, GAMA allows users to plug in different AutoML and post-processing techniques, logs and visualizes the search process, and supports easy benchmarking. It currently features three AutoML search algorithms, two model post-processing steps, and is designed to allow for more components to be added.\"\n  volume: abs/2007.04911\n  year: 2020\n  start: 560\n  end: 564\n  pages: 5\n  doi: 10.1007/978-3-030-67670-4_39\n  url: https://arxiv.org/abs/2007.04911\n"
+}

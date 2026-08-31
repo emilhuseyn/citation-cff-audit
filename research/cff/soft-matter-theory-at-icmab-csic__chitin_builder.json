@@ -1,0 +1,9 @@
+{
+ "repo": "soft-matter-theory-at-icmab-csic/chitin_builder",
+ "joss_doi": "10.21105/joss.05771",
+ "joss_title": "Chitin Builder: a VMD tool for the generation of structures of chitin molecular crystals for atomistic simulations",
+ "joss_published": "2024-01-29T16:38:15.438Z",
+ "software_repository": "https://github.com/soft-matter-theory-at-icmab-csic/chitin_builder",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Malaspina\n  given-names: David\n  orcid: \"https://orcid.org/0000-0002-5420-9534\"\n- family-names: Faraudo\n  given-names: Jordi\n  orcid: \"https://orcid.org/0000-0002-6315-4993\"\ncontact:\n- family-names: Faraudo\n  given-names: Jordi\n  orcid: \"https://orcid.org/0000-0002-6315-4993\"\ndoi: 10.5281/zenodo.3274725\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Malaspina\n    given-names: David\n    orcid: \"https://orcid.org/0000-0002-5420-9534\"\n  - family-names: Faraudo\n    given-names: Jordi\n    orcid: \"https://orcid.org/0000-0002-6315-4993\"\n  date-published: 2024-01-29\n  doi: 10.21105/joss.05771\n  issn: 2475-9066\n  issue: 93\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5771\n  title: \"Chitin Builder: a VMD tool for the generation of structures of\n    chitin molecular crystals for atomistic simulations\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05771\"\n  volume: 9\ntitle: \"Chitin Builder: a VMD tool for the generation of structures of\n  chitin molecular crystals for atomistic simulations\"\n"
+}

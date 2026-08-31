@@ -1,0 +1,9 @@
+{
+ "repo": "trixi-framework/TrixiParticles.jl",
+ "joss_doi": "10.21105/joss.07044",
+ "joss_title": "TrixiParticles.jl: Particle-based multiphysics simulation in Julia",
+ "joss_published": "2025-01-27T13:31:56.569Z",
+ "software_repository": "https://github.com/trixi-framework/TrixiParticles.jl",
+ "status": 404,
+ "cff": null
+}

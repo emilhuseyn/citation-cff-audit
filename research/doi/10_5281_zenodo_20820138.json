@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.20820138",
+ "source": "datacite",
+ "state": "ok",
+ "title": "pyhctsa: A Python package for highly comparative time-series analysis",
+ "type": "Software",
+ "container": ""
+}

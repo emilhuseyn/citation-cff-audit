@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.testit",
+ "source": "crossref",
+ "state": "ok",
+ "title": "testit: A Simple Package for Testing R Packages",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

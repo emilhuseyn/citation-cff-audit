@@ -1,0 +1,9 @@
+{
+ "repo": "rasg-affiliates/21cmSense",
+ "joss_doi": "10.21105/joss.06501",
+ "joss_title": "21cmSense v2: A modular, open-source 21 cm sensitivity calculator",
+ "joss_published": "2024-05-09T15:02:55.431Z",
+ "software_repository": "https://github.com/rasg-affiliates/21cmSense",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Murray\n  given-names: Steven G.\n  orcid: \"https://orcid.org/0000-0003-3059-3823\"\n- family-names: Pober\n  given-names: Jonathan\n  orcid: \"https://orcid.org/0000-0002-3492-0433\"\n- family-names: Kolopanis\n  given-names: Matthew\n  orcid: \"https://orcid.org/0000-0002-2950-2974\"\ncontact:\n- family-names: Murray\n  given-names: Steven G.\n  orcid: \"https://orcid.org/0000-0003-3059-3823\"\ndoi: 10.5281/zenodo.11127253\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Murray\n    given-names: Steven G.\n    orcid: \"https://orcid.org/0000-0003-3059-3823\"\n  - family-names: Pober\n    given-names: Jonathan\n    orcid: \"https://orcid.org/0000-0002-3492-0433\"\n  - family-names: Kolopanis\n    given-names: Matthew\n    orcid: \"https://orcid.org/0000-0002-2950-2974\"\n  date-published: 2024-05-09\n  doi: 10.21105/joss.06501\n  issn: 2475-9066\n  issue: 97\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6501\n  title: \"21cmSense v2: A modular, open-source 21 cm sensitivity\n    calculator\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06501\"\n  volume: 9\ntitle: \"21cmSense v2: A modular, open-source 21 cm sensitivity\n  calculator\"\n"
+}

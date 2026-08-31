@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.14261846",
+ "source": "datacite",
+ "state": "ok",
+ "title": "PeakPerformance - A tool for Bayesian inference-based fitting of LC-MS/MS peaks",
+ "type": "Software",
+ "container": ""
+}

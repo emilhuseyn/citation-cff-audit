@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.21337898",
+ "source": "datacite",
+ "state": "ok",
+ "title": "estim8 - An FMI-compliant Python toolbox for bioprocess modeling and parameter estimation",
+ "type": "Software",
+ "container": ""
+}

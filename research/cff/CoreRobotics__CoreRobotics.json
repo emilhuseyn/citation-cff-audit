@@ -1,0 +1,9 @@
+{
+ "repo": "CoreRobotics/CoreRobotics",
+ "joss_doi": "10.21105/joss.00489",
+ "joss_title": "CoreRobotics: An object-oriented C++ library with cross-language wrappers for cross-platform robot control",
+ "joss_published": "2018-02-06T02:09:17.865Z",
+ "software_repository": "https://github.com/CoreRobotics/CoreRobotics",
+ "status": 404,
+ "cff": null
+}

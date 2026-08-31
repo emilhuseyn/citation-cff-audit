@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.17583787",
+ "source": "datacite",
+ "state": "ok",
+ "title": "StateSpaceDynamics.jl: A Julia package for probabilistic state space models (SSMs)",
+ "type": "Software",
+ "container": ""
+}

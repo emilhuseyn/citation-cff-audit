@@ -1,0 +1,9 @@
+{
+ "repo": "jsakaluk/dySEM",
+ "joss_doi": "10.21105/joss.10115",
+ "joss_title": "dySEM: An <em>R</em> Package for Dyadic Structural Equation Modeling with Latent Variables",
+ "joss_published": "2026-05-19T14:39:49.215Z",
+ "software_repository": "https://github.com/jsakaluk/dySEM",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n  - family-names: Sakaluk\n    given-names: John Kitchener\n    orcid: \"https://orcid.org/0000-0002-2515-9822\"\n  - family-names: Camanto\n    given-names: Omar J.\n    orcid: \"https://orcid.org/0009-0009-4012-9777\"\ndoi: \"10.6084/m9.figshare.32180541\"\nmessage: \"If you use this software, please cite our article in the Journal of Open Source Software.\"\npreferred-citation:\n  authors:\n    - family-names: Sakaluk\n      given-names: John Kitchener\n      orcid: \"https://orcid.org/0000-0002-2515-9822\"\n    - family-names: Camanto\n      given-names: Omar J.\n      orcid: \"https://orcid.org/0009-0009-4012-9777\"\n  date-published: 2026-05-19\n  doi: \"10.21105/joss.10115\"\n  issn: \"2475-9066\"\n  issue: 121\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 10115\n  title: \"dySEM: An R Package for Dyadic Structural Equation Modeling with Latent Variables\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.10115\"\n  volume: 11\ntitle: \"dySEM: An R Package for Dyadic Structural Equation Modeling with Latent Variables\"\n"
+}

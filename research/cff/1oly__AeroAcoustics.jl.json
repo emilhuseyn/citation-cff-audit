@@ -1,0 +1,9 @@
+{
+ "repo": "1oly/AeroAcoustics.jl",
+ "joss_doi": "10.21105/joss.06390",
+ "joss_title": "AeroAcoustics.jl: A Julia package for aeroacoustics",
+ "joss_published": "2024-05-28T15:54:33.704Z",
+ "software_repository": "https://github.com/1oly/AeroAcoustics.jl",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Lylloff\n  given-names: Oliver\n  orcid: \"https://orcid.org/0000-0002-1596-107X\"\ncontact:\n- family-names: Lylloff\n  given-names: Oliver\n  orcid: \"https://orcid.org/0000-0002-1596-107X\"\ndoi: 10.5281/zenodo.11207482\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Lylloff\n    given-names: Oliver\n    orcid: \"https://orcid.org/0000-0002-1596-107X\"\n  date-published: 2024-05-28\n  doi: 10.21105/joss.06390\n  issn: 2475-9066\n  issue: 97\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6390\n  title: \"AeroAcoustics.jl: A Julia package for aeroacoustics\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06390\"\n  volume: 9\ntitle: \"AeroAcoustics.jl: A Julia package for aeroacoustics\"\n"
+}

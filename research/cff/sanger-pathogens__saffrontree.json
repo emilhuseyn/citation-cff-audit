@@ -1,0 +1,9 @@
+{
+ "repo": "sanger-pathogens/saffrontree",
+ "joss_doi": "10.21105/joss.00243",
+ "joss_title": "SaffronTree: Fast, reference-free pseudo-phylogenomic trees from reads or contigs.",
+ "joss_published": "2017-05-03T00:00:00.000Z",
+ "software_repository": "https://github.com/sanger-pathogens/saffrontree",
+ "status": 404,
+ "cff": null
+}

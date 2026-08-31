@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.generics",
+ "source": "crossref",
+ "state": "ok",
+ "title": "generics: Common S3 Generics not Provided by Base R Methods Related to Model Fitting",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

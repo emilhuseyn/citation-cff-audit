@@ -1,0 +1,9 @@
+{
+ "repo": "METHODS-Group/DRDMannTurb",
+ "joss_doi": "10.21105/joss.06838",
+ "joss_title": "DRDMannTurb: A Python package for scalable, data-driven synthetic turbulence",
+ "joss_published": "2024-10-24T20:18:05.458Z",
+ "software_repository": "https://github.com/METHODS-Group/DRDMannTurb",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Izmailov\n    given-names: Alexey\n  - family-names: Meeker\n    given-names: Matthew\n  - family-names: Deskos\n    given-names: Georgios\n  - family-names: Keith\n    given-names: Brendan\ntitle: \"DRDMannTurb\"\nversion: 1.0.2\nidentifiers:\n  - type: doi\n    value: 10.5281/zenodo.1234\ndate-released: 2024-07-12\n"
+}

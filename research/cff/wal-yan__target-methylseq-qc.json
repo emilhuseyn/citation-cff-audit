@@ -1,0 +1,9 @@
+{
+ "repo": "wal-yan/target-methylseq-qc",
+ "joss_doi": "10.21105/joss.07608",
+ "joss_title": "target-methylseq-qc: a lightweight pipeline for collecting metrics from targeted sequence mapping files.",
+ "joss_published": "2025-05-23T07:22:27.769Z",
+ "software_repository": "https://github.com/wal-yan/target-methylseq-qc",
+ "status": 200,
+ "cff": "#https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files\ncff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Sharma\"\n  given-names: \"Abhinav\"\n  orcid: \"https://orcid.org/0000-0002-6402-6993\"\n- family-names: \"Conradie\"\n  given-names: \"Talya\"\n  orcid: \"https://orcid.org/0009-0007-6380-5737\"\n- family-names: \"Martino\"\n  given-names: \"David\"\n  orcid: \"https://orcid.org/0000-0001-6823-4696\"\n- family-names: \"Stick\"\n  given-names: \"Stephen\"\n  orcid: \"https://orcid.org/0000-0002-5386-8482\"\n- family-names: \"Agudelo-Romero\"\n  given-names: \"Patricia\"\n  orcid: \"https://orcid.org/0000-0002-3703-4111\"\ntitle: \"wal-yan/target-methylseq-qc\"\nversion: 2.0.0\ndoi: 10.5281/zenodo.8251379\ndate-released: 2024-08-01\nurl: \"https://github.com/wal-yan/target-methylseq-qc\"\n"
+}

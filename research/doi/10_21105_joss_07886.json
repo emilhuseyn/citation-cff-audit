@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.07886",
+ "source": "crossref",
+ "state": "ok",
+ "title": "volesti: A C++ library for sampling and volume computation on convex bodies",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

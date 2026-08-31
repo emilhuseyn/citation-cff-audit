@@ -1,0 +1,9 @@
+{
+ "repo": "DeepRank/pdb2sql",
+ "joss_doi": "10.21105/joss.02077",
+ "joss_title": "The pdb2sql Python Package: Parsing, Manipulation and Analysis of PDB Files Using SQL Queries",
+ "joss_published": "2020-05-28T12:25:52.736Z",
+ "software_repository": "https://github.com/DeepRank/pdb2sql",
+ "status": 200,
+ "cff": "# YAML 1.2\n---\nabstract: \"Fast and versatile biomolecular structure PDB file parser using SQL queries.\"\nauthors:\n  -\n    affiliation: \"Netherlands eScience Center\"\n    family-names: Renaud\n    given-names: Nicolas\n    orcid: \"https://orcid.org/0000-0001-9589-2694\"\n  -\n    affiliation: \"Netherlands eScience Center\"\n    family-names: Geng\n    given-names: Cunliang\n    orcid: \"https://orcid.org/0000-0002-1409-8358\"\ncff-version: 1.2.0\ndoi: \"10.5281/zenodo.3232887\"\nkeywords:\n  - \"pdb parser\"\n  - \"protein structure\"\n  - biomolecule\n  - bioinformatics\n  - CAPRI\nlicense: \"Apache-2.0\"\nmessage: \"If you use this software, please cite it using these metadata.\"\nrepository-code: \"https://github.com/DeepRank/pdb2sql\"\ntitle: pdb2sql\n...\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "astro-informatics/sleplet",
+ "joss_doi": "10.21105/joss.05221",
+ "joss_title": "SLEPLET: Slepian Scale-Discretised Wavelets in Python",
+ "joss_published": "2023-04-20T15:18:28.039Z",
+ "software_repository": "https://github.com/astro-informatics/sleplet",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nauthors:\n  - family-names: Roddy\n    given-names: Patrick J.\n    orcid: https://orcid.org/0000-0002-6271-1700\ndoi: 10.5281/zenodo.7268074\nmessage: >-\n  If you use this software, please cite our article in the Journal of Open\n  Source Software.\ntitle: \"SLEPLET: Slepian Scale-Discretised Wavelets in Python\"\npreferred-citation:\n  authors:\n    - family-names: Roddy\n      given-names: Patrick J.\n      orcid: https://orcid.org/0000-0002-6271-1700\n  date-published: 2023-04-20\n  doi: 10.21105/joss.05221\n  issn: 2475-9066\n  issue: 84\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5221\n  title: \"SLEPLET: Slepian Scale-Discretised Wavelets in Python\"\n  type: article\n  url: https://joss.theoj.org/papers/10.21105/joss.05221\n  volume: 8\n"
+}

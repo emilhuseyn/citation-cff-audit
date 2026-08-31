@@ -1,0 +1,9 @@
+{
+ "repo": "svretina/FastTanhSinhQuadrature.jl",
+ "joss_doi": "10.21105/joss.10076",
+ "joss_title": "FastTanhSinhQuadrature.jl: High-performance Tanh-Sinh numerical integration in Julia",
+ "joss_published": "2026-04-16T12:58:37.560Z",
+ "software_repository": "https://github.com/svretina/FastTanhSinhQuadrature.jl",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Vretinaris\n  given-names: Stamatis\n  orcid: \"https://orcid.org/0000-0001-7575-813X\"\ndoi: 10.5281/zenodo.19420466\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Vretinaris\n    given-names: Stamatis\n    orcid: \"https://orcid.org/0000-0001-7575-813X\"\n  date-published: 2026-04-16\n  doi: 10.21105/joss.10076\n  issn: 2475-9066\n  issue: 120\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 10076\n  title: \"FastTanhSinhQuadrature.jl: High-performance Tanh-Sinh\n    numerical integration in Julia\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.10076\"\n  volume: 11\ntitle: \"FastTanhSinhQuadrature.jl: High-performance Tanh-Sinh numerical\n  integration in Julia\"\n\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "emlearn/emlearn-micropython",
+ "joss_doi": "10.21105/joss.09093",
+ "joss_title": "emlearn-micropython: Machine Learning and Digital Signal Processing for MicroPython",
+ "joss_published": "2025-12-20T14:15:24.545Z",
+ "software_repository": "https://github.com/emlearn/emlearn-micropython/",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nlicense: MIT\nmessage: \"If you use this software, please cite it using these metadata.\"\nrepository-code: \"https://github.com/emlearn/emlearn-micropython\"\ntitle: \"emlearn-micropython: Efficient Machine Learning engine for MicroPython\"\nidentifiers:\n  - description: \"Archived software version\"\n    type: doi\n    value: 10.5281/zenodo.8212731\nauthors:\n  - family-names: Nordby\n    given-names: Jon\n"
+}

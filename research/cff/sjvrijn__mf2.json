@@ -1,0 +1,9 @@
+{
+ "repo": "sjvrijn/mf2",
+ "joss_doi": "10.21105/joss.02049",
+ "joss_title": "MF2: A Collection of Multi-Fidelity Benchmark Functions in Python",
+ "joss_published": "2020-08-25T06:55:13.423Z",
+ "software_repository": "https://github.com/sjvrijn/mf2",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"van Rijn\"\n  given-names: \"Sander\"\n  affiliation: \"Leiden University\"\n  orcid: \"https://orcid.org/0000-0001-6159-041X\"\n- family-names: \"Schmitt\"\n  given-names: \"Sebastian\"\n  affiliation: \"Honda Research Institute Europe\"\n  orcid: \"https://orcid.org/0000-0001-7130-5483\"\ntitle: \"MF2: Multi-Fidelity-Functions\"\nversion: 2021.10.0\ndoi: 10.5281/zenodo.3610282\ndate-released: 2021-10-22\nurl: \"https://github.com/sjvrijn/mf2\"\nlicense: GPL-3.0\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"van Rijn\"\n    given-names: \"Sander\"\n    affiliation: \"Leiden University\"\n    orcid: \"https://orcid.org/0000-0001-6159-041X\"\n  - family-names: \"Schmitt\"\n    given-names: \"Sebastian\"\n    affiliation: \"Honda Research Institute Europe\"\n    orcid: \"https://orcid.org/0000-0001-7130-5483\"\n  doi: \"10.21105/joss.02049\"\n  journal: \"Journal of Open Source Software\"\n  publisher: \"The Open Journal\"\n  title: \"MF2: A Collection of Multi-Fidelity Benchmark Functions in Python\"\n  pages: 2049\n  number: 52\n  volume: 5\n  year: 2020\n"
+}

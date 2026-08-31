@@ -1,0 +1,9 @@
+{
+ "repo": "sanger-pathogens/mlst_check",
+ "joss_doi": "10.21105/joss.00118",
+ "joss_title": "Multilocus sequence typing by blast from de novo assemblies against PubMLST",
+ "joss_published": "2016-12-05T00:00:00.000Z",
+ "software_repository": "https://github.com/sanger-pathogens/mlst_check",
+ "status": 404,
+ "cff": null
+}

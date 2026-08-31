@@ -1,0 +1,9 @@
+{
+ "repo": "elliohow/fMRI_ROI_Analysis_Tool",
+ "joss_doi": "10.21105/joss.05200",
+ "joss_title": "fRAT: an interactive, Python-based tool for region-of-interest summaries of functional imaging data",
+ "joss_published": "2023-05-11T08:31:02.250Z",
+ "software_repository": "https://github.com/elliohow/fMRI_ROI_Analysis_Tool",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Howley\n  given-names: Elliot\n  orcid: \"https://orcid.org/0000-0002-3868-2516\"\n- family-names: Francis\n  given-names: Susan\n  orcid: \"https://orcid.org/0000-0003-0903-7507\"\n- family-names: Schluppeck\n  given-names: Denis\n  orcid: \"https://orcid.org/0000-0002-0634-7713\"\ncontact:\n- family-names: Howley\n  given-names: Elliot\n  orcid: \"https://orcid.org/0000-0002-3868-2516\"\ndoi: 10.5281/zenodo.7877605\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Howley\n    given-names: Elliot\n    orcid: \"https://orcid.org/0000-0002-3868-2516\"\n  - family-names: Francis\n    given-names: Susan\n    orcid: \"https://orcid.org/0000-0003-0903-7507\"\n  - family-names: Schluppeck\n    given-names: Denis\n    orcid: \"https://orcid.org/0000-0002-0634-7713\"\n  date-published: 2023-05-11\n  doi: 10.21105/joss.05200\n  issn: 2475-9066\n  issue: 85\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5200\n  title: \"fRAT: an interactive, Python-based tool for region-of-interest\n    summaries of functional imaging data\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05200\"\n  volume: 8\ntitle: \"fRAT: an interactive, Python-based tool for region-of-interest\n  summaries of functional imaging data\"\n"
+}

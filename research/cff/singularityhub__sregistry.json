@@ -1,0 +1,9 @@
+{
+ "repo": "singularityhub/sregistry",
+ "joss_doi": "10.21105/joss.00426",
+ "joss_title": "Singularity Registry: Open Source Registry for Singularity Images",
+ "joss_published": "2017-10-16T00:00:00.000Z",
+ "software_repository": "https://www.github.com/singularityhub/sregistry",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Sochat\n    given-names: Vanessa\n    orcid: https://orcid.org/0000-0002-4387-3819\ntitle: \"Singularity Registry: Open Source Registry for Singularity Images\"\nversion: 1.1.38\ndoi: 10.21105/joss.00426\ndate-released: 2017-10-16\n"
+}

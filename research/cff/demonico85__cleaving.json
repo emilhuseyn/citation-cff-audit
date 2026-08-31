@@ -1,0 +1,9 @@
+{
+ "repo": "demonico85/cleaving",
+ "joss_doi": "10.21105/joss.05886",
+ "joss_title": "CLEAVING: a LAMMPS package to compute surface free energies",
+ "joss_published": "2024-02-07T21:21:42.476Z",
+ "software_repository": "https://github.com/demonico85/cleaving",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Pasquale\n  given-names: Nicodemo Di\n  orcid: \"https://orcid.org/0000-0001-5676-8527\"\n- family-names: Davidchack\n  given-names: Ruslan\n  orcid: \"https://orcid.org/0000-0001-9418-5322\"\n- family-names: Rovigatti\n  given-names: Lorenzo\n  orcid: \"https://orcid.org/0000-0001-5017-2829\"\ncontact:\n- family-names: Pasquale\n  given-names: Nicodemo Di\n  orcid: \"https://orcid.org/0000-0001-5676-8527\"\ndoi: 10.5281/zenodo.10567702\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Pasquale\n    given-names: Nicodemo Di\n    orcid: \"https://orcid.org/0000-0001-5676-8527\"\n  - family-names: Davidchack\n    given-names: Ruslan\n    orcid: \"https://orcid.org/0000-0001-9418-5322\"\n  - family-names: Rovigatti\n    given-names: Lorenzo\n    orcid: \"https://orcid.org/0000-0001-5017-2829\"\n  date-published: 2024-02-07\n  doi: 10.21105/joss.05886\n  issn: 2475-9066\n  issue: 94\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5886\n  title: \"CLEAVING: a LAMMPS package to compute surface free energies\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05886\"\n  volume: 9\ntitle: \"CLEAVING: a LAMMPS package to compute surface free energies\"\n\n"
+}

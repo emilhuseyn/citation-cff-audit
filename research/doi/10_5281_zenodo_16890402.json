@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.16890402",
+ "source": "datacite",
+ "state": "ok",
+ "title": "scmorph: a Python package for analysing single-cell morphological profiles",
+ "type": "Software",
+ "container": ""
+}

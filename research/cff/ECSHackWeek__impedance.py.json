@@ -1,0 +1,9 @@
+{
+ "repo": "ECSHackWeek/impedance.py",
+ "joss_doi": "10.21105/joss.02349",
+ "joss_title": "impedance.py: A Python package for electrochemical impedance analysis",
+ "joss_published": "2020-08-03T23:22:42.721Z",
+ "software_repository": "https://github.com/ECSHackWeek/impedance.py",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use impedance.py in published work, please consider citing https://joss.theoj.org/papers/10.21105/joss.02349 as shown below\"\npreferred-citation:\n  type: article\n  doi: 10.21105/joss.02349\n  url: https://doi.org/10.21105/joss.02349\n  year: 2020\n  publisher: The Open Journal\n  volume: 5\n  number: 52\n  pages: 2349\n  authors:\n    - family-names: Murbach\n      given-names: Matthew\n      orcid: http://orcid.org/0000-0002-6583-5995\n    - family-names: Gerwe\n      given-names: Brian\n      orcid: http://orcid.org/0000-0002-1184-8483\n    - family-names: Dawson-Elli\n      given-names: Neal\n      orcid: http://orcid.org/0000-0003-4559-7309\n    - family-names: Tsui\n      given-names: Lok-kun\n      orcid: http://orcid.org/0000-0001-7381-0686\n  title: \"impedance.py: A Python package for electrochemical impedance analysis\"\n  journal: Journal of Open Source Software\n"
+}

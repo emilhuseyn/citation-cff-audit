@@ -1,0 +1,9 @@
+{
+ "repo": "yuefan98/nleis.py",
+ "joss_doi": "10.21105/joss.07424",
+ "joss_title": "nleis.py: A Nonlinear Electrochemical Impedance Analysis Toolbox",
+ "joss_published": "2025-01-28T19:56:07.029Z",
+ "software_repository": "https://github.com/yuefan98/nleis.py",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- email: yuefan@uw.edu\n  family-names: Ji\n  given-names: Yuefan\n  orcid: \"https://orcid.org/0000-0003-1912-767X\"\n- family-names: Murbach\n  given-names: Matthew D.\n  orcid: \"https://orcid.org/0000-0002-6583-5995\"\n- family-names: Schwartz\n  given-names: Daniel T.\n  orcid: \"https://orcid.org/0000-0003-1173-5611\"\ncontact:\n- email: yuefan@uw.edu\n  family-names: Ji\n  given-names: Yuefan\n  orcid: \"https://orcid.org/0000-0003-1912-767X\"\ndoi: 10.5281/zenodo.14606367\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - email: yuefan@uw.edu\n    family-names: Ji\n    given-names: Yuefan\n    orcid: \"https://orcid.org/0000-0003-1912-767X\"\n  - family-names: Murbach\n    given-names: Matthew D.\n    orcid: \"https://orcid.org/0000-0002-6583-5995\"\n  - family-names: Schwartz\n    given-names: Daniel T.\n    orcid: \"https://orcid.org/0000-0003-1173-5611\"\n  date-published: 2025-01-28\n  doi: 10.21105/joss.07424\n  issn: 2475-9066\n  issue: 105\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7424\n  title: \"nleis.py: A Nonlinear Electrochemical Impedance Analysis\n    Toolbox\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07424\"\n  volume: 10\ntitle: \"nleis.py: A Nonlinear Electrochemical Impedance Analysis\n  Toolbox\"\n"
+}

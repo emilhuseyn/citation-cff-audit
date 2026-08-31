@@ -1,0 +1,9 @@
+{
+ "repo": "WatershedsWildfireResearchCollaborative/SEPARATE",
+ "joss_doi": "10.21105/joss.08851",
+ "joss_title": "SEPARATE: Storm Event Partitioning And Rainfall Analytics for Tipping-bucket rain gauge data Evaluation",
+ "joss_published": "2026-03-25T00:03:20.491Z",
+ "software_repository": "https://github.com/WatershedsWildfireResearchCollaborative/SEPARATE",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Murphy\n  given-names: Brendan P.\n  orcid: \"https://orcid.org/0000-0001-8025-1253\"\n- family-names: David\n  given-names: Scott R.\n  orcid: \"https://orcid.org/0000-0003-2708-4251\"\ncontact:\n- family-names: Murphy\n  given-names: Brendan P.\n  orcid: \"https://orcid.org/0000-0001-8025-1253\"\ndoi: 10.5281/zenodo.19141362\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Murphy\n    given-names: Brendan P.\n    orcid: \"https://orcid.org/0000-0001-8025-1253\"\n  - family-names: David\n    given-names: Scott R.\n    orcid: \"https://orcid.org/0000-0003-2708-4251\"\n  date-published: 2026-03-25\n  doi: 10.21105/joss.08851\n  issn: 2475-9066\n  issue: 119\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 8851\n  title: \"SEPARATE: Storm Event Partitioning And Rainfall Analytics for\n    Tipping-bucket rain gauge data Evaluation\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.08851\"\n  volume: 11\ntitle: \"SEPARATE: Storm Event Partitioning And Rainfall Analytics for\n  Tipping-bucket rain gauge data Evaluation\"\n"
+}

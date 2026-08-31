@@ -1,0 +1,9 @@
+{
+ "repo": "alexriss/SpmImageTycoon.jl",
+ "joss_doi": "10.21105/joss.04644",
+ "joss_title": "SpmImage Tycoon: Organize and analyze scanning probe microscopy data",
+ "joss_published": "2022-09-05T10:35:12.607Z",
+ "software_repository": "https://github.com/alexriss/SpmImageTycoon.jl",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Riss\"\n  given-names: \"Alexander\"\n  orcid: \"https://orcid.org/0000-0002-3212-7925\"\ntitle: \"SpmImage Tycoon: Organize and analyze scanning probe microscopy data\"\ndoi: \"10.21105/joss.04644\"\nurl: \"https://doi.org/10.21105/joss.04644\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Riss\"\n    given-names: \"Alexander\"\n    orcid: \"https://orcid.org/0000-0002-3212-7925\"\n  doi: \"10.21105/joss.04644\"\n  journal: \"Journal of Open Source Software\"\n  start: 4644\n  title: \"SpmImage Tycoon: Organize and analyze scanning probe microscopy data\"\n  issue: 77\n  volume: 7\n  year: 2022"
+}

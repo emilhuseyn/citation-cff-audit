@@ -1,0 +1,9 @@
+{
+ "repo": "alan-turing-institute/Palaeoanalytics",
+ "joss_doi": "10.21105/joss.03738",
+ "joss_title": "PyLithics: A Python package for stone tool analysis",
+ "joss_published": "2022-01-29T00:50:24.053Z",
+ "software_repository": "https://github.com/alan-turing-institute/Palaeoanalytics",
+ "status": 200,
+ "cff": "cff-version: v1.0.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Gellis\"\n  given-names: \"Jason J.\"\n  orcid: \"https://orcid.org/0000-0002-9929-789X\"\n- family-names: \"Rangel Smith\"\n  given-names: \"Camila\"\n  orcid: \"https://orcid.org/0000-0002-0227-836X\"\n- family-names: \"Foley\"\n  given-names: \"Robert A.\"\n  orcid: \"https://orcid.org/0000-0003-0479-3039\"\ntitle: \"PyLithics: A Python package for stone tool analysis\"\nversion: 2.0.0\ndate-released: 2025-09-21\nurl: \"https://github.com/alan-turing-institute/Palaeoanalytics/\""
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "odegym/neurodiffeq",
+ "joss_doi": "10.21105/joss.01931",
+ "joss_title": "NeuroDiffEq: A Python package for solving differential equations with neural networks",
+ "joss_published": "2020-02-19T20:49:33.996Z",
+ "software_repository": "https://github.com/odegym/neurodiffeq",
+ "status": 404,
+ "cff": null
+}

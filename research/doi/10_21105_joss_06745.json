@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.06745",
+ "source": "crossref",
+ "state": "ok",
+ "title": "nimbleHMC: An R package for Hamiltonian Monte Carlo\nsampling in nimble",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

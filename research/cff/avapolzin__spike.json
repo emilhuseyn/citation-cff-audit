@@ -1,0 +1,9 @@
+{
+ "repo": "avapolzin/spike",
+ "joss_doi": "10.21105/joss.08200",
+ "joss_title": "spike: A Tool to Drizzle HST, JWST, and Roman PSFs for Improved Analyses",
+ "joss_published": "2025-07-24T23:36:42.446Z",
+ "software_repository": "https://github.com/avapolzin/spike",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Polzin\n  given-names: Ava\n  orcid: \"https://orcid.org/0000-0002-5283-933X\"\ncontact:\n- family-names: Polzin\n  given-names: Ava\n  orcid: \"https://orcid.org/0000-0002-5283-933X\"\ndoi: 10.5281/zenodo.15791925\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Polzin\n    given-names: Ava\n    orcid: \"https://orcid.org/0000-0002-5283-933X\"\n  date-published: 2025-07-24\n  doi: 10.21105/joss.08200\n  issn: 2475-9066\n  issue: 111\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 8200\n  title: \"spike: A Tool to Drizzle HST, JWST, and Roman PSFs for\n    Improved Analyses\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.08200\"\n  volume: 10\ntitle: \"spike: A Tool to Drizzle HST, JWST, and Roman PSFs for Improved\n  Analyses\"\n"
+}

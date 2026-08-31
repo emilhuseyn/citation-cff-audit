@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.07473",
+ "source": "crossref",
+ "state": "ok",
+ "title": "robot_collision_checking: A Lightweight ROS 2 Interface to FCL (Flexible Collision Library)",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "JuliaHealth/NeuroAnalyzer.jl",
+ "joss_doi": "10.21105/joss.07734",
+ "joss_title": "NeuroAnalyzer: Julia toolbox for analyzing neurophysiological data",
+ "joss_published": "2025-03-16T11:18:15.974Z",
+ "software_repository": "https://github.com/JuliaHealth/NeuroAnalyzer.jl",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Wysoki\u0144ski\n  given-names: Adam\n  orcid: \"https://orcid.org/0000-0002-6159-6579\"\ndoi: 10.5281/zenodo.15033084\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Wysoki\u0144ski\n    given-names: Adam\n    orcid: \"https://orcid.org/0000-0002-6159-6579\"\n  date-published: 2025-03-16\n  doi: 10.21105/joss.07734\n  issn: 2475-9066\n  issue: 107\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7734\n  title: \"NeuroAnalyzer: Julia toolbox for analyzing neurophysiological\n    data\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07734\"\n  volume: 10\ntitle: \"NeuroAnalyzer: Julia toolbox for analyzing neurophysiological\n  data\"\n"
+}

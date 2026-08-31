@@ -1,0 +1,9 @@
+{
+ "repo": "CNES/lenapy",
+ "joss_doi": "10.21105/joss.09189",
+ "joss_title": "Lenapy: Enhancing xarray for multidimensional geophysical data analysis",
+ "joss_published": "2025-12-13T00:22:01.070Z",
+ "software_repository": "https://github.com/CNES/lenapy",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Lecomte\"\n    given-names: \"Hugo\"\n    orcid: \"https://orcid.org/0000-0002-7007-4748\"\n  - family-names: \"Fourest\"\n    given-names: \"Sebastien\"\n    orcid: \"https://orcid.org/0009-0001-3123-1026\"\n  - family-names: \"Blazquez\"\n    given-names: \"Alejandro\"\n    orcid: \"https://orcid.org/0000-0002-7719-7468\"\n  title: \"Lenapy: Enhancing xarray for multidimensional geophysical data analysis\"\n  journal: \"Journal of Open Source Software\"\n  doi: \"(submitted)\"\n  volume: xx\n  issue: xx\n  start: xxxx\n  year: 2025"
+}

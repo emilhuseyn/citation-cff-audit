@@ -1,0 +1,9 @@
+{
+ "repo": "bjmorgan/site-analysis",
+ "joss_doi": "10.21105/joss.09606",
+ "joss_title": "site-analysis: A Python package for site-projection analysis of molecular dynamics trajectories",
+ "joss_published": "2026-06-02T10:42:10.457Z",
+ "software_repository": "https://github.com/bjmorgan/site-analysis",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite the paper given in preferred-citation.\"\ntype: software\npreferred-citation:\n  type: article\n  title: \"site-analysis: A Python package for site-projection analysis of molecular dynamics trajectories\"\n  authors:\n    - family-names: \"Morgan\"\n      given-names: \"Benjamin J.\"\n      orcid: \"https://orcid.org/0000-0002-3056-8233\"\n      affiliation: \"University of Bath\"\n  doi: \"10.21105/joss.09606\"\n  journal: \"Journal of Open Source Software\"\n  publisher:\n    name: \"The Open Journal\"\n  year: 2026\n  volume: 11\n  issue: 122\n  start: 9606\ntitle: \"site-analysis\"\nabstract: \"Python module for analysing molecular dynamics simulations of solid-state ion transport by assigning positions of mobile ions to specific sites within the host structure.\"\nauthors:\n  - family-names: \"Morgan\"\n    given-names: \"Benjamin J.\"\n    orcid: \"https://orcid.org/0000-0002-3056-8233\"\n    affiliation: \"University of Bath\"\nrepository-code: \"https://github.com/bjmorgan/site-analysis\"\nurl: \"https://site-analysis.readthedocs.io/\"\nlicense: MIT\nversion: \"1.5.0\"\ndate-released: \"2026-02-28\"\nkeywords:\n  - molecular dynamics\n  - solid-state ionics\n  - site analysis\n  - diffusion\n  - pymatgen\n"
+}

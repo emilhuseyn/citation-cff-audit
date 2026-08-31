@@ -1,0 +1,9 @@
+{
+ "repo": "the-rccg/hw2d",
+ "joss_doi": "10.21105/joss.05959",
+ "joss_title": "HW2D: A reference implementation of the Hasegawa-Wakatani model for plasma turbulence in fusion reactors",
+ "joss_published": "2023-12-12T17:53:55.500Z",
+ "software_repository": "https://github.com/the-rccg/hw2d",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Greif\n  given-names: Robin\n  orcid: \"https://orcid.org/0000-0003-4143-780X\"\ndoi: 10.5281/zenodo.10365012\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Greif\n    given-names: Robin\n    orcid: \"https://orcid.org/0000-0003-4143-780X\"\n  date-published: 2023-12-12\n  doi: 10.21105/joss.05959\n  issn: 2475-9066\n  issue: 92\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5959\n  title: \"HW2D: A reference implementation of the Hasegawa-Wakatani\n    model for plasma turbulence in fusion reactors\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05959\"\n  volume: 8\ntitle: \"HW2D: A reference implementation of the Hasegawa-Wakatani model\n  for plasma turbulence in fusion reactors\"\n"
+}

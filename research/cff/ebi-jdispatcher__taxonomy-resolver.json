@@ -1,0 +1,9 @@
+{
+ "repo": "ebi-jdispatcher/taxonomy-resolver",
+ "joss_doi": "10.21105/joss.07604",
+ "joss_title": "Taxonomy Resolver: A Python package for building and filtering taxonomy trees",
+ "joss_published": "2025-02-21T14:16:15.318Z",
+ "software_repository": "https://github.com/ebi-jdispatcher/taxonomy-resolver",
+ "status": 404,
+ "cff": null
+}

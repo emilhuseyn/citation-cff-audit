@@ -1,0 +1,9 @@
+{
+ "repo": "dspelaez/extended-wdm",
+ "joss_doi": "10.21105/joss.07942",
+ "joss_title": "EWDM: A wavelet-based method for estimating directional spectra of ocean waves",
+ "joss_published": "2025-05-02T20:30:10.884Z",
+ "software_repository": "https://github.com/dspelaez/extended-wdm/",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle:\n  EWDM: A wavelet-based method for estimating directional spectra of ocean waves\nmessage: 'If you use this software, please cite it as below.'\ntype: software\nauthors:\n  - family-names: Pel\u00e1ez-Zapata\n    given-names: Daniel\n    orcid: 'https://orcid.org/0000-0001-5862-6194'\n    affiliation: ENS Paris-Saclay\n  - family-names: Dias\n    given-names: Fr\u00e9d\u00e9ric\n    orcid: 'https://orcid.org/0000-0002-5123-4929'\n    affiliation: ENS Paris-Saclay\nidentifiers:\n  - type: doi\n    value: 10.21105/joss.07942\nrepository-code: 'https://github.com/dspelaez/extended-wdm'\nurl: 'https://extended-wdm.readthedocs.io/'\nkeywords:\n  - ocean waves\n  - wavelets\n  - directional wave spectrum\nversion: 1.1\ndate-released: '2025-05-02'\n"
+}

@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.10096",
+ "source": "crossref",
+ "state": "ok",
+ "title": "LowLevelFEM.jl: A lightweight finite element toolbox in Julia",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

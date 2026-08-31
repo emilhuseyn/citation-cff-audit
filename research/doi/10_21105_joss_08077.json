@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.08077",
+ "source": "crossref",
+ "state": "ok",
+ "title": "StateSpaceDynamics.jl: A Julia package for probabilistic state space models (SSMs)",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

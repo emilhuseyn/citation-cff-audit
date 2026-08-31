@@ -1,0 +1,9 @@
+{
+ "repo": "arvestad/alv",
+ "joss_doi": "10.21105/joss.00955",
+ "joss_title": "alv: a console-based viewer for molecular sequence alignments",
+ "joss_published": "2018-11-07T15:14:16.627Z",
+ "software_repository": "https://github.com/arvestad/alv",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Arvestad\n    given-names: Lars\n    orcid: https://orcid.org/0000-0001-5341-1733\ntitle: \"alv: a console-based viewer for molecular sequence alignments\"\nversion: 1.0.5\ndoi: https://doi.org/10.21105/joss.00955\ndate-released: 2018-08-12\n"
+}

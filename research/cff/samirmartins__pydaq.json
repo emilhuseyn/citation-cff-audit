@@ -1,0 +1,9 @@
+{
+ "repo": "samirmartins/pydaq",
+ "joss_doi": "10.21105/joss.05662",
+ "joss_title": "PYDAQ: Data Acquisition and Experimental Analysis with Python",
+ "joss_published": "2023-12-14T17:09:48.206Z",
+ "software_repository": "https://github.com/samirmartins/pydaq",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Martins\n  given-names: Samir Angelo Milani\n  orcid: \"https://orcid.org/0000-0003-1702-8504\"\ncontact:\n- family-names: Martins\n  given-names: Samir Angelo Milani\n  orcid: \"https://orcid.org/0000-0003-1702-8504\"\ndoi: 10.5281/zenodo.10377251\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Martins\n    given-names: Samir Angelo Milani\n    orcid: \"https://orcid.org/0000-0003-1702-8504\"\n  date-published: 2023-12-14\n  doi: 10.21105/joss.05662\n  issn: 2475-9066\n  issue: 92\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5662\n  title: \"PYDAQ: Data Acquisition and Experimental Analysis with Python\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05662\"\n  volume: 8\ntitle: \"PYDAQ: Data Acquisition and Experimental Analysis with Python\"\n"
+}

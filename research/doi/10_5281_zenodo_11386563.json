@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.11386563",
+ "source": "datacite",
+ "state": "ok",
+ "title": "KerrGeoPy: A Python Package for Computing Timelike Geodesics in Kerr Spacetime",
+ "type": "Software",
+ "container": ""
+}

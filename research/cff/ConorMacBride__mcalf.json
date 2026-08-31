@@ -1,0 +1,9 @@
+{
+ "repo": "ConorMacBride/mcalf",
+ "joss_doi": "10.21105/joss.03265",
+ "joss_title": "MCALF: Multi-Component Atmospheric Line Fitting",
+ "joss_published": "2021-05-17T21:13:13.583Z",
+ "software_repository": "https://github.com/ConorMacBride/mcalf",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"MacBride\"\n  given-names: \"Conor D.\"\n  orcid: \"https://orcid.org/0000-0002-9901-8723\"\n- family-names: \"Jess\"\n  given-names: \"David B.\"\n  orcid: \"https://orcid.org/0000-0002-9155-8039\"\ntitle: \"MCALF: Multi-Component Atmospheric Line Fitting\"\nversion: 0.2.1\ndoi: 10.21105/joss.03265\ndate-released: 2021-05-17\nurl: \"https://github.com/ConorMacBride/mcalf\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"MacBride\"\n    given-names: \"Conor D.\"\n    orcid: \"https://orcid.org/0000-0002-9901-8723\"\n  - family-names: \"Jess\"\n    given-names: \"David B.\"\n    orcid: \"https://orcid.org/0000-0002-9155-8039\"\n  doi: \"10.21105/joss.03265\"\n  journal: \"Journal of Open Source Software\"\n  month: 5\n  start: 3265\n  title: \"MCALF: Multi-Component Atmospheric Line Fitting\"\n  issue: 61\n  volume: 6\n  year: 2021\n"
+}

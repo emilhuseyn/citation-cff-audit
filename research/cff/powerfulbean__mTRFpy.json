@@ -1,0 +1,9 @@
+{
+ "repo": "powerfulbean/mTRFpy",
+ "joss_doi": "10.21105/joss.05657",
+ "joss_title": "mTRFpy: A Python package for temporal response function analysis",
+ "joss_published": "2023-09-12T03:11:54.857Z",
+ "software_repository": "https://github.com/powerfulbean/mTRFpy",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Bialas\n  given-names: Ole\n  orcid: \"https://orcid.org/0000-0003-4472-7626\"\n- family-names: Dou\n  given-names: Jin\n  orcid: \"https://orcid.org/0009-0000-0539-5951\"\n- family-names: Lalor\n  given-names: Edmund C.\n  orcid: \"https://orcid.org/0000-0002-2498-6631\"\ncontact:\n- family-names: Bialas\n  given-names: Ole\n  orcid: \"https://orcid.org/0000-0003-4472-7626\"\ndoi: 10.5281/zenodo.8321912\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Bialas\n    given-names: Ole\n    orcid: \"https://orcid.org/0000-0003-4472-7626\"\n  - family-names: Dou\n    given-names: Jin\n    orcid: \"https://orcid.org/0009-0000-0539-5951\"\n  - family-names: Lalor\n    given-names: Edmund C.\n    orcid: \"https://orcid.org/0000-0002-2498-6631\"\n  date-published: 2023-09-12\n  doi: 10.21105/joss.05657\n  issn: 2475-9066\n  issue: 89\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5657\n  title: \"mTRFpy: A Python package for temporal response function\n    analysis\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05657\"\n  volume: 8\ntitle: \"mTRFpy: A Python package for temporal response function\n  analysis\"\n"
+}

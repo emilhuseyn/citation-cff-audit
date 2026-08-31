@@ -1,0 +1,9 @@
+{
+ "repo": "relf/egobox",
+ "joss_doi": "10.21105/joss.04737",
+ "joss_title": "egobox, a Rust toolbox for efficient global optimization",
+ "joss_published": "2022-10-09T08:04:39.149Z",
+ "software_repository": "https://github.com/relf/egobox",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: Please cite the following works when using this software.\ntype: software\nauthors:\n  - family-names: Lafage\n    given-names: R\u00e9mi\n    orcid: https://orcid.org/0000-0001-5479-2961\ndoi: 10.21105/joss.04737\nidentifiers:\n  - type: doi\n    value: 10.21105/joss.04737\n  - type: url\n    value: https://doi.org/10.21105/joss.04737\n  - type: other\n    value: urn:issn:2475-9066\ntitle: |-\n  egobox, a Rust toolbox for efficient global\n  optimization\nurl: https://doi.org/10.21105/joss.04737\npreferred-citation:\n  type: article\n  authors:\n  - family-names: Lafage\n    given-names: R\u00e9mi\n    orcid: https://orcid.org/0000-0001-5479-2961\n  title: \"egobox, a Rust toolbox for efficient global optimization\"\n  journal: \"Journal of Open Source Software\"\n  year: 2022\n  doi: 10.21105/joss.04737\n  url: https://doi.org/10.21105/joss.04737\n  publisher: \"The Open Journal\"\n  volume: 7\n  number: 78\n  pages: 4737\n"
+}

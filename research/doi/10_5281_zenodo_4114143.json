@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.4114143",
+ "source": "datacite",
+ "state": "ok",
+ "title": "Moran Pycess: a Python package to simulate Moran processes driven by game theory",
+ "type": "Software",
+ "container": ""
+}

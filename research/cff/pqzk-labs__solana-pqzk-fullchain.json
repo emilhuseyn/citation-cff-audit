@@ -1,0 +1,9 @@
+{
+ "repo": "pqzk-labs/solana-pqzk-fullchain",
+ "joss_doi": "10.21105/joss.09923",
+ "joss_title": "solana-pqzk-fullchain: Full on-chain verification of ZK-STARK proofs and post-quantum signatures on Solana",
+ "joss_published": "2026-07-18T20:38:46.789Z",
+ "software_repository": "https://github.com/pqzk-labs/solana-pqzk-fullchain",
+ "status": 404,
+ "cff": null
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "currocam/IdentityByDescentDispersal.jl",
+ "joss_doi": "10.21105/joss.09517",
+ "joss_title": "IdentityByDescentDispersal.jl: Inferring dispersal rates with identity-by-descent blocks",
+ "joss_published": "2026-03-15T08:40:24.519Z",
+ "software_repository": "https://github.com/currocam/IdentityByDescentDispersal.jl",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle: IdentityByDescentDispersal.jl v1.0.0\nmessage: >-\n  If you use this software, please cite it using the\n  metadata from this file.\ntype: software\nauthors:\n  - given-names: Francisco\n    family-names: Campuzano Jim\u00e9nez\n    affiliation: 'University of Antwerp, Belgium'\n    orcid: 'https://orcid.org/0000-0001-8285-9318'\n    email: curro.campuzanojimenez@uantwerpen.be\n  - given-names: Arthur\n    family-names: Zwaenepoel\n    affiliation: 'University of Antwerp, Belgium'\n    orcid: 'https://orcid.org/0000-0003-1085-2912'\n  - given-names: 'Els Lea R '\n    family-names: De Keyzer\n    orcid: 'https://orcid.org/0000-0003-0924-0118'\n    affiliation: 'University of Antwerp, Belgium'\n  - given-names: Hannes\n    family-names: Svardal\n    affiliation: >-\n      University of Antwerp, Belgium and Naturalis\n      Biodiversity Center, Leiden, Netherlands\n    orcid: 'https://orcid.org/0000-0001-7866-7313'\nrepository-code: 'https://github.com/currocam/IdentityByDescentDispersal.jl'\nurl: >-\n  https://currocam.github.io/IdentityByDescentDispersal.jl/dev/\nlicense: MIT\nversion: v1.0.0\ndate-released: '2026-02-13'\n"
+}

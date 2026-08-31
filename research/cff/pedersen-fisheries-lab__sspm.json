@@ -1,0 +1,9 @@
+{
+ "repo": "pedersen-fisheries-lab/sspm",
+ "joss_doi": "10.21105/joss.04724",
+ "joss_title": "The sspm R package for spatially-explicit surplus production population models",
+ "joss_published": "2023-06-22T18:20:23.849Z",
+ "software_repository": "https://github.com/pedersen-fisheries-lab/sspm",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Lucet\n  given-names: Valentin\n  orcid: \"https://orcid.org/0000-0003-0268-818X\"\n- family-names: Pedersen\n  given-names: Eric J.\n  orcid: \"https://orcid.org/0000-0003-1016-540X\"\ndoi: 10.5281/zenodo.8015102\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Lucet\n    given-names: Valentin\n    orcid: \"https://orcid.org/0000-0003-0268-818X\"\n  - family-names: Pedersen\n    given-names: Eric J.\n    orcid: \"https://orcid.org/0000-0003-1016-540X\"\n  date-published: 2023-06-22\n  doi: 10.21105/joss.04724\n  issn: 2475-9066\n  issue: 86\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 4724\n  title: The sspm R package for spatially-explicit surplus production\n    population models\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.04724\"\n  volume: 8\ntitle: The sspm R package for spatially-explicit surplus production\n  population models\n"
+}

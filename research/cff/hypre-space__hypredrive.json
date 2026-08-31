@@ -1,0 +1,9 @@
+{
+ "repo": "hypre-space/hypredrive",
+ "joss_doi": "10.21105/joss.06654",
+ "joss_title": "Hypredrive: High-level interface for solving linear systems with hypre",
+ "joss_published": "2024-06-24T16:32:49.545Z",
+ "software_repository": "https://github.com/hypre-space/hypredrive",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Magri\n  given-names: Victor A. P.\n  orcid: \"https://orcid.org/0000-0002-3389-523X\"\ndoi: 10.5281/zenodo.11657386\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Magri\n    given-names: Victor A. P.\n    orcid: \"https://orcid.org/0000-0002-3389-523X\"\n  date-published: 2024-06-24\n  doi: 10.21105/joss.06654\n  issn: 2475-9066\n  issue: 98\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6654\n  title: \"Hypredrive: High-level interface for solving linear systems\n    with hypre\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06654\"\n  volume: 9\ntitle: \"*Hypredrive*: High-level interface for solving linear systems\n  with *hypre*\"\n\n# Raw BibTeX format:\n# @article{Magri2024,\n#   author = {Magri, Victor A. P.},\n#   title = {{Hypredrive: High-level interface for solving linear systems with hypre}},\n#   journal = {Journal of Open Source Software},\n#   volume = {9},\n#   number = {98},\n#   pages = {6654},\n#   year = {2024},\n#   month = jun,\n#   doi = {10.21105/joss.06654},\n#   url = {https://joss.theoj.org/papers/10.21105/joss.06654},\n#   publisher = {Open Journals},\n#   issn = {2475-9066}\n# }"
+}

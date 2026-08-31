@@ -1,0 +1,9 @@
+{
+ "repo": "dshawul/NebulaSEM",
+ "joss_doi": "10.21105/joss.06448",
+ "joss_title": "NebulaSEM: A high-order discontinuous Galerkin spectral element code for atmospheric modeling",
+ "joss_published": "2024-04-30T18:02:39.862Z",
+ "software_repository": "https://github.com/dshawul/NebulaSEM",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Abdi\n  given-names: Daniel S.\n  orcid: \"https://orcid.org/0000-0003-0671-2941\"\ncontact:\n- family-names: Abdi\n  given-names: Daniel S.\n  orcid: \"https://orcid.org/0000-0003-0671-2941\"\ndoi: 10.5281/zenodo.11088210\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Abdi\n    given-names: Daniel S.\n    orcid: \"https://orcid.org/0000-0003-0671-2941\"\n  date-published: 2024-04-30\n  doi: 10.21105/joss.06448\n  issn: 2475-9066\n  issue: 96\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6448\n  title: \"NebulaSEM: A high-order discontinuous Galerkin spectral\n    element code for atmospheric modeling\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06448\"\n  volume: 9\ntitle: \"NebulaSEM: A high-order discontinuous Galerkin spectral element\n  code for atmospheric modeling\"\n\n"
+}

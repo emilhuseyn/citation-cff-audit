@@ -1,0 +1,9 @@
+{
+ "repo": "roliveira/nilt",
+ "joss_doi": "10.21105/joss.10605",
+ "joss_title": "NILT: Numerical Inverse Laplace Transform Methods",
+ "joss_published": "2026-08-10T13:48:01.720Z",
+ "software_repository": "https://github.com/roliveira/nilt",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Oliveira\n  given-names: Rodolfo\n  orcid: \"https://orcid.org/0000-0003-2075-0418\"\ncontact:\n- family-names: Oliveira\n  given-names: Rodolfo\n  orcid: \"https://orcid.org/0000-0003-2075-0418\"\ndoi: 10.5281/zenodo.21479983\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Oliveira\n    given-names: Rodolfo\n    orcid: \"https://orcid.org/0000-0003-2075-0418\"\n  date-published: 2026-08-10\n  doi: 10.21105/joss.10605\n  issn: 2475-9066\n  issue: 124\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 10605\n  title: \"NILT: Numerical Inverse Laplace Transform Methods\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.10605\"\n  volume: 11\ntitle: \"NILT: Numerical Inverse Laplace Transform Methods\"\n"
+}

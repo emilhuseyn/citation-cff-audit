@@ -1,0 +1,9 @@
+{
+ "repo": "camdavidsonpilon/lifelines",
+ "joss_doi": "10.21105/joss.01317",
+ "joss_title": "lifelines: survival analysis in Python",
+ "joss_published": "2019-08-04T17:23:38.970Z",
+ "software_repository": "https://github.com/camdavidsonpilon/lifelines",
+ "status": 200,
+ "cff": "# YAML 1.2\n---\nauthors:\n  -\n    family-names: \"Davidson-Pilon\"\n    given-names: Cameron\n    orcid: \"https://orcid.org/0000-0003-1794-9143\"\ncff-version: \"1.1.0\"\ndoi: \"https://doi.org/10.21105/joss.01317\"\nlicense: MIT\nmessage: \"If you use this software, please cite it using these metadata.\"\nrepository-code: \"https://github.com/camDavidsonPilon/lifelines\"\ntitle: lifelines, survival analysis in Python\n...\n"
+}

@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.07602",
+ "source": "crossref",
+ "state": "ok",
+ "title": "FTorch: a library for coupling PyTorch models to Fortran",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

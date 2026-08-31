@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.10817312",
+ "source": "datacite",
+ "state": "ok",
+ "title": "checkpoint_schedules: schedules for incremental checkpointing of adjoint simulations",
+ "type": "Software",
+ "container": ""
+}

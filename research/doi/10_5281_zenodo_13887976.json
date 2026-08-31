@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.13887976",
+ "source": "datacite",
+ "state": "ok",
+ "title": "Zarrtraj: A Python package for streaming molecular dynamics trajectories from cloud services",
+ "type": "Software",
+ "container": ""
+}

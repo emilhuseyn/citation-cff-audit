@@ -1,0 +1,9 @@
+{
+ "repo": "Luis-Varona/MatrixBandwidth.jl",
+ "joss_doi": "10.21105/joss.09136",
+ "joss_title": "MatrixBandwidth.jl: Fast algorithms for matrix bandwidth minimization and recognition",
+ "joss_published": "2025-12-11T21:10:42.754Z",
+ "software_repository": "https://github.com/Luis-Varona/MatrixBandwidth.jl",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Varona\n  given-names: Luis M. B.\n  orcid: \"https://orcid.org/0009-0003-7784-5415\"\ndoi: 10.5281/zenodo.17872329\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Varona\n    given-names: Luis M. B.\n    orcid: \"https://orcid.org/0009-0003-7784-5415\"\n  date-published: 2025-12-11\n  doi: 10.21105/joss.09136\n  issn: 2475-9066\n  issue: 116\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9136\n  title: \"MatrixBandwidth.jl: Fast algorithms for matrix bandwidth\n    minimization and recognition\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09136\"\n  volume: 10\ntitle: \"MatrixBandwidth.jl: Fast algorithms for matrix bandwidth\n  minimization and recognition\"\n"
+}

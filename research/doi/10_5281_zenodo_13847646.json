@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.13847646",
+ "source": "datacite",
+ "state": "ok",
+ "title": "DelaunayTriangulation.jl: A Julia package for Delaunay triangulations and Voronoi tessellations in the plane",
+ "type": "Software",
+ "container": ""
+}

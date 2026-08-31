@@ -1,0 +1,9 @@
+{
+ "repo": "ByrumLab/proteoDA",
+ "joss_doi": "10.21105/joss.05184",
+ "joss_title": "proteoDA: a package for quantitative proteomics",
+ "joss_published": "2023-05-30T10:10:11.089Z",
+ "software_repository": "https://github.com/ByrumLab/proteoDA",
+ "status": 200,
+ "cff": "proteoDA-version: 1.0.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Timothy J.\n    given-names: Thurman\n    orcid: https://orcid.org/0000-0002-9602-6226\n    - family-names: Charity L.\n    given-names: Washam\n    orcid: https://orcid.org/0000-0001-5761-9304\n    - family-names: Duah\n    given-names: Alkam\n    orcid: https://orcid.org/0000-0002-5965-7694\n    - family-names: Jordan T.\n    given-names: Bird\n    orcid: https://orcid.org/0000-0001-5753-6058\n    - family-names: Allen \n    given-names: Gies\n    orcid: https://orcid.org/0000-0003-2492-0429\n    - family-names: Kalyani\n    given-names: Dhusia\n    orcid: https://orcid.org/0000-0002-8803-1295\n    - family-names: Michael S. \n    given-names: Robeson, II\n    orcid: https://orcid.org/0000-0001-7119-6301\n    - family-names: Stephanie D.\n    given-names: Byrum\n    orcid: https://orcid.org/0000-0002-1783-3610\ntitle: proteoDA: a package for quantitative proteomics\nversion: 1.0.0\ndate-released: 2023-05-23\ndoi: 10.5281/zenodo.7962306\nurl: \"https://doi.org/10.5281/zenodo.7962306\"\n"
+}

@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.jsonlite",
+ "source": "crossref",
+ "state": "ok",
+ "title": "jsonlite: A Simple and Robust JSON Parser and Generator for R",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

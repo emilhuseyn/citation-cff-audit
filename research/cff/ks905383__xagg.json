@@ -1,0 +1,9 @@
+{
+ "repo": "ks905383/xagg",
+ "joss_doi": "10.21105/joss.07239",
+ "joss_title": "xagg: A Python package to aggregate gridded data onto polygons",
+ "joss_published": "2024-12-31T17:57:04.805Z",
+ "software_repository": "https://github.com/ks905383/xagg/",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Schwarzwald\n  given-names: Kevin\n  orcid: \"https://orcid.org/0000-0001-8309-7124\"\n- family-names: Geil\n  given-names: Kerrie\ncontact:\n- family-names: Schwarzwald\n  given-names: Kevin\n  orcid: \"https://orcid.org/0000-0001-8309-7124\"\ndoi: 10.5281/zenodo.13884871\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Schwarzwald\n    given-names: Kevin\n    orcid: \"https://orcid.org/0000-0001-8309-7124\"\n  - family-names: Geil\n    given-names: Kerrie\n  date-published: 2024-12-31\n  doi: 10.21105/joss.07239\n  issn: 2475-9066\n  issue: 104\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7239\n  title: \"xagg: A Python package to aggregate gridded data onto\n    polygons\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07239\"\n  volume: 9\ntitle: \"xagg: A Python package to aggregate gridded data onto polygons\"\n"
+}

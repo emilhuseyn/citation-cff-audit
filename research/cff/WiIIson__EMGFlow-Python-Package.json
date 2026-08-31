@@ -1,0 +1,9 @@
+{
+ "repo": "WiIIson/EMGFlow-Python-Package",
+ "joss_doi": "10.21105/joss.07696",
+ "joss_title": "EMGFlow: A Python package for preprocessing and feature extraction of electromyographic signals",
+ "joss_published": "2026-03-30T18:24:47.527Z",
+ "software_repository": "https://github.com/WiIIson/EMGFlow-Python-Package",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Conley\n  given-names: William L.\n  orcid: \"https://orcid.org/0009-0001-7454-1286\"\n- family-names: Livingstone\n  given-names: Steven R.\n  orcid: \"https://orcid.org/0000-0002-6364-6410\"\ncontact:\n- family-names: Conley\n  given-names: William L.\n  orcid: \"https://orcid.org/0009-0001-7454-1286\"\ndoi: 10.5281/zenodo.18748950\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Conley\n    given-names: William L.\n    orcid: \"https://orcid.org/0009-0001-7454-1286\"\n  - family-names: Livingstone\n    given-names: Steven R.\n    orcid: \"https://orcid.org/0000-0002-6364-6410\"\n  date-published: 2026-03-30\n  doi: 10.21105/joss.07696\n  issn: 2475-9066\n  issue: 119\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7696\n  title: \"EMGFlow: A Python package for preprocessing and feature\n    extraction of electromyographic signals\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07696\"\n  volume: 11\ntitle: \"EMGFlow: A Python package for preprocessing and feature\n  extraction of electromyographic signals\"\n"
+}

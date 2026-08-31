@@ -1,0 +1,9 @@
+{
+ "repo": "ropensci/osmapiR",
+ "joss_doi": "10.21105/joss.07151",
+ "joss_title": "osmapiR: An 'OpenStreetMap API' implementation for R",
+ "joss_published": "2024-09-04T13:21:42.676Z",
+ "software_repository": "https://github.com/ropensci/osmapiR",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Maspons\n  given-names: Joan\n  orcid: \"https://orcid.org/0000-0003-2286-8727\"\ndoi: 10.32614/CRAN.package.osmapiR\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Maspons\n    given-names: Joan\n    orcid: \"https://orcid.org/0000-0003-2286-8727\"\n  date-published: 2024-09-04\n  doi: 10.21105/joss.07151\n  issn: 2475-9066\n  issue: 101\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7151\n  title: \"osmapiR: An 'OpenStreetMap API' implementation for R\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07151\"\n  volume: 9\ntitle: \"osmapiR: An 'OpenStreetMap API' implementation for R\"\n"
+}

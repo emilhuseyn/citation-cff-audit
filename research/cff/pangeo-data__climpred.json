@@ -1,0 +1,9 @@
+{
+ "repo": "pangeo-data/climpred",
+ "joss_doi": "10.21105/joss.02781",
+ "joss_title": "climpred: Verification of weather and climate forecasts",
+ "joss_published": "2021-03-02T15:39:33.670Z",
+ "software_repository": "https://www.github.com/pangeo-data/climpred",
+ "status": 200,
+ "cff": "# YAML 1.2\n# Metadata for citation of this software according to the CFF format (https://citation-file-format.github.io/)\ncff-version: 1.2.0\nmessage: If you use this software, please cite it using these metadata.\n# FIXME title as repository name might not be the best name, please make human readable\ntitle: 'climpred: Verification of weather and climate forecasts'\ndoi: 10.5281/zenodo.4556085\n# FIXME splitting of full names is error prone, please check if given/family name are correct\nauthors:\n- given-names: Riley\n  family-names: Brady\n  affiliation: McKinsey & Company\n  orcid: https://orcid.org/0000-0002-2309-8245\n- given-names: Aaron\n  family-names: Spring\n  affiliation: Max-Planck-Institute for Meteorology\n  orcid: https://orcid.org/0000-0003-0216-2241\n- given-names: Andrew\n  family-names: Huang\n- given-names: Anderson\n  family-names: Banihirwe\n  affiliation: '@NCAR'\n- given-names: Ray\n  family-names: Bell\n  affiliation: DTN\nurl: https://github.com/pangeo-data/climpred\nlicense: MIT\npreferred-citation:\n  type: article\n  authors:\n  - given-names: Riley\n    family-names: Brady\n    affiliation: McKinsey & Company\n    orcid: https://orcid.org/0000-0002-2309-8245\n  - given-names: Aaron\n    family-names: Spring\n    affiliation: Max-Planck-Institute for Meteorology\n    orcid: https://orcid.org/0000-0003-0216-2241\n  doi: 10.21105/joss.02781\n  journal: \"Journal of Open Research Software\"\n  day: 2\n  month: 3\n  year: 2021\n  title: \"climpred: Verification of weather and climate forecasts\"\n  volume: 6\n  issue: 59\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "erlingdevold/EchoFlow",
+ "joss_doi": "10.21105/joss.09240",
+ "joss_title": "EchoFlow: End-to-end self-supervised sonar-image pipeline",
+ "joss_published": "2026-04-21T13:43:45.227Z",
+ "software_repository": "https://github.com/erlingdevold/EchoFlow",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Devold\n  given-names: Erling\n  orcid: \"https://orcid.org/0009-0000-0949-5992\"\ndoi: 10.5281/zenodo.19534258\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Devold\n    given-names: Erling\n    orcid: \"https://orcid.org/0009-0000-0949-5992\"\n  date-published: 2026-04-21\n  doi: 10.21105/joss.09240\n  issn: 2475-9066\n  issue: 120\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9240\n  title: \"EchoFlow: End-to-end self-supervised sonar-image pipeline\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09240\"\n  volume: 11\ntitle: \"EchoFlow: End-to-end self-supervised sonar-image pipeline\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "JGCRI/hectorui",
+ "joss_doi": "10.21105/joss.02782",
+ "joss_title": "hectorui: A web-based interactive scenario builder and visualization application for the Hector climate model",
+ "joss_published": "2020-12-11T19:55:50.148Z",
+ "software_repository": "https://github.com/JGCRI/hectorui/",
+ "status": 200,
+ "cff": "# This CITATION.cff file was generated with cffinit.\n# Visit https://bit.ly/cffinit to generate yours today!\n\ncff-version: 1.2.0\ntitle: HectorUI\nmessage: >-\n  If you use this software, please cite it using the\n  metadata from this file.\ntype: software\nauthors:\n  - family-names: Pennington\n    given-names: Stephanie\n    email: stephanie.pennington@pnnl.gov\n    affiliation: Pacific Northwest National Laboratory\n    orcid: 'https://orcid.org/0000-0003-2685-1092'\n  - given-names: Chris R\n    family-names: Vernon\n    email: Chris.Vernon@pnnl.gov\n    affiliation: Pacific Northwest National Laboratory\n    orcid: 'https://orcid.org/0000-0002-3406-6214'\nidentifiers:\n  - type: doi\n    value: 10.5281/zenodo.3603215\nlicense: GPL-3.0\nversion: '2.0'\ndate-released: '2022-04-01'\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "kinnala/scikit-fem",
+ "joss_doi": "10.21105/joss.02369",
+ "joss_title": "scikit-fem: A Python package for finite element assembly",
+ "joss_published": "2020-08-21T10:28:01.667Z",
+ "software_repository": "https://github.com/kinnala/scikit-fem",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: If you use this software, please cite it as below.\nauthors:\n  - family-names: Gustafsson\n    given-names: Tom\n    orcid: 0000-0003-1611-5032\n  - family-names: McBain\n    given-names: G. D.\n    orcid: 0000-0002-1904-122X\ntitle: scikit-fem\nlicense: BSD-3-Clause\nurl: https://github.com/kinnala/scikit-fem\npreferred-citation:\n  type: article\n  authors:\n  - family-names: Gustafsson\n    given-names: Tom\n    orcid: 0000-0003-1611-5032\n  - family-names: McBain\n    given-names: G. D.\n    orcid: 0000-0002-1904-122X\n  doi: 10.21105/joss.02369\n  journal: Journal of Open Source Software\n  title: \"scikit-fem: A Python package for finite element assembly\"\n  volume: 5\n  issue: 52\n  start: 2369\n  year: 2020"
+}

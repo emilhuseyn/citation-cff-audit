@@ -1,0 +1,9 @@
+{
+ "repo": "konradhoeffner/hdt",
+ "joss_doi": "10.21105/joss.05114",
+ "joss_title": "hdt-rs: A Rust library for the Header Dictionary Triples binary RDF compression format",
+ "joss_published": "2023-04-29T07:05:40.263Z",
+ "software_repository": "https://github.com/konradhoeffner/hdt",
+ "status": 200,
+ "cff": "---\ncff-version: 1.2.0\ntitle: \"hdt-rs: A Rust library for the Header Dictionary Triples binary RDF compression format\"\nmessage: If you use this software, please cite our article in the Journal of Open Source Software.\ntype: software\nauthors:\n  - given-names: Konrad\n    family-names: H\u00f6ffner\n    email: konrad.hoeffner@uni-leipzig.de\n    affiliation: Institute for Medical Informatics, Statistics and Epidemiology (IMISE), Leipzig, Germany\n    orcid: https://orcid.org/0000-0001-7358-3217\n  - given-names: Tim\n    family-names: Baccaert\n    affiliation: Independent Researcher, Belgium\n  - given-names: Greg\n    family-names: Hanson\n    affiliation: DeciSym\nrepository-code: 'https://github.com/konradhoeffner/hdt'\nurl: 'https://crates.io/crates/hdt'\nkeywords:\n  - RDF\n  - HDT\n  - Rust\nlicense: MIT\npreferred-citation:\n  type: article\n  authors:\n    - family-names: H\u00f6ffner\n      given-names: Konrad\n      orcid: https://orcid.org/0000-0001-7358-3217\n    - family-names: Baccaert\n      given-names: Tim\n  date-published: 2023-04-29\n  doi: 10.21105/joss.05114\n  issn: 2475-9066\n  issue: 84\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5114\n  title: \"hdt-rs: A Rust library for the Header Dictionary Triples binary RDF compression format\"\n  url: https://joss.theoj.org/papers/10.21105/joss.05114\n  volume: 8\n"
+}

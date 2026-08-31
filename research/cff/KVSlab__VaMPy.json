@@ -1,0 +1,9 @@
+{
+ "repo": "KVSlab/VaMPy",
+ "joss_doi": "10.21105/joss.05278",
+ "joss_title": "VaMPy: An Automated and Objective Pipeline for Modeling Vascular Geometries",
+ "joss_published": "2023-05-19T14:59:08.114Z",
+ "software_repository": "https://github.com/KVSlab/VaMPy",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Kjeldsberg\n  given-names: Henrik A.\n  orcid: \"https://orcid.org/0000-0002-7764-4248\"\n- family-names: Bergersen\n  given-names: Aslak W.\n  orcid: \"https://orcid.org/0000-0001-5063-3680\"\n- family-names: Valen-Sendstad\n  given-names: Kristian\n  orcid: \"https://orcid.org/0000-0002-2907-0171\"\ndoi: 10.5281/zenodo.7950605\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Kjeldsberg\n    given-names: Henrik A.\n    orcid: \"https://orcid.org/0000-0002-7764-4248\"\n  - family-names: Bergersen\n    given-names: Aslak W.\n    orcid: \"https://orcid.org/0000-0001-5063-3680\"\n  - family-names: Valen-Sendstad\n    given-names: Kristian\n    orcid: \"https://orcid.org/0000-0002-2907-0171\"\n  date-published: 2023-05-19\n  doi: 10.21105/joss.05278\n  issn: 2475-9066\n  issue: 85\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5278\n  title: \"VaMPy: An Automated and Objective Pipeline for Modeling\n    Vascular Geometries\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05278\"\n  volume: 8\ntitle: \"VaMPy: An Automated and Objective Pipeline for Modeling Vascular\n  Geometries\""
+}

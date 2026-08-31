@@ -1,0 +1,9 @@
+{
+ "repo": "DavidLapous/multipers",
+ "joss_doi": "10.21105/joss.06773",
+ "joss_title": "multipers: Multiparameter Persistence for Machine Learning",
+ "joss_published": "2024-11-14T00:01:09.323Z",
+ "software_repository": "https://github.com/DavidLapous/multipers",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Loiseaux\n  given-names: David\n- family-names: Schreiber\n  given-names: Hannah\ndoi: 10.5281/zenodo.14042221\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Loiseaux\n    given-names: David\n  - family-names: Schreiber\n    given-names: Hannah\n  date-published: 2024-11-13\n  doi: 10.21105/joss.06773\n  issn: 2475-9066\n  issue: 103\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6773\n  title: \"multipers: Multiparameter Persistence for Machine Learning\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06773\"\n  volume: 9\ntitle: \"multipers: Multiparameter Persistence for Machine Learning\"\n"
+}

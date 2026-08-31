@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.15110142",
+ "source": "datacite",
+ "state": "ok",
+ "title": "pangeo-fish: A Python package for studying fish movement using biologging and earth science data",
+ "type": "Software",
+ "container": ""
+}

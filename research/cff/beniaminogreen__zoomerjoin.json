@@ -1,0 +1,9 @@
+{
+ "repo": "beniaminogreen/zoomerjoin",
+ "joss_doi": "10.21105/joss.05693",
+ "joss_title": "Zoomerjoin: Superlatively-Fast Fuzzy Joins",
+ "joss_published": "2023-09-26T15:11:35.440Z",
+ "software_repository": "https://github.com/beniaminogreen/zoomerjoin",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Green\n  given-names: Beniamino\n  orcid: \"https://orcid.org/0009-0006-4501-597X\"\ncontact:\n- family-names: Green\n  given-names: Beniamino\n  orcid: \"https://orcid.org/0009-0006-4501-597X\"\ndoi: 10.5281/zenodo.8370652\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Green\n    given-names: Beniamino\n    orcid: \"https://orcid.org/0009-0006-4501-597X\"\n  date-published: 2023-09-26\n  doi: 10.21105/joss.05693\n  issn: 2475-9066\n  issue: 89\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5693\n  title: \"Zoomerjoin: Superlatively-Fast Fuzzy Joins\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05693\"\n  volume: 8\ntitle: \"Zoomerjoin: Superlatively-Fast Fuzzy Joins\"\n"
+}

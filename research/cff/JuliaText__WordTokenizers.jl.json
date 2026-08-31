@@ -1,0 +1,9 @@
+{
+ "repo": "JuliaText/WordTokenizers.jl",
+ "joss_doi": "10.21105/joss.01956",
+ "joss_title": "WordTokenizers.jl: Basic tools for tokenizing natural language in Julia",
+ "joss_published": "2020-02-19T16:56:09.759Z",
+ "software_repository": "https://github.com/JuliaText/WordTokenizers.jl/",
+ "status": 404,
+ "cff": null
+}

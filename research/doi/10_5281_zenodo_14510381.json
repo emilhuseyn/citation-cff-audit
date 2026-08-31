@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.14510381",
+ "source": "datacite",
+ "state": "ok",
+ "title": "CurvilinearGrids.jl: A Julia package for curvilinear coordinate transformations",
+ "type": "Software",
+ "container": ""
+}

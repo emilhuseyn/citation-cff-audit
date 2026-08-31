@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.fastglm",
+ "source": "crossref",
+ "state": "ok",
+ "title": "fastglm: Fast and Stable Fitting of Generalized Linear Models using 'RcppEigen'",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

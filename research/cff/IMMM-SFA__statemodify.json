@@ -1,0 +1,9 @@
+{
+ "repo": "IMMM-SFA/statemodify",
+ "joss_doi": "10.21105/joss.06325",
+ "joss_title": "statemodify: a Python framework to facilitate accessible exploratory modeling for discovering drought vulnerabilities",
+ "joss_published": "2024-04-25T13:48:25.155Z",
+ "software_repository": "https://github.com/IMMM-SFA/statemodify",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software in your work, please cite it as below.\"\nauthors:\n- family-names: \"Gupta\"\n  given-names: \"Rohini S.\"\n  orcid: \"https://orcid.org/0000-0003-3538-0675\"\n- family-names: \"Vernon\"\n  given-names: \"Chris R.\"\n  orcid: \"https://orcid.org/0000-0002-3406-6214\"\n- family-names: \"Thurber\"\n  given-names: \"Travis B.\"\n  orcid: \"https://orcid.org/0000-0002-4370-9971\"\n- family-names: \"Gold\"\n  given-names: \"David F.\"\n  orcid: \"https://orcid.org/0000-0002-0854-1819\"\n- family-names: \"Hirsch\"\n  given-names: \"Zachary M.\"\n- family-names: \"Hadjimichael\"\n  given-names: \"Antonia\"\n  orcid: \"https://orcid.org/0000-0001-7330-6834\"\n- family-names: \"Reed\"\n  given-names: \"Patrick M. Reed\"\n  orcid: \"https://orcid.org/0000-0002-7963-6102\"\ntitle: \"statemodify: a Python framework to facilitate accessible exploratory modeling for discovering drought vulnerabilities in Colorado\u2019s West Slope river basins\"\ndoi: 10.5281/zenodo.10258007\nurl: \"https://github.com/IMMM-SFA/statemodify\"\n"
+}

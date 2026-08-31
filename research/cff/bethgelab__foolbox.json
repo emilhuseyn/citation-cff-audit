@@ -1,0 +1,9 @@
+{
+ "repo": "bethgelab/foolbox",
+ "joss_doi": "10.21105/joss.02607",
+ "joss_title": "Foolbox Native: Fast adversarial attacks to benchmark the robustness of machine learning models in PyTorch, TensorFlow, and JAX",
+ "joss_published": "2020-09-27T10:49:02.673Z",
+ "software_repository": "https://github.com/bethgelab/foolbox",
+ "status": 404,
+ "cff": null
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "nichollsh/AGNI",
+ "joss_doi": "10.21105/joss.07726",
+ "joss_title": "AGNI: A radiative-convective model for lava planet atmospheres",
+ "joss_published": "2025-05-30T07:37:15.361Z",
+ "software_repository": "https://github.com/nichollsh/AGNI",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Nicholls\"\n  given-names: \"Harrison\"\n  affiliation: \"University of Cambridge\"\n  orcid: \"https://orcid.org/0000-0002-8368-4641\"\n\ntitle: \"AGNI: An open-source model for extreme atmospheres on rocky exoplanets\"\ndoi: 10.21105/joss.07726\ndate-released: 2025-11-20\n\nversion: 1.12.1\nurl: \"https://github.com/nichollsh/AGNI\"\ntype: software\nlicense: \"Apache-2.0\"\n\nkeywords:\n- exoplanets\n- radiation\n- astronomy\n- atmosphere\n- optimization\n- julia\n- fortran\n- convection\n- chemistry\n- magma\n- planetary\n- physics\n\n"
+}

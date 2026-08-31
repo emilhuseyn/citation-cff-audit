@@ -1,0 +1,9 @@
+{
+ "repo": "vsoch/citelang",
+ "joss_doi": "10.21105/joss.04458",
+ "joss_title": "CiteLang: Modeling the Research Software Ecosystem",
+ "joss_published": "2022-09-05T10:09:46.101Z",
+ "software_repository": "https://github.com/vsoch/citelang",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Sochat\n    given-names: Vanessa\n    orcid: https://orcid.org/0000-0002-4387-3819\ntitle: \"CiteLang: Modeling the Research Software Ecosystem\"\nversion: 0.0.33\ndoi: 10.21105/joss.04458\ndate-released: 2022-09-04\n"
+}

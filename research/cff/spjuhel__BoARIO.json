@@ -1,0 +1,9 @@
+{
+ "repo": "spjuhel/BoARIO",
+ "joss_doi": "10.21105/joss.06547",
+ "joss_title": "BoARIO: A Python package implementing the ARIO indirect economic cost model",
+ "joss_published": "2024-06-11T19:02:21.068Z",
+ "software_repository": "https://github.com/spjuhel/BoARIO",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Juhel\"\n  given-names: \"Samuel\"\n  orcid: \"https://orcid.org/0000-0001-8801-3890\"\ntitle: \"BoARIO\"\nversion: 0.5.10\ndoi: 10.5281/zenodo.11580697\ndate-released: 2024-06-11\nurl: \"https://github.com/spjuhel/BoARIO\"\n"
+}

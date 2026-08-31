@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.15830735",
+ "source": "datacite",
+ "state": "ok",
+ "title": "ConleyDynamics.jl: A Julia package for multivector dynamics on Lefschetz complexes",
+ "type": "Software",
+ "container": ""
+}

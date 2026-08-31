@@ -1,0 +1,9 @@
+{
+ "repo": "JuliaDynamics/DynamicalBilliards.jl",
+ "joss_doi": "10.21105/joss.00458",
+ "joss_title": "DynamicalBilliards.jl: An easy-to-use, modular and extendable Julia package for Dynamical Billiard systems in two dimensions.",
+ "joss_published": "2017-11-19T00:00:00.000Z",
+ "software_repository": "https://github.com/JuliaDynamics/DynamicalBilliards.jl",
+ "status": 404,
+ "cff": null
+}

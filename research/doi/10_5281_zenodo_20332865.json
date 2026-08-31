@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.20332865",
+ "source": "datacite",
+ "state": "ok",
+ "title": "scpviz: A Python bioinformatics toolkit for Single-cell Proteomics and multi-omics analysis",
+ "type": "Software",
+ "container": ""
+}

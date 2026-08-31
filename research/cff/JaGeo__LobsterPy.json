@@ -1,0 +1,9 @@
+{
+ "repo": "JaGeo/LobsterPy",
+ "joss_doi": "10.21105/joss.06286",
+ "joss_title": "LobsterPy: A package to automatically analyze LOBSTER runs",
+ "joss_published": "2024-02-27T22:28:57.806Z",
+ "software_repository": "https://github.com/JaGeo/LobsterPy",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Naik\n  given-names: Aakash Ashok\n  orcid: \"https://orcid.org/0000-0002-6071-6786\"\n- family-names: Ueltzen\n  given-names: Katharina\n  orcid: \"https://orcid.org/0009-0003-2967-1182\"\n- family-names: Ertural\n  given-names: Christina\n  orcid: \"https://orcid.org/0000-0002-7696-5824\"\n- family-names: Jackson\n  given-names: Adam J.\n  orcid: \"https://orcid.org/0000-0001-5272-6530\"\n- family-names: George\n  given-names: Janine\n  orcid: \"https://orcid.org/0000-0001-8907-0336\"\ndoi: 10.5281/zenodo.10713348\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Naik\n    given-names: Aakash Ashok\n    orcid: \"https://orcid.org/0000-0002-6071-6786\"\n  - family-names: Ueltzen\n    given-names: Katharina\n    orcid: \"https://orcid.org/0009-0003-2967-1182\"\n  - family-names: Ertural\n    given-names: Christina\n    orcid: \"https://orcid.org/0000-0002-7696-5824\"\n  - family-names: Jackson\n    given-names: Adam J.\n    orcid: \"https://orcid.org/0000-0001-5272-6530\"\n  - family-names: George\n    given-names: Janine\n    orcid: \"https://orcid.org/0000-0001-8907-0336\"\n  date-published: 2024-02-27\n  doi: 10.21105/joss.06286\n  issn: 2475-9066\n  issue: 94\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6286\n  title: \"LobsterPy: A package to automatically analyze LOBSTER runs\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06286\"\n  volume: 9\ntitle: \"LobsterPy: A package to automatically analyze LOBSTER runs\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "gboeing/osmnx",
+ "joss_doi": "10.21105/joss.00215",
+ "joss_title": "OSMnx: A Python package to work with graph-theoretic OpenStreetMap street networks",
+ "joss_published": "2017-04-24T00:00:00.000Z",
+ "software_repository": "https://github.com/gboeing/osmnx/",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle: OSMnx\nmessage: If you use OSMnx, please cite the preferred-citation below.\ntype: software\nauthors:\n  - family-names: Boeing\n    given-names: Geoff\n    orcid: https://orcid.org/0000-0003-1851-6411\nidentifiers:\n  - type: doi\n    value: 10.1111/gean.70009\n    description: Official reference paper\nrepository-code: https://github.com/gboeing/osmnx\nurl: https://osmnx.readthedocs.org\nabstract: >-\n  OSMnx is a Python package to easily download, model, analyze, and visualize\n  street networks and other geospatial features from OpenStreetMap.\nlicense: MIT\npreferred-citation:\n  type: article\n  authors:\n    - family-names: Boeing\n      given-names: Geoff\n      orcid: https://orcid.org/0000-0003-1851-6411\n  year: 2025\n  title: Modeling and Analyzing Urban Networks and Amenities with OSMnx\n  journal: Geographical Analysis\n  volume: 57\n  issue: 4\n  start: 567\n  end: 577\n  doi: 10.1111/gean.70009\n"
+}

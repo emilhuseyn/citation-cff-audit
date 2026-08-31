@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.8419023",
+ "source": "datacite",
+ "state": "ok",
+ "title": "BayesO: A Bayesian optimization framework in Python",
+ "type": "Software",
+ "container": ""
+}

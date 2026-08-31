@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.17193688",
+ "source": "datacite",
+ "state": "ok",
+ "title": "The PHITS Tools Python package for parsing, organizing, and analyzing results from the PHITS radiation transport and DCHAIN activation codes",
+ "type": "Software",
+ "container": ""
+}

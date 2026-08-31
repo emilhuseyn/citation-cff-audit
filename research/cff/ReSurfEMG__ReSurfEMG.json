@@ -1,0 +1,9 @@
+{
+ "repo": "ReSurfEMG/ReSurfEMG",
+ "joss_doi": "10.21105/joss.05251",
+ "joss_title": "ReSurfEMG: A Python library for preprocessing and analysis of respiratory EMG.",
+ "joss_published": "2023-10-23T09:57:37.543Z",
+ "software_repository": "https://github.com/ReSurfEMG/ReSurfEMG",
+ "status": 200,
+ "cff": "cff-version: 1.1.1\ntitle: ReSurfEMG\nmessage: \"Please cite as below, if you use this software \"\ntype: software\nauthors:\n  -\n    affiliation: \"University Health Network\"\n    affiliation: \"University of Twente\"\n    family-names: Warnaar\n    given-names: Robertus (Rob) Simon Petrus\n    orcid: \"https://orcid.org/0000-0001-9443-4069\"\n  -\n    affiliation: \"Netherlands eScience Center\"\n    family-names: Moore\n    given-names: Candace Makeda\n    orcid: \"https://orcid.org/0000-0003-1672-7565\"\n  -\n    affiliation: \"Netherlands eScience Center\"\n    family-names: Baccinelli\n    given-names: Walter\n    orcid: \"https://orcid.org/0000-0001-8888-4792\"\n  -\n    affiliation: \"Bright Computing/NVIDIA\"\n    family-names: Sivokon\n    given-names: Oleg \n  -\n    affiliation: \"University of Twente\"\n    family-names: Soleimani\n    given-names: Farnaz\n    orcid: \"https://orcid.org/0009-0003-3300-506X\"\n  -\n    affiliation: \"University of Twente\"\n    family-names: Geraats\n    given-names: Stijn\n  -\n    affiliation: \"University of Twente\"\n    family-names: Maninetti\n    given-names: Chiara\n    orcid: \"https://orcid.org/0009-0008-9817-3407\"\n  -\n    affiliation: \"University of Twente\"\n    family-names: Oppersma\n    given-names: Eline\n    orcid: \"https://orcid.org/0000-0002-0150-306X\"\n\nrepository-code: 'https://github.com/resurfemg-org/ReSurfEMG'\nrepository-artifact: 'https://pypi.org/project/resurfemg/'\n\nkeywords:\n  - electromyography\n  - EMG\n  - respiratory\n  - Python\n  - surface EMG\n  - sEAdi\nlicense: Apache-2.0\nversion: \"1.1.1\"\ndate-released: 05/08/2026\n"
+}

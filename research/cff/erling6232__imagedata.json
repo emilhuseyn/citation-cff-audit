@@ -1,0 +1,9 @@
+{
+ "repo": "erling6232/imagedata",
+ "joss_doi": "10.21105/joss.04133",
+ "joss_title": "Imagedata: A Python library to handle medical image data in NumPy array subclass Series",
+ "joss_published": "2022-05-25T14:44:56.698Z",
+ "software_repository": "https://github.com/erling6232/imagedata",
+ "status": 404,
+ "cff": null
+}

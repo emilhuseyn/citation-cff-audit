@@ -1,0 +1,9 @@
+{
+ "repo": "MALES-project/SpeckleCn2Profiler",
+ "joss_doi": "10.21105/joss.09127",
+ "joss_title": "Speckle Cn2 Profiler: Improving Satellite Communications with Machine Learning",
+ "joss_published": "2025-10-15T15:03:51.173Z",
+ "software_repository": "https://github.com/MALES-project/SpeckleCn2Profiler.git",
+ "status": 200,
+ "cff": "# This CITATION.cff file was generated with cffinit.\n# Visit https://bit.ly/cffinit to generate yours today!\n\ncff-version: 1.2.0\ntitle: \"Speckle Cn2 Profiler: Improving Satellite Communications with Machine Learning\"\nmessage: >-\n  If you use this software, please cite it using the\n  metadata from this file.\ntype: software\nauthors:\n  - given-names: Simone\n    family-names: Ciarella\n    email: s.ciarella@esciencecenter.nl\n    affiliation: Netherlands eScience Center\n    orcid: 'https://orcid.org/0000-0002-9247-139X'\n  - given-names: Luisa\n    family-names: Orozco\n    email: l.orozco@esciencecenter.nl\n    orcid: 'https://orcid.org/0000-0002-9153-650X'\n    affiliation: Netherlands eScience Center\n  - given-names: Victor\n    family-names: Azizi\n    affiliation: Netherlands eScience Center\n    orcid: 'https://orcid.org/0000-0003-3535-8320'\n  - given-names: Marguerite\n    family-names: Arvis\n    email: m.arvis@tudelft.nl\n    orcid: 'https://orcid.org/0009-0006-7409-3985'\n    affiliation: Delft University of Technology\n  - given-names: Rudolf\n    family-names: Saathof\n    email: r.saathof@tudelft.nl\n    orcid: 'https://orcid.org/0000-0003-0368-0139'\n    affiliation: Delft University of Technology\nrepository-code: 'https://github.com/MALES-project/SpeckleCn2Profiler'\nurl: 'https://speckcn2.readthedocs.io'\nabstract: >-\n  Estimate Cn2 from Speckle patterns using machine learning\nkeywords:\n  - machine learning\n  - equivariant cnn\n  - optical satelites\n  - turbulence\n  - laser communication\nlicense: Apache-2.0\nversion: 1.0.0\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "SCECcode/pycsep",
+ "joss_doi": "10.21105/joss.03658",
+ "joss_title": "pyCSEP: A Python Toolkit For Earthquake Forecast Developers",
+ "joss_published": "2022-01-29T00:23:24.168Z",
+ "software_repository": "https://github.com/SCECcode/pycsep",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Savran\n    given-names: William H.\n    orcid: 0000-0001-5404-0778\n  - family-names: Werner\n    given-names: Maximilian J.\n    orcid: 0000-0002-2430-2631\n  - family-names: Schorlemmer\n    given-names: Danijel \n    orcid: 0000-0003-3969-1059\n  - family-names: Maechling\n    given-names: Philip J.\n    orcid: 0000-0002-9221-7068\ntitle: \"pyCSEP - Tools for Earthquake Forecast Developers\"\nversion: 0.8.0\nrepository: https://github.com/SCECcode/pycsep\ndate-released: 2021-04-20 \n"
+}

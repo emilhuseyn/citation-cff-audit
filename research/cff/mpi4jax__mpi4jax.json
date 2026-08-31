@@ -1,0 +1,9 @@
+{
+ "repo": "mpi4jax/mpi4jax",
+ "joss_doi": "10.21105/joss.03419",
+ "joss_title": "mpi4jax: Zero-copy MPI communication of JAX arrays",
+ "joss_published": "2021-09-01T13:37:15.611Z",
+ "software_repository": "https://github.com/mpi4jax/mpi4jax",
+ "status": 200,
+ "cff": "authors:\n  - family-names: Vicentini\n    given-names: Filippo\n  - family-names: H\u00e4fner\n    given-names: Dion\ncff-version: 1.2.0\nmessage: \"If you use this software, please cite the article from preferred-citation.\"\ntitle: mpi4jax\nurl: \"https://github.com/mpi4jax/mpi4jax\"\npreferred-citation:\n  type: article\n  title: \"mpi4jax: Zero-copy MPI communication of JAX arrays\"\n  authors:\n    - family-names: H\u00e4fner\n      given-names: Dion\n    - family-names: Vicentini\n      given-names: Filippo\n  year: 2021\n  journal: \"Journal of Open Source Software\"\n  volume: 6\n  issue: 65\n  pages: \"3419\"\n  doi: \"10.21105/joss.03419\"\n  url: \"https://doi.org/10.21105/joss.03419\"\n"
+}

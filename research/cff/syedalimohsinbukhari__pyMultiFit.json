@@ -1,0 +1,9 @@
+{
+ "repo": "syedalimohsinbukhari/pyMultiFit",
+ "joss_doi": "10.21105/joss.09295",
+ "joss_title": "pyMultiFit: A Python library for fitting data with multiple models",
+ "joss_published": "2025-10-24T09:52:02.209Z",
+ "software_repository": "https://github.com/syedalimohsinbukhari/pyMultiFit",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Bukhari\n  given-names: Syed Ali Mohsin\n  orcid: \"https://orcid.org/0000-0002-4232-3874\"\n- family-names: Siddique\n  given-names: Iqra\n  orcid: \"https://orcid.org/0009-0000-2515-6616\"\n- family-names: Ali\n  given-names: Asad\n  orcid: \"https://orcid.org/0000-0002-5164-7942\"\ncontact:\n- family-names: Bukhari\n  given-names: Syed Ali Mohsin\n  orcid: \"https://orcid.org/0000-0002-4232-3874\"\ndoi: 10.5281/zenodo.17273507\nmessage: If you use this software, please cite our article in the Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Bukhari\n    given-names: Syed Ali Mohsin\n    orcid: \"https://orcid.org/0000-0002-4232-3874\"\n  - family-names: Siddique\n    given-names: Iqra\n    orcid: \"https://orcid.org/0009-0000-2515-6616\"\n  - family-names: Ali\n    given-names: Asad\n    orcid: \"https://orcid.org/0000-0002-5164-7942\"\n  date-published: 2025-10-24\n  doi: 10.21105/joss.09295\n  issn: 2475-9066\n  issue: 114\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9295\n  title: \"pyMultiFit: A Python library for fitting data with multiple models\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09295\"\n  volume: 10\ntitle: \"pyMultiFit: A Python library for fitting data with multiple models\"\n"
+}

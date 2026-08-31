@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.05504",
+ "source": "crossref",
+ "state": "ok",
+ "title": "qujax: Simulating quantum circuits with JAX",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

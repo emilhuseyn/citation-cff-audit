@@ -1,0 +1,9 @@
+{
+ "repo": "zincware/rdkit2ase",
+ "joss_doi": "10.21105/joss.08829",
+ "joss_title": "molify: Molecular Structure Interface",
+ "joss_published": "2025-12-12T15:54:04.716Z",
+ "software_repository": "https://github.com/zincware/rdkit2ase",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nauthors:\n- family-names: \"Zills\"\n  given-names: \"Fabian\"\n  orcid: \"https://orcid.org/0000-0002-6936-4692\"\ntitle: \"molify: Molecular Structure Interface\"\nurl: \"https://github.com/zincware/molify\"\nlicense: Apache-2.0\n"
+}

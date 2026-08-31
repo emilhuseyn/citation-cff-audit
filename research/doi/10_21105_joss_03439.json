@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.03439",
+ "source": "crossref",
+ "state": "ok",
+ "title": "torchquad: Numerical Integration in Arbitrary Dimensions with PyTorch",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

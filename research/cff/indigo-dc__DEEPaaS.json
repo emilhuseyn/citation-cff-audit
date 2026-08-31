@@ -1,0 +1,9 @@
+{
+ "repo": "indigo-dc/DEEPaaS",
+ "joss_doi": "10.21105/joss.01517",
+ "joss_title": "DEEPaaS API: a REST API for Machine Learning and Deep Learning models",
+ "joss_published": "2019-10-28T12:10:10.684Z",
+ "software_repository": "https://github.com/indigo-dc/DEEPaaS",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle: DEEPaaS\nmessage: ' A REST API to serve machine learning and deep learning models '\ntype: software\nauthors:\n  - given-names: \u00c1lvaro\n    family-names: L\u00f3pez Garc\u00eda\n    email: aloga@ifca.unican.es\n    affiliation: 'IFCA, CSIC-UC'\n    orcid: 'https://orcid.org/0000-0002-0013-4602'\nidentifiers:\n  - type: doi\n    value: 10.5281/zenodo.1544377\n    description: Zenodo record\n  - type: doi\n    value: 10.21105/joss.01517\n    description: Journal publication\nrepository-code: 'https://github.com/ai4os/DEEPaaS/'\nabstract: >-\n  DEEP as a Service API (DEEPaaS API) is a REST API built on\n  aiohttp that allows to provide easy access to machine\n  learning, deep learning and artificial intelligence\n  models. By using the DEEPaaS API users can easily run a\n  REST API in front of their model, thus accessing its\n  functionality via HTTP calls. DEEPaaS API leverages the\n  OpenAPI specification.\nkeywords:\n  - http\n  - http \n  - data science \n  - machine learning \n  - deep learning\n  - neural network \n  - REST api\n  - aiohttp \n  - artificial intelligence\n  - neural networks \nlicense: Apache-2.0\npreferred-citation:\n  authors:\n  - given-names: \u00c1lvaro\n    family-names: L\u00f3pez Garc\u00eda\n    email: aloga@ifca.unican.es\n    affiliation: 'IFCA, CSIC-UC'\n    orcid: 'https://orcid.org/0000-0002-0013-4602'\n  title: \"DEEPaaS API: a REST API for Machine Learning and Deep Learning models\"\n  type: article\n  year: 2019\n  journal: \"Journal of Open Source Software\"\n  doi: 10.21105/joss.01517\n"
+}

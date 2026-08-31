@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.7017219",
+ "source": "datacite",
+ "state": "ok",
+ "title": "SphericalScattering: A Julia Package for Electromagnetic Scattering from Spherical Objects",
+ "type": "Software",
+ "container": ""
+}

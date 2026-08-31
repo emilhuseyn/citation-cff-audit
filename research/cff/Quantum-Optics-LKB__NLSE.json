@@ -1,0 +1,9 @@
+{
+ "repo": "Quantum-Optics-LKB/NLSE",
+ "joss_doi": "10.21105/joss.06607",
+ "joss_title": "NLSE: A Python package to solve the nonlinear Schr\u00f6dinger equation",
+ "joss_published": "2024-07-23T14:45:59.576Z",
+ "software_repository": "https://github.com/Quantum-Optics-LKB/NLSE",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Aladjidi\n  given-names: Tangui\n  orcid: \"https://orcid.org/0000-0002-3109-9723\"\n- family-names: Piekarski\n  given-names: Clara\n  orcid: \"https://orcid.org/0000-0001-6871-6003\"\n- family-names: Glorieux\n  given-names: Quentin\n  orcid: \"https://orcid.org/0000-0003-0903-0233\"\ncontact:\n- family-names: Aladjidi\n  given-names: Tangui\n  orcid: \"https://orcid.org/0000-0002-3109-9723\"\ndoi: 10.5281/zenodo.12795395\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Aladjidi\n    given-names: Tangui\n    orcid: \"https://orcid.org/0000-0002-3109-9723\"\n  - family-names: Piekarski\n    given-names: Clara\n    orcid: \"https://orcid.org/0000-0001-6871-6003\"\n  - family-names: Glorieux\n    given-names: Quentin\n    orcid: \"https://orcid.org/0000-0003-0903-0233\"\n  date-published: 2024-07-23\n  doi: 10.21105/joss.06607\n  issn: 2475-9066\n  issue: 99\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6607\n  title: \"NLSE: A Python package to solve the nonlinear Schr\u00f6dinger\n    equation\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06607\"\n  volume: 9\ntitle: \"NLSE: A Python package to solve the nonlinear Schr\u00f6dinger\n  equation\"\n"
+}

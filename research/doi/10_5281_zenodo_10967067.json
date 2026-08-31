@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.10967067",
+ "source": "datacite",
+ "state": "ok",
+ "title": "gcamfaostat: An R package to prepare, process, and synthesize FAOSTAT data for global agroeconomic and multisector dynamic modeling",
+ "type": "Software",
+ "container": ""
+}

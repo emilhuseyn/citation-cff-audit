@@ -1,0 +1,9 @@
+{
+ "repo": "IMMM-SFA/cerf",
+ "joss_doi": "10.21105/joss.03601",
+ "joss_title": "cerf: A Python package to evaluate the feasibility and costs of power plant siting for alternative futures",
+ "joss_published": "2021-09-26T00:44:12.716Z",
+ "software_repository": "https://github.com/IMMM-SFA/cerf",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software in your work, please cite it as below.\"\nauthors:\n- family-names: \"Vernon\"\n  given-names: \"Chris R.\"\n  orcid: \"https://orcid.org/0000-0002-3406-6214\"\n- family-names: \"Rice\"\n  given-names: \"Jennie S.\"\n  orcid: \"https://orcid.org/0000-0002-7833-9456\"\n- family-names: \"Zuljevic\"\n  given-names: \"Nino\"\n  orcid: \"https://orcid.org/0000-0002-3175-9277\"\n- family-names: \"Mongird\"\n  given-names: \"Kendall\"\n  orcid: \"https://orcid.org/0000-0003-2807-7088\"\n- family-names: \"Nelson\"\n  given-names: \"Kristian\"\n  orcid: \"https://orcid.org/0000-0002-6745-167X\"\n- family-names: \"Iyer\"\n  given-names: \"Gokul\"\n  orcid: \"https://orcid.org/0000-0002-3565-7526\"\n- family-names: \"Voisin\"\n  given-names: \"Nathalie\"\n  orcid: \"https://orcid.org/0000-0002-6848-449X\"\n- family-names: \"Binsted\"\n  given-names: \"Matthew\"\n  orcid: \"https://orcid.org/0000-0002-5177-7253\"\ntitle: \"cerf: A Python package to evaluate the feasibility and costs of power plant siting for alternative futures\"\nversion: 2.2.1\ndoi: 10.5281/zenodo.1321312\ndate-released: 2022-11-17\nurl: \"https://github.com/IMMM-SFA/cerf\"\n"
+}

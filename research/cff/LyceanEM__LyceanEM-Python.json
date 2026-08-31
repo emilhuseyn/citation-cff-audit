@@ -1,0 +1,9 @@
+{
+ "repo": "LyceanEM/LyceanEM-Python",
+ "joss_doi": "10.21105/joss.05234",
+ "joss_title": "LyceanEM: A python package for virtual prototyping of antenna arrays, time and frequency domain channel modelling",
+ "joss_published": "2023-06-12T15:46:21.158Z",
+ "software_repository": "https://github.com/LyceanEM/LyceanEM-Python",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Pelham\n  given-names: Timothy G.\n  orcid: \"https://orcid.org/0000-0002-8085-1264\"\ndoi: 10.5281/zenodo.8026567\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Pelham\n    given-names: Timothy G.\n    orcid: \"https://orcid.org/0000-0002-8085-1264\"\n  date-published: 2023-06-12\n  doi: 10.21105/joss.05234\n  issn: 2475-9066\n  issue: 86\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5234\n  title: \"LyceanEM: A python package for virtual prototyping of antenna\n    arrays, time and frequency domain channel modelling\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05234\"\n  volume: 8\ntitle: \"LyceanEM: A python package for virtual prototyping of antenna\n  arrays, time and frequency domain channel modelling\"\n"
+}

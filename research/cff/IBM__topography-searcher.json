@@ -1,0 +1,9 @@
+{
+ "repo": "IBM/topography-searcher",
+ "joss_doi": "10.21105/joss.06711",
+ "joss_title": "TopSearch: a Python package for topographical analysis of machine learning models and physical systems",
+ "joss_published": "2024-07-02T22:07:42.435Z",
+ "software_repository": "https://github.com/IBM/topography-searcher",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Dicks\n  given-names: Luke\n  orcid: \"https://orcid.org/0000-0002-5278-4412\"\n- family-names: Pyzer-Knapp\n  given-names: Edward O.\n  orcid: \"https://orcid.org/0000-0002-8232-8282\"\ncontact:\n- family-names: Pyzer-Knapp\n  given-names: Edward O.\n  orcid: \"https://orcid.org/0000-0002-8232-8282\"\ndoi: 10.5281/zenodo.12613017\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Dicks\n    given-names: Luke\n    orcid: \"https://orcid.org/0000-0002-5278-4412\"\n  - family-names: Pyzer-Knapp\n    given-names: Edward O.\n    orcid: \"https://orcid.org/0000-0002-8232-8282\"\n  date-published: 2024-07-02\n  doi: 10.21105/joss.06711\n  issn: 2475-9066\n  issue: 99\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6711\n  title: \"TopSearch: a Python package for topographical analysis of\n    machine learning models and physical systems\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06711\"\n  volume: 9\ntitle: \"TopSearch: a Python package for topographical analysis of\n  machine learning models and physical systems\"\n"
+}

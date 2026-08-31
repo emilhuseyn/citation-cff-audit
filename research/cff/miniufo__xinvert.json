@@ -1,0 +1,9 @@
+{
+ "repo": "miniufo/xinvert",
+ "joss_doi": "10.21105/joss.05510",
+ "joss_title": "xinvert: A Python package for inversion problems in geophysical fluid dynamics",
+ "joss_published": "2023-09-06T21:43:32.443Z",
+ "software_repository": "https://github.com/miniufo/xinvert",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it using the metadata from this file.\"\ntitle: \"xinvert: A Python package for inversion problems in geophysical fluid dynamics\"\nauthors:\n  - family-names: \"Qian\"\n    given-names: \"Yu-Kun\"\n    orcid: \"https://orcid.org/0000-0001-5660-7619\"\npreferred-citation:\n  type: article\n  authors:\n    - family-names: \"Qian\"\n      given-names: \"Yu-Kun\"\n      orcid: \"https://orcid.org/0000-0001-5660-7619\"\n  title: \"xinvert: A Python package for inversion problems in geophysical fluid dynamics\"\n  journal: \"Journal of Open Source Software\"\n  doi: \"10.21105/joss.05510\"\n  volume: 8\n  issue: 89\n  start: 5510\n  year: 2023\n"
+}

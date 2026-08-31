@@ -1,0 +1,9 @@
+{
+ "repo": "TRI-AMDD/GMP-featurizer",
+ "joss_doi": "10.21105/joss.05476",
+ "joss_title": "GMP-Featurizer: A parallelized Python package for efficiently computing the Gaussian Multipole features of atomic systems",
+ "joss_published": "2023-08-10T20:44:28.262Z",
+ "software_repository": "https://github.com/TRI-AMDD/GMP-featurizer/",
+ "status": 404,
+ "cff": null
+}

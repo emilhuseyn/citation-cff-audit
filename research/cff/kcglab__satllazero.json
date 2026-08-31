@@ -1,0 +1,9 @@
+{
+ "repo": "kcglab/satllazero",
+ "joss_doi": "10.21105/joss.05147",
+ "joss_title": "SATLLA0: A Flight Software Platform for Aerospace and STEM Education",
+ "joss_published": "2023-06-24T21:26:35.678Z",
+ "software_repository": "https://github.com/kcglab/satllazero",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Ronen\n  given-names: Rony\n  orcid: \"https://orcid.org/0000-0002-1300-5236\"\n- family-names: Britvin\n  given-names: Michael\n  orcid: \"https://orcid.org/0009-0003-5492-4014\"\n- family-names: Moshe\n  given-names: Boaz Ben\n  orcid: \"https://orcid.org/0000-0002-1580-5421\"\ndoi: 10.5281/zenodo.8060399\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Ronen\n    given-names: Rony\n    orcid: \"https://orcid.org/0000-0002-1300-5236\"\n  - family-names: Britvin\n    given-names: Michael\n    orcid: \"https://orcid.org/0009-0003-5492-4014\"\n  - family-names: Moshe\n    given-names: Boaz Ben\n    orcid: \"https://orcid.org/0000-0002-1580-5421\"\n  date-published: 2023-06-24\n  doi: 10.21105/joss.05147\n  issn: 2475-9066\n  issue: 86\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5147\n  title: \"SATLLA0: A Flight Software Platform for Aerospace and STEM\n    Education\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05147\"\n  volume: 8\ntitle: \"SATLLA0: A Flight Software Platform for Aerospace and STEM\n  Education\"\n"
+}

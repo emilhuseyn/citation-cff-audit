@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.3580272",
+ "source": "datacite",
+ "state": "ok",
+ "title": "MNE-BIDS: Organizing electrophysiological data into the BIDS format and facilitating their analysis",
+ "type": "Software",
+ "container": ""
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "stefanhiemer/topoptlab",
+ "joss_doi": "10.21105/joss.09105",
+ "joss_title": "topoptlab: An Open and Modular Framework for Benchmarking and Research in Topology Optimization",
+ "joss_published": "2026-02-02T07:56:31.491Z",
+ "software_repository": "https://github.com/stefanhiemer/topoptlab",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Hiemer\n  given-names: Stefan\n  orcid: \"https://orcid.org/0000-0001-6562-4883\"\ndoi: 10.5281/zenodo.18231035\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Hiemer\n    given-names: Stefan\n    orcid: \"https://orcid.org/0000-0001-6562-4883\"\n  date-published: 2026-02-02\n  doi: 10.21105/joss.09105\n  issn: 2475-9066\n  issue: 118\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9105\n  title: \"topoptlab: An Open and Modular Framework for Benchmarking and\n    Research in Topology Optimization\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09105\"\n  volume: 11\ntitle: \"topoptlab: An Open and Modular Framework for Benchmarking and\n  Research in Topology Optimization\""
+}

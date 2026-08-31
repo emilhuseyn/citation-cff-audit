@@ -1,0 +1,9 @@
+{
+ "repo": "FZJ-IEK3-VSA/ETHOS_PeNALPS",
+ "joss_doi": "10.21105/joss.06358",
+ "joss_title": "ETHOS.PeNALPS: A Tool for the Load Profile Simulation of Industrial Processes Based on a Material Flow Simulation",
+ "joss_published": "2024-05-02T17:01:49.623Z",
+ "software_repository": "https://github.com/FZJ-IEK3-VSA/ETHOS_PeNALPS",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it using the metadata below.\"\ntitle: \"ETHOS.PeNALPS: A Tool for the Load Profile Simulation of Industrial Processes Based on a Material Flow Simulation\"\ntype: software\nauthors:\n  - family-names: Belina\n    given-names: Julian\n    orcid: https://orcid.org/0000-0002-5878-2936\n  - family-names: Pflugradt\n    given-names: Noah\n    orcid: https://orcid.org/0000-0002-1982-8794\n  - family-names: Stolten\n    given-names: Detlef\n    orcid: https://orcid.org/0000-0002-1671-3262\nrepository-code: https://github.com/FZJ-IEK3-VSA/ETHOS_PeNALPS\nlicense: AGPL-3.0\npreferred-citation:\n  type: article\n  authors:\n    - family-names: Belina\n      given-names: Julian\n      orcid: https://orcid.org/0000-0002-5878-2936\n    - family-names: Pflugradt\n      given-names: Noah\n      orcid: https://orcid.org/0000-0002-1982-8794\n    - family-names: Stolten\n      given-names: Detlef\n      orcid: https://orcid.org/0000-0002-1671-3262\n  title: \"ETHOS.PeNALPS: A Tool for the Load Profile Simulation of Industrial Processes Based on a Material Flow Simulation\"\n  journal: \"Journal of Open Source Software\"\n  year: 2024\n  volume: 9\n  issue: 95\n  doi: 10.21105/joss.06358\n  url: https://joss.theoj.org/papers/10.21105/joss.06358\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "IPESE/REHO",
+ "joss_doi": "10.21105/joss.06734",
+ "joss_title": "REHO: A Decision Support Tool for Renewable Energy Communities",
+ "joss_published": "2024-11-20T15:51:34.068Z",
+ "software_repository": "https://github.com/IPESE/REHO",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Lepour\n  given-names: Dorsan\n  orcid: \"https://orcid.org/0009-0008-7309-5537\"\n- family-names: Loustau\n  given-names: Joseph\n  orcid: \"https://orcid.org/0009-0005-5830-225X\"\n- family-names: Terrier\n  given-names: C\u00e9dric\n  orcid: \"https://orcid.org/0000-0002-9100-6680\"\n- family-names: Mar\u00e9chal\n  given-names: Fran\u00e7ois\n  orcid: \"https://orcid.org/0000-0003-1752-5690\"\ncontact:\n- family-names: Lepour\n  given-names: Dorsan\n  orcid: \"https://orcid.org/0009-0008-7309-5537\"\ndoi: 10.5281/zenodo.14052179\nmessage: If you use REHO in your research or applications, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Lepour\n    given-names: Dorsan\n    orcid: \"https://orcid.org/0009-0008-7309-5537\"\n  - family-names: Loustau\n    given-names: Joseph\n    orcid: \"https://orcid.org/0009-0005-5830-225X\"\n  - family-names: Terrier\n    given-names: C\u00e9dric\n    orcid: \"https://orcid.org/0000-0002-9100-6680\"\n  - family-names: Mar\u00e9chal\n    given-names: Fran\u00e7ois\n    orcid: \"https://orcid.org/0000-0003-1752-5690\"\n  date-published: 2024-11-20\n  doi: 10.21105/joss.06734\n  issn: 2475-9066\n  issue: 103\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6734\n  title: \"REHO: A Decision Support Tool for Renewable Energy\n    Communities\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06734\"\n  volume: 9\ntitle: \"REHO: A Decision Support Tool for Renewable Energy Communities\"\n"
+}

@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.09537",
+ "source": "crossref",
+ "state": "ok",
+ "title": "RustSASA: A Rust Crate for Accelerated Solvent Accessible Surface Area Calculations",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

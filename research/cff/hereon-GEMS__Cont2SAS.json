@@ -1,0 +1,9 @@
+{
+ "repo": "hereon-GEMS/Cont2SAS",
+ "joss_doi": "10.21105/joss.09772",
+ "joss_title": "Cont2SAS: A Python package for calculating small angle scattering parameters from continuum nanostructures",
+ "joss_published": "2026-08-23T23:40:36.571Z",
+ "software_repository": "https://github.com/hereon-GEMS/Cont2SAS",
+ "status": 200,
+ "cff": "# This CITATION.cff file was generated with cffinit.\n# Visit https://bit.ly/cffinit to generate yours today!\n\ncff-version: 1.2.0\ntitle: Cont2SAS\nmessage: >-\n  Software package for calculating Small Angle Scattering\n  (SAS) parameters from continuum simulations.\ntype: software\nauthors:\n  - given-names: Arnab\n    family-names: Majumdar\n    email: arnab.majumdar@hereon.de\n    affiliation: Helmholtz-Zentrum Hereon\n    orcid: 'https://orcid.org/0000-0003-4049-4060'\n  - given-names: Martin\n    family-names: M\u00fcller\n    email: martin.mueller@hereon.de\n    affiliation: Helmholtz-Zentrum Hereon\n  - given-names: Sebastian\n    family-names: Busch\n    email: sebastian.busch@hereon.de\n    affiliation: Helmholtz-Zentrum Hereon\n    orcid: 'https://orcid.org/0000-0002-9815-909X'\nrepository-code: >-\n  https://github.com/hereon-GEMS/Cont2SAS\nlicense: GPL-3.0\nversion: 1.0.0\ndate-released: '2025-08-05'"
+}

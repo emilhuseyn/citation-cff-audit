@@ -1,0 +1,9 @@
+{
+ "repo": "rickhelmus/patRoon",
+ "joss_doi": "10.21105/joss.04029",
+ "joss_title": "patRoon 2.0: Improved non-target analysis workflows including automated transformation product screening",
+ "joss_published": "2022-03-12T08:34:22.140Z",
+ "software_repository": "https://github.com/rickhelmus/patRoon",
+ "status": 200,
+ "cff": "cff-version: 1.0.3\nauthors:\n  -\n    family-names: Helmus\n    given-names: Rick\n  -\n    family-names: 'ter Laak'\n    given-names: 'Thomas L.'\n  -\n    family-names: 'van Wezel'\n    given-names: 'Annemarie P.'\n  -\n    family-names: 'de Voogt'\n    given-names: Pim\n  -\n    family-names: Schymanski\n    given-names: 'Emma L.'\ndate-released: 2021-01-06T00:00:00.000Z\ndoi: 10.1186/s13321-020-00477-w\ntitle: 'patRoon: open source software platform for environmental mass spectrometry based non-target screening'\nurl: 'http://dx.doi.org/10.1186/s13321-020-00477-w'\n"
+}

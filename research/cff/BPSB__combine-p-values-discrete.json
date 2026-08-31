@@ -1,0 +1,9 @@
+{
+ "repo": "BPSB/combine-p-values-discrete",
+ "joss_doi": "10.21105/joss.06096",
+ "joss_title": "A Python module to combine $p$ values arising from discrete tests.",
+ "joss_published": "2024-02-29T10:16:42.136Z",
+ "software_repository": "https://github.com/BPSB/combine-p-values-discrete",
+ "status": 404,
+ "cff": null
+}

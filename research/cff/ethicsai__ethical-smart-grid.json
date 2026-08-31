@@ -1,0 +1,9 @@
+{
+ "repo": "ethicsai/ethical-smart-grid",
+ "joss_doi": "10.21105/joss.05410",
+ "joss_title": "Ethical Smart Grid: a Gym environment for learning ethical behaviours",
+ "joss_published": "2023-08-25T03:10:18.868Z",
+ "software_repository": "https://github.com/ethicsai/ethical-smart-grid",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Scheirlinck\n  given-names: Cl\u00e9ment\n- family-names: Chaput\n  given-names: R\u00e9my\n  orcid: \"https://orcid.org/0000-0002-2233-7566\"\n- family-names: Hassas\n  given-names: Salima\ncontact:\n- family-names: Chaput\n  given-names: R\u00e9my\n  orcid: \"https://orcid.org/0000-0002-2233-7566\"\ndoi: 10.5281/zenodo.8239411\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Scheirlinck\n    given-names: Cl\u00e9ment\n  - family-names: Chaput\n    given-names: R\u00e9my\n    orcid: \"https://orcid.org/0000-0002-2233-7566\"\n  - family-names: Hassas\n    given-names: Salima\n  date-published: 2023-08-25\n  doi: 10.21105/joss.05410\n  issn: 2475-9066\n  issue: 88\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5410\n  title: \"Ethical Smart Grid: a Gym environment for learning ethical\n    behaviours\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05410\"\n  volume: 8\ntitle: \"Ethical Smart Grid: a Gym environment for learning ethical\n  behaviours\"\n"
+}

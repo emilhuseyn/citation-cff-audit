@@ -1,0 +1,9 @@
+{
+ "repo": "mikahama/uralicNLP",
+ "joss_doi": "10.21105/joss.01345",
+ "joss_title": "UralicNLP: An NLP Library for Uralic Languages",
+ "joss_published": "2019-05-09T15:45:55.430Z",
+ "software_repository": "https://github.com/mikahama/uralicNLP",
+ "status": 200,
+ "cff": "# This CITATION.cff file was generated with cffinit.\n# Visit https://bit.ly/cffinit to generate yours today!\n\ncff-version: 1.2.0\ntitle: 'UralicNLP: An NLP Library for Uralic Languages'\nmessage: >-\n  If you use this software, please cite it using the\n  metadata from this file.\ntype: software\nauthors:\n  - given-names: Mika\n    family-names: H\u00e4m\u00e4l\u00e4inen\nidentifiers:\n  - type: doi\n    value: 10.5281/zenodo.2668061\n    description: Zenodo\nrepository-code: 'https://github.com/mikahama/uralicNLP'\ndate-released: '2019-05-06'\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"H\u00e4m\u00e4l\u00e4inen\"\n    given-names: \"Mika\"\n  doi: \"10.21105/joss.01345\"\n  journal: \"Journal of Open Source Software\"\n  title: \"UralicNLP: An NLP Library for Uralic Languages\"\n  issue: 37\n  volume: 4\n  year: 2019"
+}

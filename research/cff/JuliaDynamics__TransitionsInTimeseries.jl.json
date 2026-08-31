@@ -1,0 +1,9 @@
+{
+ "repo": "JuliaDynamics/TransitionsInTimeseries.jl",
+ "joss_doi": "10.21105/joss.06464",
+ "joss_title": "TransitionsInTimeseries.jl: A performant, extensible and reliable software for reproducible detection and prediction of transitions in timeseries",
+ "joss_published": "2024-07-13T14:19:09.467Z",
+ "software_repository": "https://github.com/JuliaDynamics/TransitionsInTimeseries.jl",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Swierczek-Jereczek\n  given-names: Jan\n  orcid: \"https://orcid.org/0000-0003-2213-0423\"\n- family-names: Datseris\n  given-names: George\n  orcid: \"https://orcid.org/0000-0002-6427-2385\"\ndoi: 10.5281/zenodo.12731309\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Swierczek-Jereczek\n    given-names: Jan\n    orcid: \"https://orcid.org/0000-0003-2213-0423\"\n  - family-names: Datseris\n    given-names: George\n    orcid: \"https://orcid.org/0000-0002-6427-2385\"\n  date-published: 2024-07-13\n  doi: 10.21105/joss.06464\n  issn: 2475-9066\n  issue: 99\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6464\n  title: \"TransitionsInTimeseries.jl: A performant, extensible and\n    reliable software for reproducible detection and prediction of\n    transitions in timeseries\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06464\"\n  volume: 9\ntitle: \"TransitionsInTimeseries.jl: A performant, extensible and\n  reliable software for reproducible detection and prediction of\n  transitions in timeseries\"\n"
+}

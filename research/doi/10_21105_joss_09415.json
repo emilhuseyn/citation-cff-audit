@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.09415",
+ "source": "crossref",
+ "state": "ok",
+ "title": "torch_blue: A Flexible Python Package for Bayesian Neural Networks in PyTorch",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

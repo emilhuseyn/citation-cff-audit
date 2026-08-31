@@ -1,0 +1,9 @@
+{
+ "repo": "swiftsim/swiftsimio",
+ "joss_doi": "10.21105/joss.02430",
+ "joss_title": "swiftsimio: A Python library for reading SWIFT data",
+ "joss_published": "2020-08-01T16:58:53.551Z",
+ "software_repository": "https://github.com/swiftsim/swiftsimio",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle: swiftsimio\nmessage: >-\n  If you use this software, please cite it using the\n  metadata from this file.\ntype: software\nauthors:\n  - given-names: Borrow\n    family-names: Josh\n    email: josh@joshborrow.com\n    orcid: 'https://orcid.org/0000-0002-1327-1921'\nidentifiers:\n  - type: doi\n    value: 10.21105/joss.02430\n    description: JOSS article\n  - type: doi\n    value: 10.48550/arXiv.2106.05281\n    description: SPHERIC article\nrepository-code: 'https://github.com/SWIFTSIM/swiftsimio'\nurl: 'https://swiftsimio.readthedocs.io/'\nabstract: >-\n  swiftsimio is a Python package for reading data created by\n  the SWIFT simulation code. SWIFT is designed to run\n  cosmological hydrodynamics simulations that produce\n  petabytes of data, and swiftsimio leverages the custom\n  metadata that SWIFT produces to allow for chunked loading\n  of the particle data and to enable integration with unyt.\nkeywords:\n  - simulation\n  - hdf5\n  - particle\n  - cosmology\n  - astrophysics\n  - sph\nlicense: GPL-3.0\npreferred-citation:\n  authors:\n  - family-names: Borrow\n    given-names: Josh\n    orcid: \"https://orcid.org/0000-0002-1327-1921\"\n  - family-names: Borrisov\n    given-names: Alexei\n    orcid: \"https://orcid.org/0000-0001-6247-471X\"\n  date-published: \"2020-08-01\"\n  doi: 10.21105/joss.02430\n  issn: 2475-9066\n  issue: 52\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 2430\n  title: \"swiftsimio: A Python library for reading SWIFT data\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.02430\"\n  volume: 5"
+}

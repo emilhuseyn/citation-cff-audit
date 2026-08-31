@@ -1,0 +1,9 @@
+{
+ "repo": "scikit-hep/root_numpy",
+ "joss_doi": "10.21105/joss.00307",
+ "joss_title": "root_numpy: The interface between ROOT and NumPy",
+ "joss_published": "2017-08-13T00:00:00.000Z",
+ "software_repository": "https://github.com/scikit-hep/root_numpy",
+ "status": 404,
+ "cff": null
+}

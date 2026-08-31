@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.xml2",
+ "source": "crossref",
+ "state": "ok",
+ "title": "xml2: Parse XML",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

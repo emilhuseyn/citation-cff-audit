@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.11386516",
+ "source": "datacite",
+ "state": "ok",
+ "title": "DiffeRT2d: A Differentiable Ray Tracing Python Framework for Radio Propagation",
+ "type": "Software",
+ "container": ""
+}

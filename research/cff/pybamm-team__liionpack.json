@@ -1,0 +1,9 @@
+{
+ "repo": "pybamm-team/liionpack",
+ "joss_doi": "10.21105/joss.04051",
+ "joss_title": "liionpack: A Python package for simulating packs of batteries with PyBaMM",
+ "joss_published": "2022-02-21T15:57:08.654Z",
+ "software_repository": "https://github.com/pybamm-team/liionpack",
+ "status": 404,
+ "cff": null
+}

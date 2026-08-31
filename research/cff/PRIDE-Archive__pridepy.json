@@ -1,0 +1,9 @@
+{
+ "repo": "PRIDE-Archive/pridepy",
+ "joss_doi": "10.21105/joss.07563",
+ "joss_title": "pridepy: A Python package to download and search data from PRIDE database",
+ "joss_published": "2025-03-24T12:40:01.793Z",
+ "software_repository": "https://github.com/PRIDE-Archive/pridepy",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as follows.\"\nauthors:\n  - family-names: Kamatchinathan\n    given-names: Selvakumar\n  - family-names: Hewapathirana\n    given-names: Suresh\n  - family-names: Bandla\n    given-names: Chakradhar\n  - family-names: Insua\n    given-names: Santiago\n  - family-names: Vizca\u00edno\n    given-names: Juan Antonio\n  - family-names: Perez-Riverol\n    given-names: Yasset\ntitle: \"pridepy: A Python package to download and search data from PRIDE database\"\nversion: \"10.0.107\"\ndoi: \"10.21105/joss.07563\"\ndate-released: \"2025-01-01\"\nrepository-code: \"https://github.com/your-repo/pridepy\"\npreferred-citation:\n  type: article\n  authors:\n    - family-names: Kamatchinathan\n      given-names: Selvakumar\n    - family-names: Hewapathirana\n      given-names: Suresh\n    - family-names: Bandla\n      given-names: Chakradhar\n    - family-names: Insua\n      given-names: Santiago\n    - family-names: Vizca\u00edno\n      given-names: Juan Antonio\n    - family-names: Perez-Riverol\n      given-names: Yasset\n  title: \"pridepy: A Python package to download and search data from PRIDE database\"\n  journal: \"Journal of Open Source Software\"\n  volume: \"10\"\n  issue: \"107\"\n  year: \"2025\"\n  pages: \"7563\"\n  doi: \"10.21105/joss.07563\"\n  url: \"https://doi.org/10.21105/joss.07563\""
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "JuliaText/Embeddings.jl",
+ "joss_doi": "10.21105/joss.01013",
+ "joss_title": "Embeddings.jl: easy access to pretrained word embeddings from Julia",
+ "joss_published": "2019-04-10T00:36:48.851Z",
+ "software_repository": "https://github.com/JuliaText/Embeddings.jl/",
+ "status": 404,
+ "cff": null
+}

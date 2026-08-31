@@ -1,0 +1,9 @@
+{
+ "repo": "SchmidtDSE/afscgap",
+ "joss_doi": "10.21105/joss.05593",
+ "joss_title": "Pyafscgap.org: Open source multi-modal Python-based tools for NOAA AFSC RACE GAP",
+ "joss_published": "2023-06-28T15:40:42.622Z",
+ "software_repository": "https://github.com/SchmidtDSE/afscgap",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Pottinger\n    given-names: A Samuel\n    orcid: 0000-0002-0458-4985\n  - family-names: Zarpellon\n    given-names: Giulia\n    orcid: 0000-0002-9122-4709\ntitle: Pyafscgap.org\nabstract: Python-based tools for NOAA AFSC GAP marine species surveys data.\nlicense: BSD-3-Clause\nversion: 1.0.2\ndate-released: 2023-06-02"
+}

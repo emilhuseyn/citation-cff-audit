@@ -1,0 +1,9 @@
+{
+ "repo": "icesat2py/icepyx",
+ "joss_doi": "10.21105/joss.04912",
+ "joss_title": "icepyx: querying, obtaining, analyzing, and manipulating ICESat-2 datasets",
+ "joss_published": "2023-04-12T13:56:40.145Z",
+ "software_repository": "https://github.com/icesat2py/icepyx",
+ "status": 200,
+ "cff": "# This CITATION.cff file was generated with cffinit.\n# Visit https://bit.ly/cffinit to generate yours today!\n\ncff-version: 1.2.0\ntitle: icepyx\nmessage: >-\n  If you use this software, please cite the software version\n  you used by its version-specific DOI.\n  The DOI for each version is available on Zenodo (link below).\ntype: software\nauthors:\n  - name: The icepyx Developers\nrepository-code: 'https://github.com/icesat2py/icepyx'\nurl: 'https://icepyx.readthedocs.io/en/latest/'\nrepository: 'https://zenodo.org/record/7729175'\nrepository-artifact: 'https://anaconda.org/conda-forge/icepyx'\nabstract: >-\n  icepyx is both a software library and a community composed\n  of ICESat-2 data users, developers, and the scientific\n  community. We are working together to develop a shared\n  library of resources - including existing resources, new\n  code, tutorials, and use-cases/examples - that simplify\n  the process of querying, obtaining, analyzing, and\n  manipulating ICESat-2 datasets to enable scientific\n  discovery.\nkeywords:\n  - ICESat-2\n  - Python\n  - open science\n  - NASA\nlicense: BSD-3-Clause\nidentifiers:\n  - description: \"All archived versions of icepyx.\"\n    type: doi\n    value: 10.5281/zenodo.7729175\n"
+}

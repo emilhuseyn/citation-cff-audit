@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.15442960",
+ "source": "datacite",
+ "state": "ok",
+ "title": "foamlib: A modern Python package for working with OpenFOAM",
+ "type": "Software",
+ "container": ""
+}

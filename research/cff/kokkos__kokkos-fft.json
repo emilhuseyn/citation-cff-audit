@@ -1,0 +1,9 @@
+{
+ "repo": "kokkos/kokkos-fft",
+ "joss_doi": "10.21105/joss.08391",
+ "joss_title": "kokkos-fft: A shared-memory FFT for the Kokkos ecosystem",
+ "joss_published": "2025-07-30T13:13:18.208Z",
+ "software_repository": "https://github.com/kokkos/kokkos-fft",
+ "status": 404,
+ "cff": null
+}

@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.17533965",
+ "source": "datacite",
+ "state": "ok",
+ "title": "GlobalSearch-rs: A multistart framework for global optimization written in Rust",
+ "type": "Software",
+ "container": ""
+}

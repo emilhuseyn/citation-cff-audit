@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.16441123",
+ "source": "datacite",
+ "state": "ok",
+ "title": "SPEI: A Python package for calculating and visualizing drought indices",
+ "type": "Software",
+ "container": ""
+}

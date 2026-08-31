@@ -1,0 +1,9 @@
+{
+ "repo": "astro-otter/otter",
+ "joss_doi": "10.21105/joss.09516",
+ "joss_title": "A Python API for OTTER",
+ "joss_published": "2026-02-03T22:32:57.673Z",
+ "software_repository": "https://github.com/astro-otter/otter",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: Please cite the following works when using this software.\ntype: software\nauthors:\n  - family-names: Franz\n    given-names: Noah\n  - family-names: Alexander\n    given-names: Kate D.\n  - family-names: Gomez\n    given-names: Sebastian\ndoi: 10.21105/joss.09516\nidentifiers:\n  - type: doi\n    value: 10.21105/joss.09516\n  - type: url\n    value: https://doi.org/10.21105/joss.09516\ntitle: A Python API for OTTER\nurl: https://doi.org/10.21105/joss.09516\npreferred-citation:\n  authors:\n    - family-names: Franz\n      given-names: Noah\n    - family-names: Alexander\n      given-names: Kate D\n    - family-names: Gomez\n      given-names: Sebastian\n    - family-names: Christy\n      given-names: Collin T\n    - family-names: Laskar\n      given-names: Tanmoy\n    - family-names: van Velzen\n      given-names: Sjoert\n    - family-names: Earl\n      given-names: Nicholas\n    - family-names: Gezari\n      given-names: Suvi\n    - family-names: Karmen\n      given-names: Mitchell\n    - family-names: Margutti\n      given-names: Raffaella\n    - family-names: Pearson\n      given-names: Jeniveve\n    - family-names: Villar\n      given-names: V. Ashley\n    - family-names: Zabludoff\n      given-names: Ann I\n  keywords:\n    - High Energy Astrophysical Phenomena\n    - Instrumentation and Methods for Astrophysics\n  title: >-\n    The Open mulTiwavelength Transient Event Repository (OTTER): Infrastructure\n    Release and Tidal Disruption Event Catalog\n  date-published: 2025-09-01\n  year: 2025\n  month: 9\n  journal: arXiv e-prints\n  number: arXiv:2509.05405\n  start: arXiv:2509.05405\n  type: article\n"
+}

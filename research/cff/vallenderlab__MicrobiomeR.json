@@ -1,0 +1,9 @@
+{
+ "repo": "vallenderlab/MicrobiomeR",
+ "joss_doi": "10.21105/joss.01299",
+ "joss_title": "MicrobiomeR:  An R Package for Simplified and Standardized Microbiome Analysis Workflows",
+ "joss_published": "2019-03-31T18:16:09.183Z",
+ "software_repository": "https://github.com/vallenderlab/MicrobiomeR",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use MicrobiomeR, please cite the following publication.\"\ntitle: \"MicrobiomeR\"\nversion: 1.0.0\ndoi: 10.21105/joss.01299\ndate-released: 2019-03-31\nurl: \"https://doi.org/10.21105/joss.01299\"\nauthors:\n  - family-names: \"Gilmore\"\n    given-names: \"Robert A.\"\n    orcid: \"https://orcid.org/0000-0001-8096-0180\"\n  - family-names: \"Hutchins\"\n    given-names: \"Shaurita\"\n    orcid: \"https://orcid.org/0000-0002-7687-0059\"\n  - family-names: \"Zhang\"\n    given-names: \"Xiao\"\n    orcid: \"https://orcid.org/0000-0001-5710-6496\"\n  - family-names: \"Vallender\"\n    given-names: \"Eric\"\n    orcid: \"https://orcid.org/0000-0003-3506-0540\"\n\npreferred-citation:\n  type: article\n  title: \"MicrobiomeR: An R Package for Simplified and Standardized Microbiome Analysis Workflows\"\n  authors:\n    - family-names: \"Gilmore\"\n      given-names: \"Robert A.\"\n      orcid: \"https://orcid.org/0000-0001-8096-0180\"\n    - family-names: \"Hutchins\"\n      given-names: \"Shaurita\"\n      orcid: \"https://orcid.org/0000-0002-7687-0059\"\n    - family-names: \"Zhang\"\n      given-names: \"Xiao\"\n      orcid: \"https://orcid.org/0000-0001-5710-6496\"\n    - family-names: \"Vallender\"\n      given-names: \"Eric\"\n      orcid: \"https://orcid.org/0000-0003-3506-0540\"\n  journal: \"Journal of Open Source Software\"\n  volume: 4\n  issue: 35\n  start: 1299\n  doi: \"10.21105/joss.01299\"\n  year: 2019\n  month: 3\n  url: \"https://doi.org/10.21105/joss.01299\"\n"
+}

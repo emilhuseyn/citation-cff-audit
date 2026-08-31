@@ -1,0 +1,9 @@
+{
+ "repo": "atzberg/mlmod",
+ "joss_doi": "10.21105/joss.05620",
+ "joss_title": "MLMOD: Machine Learning Methods for Data-Driven Modeling in LAMMPS",
+ "joss_published": "2023-09-14T03:02:07.887Z",
+ "software_repository": "https://github.com/atzberg/mlmod",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Atzberger\n  given-names: Paul J.\n  orcid: \"https://orcid.org/0000-0001-6806-8069\"\ndoi: 10.5281/zenodo.8327516\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Atzberger\n    given-names: Paul J.\n    orcid: \"https://orcid.org/0000-0001-6806-8069\"\n  date-published: 2023-09-14\n  doi: 10.21105/joss.05620\n  issn: 2475-9066\n  issue: 89\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5620\n  title: \"MLMOD: Machine Learning Methods for Data-Driven Modeling in\n    LAMMPS\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05620\"\n  volume: 8\ntitle: \"MLMOD: Machine Learning Methods for Data-Driven Modeling in\n  LAMMPS\"\n\n"
+}

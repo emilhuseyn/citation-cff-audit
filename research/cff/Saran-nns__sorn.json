@@ -1,0 +1,9 @@
+{
+ "repo": "Saran-nns/sorn",
+ "joss_doi": "10.21105/joss.03545",
+ "joss_title": "sorn: A Python package for Self Organizing Recurrent Neural Network",
+ "joss_published": "2021-09-12T20:20:29.981Z",
+ "software_repository": "https://github.com/Saran-nns/sorn/",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Nambusubramaniyan\n    given-names: Saranraj\n    orcid: https://orcid.org/0000-0002-7314-0261\ntitle: Saran-nns/sorn: Stable pre-release of Self Organizing Recurrent Neural Network\nversion: v0.6.2-beta\ndate-released: 2021-09-08\ndoi: \"10.5281/zenodo.5496017\"\nurl: \"https://github.com/saran-nns/sorn\"\n\npreferred-citation:\n  type: article\n  authors:\n  - family-names: Nambusubramaniyan\n    given-names: Saranraj\n    orcid: https://orcid.org/0000-0002-7314-0261\n  doi: \"10.21105/joss.03545\"\n  journal: \"JOSS\"\n  title: sorn: A Python package for Self Organizing Recurrent Neural Network\n\n"
+}

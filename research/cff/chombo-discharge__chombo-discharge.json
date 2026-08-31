@@ -1,0 +1,9 @@
+{
+ "repo": "chombo-discharge/chombo-discharge",
+ "joss_doi": "10.21105/joss.05335",
+ "joss_title": "chombo-discharge: An AMR code for gas discharge simulations in complex geometries",
+ "joss_published": "2023-05-22T16:30:20.460Z",
+ "software_repository": "https://github.com/chombo-discharge/chombo-discharge",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Marskar\n  given-names: Robert\n  orcid: \"https://orcid.org/0000-0003-1706-9736\"\ndoi: 10.5281/zenodo.7950220\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Marskar\n    given-names: Robert\n    orcid: \"https://orcid.org/0000-0003-1706-9736\"\n  date-published: 2023-05-22\n  doi: 10.21105/joss.05335\n  issn: 2475-9066\n  issue: 85\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5335\n  title: \"chombo-discharge: An AMR code for gas discharge simulations in\n    complex geometries\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05335\"\n  volume: 8\ntitle: \"chombo-discharge: An AMR code for gas discharge simulations in\n  complex geometries\""
+}

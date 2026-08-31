@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.11923516",
+ "source": "datacite",
+ "state": "ok",
+ "title": "OpenGeoSysUncertaintyQuantification.jl: a Julia library implementing an uncertainty quantification toolbox for OpenGeoSys",
+ "type": "Software",
+ "container": ""
+}

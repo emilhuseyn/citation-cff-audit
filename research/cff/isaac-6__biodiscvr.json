@@ -1,0 +1,9 @@
+{
+ "repo": "isaac-6/biodiscvr",
+ "joss_doi": "10.21105/joss.09070",
+ "joss_title": "biodiscvr: Biomarker Discovery Using Composite Value Ratios",
+ "joss_published": "2026-03-15T07:23:30.493Z",
+ "software_repository": "https://github.com/isaac-6/biodiscvr",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Llorente-Saguer\n  given-names: Isaac\n  orcid: \"https://orcid.org/0000-0002-7612-5331\"\n- family-names: Oxtoby\n  given-names: Neil P.\n  orcid: \"https://orcid.org/0000-0003-0203-3909\"\ncontact:\n- family-names: Oxtoby\n  given-names: Neil P.\n  orcid: \"https://orcid.org/0000-0003-0203-3909\"\ndoi: 10.5281/zenodo.18621404\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Llorente-Saguer\n    given-names: Isaac\n    orcid: \"https://orcid.org/0000-0002-7612-5331\"\n  - family-names: Oxtoby\n    given-names: Neil P.\n    orcid: \"https://orcid.org/0000-0003-0203-3909\"\n  date-published: 2026-03-15\n  doi: 10.21105/joss.09070\n  issn: 2475-9066\n  issue: 119\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9070\n  title: \"biodiscvr: Biomarker Discovery Using Composite Value Ratios\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09070\"\n  volume: 11\ntitle: \"biodiscvr: Biomarker Discovery Using Composite Value Ratios\"\n"
+}

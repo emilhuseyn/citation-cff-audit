@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.17117276",
+ "source": "datacite",
+ "state": "ok",
+ "title": "IntrinsicTimescales.jl: A Julia package to estimate intrinsic (neural) timescales (INTs) from time-series data",
+ "type": "Software",
+ "container": ""
+}

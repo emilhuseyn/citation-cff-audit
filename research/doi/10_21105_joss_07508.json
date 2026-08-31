@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.07508",
+ "source": "crossref",
+ "state": "ok",
+ "title": "CurvilinearGrids.jl: A Julia package for curvilinear coordinate transformations",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "gridap/GridapSolvers.jl",
+ "joss_doi": "10.21105/joss.07162",
+ "joss_title": "GridapSolvers.jl: Scalable multiphysics finite element solvers in Julia",
+ "joss_published": "2024-10-05T01:18:44.347Z",
+ "software_repository": "https://github.com/gridap/GridapSolvers.jl",
+ "status": 404,
+ "cff": null
+}

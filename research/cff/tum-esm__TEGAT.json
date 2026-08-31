@@ -1,0 +1,9 @@
+{
+ "repo": "tum-esm/TEGAT",
+ "joss_doi": "10.21105/joss.10887",
+ "joss_title": "TEGAT: A Lightweight and Reusable Gateway for Scientific Sensor Networks",
+ "joss_published": "2026-08-24T18:16:17.296Z",
+ "software_repository": "https://github.com/tum-esm/TEGAT",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Fr\u00f6lich\"\n  given-names: \"Lars\"\n  orcid: \"https://orcid.org/0009-0000-1579-7727\"\n- family-names: \"Aigner\"\n  given-names: \"Patrick\"\n  orcid: \"https://orcid.org/0000-0002-1530-415X\"\n- family-names: \"Chen\"\n  given-names: \"Jia\"\n  orcid: \"https://orcid.org/0000-0002-6350-6610\"\ntitle: \"TEGAT\"\nversion: v1.0.1\ndoi: 10.5281/zenodo.20432416\ndate-released: 2026-03-19\nurl: \"https://github.com/tum-esm/tegat\"\n"
+}

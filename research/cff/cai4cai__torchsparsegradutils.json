@@ -1,0 +1,9 @@
+{
+ "repo": "cai4cai/torchsparsegradutils",
+ "joss_doi": "10.21105/joss.10072",
+ "joss_title": "Sparsity-preserving gradient utility tools for PyTorch",
+ "joss_published": "2026-07-06T18:05:49.396Z",
+ "software_repository": "https://github.com/cai4cai/torchsparsegradutils",
+ "status": 404,
+ "cff": null
+}

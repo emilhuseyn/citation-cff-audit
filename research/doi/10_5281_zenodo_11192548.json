@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.11192548",
+ "source": "datacite",
+ "state": "ok",
+ "title": "HealpixMPI.jl: an MPI-parallel implementation of the Healpix tessellation scheme in Julia",
+ "type": "Software",
+ "container": ""
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "pydemull/activAnalyzer",
+ "joss_doi": "10.21105/joss.04741",
+ "joss_title": "activAnalyzer: An R Shiny app to analyse ActiGraph accelerometer data and to implement the use of the PROactive Physical Activity in COPD instruments",
+ "joss_published": "2022-12-01T16:06:13.066Z",
+ "software_repository": "https://github.com/pydemull/activAnalyzer",
+ "status": 404,
+ "cff": null
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "21cmFAST/21cmFAST",
+ "joss_doi": "10.21105/joss.02582",
+ "joss_title": "21cmFAST v3: A Python-integrated C code for generating 3D realizations of the cosmic 21cm signal.",
+ "joss_published": "2020-10-22T15:32:28.831Z",
+ "software_repository": "https://github.com/21cmFAST/21cmFAST",
+ "status": 404,
+ "cff": null
+}

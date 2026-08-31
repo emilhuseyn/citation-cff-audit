@@ -1,0 +1,9 @@
+{
+ "repo": "mei-friend/mei-friend",
+ "joss_doi": "10.21105/joss.06002",
+ "joss_title": "mei-friend: An Interactive Web-based Editor for Digital Music Encodings",
+ "joss_published": "2024-06-11T07:08:00.859Z",
+ "software_repository": "https://github.com/mei-friend/mei-friend",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite our article in the Journal of Open Source Software.\"\nauthors:\n- family-names: \"Goebl\"\n  given-names: \"Werner\"\n  orcid: \"https://orcid.org/0000-0002-1722-0718\"\n- family-names: \"Weigl\"\n  given-names: \"David M.\"\n  orcid: \"https://orcid.org/0000-0003-1502-1528\"\ncontact:\n- family-names: Goebl\n  given-names: Werner\n  orcid: \"https://orcid.org/0000-0002-1722-0718\"\ndoi: 10.5281/zenodo.11262560\ndate-released: 2024-05-23\nurl: \"https://github.com/mei-friend/mei-friend\"\npreferred-citation:\n  authors:\n  - family-names: Goebl\n    given-names: Werner\n    orcid: \"https://orcid.org/0000-0002-1722-0718\"\n  - family-names: Weigl\n    given-names: David M.\n    orcid: \"https://orcid.org/0000-0003-1502-1528\"\n  date-published: 2024-06-11\n  doi: 10.21105/joss.06002\n  issn: 2475-9066\n  issue: 98\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6002\n  title: \"mei-friend: An Interactive Web-based Editor for Digital Music Encodings\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06002\"\n  volume: 9\n  year: 2024\ntitle: \"mei-friend: An Interactive Web-based Editor for Digital Music Encodings\""
+}

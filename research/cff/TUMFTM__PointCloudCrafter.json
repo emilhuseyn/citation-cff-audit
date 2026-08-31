@@ -1,0 +1,9 @@
+{
+ "repo": "TUMFTM/PointCloudCrafter",
+ "joss_doi": "10.21105/joss.10459",
+ "joss_title": "PointCloudCrafter: Tools for Handling, Manipulating and Analyzing of Point Clouds",
+ "joss_published": "2026-06-26T13:17:07.005Z",
+ "software_repository": "https://github.com/TUMFTM/PointCloudCrafter",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Kulmer\n  given-names: Dominik\n  orcid: \"https://orcid.org/0000-0001-7886-7550\"\n- family-names: Leitenstern\n  given-names: Maximilian\n  orcid: \"https://orcid.org/0009-0008-6436-7967\"\ndoi: 10.5281/zenodo.20595313\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Kulmer\n    given-names: Dominik\n    orcid: \"https://orcid.org/0000-0001-7886-7550\"\n  - family-names: Leitenstern\n    given-names: Maximilian\n    orcid: \"https://orcid.org/0009-0008-6436-7967\"\n  date-published: 2026-06-26\n  doi: 10.21105/joss.10459\n  issn: 2475-9066\n  issue: 122\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 10459\n  title: \"PointCloudCrafter: Tools for Handling, Manipulating and\n    Analyzing of Point Clouds\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.10459\"\n  volume: 11\ntitle: \"PointCloudCrafter: Tools for Handling, Manipulating and\n  Analyzing of Point Clouds\"\n\n"
+}

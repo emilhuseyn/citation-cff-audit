@@ -1,0 +1,9 @@
+{
+ "repo": "simple-crypto/SCALib",
+ "joss_doi": "10.21105/joss.05196",
+ "joss_title": "SCALib: A Side-Channel Analysis Library",
+ "joss_published": "2023-06-01T10:49:56.921Z",
+ "software_repository": "https://github.com/simple-crypto/SCALib",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Cassiers\n  given-names: Ga\u00ebtan\n  orcid: \"https://orcid.org/0000-0001-5426-9345\"\n- family-names: Bronchain\n  given-names: Olivier\n  orcid: \"https://orcid.org/0000-0001-7595-718X\"\ncontact:\n- family-names: Cassiers\n  given-names: Ga\u00ebtan\n  orcid: \"https://orcid.org/0000-0001-5426-9345\"\ndoi: 10.5281/zenodo.7985686\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Cassiers\n    given-names: Ga\u00ebtan\n    orcid: \"https://orcid.org/0000-0001-5426-9345\"\n  - family-names: Bronchain\n    given-names: Olivier\n    orcid: \"https://orcid.org/0000-0001-7595-718X\"\n  date-published: 2023-06-01\n  doi: 10.21105/joss.05196\n  issn: 2475-9066\n  issue: 86\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5196\n  title: \"SCALib: A Side-Channel Analysis Library\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05196\"\n  volume: 8\ntitle: \"SCALib: A Side-Channel Analysis Library\"\n"
+}

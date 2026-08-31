@@ -1,0 +1,9 @@
+{
+ "repo": "USNavalResearchLaboratory/eispac",
+ "joss_doi": "10.21105/joss.04914",
+ "joss_title": "EISPAC - The EIS Python Analysis Code",
+ "joss_published": "2023-05-27T12:39:46.635Z",
+ "software_repository": "https://github.com/USNavalResearchLaboratory/eispac",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Weberg\"\n  given-names: \"Micah J.\"\n  orcid: \"https://orcid.org/0000-0002-4433-4841\"\n- family-names: \"Warren\"\n  given-names: \"Harry P.\"\n  orcid: \"https://orcid.org/0000-0001-6102-6851\"\n- family-names: \"Crump\"\n  given-names: \"Nicholas\"\n- family-names: \"Barnes\"\n  given-names: \"Will\"\n  orcid: \"https://orcid.org/0000-0001-9642-6089\"\ntitle: \"EISPAC - The EIS Python Analysis Code\"\nversion: 1.0.0\ndoi: 10.5281/zenodo.1234\ndate-released: 2023-05-18\nurl: \"https://github.com/USNavalResearchLaboratory/eispac\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "prmiles/pymcmcstat",
+ "joss_doi": "10.21105/joss.01417",
+ "joss_title": "pymcmcstat: A Python Package for Bayesian Inference Using Delayed Rejection Adaptive Metropolis",
+ "joss_published": "2019-06-06T19:27:16.873Z",
+ "software_repository": "https://github.com/prmiles/pymcmcstat",
+ "status": 404,
+ "cff": null
+}

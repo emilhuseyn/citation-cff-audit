@@ -1,0 +1,9 @@
+{
+ "repo": "lahovniktadej/gatree",
+ "joss_doi": "10.21105/joss.06748",
+ "joss_title": "GATree: Evolutionary decision tree classifier in Python",
+ "joss_published": "2024-08-12T22:42:00.787Z",
+ "software_repository": "https://github.com/lahovniktadej/gatree",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Lahovnik\n  given-names: Tadej\n  orcid: \"https://orcid.org/0009-0005-9689-2991\"\n- family-names: Karakati\u010d\n  given-names: Sa\u0161o\n  orcid: \"https://orcid.org/0000-0003-4441-9690\"\ndoi: 10.5281/zenodo.13307404\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Lahovnik\n    given-names: Tadej\n    orcid: \"https://orcid.org/0009-0005-9689-2991\"\n  - family-names: Karakati\u010d\n    given-names: Sa\u0161o\n    orcid: \"https://orcid.org/0000-0003-4441-9690\"\n  date-published: 2024-08-12\n  doi: 10.21105/joss.06748\n  issn: 2475-9066\n  issue: 100\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6748\n  title: \"GATree: Evolutionary decision tree classifier in Python\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06748\"\n  volume: 9\ntitle: \"GATree: Evolutionary decision tree classifier in Python\"\n"
+}

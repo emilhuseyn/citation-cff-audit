@@ -1,0 +1,9 @@
+{
+ "repo": "jchejarla/spring-batch-db-cluster-partitioning",
+ "joss_doi": "10.21105/joss.09460",
+ "joss_title": "spring-batch-db-cluster-partitioning: Database-driven clustering with heartbeats and failover for Spring Batch",
+ "joss_published": "2026-06-08T18:51:17.579Z",
+ "software_repository": "https://github.com/jchejarla/spring-batch-db-cluster-partitioning",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite our paper in the Journal of Open Source Software.\"\ntitle: \"spring-batch-db-cluster-partitioning\"\nauthors:\n  - family-names: Chejarla\n    given-names: Janardhan Reddy\n    orcid: \"https://orcid.org/0009-0002-4876-802X\"\nrepository-code: \"https://github.com/jchejarla/spring-batch-db-cluster-partitioning\"\nlicense: Apache-2.0\npreferred-citation:\n  type: article\n  title: \"spring-batch-db-cluster-partitioning: Database-driven clustering with heartbeats and failover for Spring Batch\"\n  authors:\n    - family-names: Chejarla\n      given-names: Janardhan Reddy\n      orcid: \"https://orcid.org/0009-0002-4876-802X\"\n  journal: \"Journal of Open Source Software\"\n  year: 2026\n  volume: 11\n  issue: 122\n  start: 9460\n  doi: \"10.21105/joss.09460\"\n  url: \"https://doi.org/10.21105/joss.09460\"\n"
+}

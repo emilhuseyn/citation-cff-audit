@@ -1,0 +1,9 @@
+{
+ "repo": "JuliaGeometry/DelaunayTriangulation.jl",
+ "joss_doi": "10.21105/joss.07174",
+ "joss_title": "DelaunayTriangulation.jl: A Julia package for Delaunay triangulations and Voronoi tessellations in the plane",
+ "joss_published": "2024-09-27T13:20:27.950Z",
+ "software_repository": "https://github.com/JuliaGeometry/DelaunayTriangulation.jl",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: VandenHeuvel\n  given-names: Daniel J.\n  orcid: \"https://orcid.org/0000-0001-6462-0135\"\ncontact:\n- family-names: VandenHeuvel\n  given-names: Daniel J.\n  orcid: \"https://orcid.org/0000-0001-6462-0135\"\ndoi: 10.5281/zenodo.13847646\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: VandenHeuvel\n    given-names: Daniel J.\n    orcid: \"https://orcid.org/0000-0001-6462-0135\"\n  date-published: 2024-09-27\n  doi: 10.21105/joss.07174\n  issn: 2475-9066\n  issue: 101\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7174\n  title: \"DelaunayTriangulation.jl: A Julia package for Delaunay\n    triangulations and Voronoi tessellations in the plane\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07174\"\n  volume: 9\ntitle: \"DelaunayTriangulation.jl: A Julia package for Delaunay\n  triangulations and Voronoi tessellations in the plane\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "martinjrobins/diffsol",
+ "joss_doi": "10.21105/joss.09384",
+ "joss_title": "diffsol: Rust crate for solving differential equations",
+ "joss_published": "2026-01-24T18:50:27.392Z",
+ "software_repository": "https://github.com/martinjrobins/diffsol",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle: \"diffsol: Rust crate for solving differential equations\"\nauthors:\n  - family-names: \"Robinson\"\n    given-names: \"Martin\"\n  - family-names: \"Allmont\"\n    given-names: \"Alex\"\ndate-released: 2026-02-26\nversion: \"11.117\"\npublisher: \"The Open Journal\"\nurl: \"https://doi.org/10.21105/joss.09384\"\ndoi: \"10.21105/joss.09384\"\nlicense: \"Other\"\nrepository: \"https://github.com/martinjrobins/diffsol\"\npreferred-citation:\n  type: article\n  title: \"diffsol: Rust crate for solving differential equations\"\n  authors:\n    - family-names: \"Robinson\"\n      given-names: \"Martin\"\n    - family-names: \"Allmont\"\n      given-names: \"Alex\"\n  journal: \"Journal of Open Source Software\"\n  year: 2026\n  volume: 11\n  number: 117\n  pages: 9384\n  doi: \"10.21105/joss.09384\"\n  url: \"https://doi.org/10.21105/joss.09384\"\n"
+}

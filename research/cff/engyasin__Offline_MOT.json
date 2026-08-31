@@ -1,0 +1,9 @@
+{
+ "repo": "engyasin/Offline_MOT",
+ "joss_doi": "10.21105/joss.04099",
+ "joss_title": "OfflineMOT: A Python package for multiple objects detection and tracking from bird view stationary drone videos",
+ "joss_published": "2022-06-20T06:29:24.981Z",
+ "software_repository": "https://github.com/engyasin/Offline_MOT",
+ "status": 200,
+ "cff": "# This CITATION.cff file was generated with cffinit.\n# Visit https://bit.ly/cffinit to generate yours today!\n\ncff-version: 1.2.0\ntitle: >-\n  OfflineMOT: A Python Package for multiple objects\n  detection and tracking from bird view stationary\n  drone videos\nmessage: 'If you use this software, please cite it as below.'\ntype: software\nauthors:\n  - given-names: Yasin\n    name-particle: Maan\n    family-names: Yousif\n    email: yy33@tu-clausthal.de\n    orcid: 'https://orcid.org/0000-0002-5282-7259'\n    affiliation: >-\n      Institut f\u00fcr Informatik, Technische Universit\u00e4t\n      Clausthal\n  - given-names: Awad\n    family-names: Mukbil\n    affiliation: >-\n      Institut f\u00fcr Informatik, Technische Universit\u00e4t\n      Clausthal\n  - given-names: J\u00f6rg\n    name-particle: P.\n    family-names: M\u00fcller\n    affiliation: >-\n      Institut f\u00fcr Informatik, Technische Universit\u00e4t\n      Clausthal\nidentifiers:\n  - type: doi\n    value: 10.5281/zenodo.6569417\nrepository-code: 'https://github.com/engyasin/Offline_MOT'\nurl: 'https://github.com/engyasin/Offline_MOT'\n"
+}

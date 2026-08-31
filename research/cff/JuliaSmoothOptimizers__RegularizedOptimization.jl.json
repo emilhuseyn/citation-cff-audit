@@ -1,0 +1,9 @@
+{
+ "repo": "JuliaSmoothOptimizers/RegularizedOptimization.jl",
+ "joss_doi": "10.21105/joss.09344",
+ "joss_title": "RegularizedOptimization.jl: A Julia framework for regularized and nonsmooth optimization",
+ "joss_published": "2026-02-15T18:20:08.028Z",
+ "software_repository": "https://github.com/JuliaSmoothOptimizers/RegularizedOptimization.jl/",
+ "status": 404,
+ "cff": null
+}

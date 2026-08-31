@@ -1,0 +1,9 @@
+{
+ "repo": "openmopac/mopac",
+ "joss_doi": "10.21105/joss.08025",
+ "joss_title": "MOPAC: An open-source semiempirical molecular orbital program",
+ "joss_published": "2026-03-15T06:57:35.546Z",
+ "software_repository": "https://github.com/openmopac/mopac",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, then please cite it. The preferred citation is its JOSS release paper, https://doi.org/10.21105/joss.08025. Alternatively, use the software citation defined by this file.\"\ntitle: MOPAC\ntype: software\nversion: 23.2.5\ndoi: 10.5281/zenodo.6511958\ndate-released: 2026-05-03\nauthors:\n  - family-names: Moussa\n    given-names: \"Jonathan E.\"\n\n  - family-names: Stewart\n    given-names: \"James J. P.\"\n"
+}

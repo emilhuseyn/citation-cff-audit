@@ -1,0 +1,9 @@
+{
+ "repo": "UofABioinformaticsHub/strandCheckR",
+ "joss_doi": "10.21105/joss.01145",
+ "joss_title": "strandCheckR: An R package for quantifying and removing double strand sequences for strand-specific RNA-seq",
+ "joss_published": "2019-02-17T16:40:34.168Z",
+ "software_repository": "https://github.com/UofABioinformaticsHub/strandCheckR",
+ "status": 404,
+ "cff": null
+}

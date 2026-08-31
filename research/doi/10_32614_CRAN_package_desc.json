@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.desc",
+ "source": "crossref",
+ "state": "ok",
+ "title": "desc: Manipulate DESCRIPTION Files",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

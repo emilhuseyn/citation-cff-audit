@@ -1,0 +1,9 @@
+{
+ "repo": "AUTODIAL/AutoEIS",
+ "joss_doi": "10.21105/joss.06256",
+ "joss_title": "AutoEIS: Automated equivalent circuit modeling from electrochemical impedance spectroscopy data using statistical machine learning",
+ "joss_published": "2025-05-16T09:38:54.400Z",
+ "software_repository": "https://github.com/AUTODIAL/AutoEIS/",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Sadeghi\n  given-names: Mohammad Amin\n  orcid: \"https://orcid.org/0000-0002-6756-9117\"\n- family-names: Zhang\n  given-names: Runze\n  orcid: \"https://orcid.org/0009-0004-9088-7924\"\n- family-names: Hattrick-Simpers\n  given-names: Jason\n  orcid: \"https://orcid.org/0000-0003-2937-3188\"\ncontact:\n- family-names: Hattrick-Simpers\n  given-names: Jason\n  orcid: \"https://orcid.org/0000-0003-2937-3188\"\ndoi: 10.5281/zenodo.15066846\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Sadeghi\n    given-names: Mohammad Amin\n    orcid: \"https://orcid.org/0000-0002-6756-9117\"\n  - family-names: Zhang\n    given-names: Runze\n    orcid: \"https://orcid.org/0009-0004-9088-7924\"\n  - family-names: Hattrick-Simpers\n    given-names: Jason\n    orcid: \"https://orcid.org/0000-0003-2937-3188\"\n  date-published: 2025-05-16\n  doi: 10.21105/joss.06256\n  issn: 2475-9066\n  issue: 109\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6256\n  title: \"AutoEIS: Automated equivalent circuit modeling from\n    electrochemical impedance spectroscopy data using statistical\n    machine learning\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06256\"\n  volume: 10\ntitle: \"AutoEIS: Automated equivalent circuit modeling from\n  electrochemical impedance spectroscopy data using statistical machine\n  learning\"\n"
+}

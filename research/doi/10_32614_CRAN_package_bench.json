@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.bench",
+ "source": "crossref",
+ "state": "ok",
+ "title": "bench: High Precision Timing of R Expressions",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "JuliaQuantumControl/GRAPE.jl",
+ "joss_doi": "10.21105/joss.08813",
+ "joss_title": "GRAPE.jl: Gradient Ascent Pulse Engineering in Julia",
+ "joss_published": "2025-11-02T15:18:15.190Z",
+ "software_repository": "https://github.com/JuliaQuantumControl/GRAPE.jl",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Goerz\n  given-names: Michael H.\n  orcid: \"https://orcid.org/0000-0003-2839-9976\"\n- family-names: Carrasco\n  given-names: Sebasti\u00e1n C.\n  orcid: \"https://orcid.org/0000-0002-6512-9695\"\n- family-names: Marshall\n  given-names: Alastair\n  orcid: \"https://orcid.org/0000-0001-7772-2173\"\n- family-names: Malinovsky\n  given-names: Vladimir S.\n  orcid: \"https://orcid.org/0000-0002-0243-9282\"\ndoi: 10.5281/zenodo.17487150\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Goerz\n    given-names: Michael H.\n    orcid: \"https://orcid.org/0000-0003-2839-9976\"\n  - family-names: Carrasco\n    given-names: Sebasti\u00e1n C.\n    orcid: \"https://orcid.org/0000-0002-6512-9695\"\n  - family-names: Marshall\n    given-names: Alastair\n    orcid: \"https://orcid.org/0000-0001-7772-2173\"\n  - family-names: Malinovsky\n    given-names: Vladimir S.\n    orcid: \"https://orcid.org/0000-0002-0243-9282\"\n  date-published: 2025-11-02\n  doi: 10.21105/joss.08813\n  issn: 2475-9066\n  issue: 115\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 8813\n  title: \"GRAPE.jl: Gradient Ascent Pulse Engineering in Julia\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.08813\"\n  volume: 10\ntitle: \"GRAPE.jl: Gradient Ascent Pulse Engineering in Julia\"\n"
+}

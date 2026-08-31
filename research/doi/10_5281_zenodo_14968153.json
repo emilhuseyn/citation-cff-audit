@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.14968153",
+ "source": "datacite",
+ "state": "ok",
+ "title": "FTorch: a library for coupling PyTorch models to Fortran",
+ "type": "Software",
+ "container": ""
+}

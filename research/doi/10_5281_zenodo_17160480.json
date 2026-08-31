@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.17160480",
+ "source": "datacite",
+ "state": "ok",
+ "title": "CFTime.jl: a Julia package for representing time following the Climate and Forecast conventions",
+ "type": "Software",
+ "container": ""
+}

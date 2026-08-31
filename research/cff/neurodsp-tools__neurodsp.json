@@ -1,0 +1,9 @@
+{
+ "repo": "neurodsp-tools/neurodsp",
+ "joss_doi": "10.21105/joss.01272",
+ "joss_title": "NeuroDSP: A package for neural digital signal processing",
+ "joss_published": "2019-04-17T23:22:20.865Z",
+ "software_repository": "https://github.com/neurodsp-tools/neurodsp",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: >-\n  If you use this software, please cite it using the metadata from this file.\ntype: software\ntitle: 'neurodsp: neuro digital signal processing'\nauthors:\n- given-names: 'Thomas'\n  family-names: 'Donoghue'\n  orcid: 'https://orcid.org/0000-0001-5911-0472'\n- given-names: 'Ryan'\n  family-names: 'Hammonds'\n  orcid: 'https://orcid.org/0000-0002-5032-3241'\n- given-names: 'Scott'\n  family-names: 'Cole'\n  orcid: 'https://orcid.org/0000-0002-6168-9951'\n- given-names: 'Richard'\n  family-names: 'Gao'\n  orcid: 'https://orcid.org/0000-0001-5916-6433'\n- given-names: 'Bradley'\n  family-names: 'Voytek'\n  orcid: 'https://orcid.org/0000-0003-1640-2525'\nrepository-code: 'https://github.com/neurodsp-tools/neurodsp'\nurl: 'https://neurodsp-tools.github.io/'\nlicense: Apache-2.0\npreferred-citation:\n  type: article\n  authors:\n  - given-names: 'Scott'\n    family-names: 'Cole'\n    orcid: 'https://orcid.org/0000-0002-6168-9951'\n  - given-names: 'Thomas'\n    family-names: 'Donoghue'\n    orcid: 'https://orcid.org/0000-0001-5911-0472'\n  - given-names: 'Richard'\n    family-names: 'Gao'\n    orcid: 'https://orcid.org/0000-0001-5916-6433'\n  - given-names: 'Bradley'\n    family-names: 'Voytek'\n    orcid: 'https://orcid.org/0000-0003-1640-2525'\n  doi: '10.21105/joss.01272'\n  journal: 'Journal of Open Source Software'\n  month: 4\n  title: 'NeuroDSP: A package for neural digital signal processing'\n  issue: 36\n  volume: 4\n  year: 2019\n  start: 1272\n"
+}

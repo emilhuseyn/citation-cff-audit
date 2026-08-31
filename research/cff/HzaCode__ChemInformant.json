@@ -1,0 +1,9 @@
+{
+ "repo": "HzaCode/ChemInformant",
+ "joss_doi": "10.21105/joss.08341",
+ "joss_title": "ChemInformant: A Robust and Workflow-Centric Python Client for High-Throughput PubChem Access",
+ "joss_published": "2025-08-13T08:35:17.794Z",
+ "software_repository": "https://github.com/HzaCode/ChemInformant",
+ "status": 200,
+ "cff": "cff-version: 2.1.1\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: \"He\"\n    given-names: \"Zhiang\"\n    orcid: \"https://orcid.org/0009-0009-0171-4578\"\ntitle: \"ChemInformant\"\nversion: 2.5.0\ndate-released: 2026-04-18\nurl: \"https://github.com/HzaCode/ChemInformant\"\nlicense: MIT\nkeywords:\n  - python\n  - pubchem\n  - chemistry\n  - api\n  - client\n  - cache\n  - pydantic\n  - cheminformatics\n  - computational chemistry\n  - research software\n  - data validation\n  - open source\n  - machine learning\n  - artificial intelligence\n  - ai\n  - ml\n  - chemical ai\n  - drug discovery\n  - automated discovery\n  - chemical data mining\n  - ai chemistry\n"
+}

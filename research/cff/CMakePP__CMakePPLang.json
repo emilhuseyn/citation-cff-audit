@@ -1,0 +1,9 @@
+{
+ "repo": "CMakePP/CMakePPLang",
+ "joss_doi": "10.21105/joss.05711",
+ "joss_title": "CMakePPLang: An object-oriented extension to CMake",
+ "joss_published": "2023-09-14T00:56:46.826Z",
+ "software_repository": "https://github.com/CMakePP/CMakePPLang/",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Crandall\n  given-names: Zachery\n  orcid: \"https://orcid.org/0000-0003-3161-9378\"\n- family-names: Mulnix\n  given-names: Blake\n- family-names: Butler\n  given-names: Branden\n- family-names: Windus\n  given-names: Theresa L.\n  orcid: \"https://orcid.org/0000-0001-6065-3167\"\n- family-names: Richard\n  given-names: Ryan M.\n  orcid: \"https://orcid.org/0000-0003-4235-5179\"\ncontact:\n- family-names: Richard\n  given-names: Ryan M.\n  orcid: \"https://orcid.org/0000-0003-4235-5179\"\ndoi: 10.5281/zenodo.8339121\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Crandall\n    given-names: Zachery\n    orcid: \"https://orcid.org/0000-0003-3161-9378\"\n  - family-names: Mulnix\n    given-names: Blake\n  - family-names: Butler\n    given-names: Branden\n  - family-names: Windus\n    given-names: Theresa L.\n    orcid: \"https://orcid.org/0000-0001-6065-3167\"\n  - family-names: Richard\n    given-names: Ryan M.\n    orcid: \"https://orcid.org/0000-0003-4235-5179\"\n  date-published: 2023-09-14\n  doi: 10.21105/joss.05711\n  issn: 2475-9066\n  issue: 89\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5711\n  title: \"CMakePPLang: An object-oriented extension to CMake\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05711\"\n  volume: 8\ntitle: \"CMakePPLang: An object-oriented extension to CMake\"\n"
+}

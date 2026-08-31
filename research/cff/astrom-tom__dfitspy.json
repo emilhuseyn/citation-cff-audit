@@ -1,0 +1,9 @@
+{
+ "repo": "astrom-tom/dfitspy",
+ "joss_doi": "10.21105/joss.01249",
+ "joss_title": "dfitspy: a dfits|fitsort implementation in python",
+ "joss_published": "2019-03-14T13:51:30.980Z",
+ "software_repository": "https://github.com/astrom-tom/dfitspy",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: If you use this software, please cite both the article from preferred-citation and the software itself.\nauthors:\n  - family-names: Thomas\n    given-names: Romain\ntitle: 'dfitspy: a dfits|fitsort implementation in python'\nversion: 1.0.0\nurl: https://doi.org/10.21105/joss.01249\ndoi: 10.21105/joss.01249\ndate-released: '2019-05-09'\npreferred-citation:\n  authors:\n    - family-names: Thomas\n      given-names: Romain\n  title: 'dfitspy: a dfits|fitsort implementation in python'\n  doi: 10.21105/joss.01249\n  url: https://doi.org/10.21105/joss.01249\n  type: article-journal\n  pages: '1249'\n  year: '2019'\n  publisher:\n    name: The Open Journal\n"
+}

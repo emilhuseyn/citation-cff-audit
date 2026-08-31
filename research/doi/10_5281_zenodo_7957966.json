@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.7957966",
+ "source": "datacite",
+ "state": "ok",
+ "title": "msmhelper: A Python package for Markov state modeling of protein dynamics",
+ "type": "Software",
+ "container": ""
+}

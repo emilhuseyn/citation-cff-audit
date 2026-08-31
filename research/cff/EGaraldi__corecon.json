@@ -1,0 +1,9 @@
+{
+ "repo": "EGaraldi/corecon",
+ "joss_doi": "10.21105/joss.05407",
+ "joss_title": "CoReCon: an open, community-powered collection of Reionization constraints",
+ "joss_published": "2023-07-05T13:02:18.273Z",
+ "software_repository": "https://github.com/EGaraldi/corecon",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Garaldi\n  given-names: Enrico\n  orcid: \"https://orcid.org/0000-0002-6021-7020\"\ndoi: 10.5281/zenodo.8069253\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Garaldi\n    given-names: Enrico\n    orcid: \"https://orcid.org/0000-0002-6021-7020\"\n  date-published: 2023-07-05\n  doi: 10.21105/joss.05407\n  issn: 2475-9066\n  issue: 87\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5407\n  title: \"CoReCon: an open, community-powered collection of Reionization\n    constraints\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05407\"\n  volume: 8\ntitle: \"CoReCon: an open, community-powered collection of Reionization\n  constraints\"\n"
+}

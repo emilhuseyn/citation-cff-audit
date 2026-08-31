@@ -1,0 +1,9 @@
+{
+ "repo": "caleb531/automata",
+ "joss_doi": "10.21105/joss.05759",
+ "joss_title": "automata: A Python package for simulating and manipulating automata",
+ "joss_published": "2023-10-09T17:13:25.496Z",
+ "software_repository": "https://github.com/caleb531/automata",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Evans\n  given-names: Caleb\n  orcid: \"https://orcid.org/0009-0000-8896-6800\"\n- family-names: Robson\n  given-names: Eliot W.\n  orcid: \"https://orcid.org/0000-0002-1476-6715\"\ncontact:\n- family-names: Robson\n  given-names: Eliot W.\n  orcid: \"https://orcid.org/0000-0002-1476-6715\"\ndoi: 10.5281/zenodo.8419571\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Evans\n    given-names: Caleb\n    orcid: \"https://orcid.org/0009-0000-8896-6800\"\n  - family-names: Robson\n    given-names: Eliot W.\n    orcid: \"https://orcid.org/0000-0002-1476-6715\"\n  date-published: 2023-10-09\n  doi: 10.21105/joss.05759\n  issn: 2475-9066\n  issue: 90\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5759\n  title: \"automata: A Python package for simulating and manipulating\n    automata\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05759\"\n  volume: 8\ntitle: \"automata: A Python package for simulating and manipulating\n  automata\"\n"
+}

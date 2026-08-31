@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.13356847",
+ "source": "datacite",
+ "state": "ok",
+ "title": "harmonize-wq: Standardize, clean and wrangle Water Quality Portal data into more analytic-ready formats",
+ "type": "Software",
+ "container": ""
+}

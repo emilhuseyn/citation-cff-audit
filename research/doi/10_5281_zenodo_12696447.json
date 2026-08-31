@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.12696447",
+ "source": "datacite",
+ "state": "ok",
+ "title": "Catalyst: a Python JIT compiler for auto-differentiable hybrid quantum programs",
+ "type": "Software",
+ "container": ""
+}

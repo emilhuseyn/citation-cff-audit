@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.14867116",
+ "source": "datacite",
+ "state": "ok",
+ "title": "CausalTables.jl: Simulating and storing data for statistical causal inference in Julia",
+ "type": "Software",
+ "container": ""
+}

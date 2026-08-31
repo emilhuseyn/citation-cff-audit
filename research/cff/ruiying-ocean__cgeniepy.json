@@ -1,0 +1,9 @@
+{
+ "repo": "ruiying-ocean/cgeniepy",
+ "joss_doi": "10.21105/joss.06762",
+ "joss_title": "cgeniepy: A Python package for analysing cGENIE Earth System Model output",
+ "joss_published": "2024-09-30T19:13:32.167Z",
+ "software_repository": "https://github.com/ruiying-ocean/cgeniepy",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- email: rui.ying@bristol.ac.uk\n  family-names: Ying\n  given-names: Rui\n  orcid: \"https://orcid.org/0000-0001-5811-2388\"\ncontact:\n- email: rui.ying@bristol.ac.uk\n  family-names: Ying\n  given-names: Rui\n  orcid: \"https://orcid.org/0000-0001-5811-2388\"\ndoi: 10.5281/zenodo.13835532\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - email: rui.ying@bristol.ac.uk\n    family-names: Ying\n    given-names: Rui\n    orcid: \"https://orcid.org/0000-0001-5811-2388\"\n  date-published: 2024-09-30\n  doi: 10.21105/joss.06762\n  issn: 2475-9066\n  issue: 101\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6762\n  title: \"cgeniepy: A Python package for analysing cGENIE Earth System\n    Model output\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06762\"\n  volume: 9\ntitle: \"cgeniepy: A Python package for analysing cGENIE Earth System\n  Model output\"\n"
+}

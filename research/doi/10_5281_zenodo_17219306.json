@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.17219306",
+ "source": "datacite",
+ "state": "ok",
+ "title": "pychoco: all-inclusive Python bindings for the Choco-solver constraint programming library",
+ "type": "Software",
+ "container": ""
+}

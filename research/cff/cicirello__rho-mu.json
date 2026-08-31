@@ -1,0 +1,9 @@
+{
+ "repo": "cicirello/rho-mu",
+ "joss_doi": "10.21105/joss.04663",
+ "joss_title": "\u03c1\u03bc: A Java library of randomization enhancements and other math utilities",
+ "joss_published": "2022-08-27T06:41:11.708Z",
+ "software_repository": "https://github.com/cicirello/rho-mu",
+ "status": 200,
+ "cff": "cff-version: \"1.1.0\"\nmessage: \"If you use this software, please cite it using these metadata.\"\nauthors: \n- family-names: \"Cicirello\"\n  given-names: \"Vincent A\"\n  orcid: \"https://orcid.org/0000-0003-1072-8559\"\ntitle: \"\u03c1\u03bc: A Java library of randomization enhancements and other math utilities\"\ndoi: \"10.5281/zenodo.5523173\"\nlicense: \"GPL-3.0-or-later\"\nurl: \"https://github.com/cicirello/rho-mu\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Cicirello\"\n    given-names: \"Vincent A\"\n    orcid: \"https://orcid.org/0000-0003-1072-8559\"\n  doi: \"10.21105/joss.04663\"\n  journal: \"Journal of Open Source Software\"\n  start: 4663\n  title: \"\u03c1\u03bc: A Java library of randomization enhancements and other math utilities\"\n  issue: 76\n  volume: 7\n  year: 2022\n"
+}

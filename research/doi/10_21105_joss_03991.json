@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.03991",
+ "source": "crossref",
+ "state": "ok",
+ "title": "DCISolver.jl: A Julia Solver for Nonlinear Optimization using Dynamic Control of Infeasibility",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

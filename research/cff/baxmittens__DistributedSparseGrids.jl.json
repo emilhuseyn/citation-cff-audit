@@ -1,0 +1,9 @@
+{
+ "repo": "baxmittens/DistributedSparseGrids.jl",
+ "joss_doi": "10.21105/joss.05003",
+ "joss_title": "DistributedSparseGrids.jl: A Julia library implementing an Adaptive Sparse Grid collocation method",
+ "joss_published": "2023-03-07T14:18:54.862Z",
+ "software_repository": "https://github.com/baxmittens/DistributedSparseGrids.jl",
+ "status": 404,
+ "cff": null
+}

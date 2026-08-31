@@ -1,0 +1,9 @@
+{
+ "repo": "TomonoriHoshi/jpinfect",
+ "joss_doi": "10.21105/joss.08577",
+ "joss_title": "An R Package for Acquiring and Processing Notifiable Infectious Diseases Dataset from the Japan Institute for Health Security",
+ "joss_published": "2025-11-16T08:48:32.408Z",
+ "software_repository": "https://github.com/TomonoriHoshi/jpinfect",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Hoshi\n  given-names: Tomonori\n  orcid: \"https://orcid.org/0000-0003-4569-4600\"\n- family-names: Ishigaki\n  given-names: Erina\n  orcid: \"https://orcid.org/0009-0004-4175-6434\"\n- family-names: Kaneko\n  given-names: Satoshi\n  orcid: \"https://orcid.org/0000-0001-9464-0911\"\ncontact:\n- family-names: Hoshi\n  given-names: Tomonori\n  orcid: \"https://orcid.org/0000-0003-4569-4600\"\ndoi: 10.5281/zenodo.17559765\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Hoshi\n    given-names: Tomonori\n    orcid: \"https://orcid.org/0000-0003-4569-4600\"\n  - family-names: Ishigaki\n    given-names: Erina\n    orcid: \"https://orcid.org/0009-0004-4175-6434\"\n  - family-names: Kaneko\n    given-names: Satoshi\n    orcid: \"https://orcid.org/0000-0001-9464-0911\"\n  date-published: 2025-11-16\n  doi: 10.21105/joss.08577\n  issn: 2475-9066\n  issue: 115\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 8577\n  title: An R Package for Acquiring and Processing Notifiable Infectious\n    Diseases Dataset from the Japan Institute for Health Security\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.08577\"\n  volume: 10\ntitle: An R Package for Acquiring and Processing Notifiable Infectious\n  Diseases Dataset from the Japan Institute for Health Security\n"
+}

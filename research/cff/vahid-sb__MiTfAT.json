@@ -1,0 +1,9 @@
+{
+ "repo": "vahid-sb/MiTfAT",
+ "joss_doi": "10.21105/joss.02827",
+ "joss_title": "MiTfAT: A Python-based Analysis Tool for Molecular fMRI Experiments.",
+ "joss_published": "2021-02-21T10:47:00.217Z",
+ "software_repository": "https://github.com/vahid-sb/MiTfAT",
+ "status": 200,
+ "cff": "# YAML 1.2\n---\nauthors: \n  -\n    family-names: \"Samadi Bokharaie\"\n    given-names: Vahid\n    name-suffix: \"Dr. \"\n    orcid: \"https://orcid.org/0000-0001-6544-7960\"\ncff-version: \"0.1.1\"\ndate-released: 2019-08-01\ndoi: \"  https://zenodo.org/badge/latestdoi/203363866\"\nkeywords: \n  - fMRI\n  - \"functional MRI\"\n  - python\n  - \"fMRI analysis\"\n  - \"data science\"\nlicense: \"GNU (Version 3)\"\nmessage: \"If you use this software, please cite it using these metadata.\"\nrepository-code: \"https://github.com/vahid-sb/mitfat\"\ntitle: \"MiTfAT, a Python-based fMRI Analysis Tool.\"\nversion: \"0.1.1\"\n..."
+}

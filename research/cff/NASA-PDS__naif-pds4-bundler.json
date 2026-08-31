@@ -1,0 +1,9 @@
+{
+ "repo": "NASA-PDS/naif-pds4-bundler",
+ "joss_doi": "10.21105/joss.04327",
+ "joss_title": "NAIF PDS4 Bundler: A Python package to generate SPICE PDS4 archives",
+ "joss_published": "2022-07-07T21:09:23.683Z",
+ "software_repository": "https://github.com/NASA-PDS/naif-pds4-bundler",
+ "status": 404,
+ "cff": null
+}

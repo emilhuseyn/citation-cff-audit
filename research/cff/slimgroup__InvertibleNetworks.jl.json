@@ -1,0 +1,9 @@
+{
+ "repo": "slimgroup/InvertibleNetworks.jl",
+ "joss_doi": "10.21105/joss.06554",
+ "joss_title": "InvertibleNetworks.jl: A Julia package for scalable normalizing flows",
+ "joss_published": "2024-07-30T01:58:22.025Z",
+ "software_repository": "https://github.com/slimgroup/InvertibleNetworks.jl",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Orozco\n  given-names: Rafael\n- family-names: Witte\n  given-names: Philipp\n- family-names: Louboutin\n  given-names: Mathias\n- family-names: Siahkoohi\n  given-names: Ali\n- family-names: Rizzuti\n  given-names: Gabrio\n- family-names: Peters\n  given-names: Bas\n- family-names: Herrmann\n  given-names: Felix J.\ndoi: 10.5281/zenodo.12810006\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Orozco\n    given-names: Rafael\n  - family-names: Witte\n    given-names: Philipp\n  - family-names: Louboutin\n    given-names: Mathias\n  - family-names: Siahkoohi\n    given-names: Ali\n  - family-names: Rizzuti\n    given-names: Gabrio\n  - family-names: Peters\n    given-names: Bas\n  - family-names: Herrmann\n    given-names: Felix J.\n  date-published: 2024-07-30\n  doi: 10.21105/joss.06554\n  issn: 2475-9066\n  issue: 99\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6554\n  title: \"InvertibleNetworks.jl: A Julia package for scalable\n    normalizing flows\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06554\"\n  volume: 9\ntitle: \"InvertibleNetworks.jl: A Julia package for scalable normalizing\n  flows\"\n"
+}

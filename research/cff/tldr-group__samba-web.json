@@ -1,0 +1,9 @@
+{
+ "repo": "tldr-group/samba-web",
+ "joss_doi": "10.21105/joss.06159",
+ "joss_title": "SAMBA: A Trainable Segmentation Web-App with Smart Labelling",
+ "joss_published": "2024-06-05T08:49:24.569Z",
+ "software_repository": "https://github.com/tldr-group/samba-web",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - name: Ronan Docherty\n    orcid: 0000-0002-7332-0924\n  - name: Isaac Squires\n    orcid: 0000-0003-1919-061X\n  - name: Antonis Vamvakeros\n    orcid: 0000-0002-4745-0602\n  - name: Samuel J. Cooper\n    orcid: 0000-0003-4055-6903\ntitle: \"SAMBA: A Trainable Segmentation Web-App with Smart Labelling\"\ndoi: 10.21105/joss.06159\nurl: \"https://github.com/tldr-group/samba-web\"\npreferred-citation:\n  type: article\n  authors:\n  - name: Ronan Docherty\n    orcid: 0000-0002-7332-0924\n  - name: Isaac Squires\n    orcid: 0000-0003-1919-061X\n  - name: Antonis Vamvakeros\n    orcid: 0000-0002-4745-0602\n  - name: Samuel J. Cooper\n    orcid: 0000-0003-4055-6903\n  doi: \"10.21105/joss.06159\"\n  journal: \"Journal of Open Source Software\"\n  month: 6\n  title: \"SAMBA: A Trainable Segmentation Web-App with Smart Labelling\"\n  issue: 98\n  volume: 9\n  year: 2024"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "dfki-ric/mujoco_ros2_control",
+ "joss_doi": "10.21105/joss.09140",
+ "joss_title": "MujocoROS2Control: Seamless MuJoCo Integration with ROS 2 for Robot Simulation and Control",
+ "joss_published": "2025-12-10T15:23:18.061Z",
+ "software_repository": "https://github.com/dfki-ric/mujoco_ros2_control",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it using the following metadata.\"\ntitle: \"MujocoROS2Control: Seamless MuJoCo Integration with ROS 2 for Robot Simulation and Control\"\nauthors:\n  - family-names: \"Danzglock\"\n    given-names: \"Adrian\"\n    orcid: \"https://orcid.org/0009-0004-4715-2973\"\n  - family-names: \"Origanti\"\n    given-names: \"Vamsi Krishna\"\n    orcid: \"https://orcid.org/0009-0007-1696-5201\"\n  - family-names: \"Kirchner\"\n    given-names: \"Frank\"\n    orcid: \"https://orcid.org/0000-0002-1713-9784\"\nversion: \"1.0.0\"\ndoi: \"10.21105/joss.09140\"\npreferred-citation:\n  type: article\n  title: \"MujocoROS2Control: Seamless MuJoCo Integration with ROS 2 for Robot Simulation and Control\"\n  authors:\n    - family-names: \"Danzglock\"\n      given-names: \"Adrian\"\n      orcid: \"https://orcid.org/0009-0004-4715-2973\"\n    - family-names: \"Origanti\"\n      given-names: \"Vamsi Krishna\"\n      orcid: \"https://orcid.org/0009-0007-1696-5201\"\n    - family-names: \"Kirchner\"\n      given-names: \"Frank\"\n      orcid: \"https://orcid.org/0000-0002-1713-9784\"\n  doi: \"10.21105/joss.09140\"\n  journal: \"Journal of Open Source Software\"\n  publisher: \"The Open Journal\"\n  volume: 10\n  issue: 116\n  start: 9140\n  year: 2025"
+}

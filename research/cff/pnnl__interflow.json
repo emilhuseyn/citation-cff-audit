@@ -1,0 +1,9 @@
+{
+ "repo": "pnnl/interflow",
+ "joss_doi": "10.21105/joss.04336",
+ "joss_title": "interflow: A Python package to organize, calculate, and visualize sectoral interdependency flow data",
+ "joss_published": "2022-06-14T21:29:49.596Z",
+ "software_repository": "https://github.com/pnnl/interflow",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please use the following citation:\"\nauthors:\n- family-names: \"Mongird\"\n  given-names: \"Kendall L.\"\n- family-names: \"Oikonomou\"\n  given-names: \"Konstantinos\"\n- family-names: \"Homer\"\n  given-names: \"Juliet S.\"\n- family-names: \"Rice\"\n  given-names: \"Jennie S.\"\ntitle: \"interflow: a Python package for collecting, calculating, organizing, and visualizing cross-sectoral resource interdependencies and flows.\"\nversion: 0.1.0\ndate-released: 2022-04-01\nurl: \"https://github.com/pnnl/interflow\"\n"
+}

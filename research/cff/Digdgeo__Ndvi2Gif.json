@@ -1,0 +1,9 @@
+{
+ "repo": "Digdgeo/Ndvi2Gif",
+ "joss_doi": "10.21105/joss.10654",
+ "joss_title": "Ndvi2Gif: A Python Package for Multi-Seasonal Remote Sensing Analysis with Google Earth Engine",
+ "joss_published": "2026-08-20T00:23:14.984Z",
+ "software_repository": "https://github.com/Digdgeo/Ndvi2Gif",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite the JOSS paper (preferred-citation).\"\ntitle: \"Ndvi2Gif: A Python Package for Multi-Seasonal Remote Sensing Analysis with Google Earth Engine\"\ntype: software\nauthors:\n  - family-names: \"Garc\u00eda D\u00edaz\"\n    given-names: \"Diego\"\n    orcid: \"https://orcid.org/0000-0002-2757-7112\"\n    affiliation: \"Laboratorio de SIG y Teledetecci\u00f3n de la Estaci\u00f3n Biol\u00f3gica de Do\u00f1ana (LAST-EBD), CSIC, Spain\"\nidentifiers:\n  - type: doi\n    value: \"10.21105/joss.10654\"\n    description: \"JOSS paper describing Ndvi2Gif\"\n  - type: doi\n    value: \"10.5281/zenodo.20693553\"\n    description: \"Concept DOI of the Zenodo software archive (all versions)\"\nrepository-code: \"https://github.com/Digdgeo/Ndvi2Gif\"\nurl: \"https://digdgeo.github.io/Ndvi2Gif/\"\nlicense: MIT\nversion: 1.5.0\ndate-released: \"2026-08-24\"\npreferred-citation:\n  type: article\n  title: \"Ndvi2Gif: A Python Package for Multi-Seasonal Remote Sensing Analysis with Google Earth Engine\"\n  authors:\n    - family-names: \"Garc\u00eda D\u00edaz\"\n      given-names: \"Diego\"\n      orcid: \"https://orcid.org/0000-0002-2757-7112\"\n      affiliation: \"Laboratorio de SIG y Teledetecci\u00f3n de la Estaci\u00f3n Biol\u00f3gica de Do\u00f1ana (LAST-EBD), CSIC, Spain\"\n  journal: \"Journal of Open Source Software\"\n  year: 2026\n  volume: 11\n  issue: 124\n  start: 10654\n  publisher:\n    name: \"The Open Journal\"\n  doi: \"10.21105/joss.10654\"\n  url: \"https://doi.org/10.21105/joss.10654\"\n"
+}

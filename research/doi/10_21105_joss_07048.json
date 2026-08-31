@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.07048",
+ "source": "crossref",
+ "state": "ok",
+ "title": "ProbNumDiffEq.jl: Probabilistic Numerical Solvers for\nOrdinary Differential Equations in Julia",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

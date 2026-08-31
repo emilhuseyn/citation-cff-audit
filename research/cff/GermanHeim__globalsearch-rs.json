@@ -1,0 +1,9 @@
+{
+ "repo": "GermanHeim/globalsearch-rs",
+ "joss_doi": "10.21105/joss.09234",
+ "joss_title": "GlobalSearch-rs: A multistart framework for global optimization written in Rust",
+ "joss_published": "2025-11-05T16:13:56.710Z",
+ "software_repository": "https://github.com/GermanHeim/globalsearch-rs",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Heim\n  given-names: Germ\u00e1n Mart\u00edn\n  orcid: \"https://orcid.org/0009-0007-9834-7924\"\ndoi: 10.5281/zenodo.17533965\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Heim\n    given-names: Germ\u00e1n Mart\u00edn\n    orcid: \"https://orcid.org/0009-0007-9834-7924\"\n  date-published: 2025-11-05\n  doi: 10.21105/joss.09234\n  issn: 2475-9066\n  issue: 115\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9234\n  title: \"GlobalSearch-rs: A multistart framework for global\n    optimization written in Rust\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09234\"\n  volume: 10\ntitle: \"GlobalSearch-rs: A multistart framework for global optimization\n  written in Rust\"\n"
+}

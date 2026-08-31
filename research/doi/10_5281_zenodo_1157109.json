@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.1157109",
+ "source": "datacite",
+ "state": "ok",
+ "title": "Category Encoders: a scikit-learn-contrib package of transformers for encoding categorical data",
+ "type": "Software",
+ "container": ""
+}

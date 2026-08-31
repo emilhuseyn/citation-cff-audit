@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.05380",
+ "source": "crossref",
+ "state": "ok",
+ "title": "MembraneAnalysis.jl: A Julia package for analyzing\nmolecular dynamics simulations of lipid membranes",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

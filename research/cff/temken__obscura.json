@@ -1,0 +1,9 @@
+{
+ "repo": "temken/obscura",
+ "joss_doi": "10.21105/joss.03725",
+ "joss_title": "obscura: A modular C++ tool and library for the direct detection of (sub-GeV) dark matter via nuclear and electron recoils",
+ "joss_published": "2021-12-01T21:50:45.351Z",
+ "software_repository": "https://github.com/temken/obscura",
+ "status": 404,
+ "cff": null
+}

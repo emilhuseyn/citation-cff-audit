@@ -1,0 +1,9 @@
+{
+ "repo": "barbagroup/AmgXWrapper",
+ "joss_doi": "10.21105/joss.00280",
+ "joss_title": "AmgXWrapper: An interface between PETSc and the NVIDIA AmgX library",
+ "joss_published": "2017-08-29T00:00:00.000Z",
+ "software_repository": "https://github.com/barbagroup/AmgXWrapper",
+ "status": 404,
+ "cff": null
+}

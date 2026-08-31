@@ -1,0 +1,9 @@
+{
+ "repo": "cjtu/craterpy",
+ "joss_doi": "10.21105/joss.08663",
+ "joss_title": "Craterpy: Impact crater data science in Python",
+ "joss_published": "2025-09-29T21:40:03.552Z",
+ "software_repository": "https://github.com/cjtu/craterpy",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nauthors:\n- family-names: Tai Udovicic\n  given-names: Christian J.\n  orcid: \"https://orcid.org/0000-0001-9972-1534\"\n- family-names: Essunfeld\n  given-names: Ari\n  orcid: \"https://orcid.org/0000-0001-8689-0734\"\n- family-names: Costello\n  given-names: Emily S.\n  orcid: \"https://orcid.org/0000-0001-7939-9867\"\ndoi: 10.5281/zenodo.17211085\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Tai Udovicic\n    given-names: Christian J.\n    orcid: \"https://orcid.org/0000-0001-9972-1534\"\n  - family-names: Essunfeld\n    given-names: Ari\n    orcid: \"https://orcid.org/0000-0001-8689-0734\"\n  - family-names: Costello\n    given-names: Emily S.\n    orcid: \"https://orcid.org/0000-0001-7939-9867\"\n  date-published: 2025-09-29\n  doi: 10.21105/joss.08663\n  issn: 2475-9066\n  issue: 113\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 8663\n  title: \"Craterpy: Impact crater data science in Python\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.08663\"\n  volume: 10\ntitle: \"Craterpy: Impact crater data science in Python\"\n"
+}

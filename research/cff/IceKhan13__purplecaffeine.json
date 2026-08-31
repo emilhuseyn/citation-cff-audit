@@ -1,0 +1,9 @@
+{
+ "repo": "IceKhan13/purplecaffeine",
+ "joss_doi": "10.21105/joss.05673",
+ "joss_title": "PurpleCaffeine: tracking of quantum programs and experiments",
+ "joss_published": "2023-10-03T17:53:40.544Z",
+ "software_repository": "https://github.com/IceKhan13/purplecaffeine",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: \"Sitdikov\"\n    given-names: \"Iskandar\"\n    orcid: https://orcid.org/0000-0002-6809-8943\n  - family-names: \"Rollin\"\n    given-names: \"Micha\u00ebl\"\n    orcid: https://orcid.org/0000-0001-8619-8190\n  - family-names: \"Kuriyodath\"\n    given-names: \"Ansah Mohammad\" \n    orcid: https://orcid.org/0009-0005-5517-5363\n  - family-names: \"H\u00e9rnandez\"\n    given-names: \"Luis Eduardo Mart\u00ednez\"\n    orcid: https://orcid.org/0000-0003-0354-5092\ntitle: \"PurpleCaffeine: tracking of quantum programs and experiments\"\nversion: v0.2.5\ndoi: 10.5281/zenodo.8357490\ndate-released: 2023-09-19\nurl: \"https://github.com/IceKhan13/purplecaffeine\""
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "jeremiecoullon/SGMCMCJax",
+ "joss_doi": "10.21105/joss.04113",
+ "joss_title": "SGMCMCJax: a lightweight JAX library for stochastic gradient Markov chain Monte Carlo algorithms",
+ "joss_published": "2022-04-18T15:53:10.030Z",
+ "software_repository": "https://github.com/jeremiecoullon/SGMCMCJax",
+ "status": 404,
+ "cff": null
+}

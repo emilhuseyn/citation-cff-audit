@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.18412137",
+ "source": "datacite",
+ "state": "ok",
+ "title": "LightKrylov: Lightweight implementation of Krylov subspace techniques in modern Fortran",
+ "type": "Software",
+ "container": ""
+}

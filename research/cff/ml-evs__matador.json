@@ -1,0 +1,9 @@
+{
+ "repo": "ml-evs/matador",
+ "joss_doi": "10.21105/joss.02563",
+ "joss_title": "matador: a Python library for analysing, curating and performing high-throughput density-functional theory calculations",
+ "joss_published": "2020-10-27T07:27:54.387Z",
+ "software_repository": "https://github.com/ml-evs/matador",
+ "status": 200,
+ "cff": "# YAML 1.2\n# Metadata for citation of this software according to the CFF format (https://citation-file-format.github.io/)\ncff-version: 1.2.0\nmessage: If you use this software, please cite the following article and versioned archive.\ntitle: \"matador\"\ndoi: 10.5281/zenodo.3908573\nauthors:\n- given-names: Matthew L.\n  family-names: Evans\n  affiliation: University of Cambridge\n  orcid: https://orcid.org/0000-0002-1182-9098\nrepository-code: https://github.com/ml-evs/matador\nurl: https://github.com/ml-evs/matador\ntype: software\nlicense: MIT\npreferred-citation:\n  type: article\n  authors:\n  - given-names: Matthew L.\n    family-names: Evans\n    affiliation: University of Cambridge\n    orcid: https://orcid.org/0000-0002-1182-9098\n  - given-names: Andrew J.\n    family-names: Morris\n    affiliation: University of Birmingham\n    orcid: https://orcid.org/0000-0001-7453-5698\n  doi: \"10.21105/joss.02563\"\n  journal: \"Journal of Open Source Software\"\n  title: \"matador: a Python library for analysing, curating and performing high-throughput density-functional theory calculations\"\n  volume: 5\n  number: 54\n  year: 2020\n"
+}

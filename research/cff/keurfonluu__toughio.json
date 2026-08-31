@@ -1,0 +1,9 @@
+{
+ "repo": "keurfonluu/toughio",
+ "joss_doi": "10.21105/joss.02412",
+ "joss_title": "toughio: Pre- and post-processing Python library for TOUGH",
+ "joss_published": "2020-07-27T18:55:38.200Z",
+ "software_repository": "https://github.com/keurfonluu/toughio",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Luu\"\n  given-names: \"Keurfon\"\n  orcid: \"https://orcid.org/0000-0001-7927-0019\"\ntitle: \"toughio: Pre- and post-processing Python library for TOUGH\"\ndoi: 10.21105/joss.02412\nurl: https://github.com/keurfonluu/toughio\nlicense: BSD-3-Clause"
+}

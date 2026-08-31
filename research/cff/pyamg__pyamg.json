@@ -1,0 +1,9 @@
+{
+ "repo": "pyamg/pyamg",
+ "joss_doi": "10.21105/joss.05495",
+ "joss_title": "PyAMG: Algebraic Multigrid Solvers in Python",
+ "joss_published": "2023-07-04T16:58:55.371Z",
+ "software_repository": "https://github.com/pyamg/pyamg",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: If you use this software, please see citation.bib\ntitle: 'PyAMG: Algebraic Multigrid Solvers in Python'\nlicense: MIT\nrepository-code: https://github.com/pyamg/pyamg\ntype: software\nversion: 5.0.0\nauthors:\n- family-names: Bell\n  given-names: Nathan\n- family-names: Olson\n  given-names: Luke N.\n  orcid: \"https://orcid.org/0000-0002-5283-6104\"\n- family-names: Schroder\n  given-names: Jacob\n  orcid: \"https://orcid.org/0000-0002-1076-9206\"\n- family-names: Southworth\n  given-names: Ben\n  orcid: \"https://orcid.org/0000-0002-0283-4928\"\npreferred-citation:\n  authors:\n  - family-names: Bell\n    given-names: Nathan\n  - family-names: Olson\n    given-names: Luke N.\n    orcid: \"https://orcid.org/0000-0002-5283-6104\"\n  - family-names: Schroder\n    given-names: Jacob\n    orcid: \"https://orcid.org/0000-0002-1076-9206\"\n  - family-names: Southworth\n    given-names: Ben\n    orcid: \"https://orcid.org/0000-0002-0283-4928\"\n  date-published: 2023-07-04\n  doi: 10.21105/joss.05495\n  issn: 2475-9066\n  issue: 87\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5495\n  title: \"PyAMG: Algebraic Multigrid Solvers in Python\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05495\"\n  volume: 8\n"
+}

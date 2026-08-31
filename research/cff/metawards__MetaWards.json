@@ -1,0 +1,9 @@
+{
+ "repo": "metawards/MetaWards",
+ "joss_doi": "10.21105/joss.03914",
+ "joss_title": "MetaWards: A flexible metapopulation framework for modelling disease spread",
+ "joss_published": "2022-02-14T13:56:48.479Z",
+ "software_repository": "https://github.com/metawards/MetaWards",
+ "status": 200,
+ "cff": "# YAML 1.2\n---\nauthors: \n  -\n    family-names: Woods\n    given-names: Christopher\n    orcid: \"https://orcid.org/0000-0001-6563-9903\"\n  -\n    family-names: Hedges\n    given-names: Lester\n    orcid: \"https://orcid.org/0000-0002-5624-0500\"\n  -\n    family-names: Edsall\n    given-names: Christopher\n    orcid: \"https://orcid.org/0000-0001-6863-2184\"\n  -\n    family-names: \"Brooks-Pollock\"\n    given-names: Ellen\n    orcid: \"https://orcid.org/0000-0002-5984-4932\"\n  -\n    family-names: \"Parton-Fenton\"\n    given-names: Christopher\n    orcid: \"https://orcid.org/0000-0003-0052-8430\"\n  -\n    family-names: McKinley\n    given-names: \"Trevelyan J\"\n    orcid: \"https://orcid.org/0000-0002-9485-3236\"\n  -\n    family-names: Keeling\n    given-names: \"Matt J\"\n    orcid: \"https://orcid.org/0000-0003-4639-4765\"\n  -\n    family-names: Danon\n    given-names: Leon\n    orcid: \"https://orcid.org/0000-0002-7076-1871\"\ncff-version: \"1.1.0\"\nmessage: \"If you use this software, please cite it as described here.\"\ntitle: MetaWards\nversion: \"1.6.2\"\n...\n"
+}

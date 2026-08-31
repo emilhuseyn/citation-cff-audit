@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.10563095",
+ "source": "datacite",
+ "state": "ok",
+ "title": "FEniCS-arclength: A numerical continuation package in FEniCS for nonlinear problems in solid mechanics",
+ "type": "Software",
+ "container": ""
+}

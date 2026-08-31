@@ -1,0 +1,9 @@
+{
+ "repo": "SALib/SALib",
+ "joss_doi": "10.21105/joss.00097",
+ "joss_title": "SALib: An open-source Python library for Sensitivity Analysis",
+ "joss_published": "2017-01-10T00:00:00.000Z",
+ "software_repository": "https://github.com/SALib/SALib",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Iwanaga\"\n  given-names: \"Takuya\"\n  orcid: \"0000-0001-8173-0870\"\n- family-names: \"Usher\"\n  given-names: \"Will\"\n  orcid: \"0000-0001-9367-1791\"\n- family-names: \"Herman\"\n  given-names: \"Jon\"\n  orcid: \"0000-0002-4081-3175\"\ntitle: \"SALib: An open-source Python library for sensitivity analysis\"\nversion: 1.4.6.1\ndoi: 10.21105/joss.00097\ndate-released: 2022-05-01\nurl: \"https://github.com/SALib/SALib\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Iwanaga\"\n    given-names: \"Takuya\"\n    orcid: \"0000-0001-8173-0870\"\n  - family-names: \"Usher\"\n    given-names: \"Will\"\n    orcid: \"0000-0001-9367-1791\"\n  - family-names: \"Herman\"\n    given-names: \"Jon\"\n    orcid: \"0000-0002-4081-3175\"\n  doi: \"10.18174/sesmo.18155\"\n  journal: \"Socio-Environmental Systems Modelling\"\n  month: 5\n  start: 1 # First page number\n  end: 15 # Last page number\n  title: \"Toward SALib 2.0: Advancing the accessibility and interpretability of global sensitivity analyses\"\n  issue: 1\n  volume: 4\n  year: 2022\n"
+}

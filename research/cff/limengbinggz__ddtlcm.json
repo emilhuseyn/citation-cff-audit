@@ -1,0 +1,9 @@
+{
+ "repo": "limengbinggz/ddtlcm",
+ "joss_doi": "10.21105/joss.06220",
+ "joss_title": "ddtlcm: An R package for overcoming weak separation in Bayesian latent class analysis via tree-regularization",
+ "joss_published": "2024-07-15T18:10:41.612Z",
+ "software_repository": "https://github.com/limengbinggz/ddtlcm",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Li\n  given-names: Mengbing\n  orcid: \"https://orcid.org/0000-0002-2264-8006\"\n- family-names: Wu\n  given-names: Bolin\n- family-names: Stephenson\n  given-names: Briana\n- family-names: Wu\n  given-names: Zhenke\n  orcid: \"https://orcid.org/0000-0001-7582-669X\"\ncontact:\n- family-names: Li\n  given-names: Mengbing\n  orcid: \"https://orcid.org/0000-0002-2264-8006\"\n- family-names: Wu\n  given-names: Zhenke\n  orcid: \"https://orcid.org/0000-0001-7582-669X\"\ndoi: 10.5281/zenodo.12711232\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Li\n    given-names: Mengbing\n    orcid: \"https://orcid.org/0000-0002-2264-8006\"\n  - family-names: Wu\n    given-names: Bolin\n  - family-names: Stephenson\n    given-names: Briana\n  - family-names: Wu\n    given-names: Zhenke\n    orcid: \"https://orcid.org/0000-0001-7582-669X\"\n  date-published: 2024-07-15\n  doi: 10.21105/joss.06220\n  issn: 2475-9066\n  issue: 99\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6220\n  title: \"ddtlcm: An R package for overcoming weak separation in\n    Bayesian latent class analysis via tree-regularization\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06220\"\n  volume: 9\ntitle: \"ddtlcm: An R package for overcoming weak separation in Bayesian\n  latent class analysis via tree-regularization\"\n\n"
+}

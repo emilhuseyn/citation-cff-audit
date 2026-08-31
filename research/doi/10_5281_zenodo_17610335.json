@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.17610335",
+ "source": "datacite",
+ "state": "ok",
+ "title": "jaxhps: An elliptic PDE solver built with machine learning in mind",
+ "type": "Software",
+ "container": ""
+}

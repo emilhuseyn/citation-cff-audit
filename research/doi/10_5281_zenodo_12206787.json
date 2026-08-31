@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.12206787",
+ "source": "datacite",
+ "state": "ok",
+ "title": "cuallee: A Python package for data quality checks across multiple DataFrame APIs",
+ "type": "Software",
+ "container": ""
+}

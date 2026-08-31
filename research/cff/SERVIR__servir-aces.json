@@ -1,0 +1,9 @@
+{
+ "repo": "SERVIR/servir-aces",
+ "joss_doi": "10.21105/joss.06729",
+ "joss_title": "servir-aces: A Python Package for Training Machine Learning Models for Remote Sensing Applications",
+ "joss_published": "2024-07-10T12:25:12.360Z",
+ "software_repository": "https://github.com/SERVIR/servir-aces",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Bhandari\n  given-names: Biplov\n  orcid: \"https://orcid.org/0000-0001-6169-8236\"\n- family-names: Mayer\n  given-names: Timothy\n  orcid: \"https://orcid.org/0000-0001-9489-9392\"\ndoi: 10.5281/zenodo.12687267\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Bhandari\n    given-names: Biplov\n    orcid: \"https://orcid.org/0000-0001-6169-8236\"\n  - family-names: Mayer\n    given-names: Timothy\n    orcid: \"https://orcid.org/0000-0001-9489-9392\"\n  date-published: 2024-07-10\n  doi: 10.21105/joss.06729\n  issn: 2475-9066\n  issue: 99\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6729\n  title: \"servir-aces: A Python Package for Training Machine Learning\n    Models for Remote Sensing Applications\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06729\"\n  volume: 9\ntitle: \"servir-aces: A Python Package for Training Machine Learning\n  Models for Remote Sensing Applications\"\n"
+}

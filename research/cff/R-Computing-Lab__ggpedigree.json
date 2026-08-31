@@ -1,0 +1,9 @@
+{
+ "repo": "R-Computing-Lab/ggpedigree",
+ "joss_doi": "10.21105/joss.09434",
+ "joss_title": "ggpedigree: Visualizing Pedigrees with 'ggplot2' and 'plotly'",
+ "joss_published": "2026-02-01T00:07:21.215Z",
+ "software_repository": "https://github.com/R-Computing-Lab/ggpedigree",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Garrison\n  given-names: \"S. Mason\"\n  orcid: \"https://orcid.org/0000-0002-4804-6003\"\ncontact:\n- family-names: Garrison\n  given-names: \"S. Mason\"\n  orcid: \"https://orcid.org/0000-0002-4804-6003\"\ndoi: 10.6084/m9.figshare.25238536\nmessage: \"If you use this software, please cite our article in the Journal of Open Source Software.\"\npreferred-citation:\n  authors:\n  - family-names: Garrison\n    given-names: \"S. Mason\"\n    orcid: \"https://orcid.org/0000-0002-4804-6003\"\n  date-published: 2026-02-01\n  doi: 10.21105/joss.09434\n  issn: 2475-9066\n  issue: 118\n  journal: \"Journal of Open Source Software\"\n  publisher:\n    name: \"Open Journals\"\n  start: 9434\n  title: \"ggpedigree: Visualizing Pedigrees with 'ggplot2' and 'plotly'\"\n  type: article\n  year: 2026\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09434\"\n  volume: 11\ntitle: \"ggpedigree: Visualizing Pedigrees with 'ggplot2' and 'plotly'\"\n"
+}

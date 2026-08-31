@@ -1,0 +1,9 @@
+{
+ "repo": "jdiasn/lidarSuit",
+ "joss_doi": "10.21105/joss.04852",
+ "joss_title": "lidarwind: A Python package for retrieving wind profiles from Doppler lidar observations",
+ "joss_published": "2023-02-16T15:56:08.052Z",
+ "software_repository": "https://github.com/jdiasn/lidarSuit",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: If you use this software, please cite it using these metadata.\ntitle: 'A python package for retrieving wind profiles from Doppler lidar observations'\nauthors:\n- given-names: Jos\u00e9\n  family-names: Dias Neto\n  affiliation: Delft University of Technology - The Netherlands\n  orcid: https://orcid.org/0000-0002-8488-8486\n- given-names: Guilherme\n  family-names: Castelao\n  affiliation: Scripps Institution of Oceanography - UC San Diego\n  orcid: https://orcid.org/0000-0002-6765-0708\nversion: 0.1.4\ndoi: 10.5281/zenodo.7026548\nrepository-code: https://github.com/jdiasn/lidarSuit\nlicense: BSD-3-Clause\n"
+}

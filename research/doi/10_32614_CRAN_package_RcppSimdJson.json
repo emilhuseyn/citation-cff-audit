@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.RcppSimdJson",
+ "source": "crossref",
+ "state": "ok",
+ "title": "RcppSimdJson: 'Rcpp' Bindings for the 'simdjson' Header-Only Library for 'JSON' Parsing",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

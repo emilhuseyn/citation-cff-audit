@@ -1,0 +1,9 @@
+{
+ "repo": "HofstadterTools/HofstadterTools",
+ "joss_doi": "10.21105/joss.06356",
+ "joss_title": "HofstadterTools: A Python package for analyzing the Hofstadter model",
+ "joss_published": "2024-03-26T05:48:55.294Z",
+ "software_repository": "https://github.com/HofstadterTools/HofstadterTools",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Andrews\n  given-names: Bartholomew\n  orcid: \"https://orcid.org/0000-0002-9079-7433\"\ndoi: 10.5281/zenodo.10809833\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Andrews\n    given-names: Bartholomew\n    orcid: \"https://orcid.org/0000-0002-9079-7433\"\n  date-published: 2024-03-26\n  doi: 10.21105/joss.06356\n  issn: 2475-9066\n  issue: 95\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6356\n  title: \"HofstadterTools: A Python package for analyzing the Hofstadter\n    model\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06356\"\n  volume: 9\ntitle: \"HofstadterTools: A Python package for analyzing the Hofstadter\n  model\""
+}

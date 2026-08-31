@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.12731309",
+ "source": "datacite",
+ "state": "ok",
+ "title": "TransitionsInTimeseries.jl: A performant, extensible and reliable software for reproducible detection and prediction of transitions in timeseries",
+ "type": "Software",
+ "container": ""
+}

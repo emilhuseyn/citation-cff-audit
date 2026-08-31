@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.17162503",
+ "source": "datacite",
+ "state": "ok",
+ "title": "Stresslog: A python package for modeling wellbore stability in inclined stress states",
+ "type": "Software",
+ "container": ""
+}

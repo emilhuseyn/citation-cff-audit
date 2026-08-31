@@ -1,0 +1,9 @@
+{
+ "repo": "VU-BEAM-Lab/GENRE",
+ "joss_doi": "10.21105/joss.02644",
+ "joss_title": "GENRE (GPU Elastic-Net REgression): A CUDA-Accelerated Package for Massively Parallel Linear Regression with Elastic-Net Regularization",
+ "joss_published": "2020-10-10T17:18:47.402Z",
+ "software_repository": "https://github.com/VU-BEAM-Lab/GENRE",
+ "status": 404,
+ "cff": null
+}

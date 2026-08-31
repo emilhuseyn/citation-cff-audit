@@ -1,0 +1,9 @@
+{
+ "repo": "worlddynamics/WorldDynamics.jl",
+ "joss_doi": "10.21105/joss.05772",
+ "joss_title": "WorldDynamics.jl: A Julia Package for Developing and Simulating Integrated Assessment Models",
+ "joss_published": "2024-03-05T10:10:26.517Z",
+ "software_repository": "https://github.com/worlddynamics/WorldDynamics.jl",
+ "status": 404,
+ "cff": null
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "moldyn/msmhelper",
+ "joss_doi": "10.21105/joss.05339",
+ "joss_title": "msmhelper: A Python package for Markov state modeling of protein dynamics",
+ "joss_published": "2023-05-24T13:46:22.613Z",
+ "software_repository": "https://github.com/moldyn/msmhelper",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Nagel\n  given-names: Daniel\n  orcid: \"https://orcid.org/0000-0002-2863-2646\"\n- family-names: Stock\n  given-names: Gerhard\n  orcid: \"https://orcid.org/0000-0002-3302-3044\"\ndoi: 10.5281/zenodo.7957966\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Nagel\n    given-names: Daniel\n    orcid: \"https://orcid.org/0000-0002-2863-2646\"\n  - family-names: Stock\n    given-names: Gerhard\n    orcid: \"https://orcid.org/0000-0002-3302-3044\"\n  date-published: 2023-05-24\n  doi: 10.21105/joss.05339\n  issn: 2475-9066\n  issue: 85\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5339\n  title: \"msmhelper: A Python package for Markov state modeling of\n    protein dynamics\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05339\"\n  volume: 8\ntitle: \"msmhelper: A Python package for Markov state modeling of protein\n  dynamics\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "retostauffer/python-colorspace",
+ "joss_doi": "10.21105/joss.07120",
+ "joss_title": "colorspace: A Python Toolbox for Manipulating and Assessing Colors and Palettes",
+ "joss_published": "2024-10-29T15:54:07.262Z",
+ "software_repository": "https://github.com/retostauffer/python-colorspace",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"Please use the following citation if referencing this software.\"\ntitle: \"colorspace: A Python Toolbox for Manipulating and Assessing Colors and Palettes\"\nversion: \"1.0.0\"\nauthors:\n  - family-names: Stauffer\n    given-names: Reto\n    affiliation: \"Department of Statistics and Digital Science Center, Universit\u00e4t Innsbruck, Austria\"\n    orcid: \"https://orcid.org/0000-0002-3798-5507\"\n  - family-names: Zeileis\n    given-names: Achim\n    affiliation: \"Department of Statistics, Universit\u00e4t Innsbruck, Austria\"\n    orcid: \"https://orcid.org/0000-0003-0918-3766\"\ndate-released: \"2023-10-28\"\nurl: \"https://retostauffer.github.io/python-colorspace/\"\nrepository-code: \"https://github.com/retostauffer/python-colorspace\"\nlicense: \"GPL-2.0 | GPL-3.0\"\nkeywords:\n   - \"colors\"\n   - \"color palettes\"\n   - \"color spaces\"\n   - \"manipulate colors\"\n   - \"HCL\"\n   - \"HCL colors\"\n   - \"color vision deficiencies\"\n"
+}

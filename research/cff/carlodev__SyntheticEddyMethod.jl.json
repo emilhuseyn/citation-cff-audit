@@ -1,0 +1,9 @@
+{
+ "repo": "carlodev/SyntheticEddyMethod.jl",
+ "joss_doi": "10.21105/joss.05565",
+ "joss_title": "SyntheticEddyMethod.jl: A Julia package for the creation of inlet flow conditions for LES",
+ "joss_published": "2023-07-21T21:48:08.742Z",
+ "software_repository": "https://github.com/carlodev/SyntheticEddyMethod.jl",
+ "status": 404,
+ "cff": null
+}

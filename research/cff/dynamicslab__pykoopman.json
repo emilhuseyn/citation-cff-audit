@@ -1,0 +1,9 @@
+{
+ "repo": "dynamicslab/pykoopman",
+ "joss_doi": "10.21105/joss.05881",
+ "joss_title": "PyKoopman: A Python Package for Data-Driven Approximation of the Koopman Operator",
+ "joss_published": "2024-02-25T16:09:51.357Z",
+ "software_repository": "https://github.com/dynamicslab/pykoopman",
+ "status": 404,
+ "cff": null
+}

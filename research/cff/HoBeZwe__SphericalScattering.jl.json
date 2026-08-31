@@ -1,0 +1,9 @@
+{
+ "repo": "HoBeZwe/SphericalScattering.jl",
+ "joss_doi": "10.21105/joss.05820",
+ "joss_title": "SphericalScattering: A Julia Package for Electromagnetic Scattering from Spherical Objects",
+ "joss_published": "2023-11-30T16:13:26.085Z",
+ "software_repository": "https://github.com/HoBeZwe/SphericalScattering.jl",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Hofmann\n  given-names: Bernd\n  orcid: \"https://orcid.org/0000-0003-1435-6203\"\n- family-names: Respondek\n  given-names: Paula\n  orcid: \"https://orcid.org/0009-0005-4892-2711\"\n- family-names: Adrian\n  given-names: Simon B.\n  orcid: \"https://orcid.org/0000-0001-8008-6235\"\ncontact:\n- family-names: Hofmann\n  given-names: Bernd\n  orcid: \"https://orcid.org/0000-0003-1435-6203\"\ndoi: 10.5281/zenodo.7017219\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Hofmann\n    given-names: Bernd\n    orcid: \"https://orcid.org/0000-0003-1435-6203\"\n  - family-names: Respondek\n    given-names: Paula\n    orcid: \"https://orcid.org/0009-0005-4892-2711\"\n  - family-names: Adrian\n    given-names: Simon B.\n    orcid: \"https://orcid.org/0000-0001-8008-6235\"\n  date-published: 2023-11-30\n  doi: 10.21105/joss.05820\n  issn: 2475-9066\n  issue: 91\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5820\n  title: \"SphericalScattering: A Julia Package for Electromagnetic\n    Scattering from Spherical Objects\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05820\"\n  volume: 8\ntitle: \"SphericalScattering: A Julia Package for Electromagnetic\n  Scattering from Spherical Objects\""
+}

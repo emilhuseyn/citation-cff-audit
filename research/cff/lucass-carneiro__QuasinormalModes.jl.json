@@ -1,0 +1,9 @@
+{
+ "repo": "lucass-carneiro/QuasinormalModes.jl",
+ "joss_doi": "10.21105/joss.04077",
+ "joss_title": "`QuasinormalModes.jl`: A Julia package for computing discrete eigenvalues of second order ODEs",
+ "joss_published": "2022-05-25T16:21:48.475Z",
+ "software_repository": "https://github.com/lucass-carneiro/QuasinormalModes.jl/",
+ "status": 404,
+ "cff": null
+}

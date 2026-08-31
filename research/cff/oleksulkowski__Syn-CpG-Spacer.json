@@ -1,0 +1,9 @@
+{
+ "repo": "oleksulkowski/Syn-CpG-Spacer",
+ "joss_doi": "10.21105/joss.06332",
+ "joss_title": "Syn-CpG-Spacer: A Panel web app for synonymous recoding of viral genomes with CpG dinucleotides",
+ "joss_published": "2024-04-03T09:31:12.256Z",
+ "software_repository": "https://github.com/oleksulkowski/Syn-CpG-Spacer",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Sulkowski\n  given-names: Aleksander\n  orcid: \"https://orcid.org/0000-0002-0624-428X\"\n- family-names: Bouton\n  given-names: Cl\u00e9ment\n  orcid: \"https://orcid.org/0000-0001-9607-6533\"\n- family-names: Swanson\n  given-names: Chad\n  orcid: \"https://orcid.org/0000-0002-6650-3634\"\ncontact:\n- family-names: Sulkowski\n  given-names: Aleksander\n  orcid: \"https://orcid.org/0000-0002-0624-428X\"\ndoi: 10.5281/zenodo.10781374\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Sulkowski\n    given-names: Aleksander\n    orcid: \"https://orcid.org/0000-0002-0624-428X\"\n  - family-names: Bouton\n    given-names: Cl\u00e9ment\n    orcid: \"https://orcid.org/0000-0001-9607-6533\"\n  - family-names: Swanson\n    given-names: Chad\n    orcid: \"https://orcid.org/0000-0002-6650-3634\"\n  date-published: 2024-04-03\n  doi: 10.21105/joss.06332\n  issn: 2475-9066\n  issue: 96\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6332\n  title: \"Syn-CpG-Spacer: A Panel web app for synonymous recoding of\n    viral genomes with CpG dinucleotides\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06332\"\n  volume: 9\ntitle: \"Syn-CpG-Spacer: A Panel web app for synonymous recoding of viral\n  genomes with CpG dinucleotides\"\n"
+}

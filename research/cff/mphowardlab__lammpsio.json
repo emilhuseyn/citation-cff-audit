@@ -1,0 +1,9 @@
+{
+ "repo": "mphowardlab/lammpsio",
+ "joss_doi": "10.21105/joss.08962",
+ "joss_title": "lammpsio: Transparent and reproducible handling of LAMMPS particle data in Python",
+ "joss_published": "2025-12-21T22:44:31.208Z",
+ "software_repository": "https://github.com/mphowardlab/lammpsio",
+ "status": 404,
+ "cff": null
+}

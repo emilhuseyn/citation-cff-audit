@@ -1,0 +1,9 @@
+{
+ "repo": "nathanaelbosch/ProbNumDiffEq.jl",
+ "joss_doi": "10.21105/joss.07048",
+ "joss_title": "ProbNumDiffEq.jl: Probabilistic Numerical Solvers for Ordinary Differential Equations in Julia",
+ "joss_published": "2024-09-30T15:36:17.350Z",
+ "software_repository": "https://github.com/nathanaelbosch/ProbNumDiffEq.jl",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please it as below.\"\nauthors:\n- family-names: \"Bosch\"\n  given-names: \"Nathanael\"\n  orcid: \"https://orcid.org/0000-0003-0139-4622\"\ntitle: 'ProbNumDiffEq.jl: Probabilistic Numerical Solvers for Ordinary Differential Equations in Julia'\nversion: 0.16.2\ndoi: 10.21105/joss.07048\ndate-released: '2024-10-01'\nurl: https://doi.org/10.21105/joss.07048"
+}

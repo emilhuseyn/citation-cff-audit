@@ -1,0 +1,9 @@
+{
+ "repo": "MrMinimal64/multivar_horner",
+ "joss_doi": "10.21105/joss.02392",
+ "joss_title": "multivar_horner: A Python package for computing Horner factorisations of multivariate polynomials",
+ "joss_published": "2020-10-02T09:55:53.965Z",
+ "software_repository": "https://github.com/MrMinimal64/multivar_horner",
+ "status": 404,
+ "cff": null
+}

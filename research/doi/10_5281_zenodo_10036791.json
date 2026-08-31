@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.10036791",
+ "source": "datacite",
+ "state": "ok",
+ "title": "ModeCouplingTheory.jl: A solver for mode-coupling-theory-like integro-differential equations",
+ "type": "Software",
+ "container": ""
+}

@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.18414064",
+ "source": "datacite",
+ "state": "ok",
+ "title": "better_launch: A better replacement for the ROS2 launch system",
+ "type": "Software",
+ "container": ""
+}

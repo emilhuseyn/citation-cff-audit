@@ -1,0 +1,9 @@
+{
+ "repo": "BU-SMBL/mymesh",
+ "joss_doi": "10.21105/joss.10003",
+ "joss_title": "MyMesh: General purpose, implicit, and image-based meshing in Python",
+ "joss_published": "2026-06-01T07:47:44.518Z",
+ "software_repository": "https://github.com/BU-SMBL/mymesh",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Josephson\n  given-names: Timothy O.\n  orcid: \"https://orcid.org/0000-0003-2703-6487\"\n- family-names: Morgan\n  given-names: Elise F.\n  orcid: \"https://orcid.org/0000-0002-3994-1890\"\ncontact:\n- family-names: Josephson\n  given-names: Timothy O.\n  orcid: \"https://orcid.org/0000-0003-2703-6487\"\ndoi: 10.5281/zenodo.17316637\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Josephson\n    given-names: Timothy O.\n    orcid: \"https://orcid.org/0000-0003-2703-6487\"\n  - family-names: Morgan\n    given-names: Elise F.\n    orcid: \"https://orcid.org/0000-0002-3994-1890\"\n  date-published: 2026-06-01\n  doi: 10.21105/joss.10003\n  issn: 2475-9066\n  issue: 122\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 10003\n  title: \"MyMesh: General purpose, implicit, and image-based meshing in\n    Python\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.10003\"\n  volume: 11\ntitle: \"MyMesh: General purpose, implicit, and image-based meshing in\n  Python\"\n"
+}

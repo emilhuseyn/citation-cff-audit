@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.00753",
+ "source": "crossref",
+ "state": "ok",
+ "title": "opt\\_einsum - A Python package for optimizing contraction order for einsum-like expressions",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

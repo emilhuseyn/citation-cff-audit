@@ -1,0 +1,9 @@
+{
+ "repo": "lxvm/AutoBZ.jl",
+ "joss_doi": "10.21105/joss.07080",
+ "joss_title": "AutoBZ.jl: Automatic, adaptive Brillouin zone integration using Wannier interpolation",
+ "joss_published": "2024-10-20T13:05:45.662Z",
+ "software_repository": "https://github.com/lxvm/AutoBZ.jl",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Munoz\n  given-names: Lorenzo\n  name-particle: Van\n  orcid: \"https://orcid.org/0000-0003-0807-5034\"\n- family-names: Beck\n  given-names: Sophie\n  orcid: \"https://orcid.org/0000-0002-9336-6065\"\n- family-names: Kaye\n  given-names: Jason\n  orcid: \"https://orcid.org/0000-0001-8045-6179\"\ndoi: 10.5281/zenodo.13915617\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Munoz\n    given-names: Lorenzo\n    name-particle: Van\n    orcid: \"https://orcid.org/0000-0003-0807-5034\"\n  - family-names: Beck\n    given-names: Sophie\n    orcid: \"https://orcid.org/0000-0002-9336-6065\"\n  - family-names: Kaye\n    given-names: Jason\n    orcid: \"https://orcid.org/0000-0001-8045-6179\"\n  date-published: 2024-10-20\n  doi: 10.21105/joss.07080\n  issn: 2475-9066\n  issue: 102\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7080\n  title: \"AutoBZ.jl: Automatic, adaptive Brillouin zone integration\n    using Wannier interpolation\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07080\"\n  volume: 9\ntitle: \"AutoBZ.jl: Automatic, adaptive Brillouin zone integration using\n  Wannier interpolation\"\n"
+}

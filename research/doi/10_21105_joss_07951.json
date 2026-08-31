@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.07951",
+ "source": "crossref",
+ "state": "ok",
+ "title": "MontePy: a Python library for reading, editing, and writing MCNP input files.",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

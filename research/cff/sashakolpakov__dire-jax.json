@@ -1,0 +1,9 @@
+{
+ "repo": "sashakolpakov/dire-jax",
+ "joss_doi": "10.21105/joss.08264",
+ "joss_title": "DiRe - JAX: A JAX based Dimensionality Reduction Algorithm for Large-scale Data",
+ "joss_published": "2025-06-09T16:48:52.552Z",
+ "software_repository": "https://github.com/sashakolpakov/dire-jax",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this work, please cite it as below.\"\ntitle: \"Dimensionality reduction for homological stability and global structure preservation\"\nauthors:\n  - family-names: Kolpakov\n    given-names: Alexander\n  - family-names: Rivin\n    given-names: Igor\ndoi: 10.48550/arXiv.2503.03156\ndate-released: 2025-03-17\nurl: https://arxiv.org/abs/2503.03156\nabstract: |\n  We propose a new dimensionality reduction toolkit designed to address some of the challenges faced by traditional methods like UMAP and tSNE such as loss of global structure and computational efficiency. Built on the JAX framework, DiRe leverages modern hardware acceleration to provide an efficient, scalable, and interpretable solution for visualizing complex data structures, and for quantitative analysis of lower-dimensional embeddings. The toolkit shows considerable promise in preserving both local and global structures within the data as compared to state-of-the-art UMAP and tSNE implementations. This makes it suitable for a wide range of applications in machine learning, bio-informatics, and data science.\nkeywords:\n  - dimensionality reduction\n  - JAX\n  - homological stability\n  - global structure preservation\n  - machine learning\n  - data visualization\n  - bioinformatics\n  - mathematical software"
+}

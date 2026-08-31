@@ -1,0 +1,8 @@
+{
+ "doi": "10.6084/m9.figshare.28665131",
+ "source": "datacite",
+ "state": "ok",
+ "title": "Dynamax: A Python package for probabilistic state space modeling with JAX",
+ "type": "Software",
+ "container": ""
+}

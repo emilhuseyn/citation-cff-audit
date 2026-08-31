@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.19199548",
+ "source": "datacite",
+ "state": "ok",
+ "title": "MPI-Rockstar: a Hybrid MPI and OpenMP Parallel Implementation of the Rockstar Halo finder",
+ "type": "Software",
+ "container": ""
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "tamu-edu/scrollstats",
+ "joss_doi": "10.21105/joss.09736",
+ "joss_title": "ScrollStats: a Python tool for quantifying scroll bar morphology on meandering rivers",
+ "joss_published": "2026-06-02T17:38:42.970Z",
+ "software_repository": "https://github.com/tamu-edu/scrollstats",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Vanderheiden\n  given-names: Andrew\n  orcid: \"https://orcid.org/0009-0003-2466-8144\"\n- family-names: Hales\n  given-names: Billy\n  orcid: \"https://orcid.org/0000-0002-6591-9363\"\n- family-names: Moodie\n  given-names: Andrew J.\n  orcid: \"https://orcid.org/0000-0002-6745-036X\"\n- family-names: G\u00fcneralp\n  given-names: \u0130nci\n  orcid: \"https://orcid.org/0000-0002-7268-2974\"\ncontact:\n- family-names: Vanderheiden\n  given-names: Andrew\n  orcid: \"https://orcid.org/0009-0003-2466-8144\"\ndoi: 10.5281/zenodo.20131721\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Vanderheiden\n    given-names: Andrew\n    orcid: \"https://orcid.org/0009-0003-2466-8144\"\n  - family-names: Hales\n    given-names: Billy\n    orcid: \"https://orcid.org/0000-0002-6591-9363\"\n  - family-names: Moodie\n    given-names: Andrew J.\n    orcid: \"https://orcid.org/0000-0002-6745-036X\"\n  - family-names: G\u00fcneralp\n    given-names: \u0130nci\n    orcid: \"https://orcid.org/0000-0002-7268-2974\"\n  date-published: 2026-06-02\n  doi: 10.21105/joss.09736\n  issn: 2475-9066\n  issue: 122\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9736\n  title: \"ScrollStats: a Python tool for quantifying scroll bar\n    morphology on meandering rivers\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09736\"\n  volume: 11\ntitle: \"ScrollStats: a Python tool for quantifying scroll bar morphology\n  on meandering rivers\"\n"
+}

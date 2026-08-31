@@ -1,0 +1,9 @@
+{
+ "repo": "boelnasr/ManipulaPy",
+ "joss_doi": "10.21105/joss.08490",
+ "joss_title": "ManipulaPy: A GPU-Accelerated Python Framework for Robotic Manipulation, Perception, and Control",
+ "joss_published": "2025-10-18T13:28:09.819Z",
+ "software_repository": "https://github.com/boelnasr/ManipulaPy",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use ManipulaPy in your research, please cite the JOSS paper (see preferred-citation).\"\ntitle: \"ManipulaPy: A GPU-accelerated Python toolkit for manipulator kinematics, dynamics, planning, control, and simulation\"\ntype: software\nauthors:\n  - family-names: AboElNasr\n    given-names: \"M. I. M.\"\n    email: aboelnasr1997@gmail.com\n    orcid: \"https://orcid.org/0000-0002-1768-2031\"\n    affiliation: \"Universit\u00e4t Duisburg-Essen\"\nversion: 1.4.1\ndate-released: \"2026-08-14\"\nlicense: AGPL-3.0-or-later\nrepository-code: \"https://github.com/boelnasr/ManipulaPy\"\nurl: \"https://manipulapy.readthedocs.io/\"\ndoi: 10.5281/zenodo.17323204  # concept DOI \u2014 resolves to the latest archived version on Zenodo\nkeywords:\n  - robotics\n  - manipulator\n  - kinematics\n  - dynamics\n  - motion-planning\n  - control\n  - simulation\n  - gpu\n  - cuda\n  - python\npreferred-citation:\n  type: article\n  title: \"ManipulaPy: A GPU-Accelerated Python Framework for Robotic Manipulation, Perception, and Control\"\n  authors:\n    - family-names: AboElNasr\n      given-names: \"M. I. M.\"\n      orcid: \"https://orcid.org/0000-0002-1768-2031\"\n      affiliation: \"Universit\u00e4t Duisburg-Essen\"\n  journal: \"Journal of Open Source Software\"\n  year: 2025\n  month: 10\n  volume: 10\n  issue: 114\n  start: 8490\n  doi: \"10.21105/joss.08490\"\n  publisher:\n    name: \"The Open Journal\"\n"
+}

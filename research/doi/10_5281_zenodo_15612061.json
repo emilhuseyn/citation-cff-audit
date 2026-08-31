@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.15612061",
+ "source": "datacite",
+ "state": "ok",
+ "title": "grepq: A Rust application that quickly filters FASTQ files by matching sequences to a set of regular expressions",
+ "type": "Software",
+ "container": ""
+}

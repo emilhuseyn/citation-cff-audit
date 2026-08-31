@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.3232887",
+ "source": "datacite",
+ "state": "ok",
+ "title": "The pdb2sql Python Package: Parsing, Manipulation and Analysis of PDB Files Using SQL Queries",
+ "type": "Software",
+ "container": ""
+}

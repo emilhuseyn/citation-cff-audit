@@ -1,0 +1,9 @@
+{
+ "repo": "nedtaylor/athena",
+ "joss_doi": "10.21105/joss.06492",
+ "joss_title": "ATHENA: A Fortran package for neural networks",
+ "joss_published": "2024-07-04T16:09:30.144Z",
+ "software_repository": "https://github.com/nedtaylor/athena",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Taylor\n  given-names: Ned Thaddeus\n  orcid: \"https://orcid.org/0000-0002-9134-9712\"\ncontact:\n- family-names: Taylor\n  given-names: Ned Thaddeus\n  orcid: \"https://orcid.org/0000-0002-9134-9712\"\ndoi: 10.6084/m9.figshare.26158630\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Taylor\n    given-names: Ned Thaddeus\n    orcid: \"https://orcid.org/0000-0002-9134-9712\"\n  date-published: 2024-07-04\n  doi: 10.21105/joss.06492\n  issn: 2475-9066\n  issue: 99\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6492\n  title: \"ATHENA: A Fortran package for neural networks\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06492\"\n  volume: 9\ntitle: \"ATHENA: A Fortran package for neural networks\"\n"
+}

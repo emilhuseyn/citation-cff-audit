@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.04840",
+ "source": "crossref",
+ "state": "ok",
+ "title": "Spectral Connectivity: a python package for computing\nmultitaper spectral estimates and frequency-domain brain connectivity\nmeasures on the CPU and GPU",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

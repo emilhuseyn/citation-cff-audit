@@ -1,0 +1,9 @@
+{
+ "repo": "almost6heads/ConleyDynamics.jl",
+ "joss_doi": "10.21105/joss.08085",
+ "joss_title": "ConleyDynamics.jl: A Julia package for multivector dynamics on Lefschetz complexes",
+ "joss_published": "2025-07-28T02:05:16.142Z",
+ "software_repository": "https://github.com/almost6heads/ConleyDynamics.jl",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Wanner\n  given-names: Thomas\n  orcid: \"https://orcid.org/0000-0003-3294-0366\"\ndoi: 10.5281/zenodo.15830735\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Wanner\n    given-names: Thomas\n    orcid: \"https://orcid.org/0000-0003-3294-0366\"\n  date-published: 2025-07-28\n  doi: 10.21105/joss.08085\n  issn: 2475-9066\n  issue: 111\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 8085\n  title: \"ConleyDynamics.jl: A Julia package for multivector dynamics on\n    Lefschetz complexes\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.08085\"\n  volume: 10\ntitle: \"ConleyDynamics.jl: A Julia package for multivector dynamics on\n  Lefschetz complexes\"\n\n"
+}

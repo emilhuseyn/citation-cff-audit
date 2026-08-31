@@ -1,0 +1,9 @@
+{
+ "repo": "uw-comphys/shapelets",
+ "joss_doi": "10.21105/joss.06058",
+ "joss_title": "Shapelets: A Python package implementing shapelet functions and their applications",
+ "joss_published": "2024-03-18T12:36:12.939Z",
+ "software_repository": "https://github.com/uw-comphys/shapelets",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Tino\n  given-names: Matthew Peres\n  orcid: \"https://orcid.org/0009-0005-6832-1761\"\n- family-names: Abdulaziz\n  given-names: Abbas Yusuf\n- family-names: Suderman\n  given-names: Robert\n- family-names: Akdeniz\n  given-names: Thomas\n- family-names: Abukhdeir\n  given-names: Nasser Mohieddin\n  orcid: \"https://orcid.org/0000-0002-1772-0376\"\ncontact:\n- family-names: Abukhdeir\n  given-names: Nasser Mohieddin\n  orcid: \"https://orcid.org/0000-0002-1772-0376\"\ndoi: 10.5281/zenodo.10819578\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  type: article\n  authors:\n  - family-names: Tino\n    given-names: Matthew Peres\n    orcid: \"https://orcid.org/0009-0005-6832-1761\"\n  - family-names: Abdulaziz\n    given-names: Abbas Yusuf\n  - family-names: Suderman\n    given-names: Robert\n  - family-names: Akdeniz\n    given-names: Thomas\n  - family-names: Abukhdeir\n    given-names: Nasser Mohieddin\n    orcid: \"https://orcid.org/0000-0002-1772-0376\"\n  date-published: 2024-03-18\n  doi: 10.21105/joss.06058\n  issn: 2475-9066\n  issue: 95\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6058\n  title: \"Shapelets: A Python package implementing shapelet functions\n    and their applications\"\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06058\"\n  volume: 9\n"
+}

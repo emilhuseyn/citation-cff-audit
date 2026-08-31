@@ -1,0 +1,9 @@
+{
+ "repo": "openneuropet/PET2BIDS",
+ "joss_doi": "10.21105/joss.06067",
+ "joss_title": "PET2BIDS: a library for converting Positron Emission Tomography data to BIDS",
+ "joss_published": "2024-08-23T09:29:54.155Z",
+ "software_repository": "https://github.com/openneuropet/PET2BIDS/",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Galassi\"\n  given-names: \"Anthony\"\n  orcid: \"https://orcid.org/0000-0001-6550-4574\"\n- family-names: \"Norgaard\"\n  given-names: \"Martin\"\n  orcid: \"https://orcid.org/0000-0003-2131-5688\"\n- family-names: \"Thomas\"\n  given-names: \"Adam G.\"\n  orcid: \"https://orcid.org/0000-0002-2850-1419\"\n- family-names: \"Gonzalez-Escamilla\"\n  given-names: \"Gabriel\"\n  orcid: \"https://orcid.org/0000-0002-7209-1736\"\n- family-names: \"Svarer\"\n  given-names: \"Claus\"\n  orcid: \"https://orcid.org/0000-0001-7811-1825\"\n- family-names: \"Rorden\"\n  given-names: \"Chris\"\n  orcid: \"https://orcid.org/0000-0002-7554-6142\"\n- family-names: \"Matheson\"\n  given-names: \"Granville\"\n  orcid: \"https://orcid.org/0000-0002-5646-4547\"\n- family-names: \"Knudsen\"\n  given-names: \"Gitte\"\n  orcid: \"https://orcid.org/0000-0003-1508-6866\"\n- family-names: \"Innis\"\n  given-names: \"Robert\"\n  orcid: \"https://orcid.org/0000-0003-1238-7209\"\n- family-names: \"Ganz-Benjaminsen\"\n  given-names: \"Melanie\"\n  orcid: \"https://orcid.org/0000-0002-9120-8098\"\n- family-names: \"Bilgel\"\n  given-names: \"Murat\"\n  orcid: \"https://orcid.org/0000-0001-5042-7422\"\n- family-names: \"Eierud\"\n  given-names: \"Cyrus\"\n  orcid: \"https://orcid.org/0000-0002-9942-676X\"\n- family-names: \"Pernet\"\n  given-names: \"Cyril\"\n  orcid: \"https://orcid.org/0000-0003-4010-4632\"\ntitle: \"PET2BIDS\"\nversion: 1.3.20240502\nurl: \"https://github.com/openneuropet/PET2BIDS\"\ndate-released: 2022-10-01\nlicense: MIT\n"
+}

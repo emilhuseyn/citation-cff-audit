@@ -1,0 +1,9 @@
+{
+ "repo": "StevenGolovkine/FDApy",
+ "joss_doi": "10.21105/joss.07526",
+ "joss_title": "FDApy: a Python package for functional data",
+ "joss_published": "2025-03-04T15:00:43.098Z",
+ "software_repository": "https://github.com/StevenGolovkine/FDApy",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: \"Golovkine\"\n    given-names: \"Steven\"\n    orcid: \"https://orcid.org/0000-0002-5994-2671\"\n    affiliation: \"University of Limerick\"\n    email: steven_golovkine@icloud.com\ntitle: \"StevenGolovkine/FDApy: a Python package for functional data\"\ndoi: 10.5281/zenodo.3891521\ndate-released: 2025-02-28\nurl: \"https://github.com/StevenGolovkine/FDApy\"\nlicense: MIT\nkeywords:\n  - functional data analysis\n  - Python\n"
+}

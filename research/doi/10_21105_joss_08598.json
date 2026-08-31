@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.08598",
+ "source": "crossref",
+ "state": "ok",
+ "title": "open_nipals: An sklearn-compatible Python package for NIPALS dimensionality reduction",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

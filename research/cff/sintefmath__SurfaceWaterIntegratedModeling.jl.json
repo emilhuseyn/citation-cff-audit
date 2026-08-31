@@ -1,0 +1,9 @@
+{
+ "repo": "sintefmath/SurfaceWaterIntegratedModeling.jl",
+ "joss_doi": "10.21105/joss.07785",
+ "joss_title": "Topography-based surface water modeling in Julia, with support for infiltration and temporal developments",
+ "joss_published": "2025-05-01T11:22:02.067Z",
+ "software_repository": "https://github.com/sintefmath/SurfaceWaterIntegratedModeling.jl.git",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Andersen\n  given-names: Odd A.\n  orcid: \"https://orcid.org/0000-0002-2245-9512\"\ndoi: 10.5281/zenodo.15306692\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Andersen\n    given-names: Odd A.\n    orcid: \"https://orcid.org/0000-0002-2245-9512\"\n  date-published: 2025-05-01\n  doi: 10.21105/joss.07785\n  issn: 2475-9066\n  issue: 109\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7785\n  title: Topography-based surface water modeling in Julia, with support\n    for infiltration and temporal developments\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07785\"\n  volume: 10\ntitle: Topography-based surface water modeling in Julia, with support\n  for infiltration and temporal developments\n  "
+}

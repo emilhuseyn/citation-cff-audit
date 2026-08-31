@@ -1,0 +1,9 @@
+{
+ "repo": "DRDC-RDDC/pyMassEvac",
+ "joss_doi": "10.21105/joss.09038",
+ "joss_title": "pyMassEvac: A Python package for simulating multi-domain mass evacuation operations",
+ "joss_published": "2026-01-11T13:07:38.607Z",
+ "software_repository": "https://github.com/DRDC-RDDC/pyMassEvac",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Rempel\n  given-names: Mark\n  orcid: \"https://orcid.org/0000-0002-6248-1722\"\ncontact:\n- family-names: Rempel\n  given-names: Mark\n  orcid: \"https://orcid.org/0000-0002-6248-1722\"\ndoi: 10.5281/zenodo.18187222\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Rempel\n    given-names: Mark\n    orcid: \"https://orcid.org/0000-0002-6248-1722\"\n  date-published: 2026-01-11\n  doi: 10.21105/joss.09038\n  issn: 2475-9066\n  issue: 117\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9038\n  title: \"pyMassEvac: A Python package for simulating multi-domain mass\n    evacuation operations\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09038\"\n  volume: 11\ntitle: \"pyMassEvac: A Python package for simulating multi-domain mass\n  evacuation operations\"\n"
+}

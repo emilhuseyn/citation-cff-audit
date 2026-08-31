@@ -1,0 +1,9 @@
+{
+ "repo": "ianfhunter/GNOLL",
+ "joss_doi": "10.21105/joss.04816",
+ "joss_title": "GNOLL: Efficient Multi-Lingual Software for Real-World Dice Notation and Extensions",
+ "joss_published": "2023-01-17T10:48:58.192Z",
+ "software_repository": "https://github.com/ianfhunter/GNOLL",
+ "status": 200,
+ "cff": "# This CITATION.cff file was generated with cffinit.\r\n# Visit https://bit.ly/cffinit to generate yours today!\r\n\r\ncff-version: 1.2.0\r\ntitle: >-\r\n  GNOLL: Efficient Multi-Lingual Software for Real-World\r\n  Dice Notation and Extensions\r\nmessage: 'If you use this software, please cite it using the following metadata'\r\ntype: software\r\nauthors:\r\n  - given-names: Ian Frederick Vigogne Goodbody\r\n    family-names: Hunter\r\n    email: ianfhunter@gmail.com\r\n    name-particle: Ian\r\n    orcid: 'https://orcid.org/0000-0003-3408-8138'\r\nidentifiers:\r\n  - type: doi\r\n    value: 10.21105/joss.04816\r\n    description: JOSS Paper\r\nrepository-code: 'https://github.com/ianfhunter/GNOLL'\r\nurl: 'https://www.ianhunter.ie/GNOLL/'\r\nabstract: >-\r\n  GNOLL is an open-source library for parsing commonly used\r\n  dice notations in gaming system\r\n\r\n  research and/or software development. GNOLL is performant,\r\n  supports most popular and obscure\r\n\r\n  notations, has permissive licensing, and is integratable\r\n  into many other systems due to it being\r\n\r\n  written in C\r\nkeywords:\r\n  - dice notation\r\n  - dice\r\n  - board games\r\n  - tabletop roleplaying games\r\nlicense: GPL-3.0\r\ncommit: 3bd126678e4c87b652eabe535701faec8d0fab04\r\nversion: v4.3.2\r\ndate-released: '2023-01-17'\r\n"
+}

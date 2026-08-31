@@ -1,0 +1,9 @@
+{
+ "repo": "rnajena/sugar",
+ "joss_doi": "10.21105/joss.08122",
+ "joss_title": "Sugar: A Python framework for bioinformatics",
+ "joss_published": "2025-07-24T10:21:27.800Z",
+ "software_repository": "https://github.com/rnajena/sugar",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\ntitle: \"Sugar: A Python framework for bioinformatics\"\nauthors:\n- family-names: Eulenfeld\n  given-names: Tom\ndoi: 10.5281/zenodo.11388074\nmessage: If you find this software useful, please cite it.\npreferred-citation:\n  authors:\n  - family-names: Eulenfeld\n    given-names: Tom\n  date-published: 2025-07-24\n  doi: 10.21105/joss.08122\n  issn: 2475-9066\n  issue: 111\n  journal: Journal of Open Source Software\n  start: 8122\n  title: \"Sugar: A Python framework for bioinformatics\"\n  type: article\n  volume: 10\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "alicagank/VowSpace",
+ "joss_doi": "10.21105/joss.10189",
+ "joss_title": "VowSpace: A vowel formant analysis application for phonetic research",
+ "joss_published": "2026-04-29T15:38:11.166Z",
+ "software_repository": "https://github.com/alicagank/VowSpace",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Kaya\n  given-names: Ali \u00c7a\u011fan\n  orcid: \"https://orcid.org/0009-0007-9386-9766\"\ndoi: 10.5281/zenodo.19718178\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Kaya\n    given-names: Ali \u00c7a\u011fan\n    orcid: \"https://orcid.org/0009-0007-9386-9766\"\n  date-published: 2026-04-29\n  doi: 10.21105/joss.10189\n  issn: 2475-9066\n  issue: 120\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 10189\n  title: \"VowSpace: A vowel formant analysis application for phonetic\n    research\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.10189\"\n  volume: 11\ntitle: \"VowSpace: A vowel formant analysis application for phonetic\n  research\"\n"
+}

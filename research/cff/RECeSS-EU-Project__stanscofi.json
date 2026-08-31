@@ -1,0 +1,9 @@
+{
+ "repo": "RECeSS-EU-Project/stanscofi",
+ "joss_doi": "10.21105/joss.05973",
+ "joss_title": "stanscofi and benchscofi: a new standard for drug repurposing by collaborative filtering",
+ "joss_published": "2024-01-25T22:35:43.140Z",
+ "software_repository": "https://github.com/RECeSS-EU-Project/stanscofi/",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: R\u00e9da\n  given-names: Cl\u00e9mence\n  orcid: \"https://orcid.org/0000-0003-3238-0258\"\n- family-names: Vie\n  given-names: Jill-J\u00eann\n  orcid: \"https://orcid.org/0000-0002-9304-2220\"\n- family-names: Wolkenhauer\n  given-names: Olaf\n  orcid: \"https://orcid.org/0000-0001-6105-2937\"\ndoi: 10.5281/zenodo.10561760\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: R\u00e9da\n    given-names: Cl\u00e9mence\n    orcid: \"https://orcid.org/0000-0003-3238-0258\"\n  - family-names: Vie\n    given-names: Jill-J\u00eann\n    orcid: \"https://orcid.org/0000-0002-9304-2220\"\n  - family-names: Wolkenhauer\n    given-names: Olaf\n    orcid: \"https://orcid.org/0000-0001-6105-2937\"\n  date-published: 2024-01-25\n  doi: 10.21105/joss.05973\n  issn: 2475-9066\n  issue: 93\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5973\n  title: \"stanscofi and benchscofi: a new standard for drug repurposing\n    by collaborative filtering\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05973\"\n  volume: 9\ntitle: \"stanscofi and benchscofi: a new standard for drug repurposing by\n  collaborative filtering\"\n"
+}

@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.03419",
+ "source": "crossref",
+ "state": "ok",
+ "title": "mpi4jax: Zero-copy MPI communication of JAX arrays",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

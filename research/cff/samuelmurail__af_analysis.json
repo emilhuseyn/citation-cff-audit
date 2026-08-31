@@ -1,0 +1,9 @@
+{
+ "repo": "samuelmurail/af_analysis",
+ "joss_doi": "10.21105/joss.07577",
+ "joss_title": "Af-analysis: a Python package for Alphafold analysis",
+ "joss_published": "2025-03-14T08:11:43.805Z",
+ "software_repository": "https://github.com/samuelmurail/af_analysis",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Reguei\n  given-names: Alaa\n  orcid: \"https://orcid.org/0009-0006-1718-4864\"\n- family-names: Murail\n  given-names: Samuel\n  orcid: \"https://orcid.org/0000-0002-3842-5333\"\ncontact:\n- family-names: Murail\n  given-names: Samuel\n  orcid: \"https://orcid.org/0000-0002-3842-5333\"\ndoi: 10.5281/zenodo.14859764\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Reguei\n    given-names: Alaa\n    orcid: \"https://orcid.org/0009-0006-1718-4864\"\n  - family-names: Murail\n    given-names: Samuel\n    orcid: \"https://orcid.org/0000-0002-3842-5333\"\n  date-published: 2025-03-14\n  doi: 10.21105/joss.07577\n  issn: 2475-9066\n  issue: 107\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7577\n  title: \"Af-analysis: a Python package for Alphafold analysis\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07577\"\n  volume: 10\ntitle: \"Af-analysis: a Python package for Alphafold analysis\""
+}

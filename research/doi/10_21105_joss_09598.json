@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.09598",
+ "source": "crossref",
+ "state": "ok",
+ "title": "TNC: Distributed Tensor Network Contractions in Rust",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

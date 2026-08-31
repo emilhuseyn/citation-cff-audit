@@ -1,0 +1,9 @@
+{
+ "repo": "reizio/reiz.io",
+ "joss_doi": "10.21105/joss.03296",
+ "joss_title": "Reiz: Structural Source Code Search",
+ "joss_published": "2021-06-27T08:23:32.050Z",
+ "software_repository": "https://github.com/reizio/reiz.io",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nauthors:\n- family-names: \"Taskaya\"\n  given-names: \"Batuhan\"\n  orcid: \"https://orcid.org/0000-0002-5081-5529\"\ntitle: \"Reiz: Structural Source Code Search\"\nversion: 1.0.0\ndoi: 10.21105/joss.03296\ndate-released: 21-07-24\nurl: \"https://github.com/reizio/reiz.io\"\n"
+}

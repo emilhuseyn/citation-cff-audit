@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.16860779",
+ "source": "datacite",
+ "state": "ok",
+ "title": "smolyax: a high-performance implementation of the Smolyak interpolation operator in JAX",
+ "type": "Software",
+ "container": ""
+}

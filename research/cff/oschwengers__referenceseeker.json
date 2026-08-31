@@ -1,0 +1,9 @@
+{
+ "repo": "oschwengers/referenceseeker",
+ "joss_doi": "10.21105/joss.01994",
+ "joss_title": "ReferenceSeeker: rapid determination of appropriate reference genomes",
+ "joss_published": "2020-02-04T14:47:33.252Z",
+ "software_repository": "https://github.com/oschwengers/referenceseeker",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: \"If you use ReferenceSeeker, please cite it using these metadata.\"\nauthors: \n  -\n    family-names: Schwengers\n    given-names: Oliver\n    orcid: https://orcid.org/0000-0003-4216-2721\n    affiliation: Bioinformatics and Systems Biology, Justus Liebig University Giessen, Giessen, 35392, Germany\n  -\n    family-names: Hain\n    given-names: Torsten\n    affiliation: Institute of Medical Microbiology, Justus Liebig University Giessen, Giessen, 35392, Germany\n  -\n    family-names: Chakraborty\n    given-names: Trinad\n    affiliation: Institute of Medical Microbiology, Justus Liebig University Giessen, Giessen, 35392, Germany\n  -\n    family-names: Goesmann\n    given-names: Alexander\n    orcid: https://orcid.org/0000-0002-7086-2568\n    affiliation: Bioinformatics and Systems Biology, Justus Liebig University Giessen, Giessen, 35392, Germany\ntitle: \"ReferenceSeeker: rapid determination of appropriate reference genome\"\ndoi: \"10.21105/joss.01994\"\nversion: 1.7.3\nkeywords: \n  - bioinformatics\n  - WGS\n  - NGS\n  - Microbiology\nlicense: GPL-3.0\n\n"
+}

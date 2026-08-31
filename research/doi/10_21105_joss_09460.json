@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.09460",
+ "source": "crossref",
+ "state": "ok",
+ "title": "spring-batch-db-cluster-partitioning: Database-driven clustering with heartbeats and failover for Spring Batch",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

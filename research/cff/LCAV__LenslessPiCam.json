@@ -1,0 +1,9 @@
+{
+ "repo": "LCAV/LenslessPiCam",
+ "joss_doi": "10.21105/joss.04747",
+ "joss_title": "LenslessPiCam: A Hardware and Software Platform for Lensless Computational Imaging with a Raspberry Pi",
+ "joss_published": "2023-06-26T12:09:07.614Z",
+ "software_repository": "https://github.com/LCAV/LenslessPiCam",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Bezzam\"\n  given-names: \"Eric\"\n  orcid: \"https://orcid.org/0000-0003-4837-5031\"\n- family-names: \"Kashani\"\n  given-names: \"Sepand\"\n  orcid: \"https://orcid.org/0000-0002-0735-371X\"\n- family-names: \"Vetterli\"\n  given-names: \"Martin\"\n  orcid: \"https://orcid.org/0000-0002-6122-1216\"\n- family-names: \"Simeoni\"\n  given-names: \"Matthieu\"\n  orcid: \"https://orcid.org/0000-0002-4927-3697\"\ntitle: \"LenslessPiCam: A Hardware and Software Platform for Lensless Computational Imaging with a Raspberry Pi\"\ndoi: doi.org/10.5281/zenodo.8036869\ndate-released: 2023-06-14\nurl: \"https://github.com/LCAV/LenslessPiCam\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Bezzam\"\n    given-names: \"Eric\"\n    orcid: \"https://orcid.org/0000-0003-4837-5031\"\n  - family-names: \"Kashani\"\n    given-names: \"Sepand\"\n    orcid: \"https://orcid.org/0000-0002-0735-371X\"\n  - family-names: \"Vetterli\"\n    given-names: \"Martin\"\n    orcid: \"https://orcid.org/0000-0002-6122-1216\"\n  - family-names: \"Simeoni\"\n    given-names: \"Matthieu\"\n    orcid: \"https://orcid.org/0000-0002-4927-3697\"\n  doi: \"10.21105/joss.04747\"\n  journal: \"Journal of Open Source Software\"\n  pages: 4747\n  number: 86\n  title: \"LenslessPiCam: A Hardware and Software Platform for Lensless Computational Imaging with a Raspberry Pi\"\n  volume: 8\n  year: 2023\n"
+}

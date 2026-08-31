@@ -1,0 +1,9 @@
+{
+ "repo": "perfanalytics/pose2sim",
+ "joss_doi": "10.21105/joss.04362",
+ "joss_title": "Pose2Sim: An open-source Python package for multiview markerless kinematics",
+ "joss_published": "2022-09-14T13:40:16.181Z",
+ "software_repository": "https://github.com/perfanalytics/pose2sim",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use Pose2Sim, please cite it as below.\"\nauthors:\n- family-names: \"Pagnon\"\n  given-names: \"David\"\n  orcid: \"https://orcid.org/0000-0002-6891-8331\"\ntitle: \"Pose2Sim - Markerless kinematics, from OpenPose to OpenSim\"\nversion: 0.3.6\ndoi: '10.3390/s21196530'\ndate-released: 2023-05-05\nurl: \"https://github.com/perfanalytics/pose2sim\"\njournal: \"Sensors\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Pagnon\"\n    given-names: \"David\"\n    orcid: \"https://orcid.org/0000-0002-6891-8331\"\n  - family-names: \"Domalain\"\n    given-names: \"Mathieu\"\n    orcid: \"https://orcid.org/0000-0002-4518-8479\"\n  - family-names: \"Reveret\"\n    given-names: \"Lionel\"\n    orcid: \"https://orcid.org/0000-0002-0810-5187\"\n  doi: \"10.3390/s21196530\"\n  journal: \"Sensors\"\n  month: 9\n  start: 6530 # First page number\n  end: 6557 # Last page number\n  title: \"Pose2Sim: An End-to-End Workflow for 3D Markerless Sports Kinematics\u2014Part 1: Robustness\"\n  issue: 19\n  volume: 11\n  year: 2021\n  \n"
+}

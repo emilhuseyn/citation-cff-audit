@@ -1,0 +1,9 @@
+{
+ "repo": "labsquare/CutePeaks",
+ "joss_doi": "10.21105/joss.03457",
+ "joss_title": "CutePeaks: A modern viewer for Sanger trace file",
+ "joss_published": "2021-08-06T21:06:23.624Z",
+ "software_repository": "https://github.com/labsquare/CutePeaks",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Schutz\n    given-names: Sacha\n    affiliation: CHRU Brest, H\u00f4pital Morvan, Laboratoire de G\u00e9n\u00e9tique Mol\u00e9culaire, Brest, France\n    orcid: https://orcid.org/0000-0002-4563-7537\n  - family-names: Monod-Broca\n    given-names: Charles\n    affiliation: Univ Brest, Inserm, EFS, UMR 1078, GGB, 29200\n    orcid: https://orcid.org/0000-0003-4095-8099\n  - family-names: Denomm\u00e9-Pichon\n    given-names: Anne-Sophie\n    affiliation: UMR1231 GAD, Inserm - Universit\u00e9 Bourgogne-Franche Comt\u00e9, Dijon, France\n    orcid: https://orcid.org/0000-0002-8986-8222\n    \ntitle: 'CutePeaks: A modern viewer for Sanger trace file'\nversion: 0.2.3\ndate-released: 2021-07-28\n            \n"
+}

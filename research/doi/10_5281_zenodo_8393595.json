@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.8393595",
+ "source": "datacite",
+ "state": "ok",
+ "title": "ELK: A python package for correcting, analyzing, and diagnosing TESS integrated light curves",
+ "type": "Software",
+ "container": ""
+}

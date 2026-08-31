@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.06240",
+ "source": "crossref",
+ "state": "ok",
+ "title": "WearableHRV: A Python package for the validation of\nheart rate and heart rate variability in wearables",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

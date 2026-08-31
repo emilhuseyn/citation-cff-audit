@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.06832",
+ "source": "crossref",
+ "state": "ok",
+ "title": "Aurora: An open-source Python implementation of the\nEMTF package for magnetotelluric data processing using MTH5 and\nmt_metadata",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "bzrudski/vectorose",
+ "joss_doi": "10.21105/joss.08369",
+ "joss_title": "VectoRose: A new package for analysing and visualising 3D non-unit vectors in Python",
+ "joss_published": "2025-07-18T12:30:25.609Z",
+ "software_repository": "https://github.com/bzrudski/vectorose",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Rudski\n  given-names: Benjamin Z.\n  orcid: \"https://orcid.org/0009-0000-3423-0662\"\n- family-names: Deering\n  given-names: Joseph\n  orcid: \"https://orcid.org/0000-0003-2868-0944\"\n- family-names: Reznikov\n  given-names: Natalie\n  orcid: \"https://orcid.org/0000-0001-5293-4647\"\ncontact:\n- family-names: Rudski\n  given-names: Benjamin Z.\n  orcid: \"https://orcid.org/0009-0000-3423-0662\"\ndoi: 10.5281/zenodo.15857821\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Rudski\n    given-names: Benjamin Z.\n    orcid: \"https://orcid.org/0009-0000-3423-0662\"\n  - family-names: Deering\n    given-names: Joseph\n    orcid: \"https://orcid.org/0000-0003-2868-0944\"\n  - family-names: Reznikov\n    given-names: Natalie\n    orcid: \"https://orcid.org/0000-0001-5293-4647\"\n  date-published: 2025-07-18\n  doi: 10.21105/joss.08369\n  issn: 2475-9066\n  issue: 111\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 8369\n  title: \"VectoRose: A new package for analysing and visualising 3D\n    non-unit vectors in Python\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.08369\"\n  volume: 10\ntitle: \"VectoRose: A new package for analysing and visualising 3D\n  non-unit vectors in Python\"\n"
+}

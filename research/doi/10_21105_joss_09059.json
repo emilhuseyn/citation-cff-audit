@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.09059",
+ "source": "crossref",
+ "state": "ok",
+ "title": "pythainer: composable and reusable Docker builders and runners for reproducible research",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

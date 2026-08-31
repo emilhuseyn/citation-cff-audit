@@ -1,0 +1,9 @@
+{
+ "repo": "choosehappy/HoverFast",
+ "joss_doi": "10.21105/joss.07022",
+ "joss_title": "HoverFast: an accurate, high-throughput, clinically deployable nuclear segmentation tool for brightfield digital pathology images",
+ "joss_published": "2024-09-26T12:48:35.565Z",
+ "software_repository": "https://github.com/choosehappy/HoverFast",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it using the following information.\"\nauthors:\n  - family-names: Liakopoulos\n    given-names: Petros\n  - family-names: Massonnet\n    given-names: Julien\n  - family-names: Bonjour\n    given-names: Jonatan\n  - family-names: Mizrakli\n    given-names: Medya Tekes\n  - family-names: Graham\n    given-names: Simon\n  - family-names: Cuendet\n    given-names: Michel A\n  - family-names: Seipel\n    given-names: Amanda H\n  - family-names: Michielin\n    given-names: Olivier\n  - family-names: Merkler\n    given-names: Doron\n  - family-names: Janowczyk\n    given-names: Andrew\ntitle: \"HoverFast: an accurate, high-throughput, clinically deployable nuclear segmentation tool for brightfield digital pathology images\"\nversion: 1.0.0\ndate-released: 2024-05-30\nurl: \"https://arxiv.org/abs/2405.14028\"\n"
+}

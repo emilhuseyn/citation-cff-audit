@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.12707059",
+ "source": "datacite",
+ "state": "ok",
+ "title": "SubsetTools: A Python package to subset data to build and run ParFlow hydrologic models",
+ "type": "Software",
+ "container": ""
+}

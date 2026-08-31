@@ -1,0 +1,9 @@
+{
+ "repo": "Qile0317/APackOfTheClones",
+ "joss_doi": "10.21105/joss.06868",
+ "joss_title": "APackOfTheClones: Visualization of clonal expansion with circle packing",
+ "joss_published": "2024-11-18T16:21:49.817Z",
+ "software_repository": "https://github.com/Qile0317/APackOfTheClones",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Yang\n  given-names: Qile\n  orcid: \"https://orcid.org/0009-0005-0148-2499\"\ndoi: 10.5281/zenodo.13916956\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Yang\n    given-names: Qile\n    orcid: \"https://orcid.org/0009-0005-0148-2499\"\n  date-published: 2024-11-18\n  doi: 10.21105/joss.06868\n  issn: 2475-9066\n  issue: 103\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6868\n  title: \"APackOfTheClones: Visualization of clonal expansion with\n    circle packing\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06868\"\n  volume: 9\ntitle: \"APackOfTheClones: Visualization of clonal expansion with circle\n  packing\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "tiagoseq/NeuralFieldEq.jl",
+ "joss_doi": "10.21105/joss.03974",
+ "joss_title": "NeuralFieldEq.jl: A flexible solver to compute Neural Field Equations in several scenarios",
+ "joss_published": "2022-07-04T16:37:30.378Z",
+ "software_repository": "https://github.com/tiagoseq/NeuralFieldEq.jl",
+ "status": 404,
+ "cff": null
+}

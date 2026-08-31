@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.backports",
+ "source": "crossref",
+ "state": "ok",
+ "title": "backports: Reimplementations of Functions Introduced Since R-3.0.0",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

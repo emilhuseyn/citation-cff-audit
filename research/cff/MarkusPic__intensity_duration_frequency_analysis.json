@@ -1,0 +1,9 @@
+{
+ "repo": "MarkusPic/intensity_duration_frequency_analysis",
+ "joss_doi": "10.21105/joss.07607",
+ "joss_title": "idf-analysis: Heavy rainfall intensity as a function of duration and return period",
+ "joss_published": "2025-02-24T16:29:16.910Z",
+ "software_repository": "https://github.com/MarkusPic/intensity_duration_frequency_analysis",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Pichler\n  given-names: Markus\n  orcid: \"https://orcid.org/0000-0002-8101-2163\"\ncontact:\n- family-names: Pichler\n  given-names: Markus\n  orcid: \"https://orcid.org/0000-0002-8101-2163\"\ndoi: 10.5281/zenodo.14834297\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Pichler\n    given-names: Markus\n    orcid: \"https://orcid.org/0000-0002-8101-2163\"\n  date-published: 2025-02-24\n  doi: 10.21105/joss.07607\n  issn: 2475-9066\n  issue: 106\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7607\n  title: \"idf-analysis: Heavy rainfall intensity as a function of\n    duration and return period\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07607\"\n  volume: 10\ntitle: \"idf-analysis: Heavy rainfall intensity as a function of duration\n  and return period\"\n"
+}

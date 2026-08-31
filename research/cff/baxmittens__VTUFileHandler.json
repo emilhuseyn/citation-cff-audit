@@ -1,0 +1,9 @@
+{
+ "repo": "baxmittens/VTUFileHandler",
+ "joss_doi": "10.21105/joss.04300",
+ "joss_title": "VTUFileHandler: A VTU library in the Julia language that implements an algebra for basic mathematical operations on VTU data",
+ "joss_published": "2022-05-26T04:16:44.934Z",
+ "software_repository": "https://github.com/baxmittens/VTUFileHandler",
+ "status": 404,
+ "cff": null
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "CliMA/EnsembleKalmanProcesses.jl",
+ "joss_doi": "10.21105/joss.04869",
+ "joss_title": "EnsembleKalmanProcesses.jl: Derivative-free ensemble-based model calibration",
+ "joss_published": "2022-12-15T20:20:06.348Z",
+ "software_repository": "https://github.com/CliMA/EnsembleKalmanProcesses.jl",
+ "status": 404,
+ "cff": null
+}

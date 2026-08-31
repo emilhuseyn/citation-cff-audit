@@ -1,0 +1,9 @@
+{
+ "repo": "CountESS-Project/fqfa",
+ "joss_doi": "10.21105/joss.02076",
+ "joss_title": "fqfa: A pure Python package for genomic sequence files",
+ "joss_published": "2020-03-01T23:11:55.433Z",
+ "software_repository": "https://github.com/CountESS-Project/fqfa/",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Rubin\"\n  given-names: \"Alan F\"\n  orcid: \"https://orcid.org/0000-0003-1474-605X\"\ntitle: \"fqfa\"\nversion: 1.2.1\ndoi: 10.5281/zenodo.4346283\ndate-released: 2020-12-18\nurl: \"https://github.com/CountESS-Project/fqfa\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Rubin\"\n    given-names: \"Alan F\"\n    orcid: \"https://orcid.org/0000-0003-1474-605X\"\n  doi: \"10.21105/joss.02076\"\n  journal: \"Journal of Open Source Software\"\n  month: 3\n  start: 2076\n  title: \"fqfa: A pure Python package for genomic sequence files\"\n  issue: 47\n  volume: 5\n  year: 2020\n"
+}

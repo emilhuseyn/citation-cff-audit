@@ -1,0 +1,9 @@
+{
+ "repo": "NumericalMathematics/PositiveIntegrators.jl",
+ "joss_doi": "10.21105/joss.08130",
+ "joss_title": "PositiveIntegrators.jl: A Julia library of positivity-preserving time integration methods",
+ "joss_published": "2025-05-31T08:01:05.093Z",
+ "software_repository": "https://github.com/NumericalMathematics/PositiveIntegrators.jl",
+ "status": 404,
+ "cff": null
+}

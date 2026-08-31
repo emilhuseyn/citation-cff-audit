@@ -1,0 +1,9 @@
+{
+ "repo": "cbrnr/mnelab",
+ "joss_doi": "10.21105/joss.04650",
+ "joss_title": "MNELAB: a graphical user interface for MNE-Python",
+ "joss_published": "2022-10-10T13:34:23.701Z",
+ "software_repository": "https://github.com/cbrnr/mnelab",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\ntitle: \"MNELAB: a graphical user interface for MNE-Python\"\ntype: software\nauthors:\n  - family-names: Brunner\n    given-names: Clemens\nrepository-code: \"https://github.com/cbrnr/mnelab\"\nlicense: BSD-3-Clause\npreferred-citation:\n  type: article\n  title: \"MNELAB: a graphical user interface for MNE-Python\"\n  authors:\n    - family-names: Brunner\n      given-names: Clemens\n  journal: \"Journal of Open Source Software\"\n  year: 2022\n  volume: 7\n  issue: 78\n  start: \"4650\"\n  doi: \"10.21105/joss.04650\"\n  url: \"https://doi.org/10.21105/joss.04650\"\n"
+}

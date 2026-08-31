@@ -1,0 +1,9 @@
+{
+ "repo": "emit-sds/SpectralUnmixing.jl",
+ "joss_doi": "10.21105/joss.09149",
+ "joss_title": "SpectralUnmixing: A general Julia package for unmixing spectroscopy data",
+ "joss_published": "2025-12-10T15:25:44.503Z",
+ "software_repository": "https://github.com/emit-sds/SpectralUnmixing.jl",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle: SpectralUnmixing\nmessage: >-\n  If you use this software for research we would appreciate\n  appropriate citation. This may be prepared using the\n  bibliographic metadata contained in our DOI, accessible\n  through the DOI system and at\n  https://doi.org/10.5281/zenodo.15098652. \n\ntype: software\nauthors:\n  - given-names: Philip G Brodrick\n    affiliation: >-\n      Jet Propulsion Laboratory, California Institute of\n      Technology\n    orcid: 'https://orcid.org/0000-0001-9497-7661'\n  - given-names: Francisco Ochoa\n    affiliation: >-\n      University of California, Los Angeles\n    orcid: 'https://orcid.org/0000-0003-3363-2496'\n  - given-names: Vatsal Jhalani\n    affiliation: >-\n      Jet Propulsion Laboratory, California Institute of\n      Technology\n    orcid: 'https://orcid.org/0000-0003-0866-0858'\n  - given-names: Winston Olson-Duvall\n    affiliation: >-\n      Jet Propulsion Laboratory, California Institute of\n      Technology\n    orcid: 'https://orcid.org/0000-0002-4210-0283'\n\nidentifiers:\n  - type: doi\n    value: 10.5281/zenodo.15098652\nlicense: Apache-2.0\n"
+}

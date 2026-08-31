@@ -1,0 +1,9 @@
+{
+ "repo": "ugurdar/datadriftR",
+ "joss_doi": "10.21105/joss.09481",
+ "joss_title": "datadriftR: An R package for data drift detection",
+ "joss_published": "2026-03-30T14:43:01.723Z",
+ "software_repository": "https://github.com/ugurdar/datadriftR",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\ntype: software\ntitle: \"datadriftR: An R package for streaming data drift detection\"\nversion: \"1.1.0\"\ndate-released: \"2025-11-09\"\nrepository-code: \"https://github.com/ugurdar/datadriftR\"\nurl: \"https://cran.r-project.org/package=datadriftR\"\nlicense: \"MIT\"\nkeywords:\n  - R\n  - concept drift\n  - change detection\n  - streaming data\n  - online learning\nauthors:\n  - given-names: Ugur\n    family-names: Dar\n    email: ugurdarr@gmail.com\n    orcid: \"https://orcid.org/0009-0005-8076-2199\"\n  - given-names: Mustafa\n    family-names: Cavus\n    email: mustafacavus@eskisehir.edu.tr\n    orcid: \"https://orcid.org/0000-0002-6172-5449\"\nabstract: |\n  datadriftR provides concept drift and change detection for streaming data in\n  R, implementing established methods including DDM, EDDM, HDDM-A, HDDM-W,\n  KSWIN, Page\u2013Hinkley, ADWIN and KL divergence\u2013based monitoring. It supports\n  online learning workflows and model monitoring by detecting shifts in data\n  distributions and predictive performance over time.\n\npreferred-citation:\n  type: software\n  title: \"datadriftR: An R package for streaming data drift detection\"\n  authors:\n    - given-names: Ugur\n      family-names: Dar\n      orcid: \"https://orcid.org/0009-0005-8076-2199\"\n    - given-names: Mustafa\n      family-names: Cavus\n      orcid: \"https://orcid.org/0000-0002-6172-5449\"\n  year: 2025\n  version: \"1.1.0\"\n  url: \"https://cran.r-project.org/package=datadriftR\"\n"
+}

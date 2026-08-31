@@ -1,0 +1,9 @@
+{
+ "repo": "mantzaris/KeemenaPreprocessing.jl",
+ "joss_doi": "10.21105/joss.09348",
+ "joss_title": "KeemenaPreprocessing.jl: Unicode-Robust Cleaning, Multi-Level Tokenisation and Streaming Offset Bundling for Julia NLP",
+ "joss_published": "2026-02-23T22:41:47.107Z",
+ "software_repository": "https://github.com/mantzaris/KeemenaPreprocessing.jl",
+ "status": 404,
+ "cff": null
+}

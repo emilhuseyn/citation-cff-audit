@@ -1,0 +1,9 @@
+{
+ "repo": "ekiefl/pooltool",
+ "joss_doi": "10.21105/joss.07301",
+ "joss_title": "Pooltool: A Python package for realistic billiards simulation",
+ "joss_published": "2024-09-28T23:47:50.790Z",
+ "software_repository": "https://github.com/ekiefl/pooltool",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Kiefl\n  given-names: Evan\n  orcid: \"https://orcid.org/0000-0002-6473-0921\"\ndoi: 10.5281/zenodo.13824503\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Kiefl\n    given-names: Evan\n    orcid: \"https://orcid.org/0000-0002-6473-0921\"\n  date-published: 2024-09-28\n  doi: 10.21105/joss.07301\n  issn: 2475-9066\n  issue: 101\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7301\n  title: \"Pooltool: A Python package for realistic billiards simulation\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07301\"\n  volume: 9\ntitle: \"Pooltool: A Python package for realistic billiards simulation\"\n"
+}

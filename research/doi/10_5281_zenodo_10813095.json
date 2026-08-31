@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.10813095",
+ "source": "datacite",
+ "state": "ok",
+ "title": "SelfEEG: A Python library for Self-Supervised Learning in Electroencephalography",
+ "type": "Software",
+ "container": ""
+}

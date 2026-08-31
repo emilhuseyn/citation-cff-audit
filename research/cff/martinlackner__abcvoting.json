@@ -1,0 +1,9 @@
+{
+ "repo": "martinlackner/abcvoting",
+ "joss_doi": "10.21105/joss.04880",
+ "joss_title": "abcvoting: A Python package for approval-based multi-winner voting rules",
+ "joss_published": "2023-01-27T13:09:24.063Z",
+ "software_repository": "https://github.com/martinlackner/abcvoting",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle: \"abcvoting\"\nmessage: >-\n  If you would like to acknowledge our work in a\n  scientific paper, please use the following citation:\npreferred-citation:\n  type: article\n  journal: \"Journal of Open Source Software\"\n  title: \"abcvoting: A Python package for approval-based multi-winner voting rules\"\n  volume: 8\n  issue: 81\n  start: 4880\n  year: 2023\n  doi: 10.21105/joss.04880\n  url: 'https://github.com/martinlackner/abcvoting'\n  authors:\n    - given-names: Martin\n      family-names: Lackner\n      orcid: 'https://orcid.org/0000-0003-2170-0770'\n    - given-names: Peter\n      family-names: Regner\n      orcid: 'https://orcid.org/0000-0001-8480-4900'\n    - given-names: Benjamin\n      family-names: Krenn\n"
+}

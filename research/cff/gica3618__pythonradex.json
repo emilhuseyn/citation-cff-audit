@@ -1,0 +1,9 @@
+{
+ "repo": "gica3618/pythonradex",
+ "joss_doi": "10.21105/joss.09233",
+ "joss_title": "pythonradex: a fast Python re-implementation of RADEX with extended functionality",
+ "joss_published": "2026-02-24T23:17:48.234Z",
+ "software_repository": "https://github.com/gica3618/pythonradex",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle: \"pythonradex\"\nlicense: \"MIT\"\ntype: software\nrepository-code: \"https://github.com/gica3618/pythonradex\"\nabstract: \"pythonradex solves the 1D non-LTE radiative transfer for a homogeneous medium. It is a tool to quickly estimate the radiation from an astrophysical gas. It also provides a convenient function to read data files in the LAMDA format. pythonradex is a python re-implementation of the RADEX code, with additional functionality not included in RADEX (treatment of overlapping lines, treatment of dust continuum, output of spectra, and more).\"\nmessage: \"If you use this software, please cite our article in the Journal of Open Source Software.\"\nauthors:\n  - given-names: Gianni\n    family-names: Cataldi\n    orcid: \"https://orcid.org/0000-0002-2700-9676\"\ncontact:\n  - family-names: Cataldi\n    given-names: Gianni\n    orcid: \"https://orcid.org/0000-0002-2700-9676\"\nkeywords:\n  - python\n  - astronomy\n  - astrophysics\n  - radiative transfer\n  - non-LTE\n  - escape probability\n  - line emission\npreferred-citation:\n  authors:\n  - family-names: Cataldi\n    given-names: Gianni\n    orcid: \"https://orcid.org/0000-0002-2700-9676\"\n  date-published: 2026-02-24\n  doi: 10.21105/joss.09233\n  issn: 2475-9066\n  issue: 118\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9233\n  title: \"pythonradex: a fast Python re-implementation of RADEX with\n    extended functionality\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09233\"\n  volume: 11\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "ThomasPak/pakman",
+ "joss_doi": "10.21105/joss.01716",
+ "joss_title": "Pakman: a modular, efficient and portable tool for approximate Bayesian inference",
+ "joss_published": "2020-03-07T07:54:19.301Z",
+ "software_repository": "https://github.com/ThomasPak/pakman",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: \"If you use this software, please cite the article below.\"\nauthors:\n  - family-names: Pak\n    given-names: Thomas F.\n    orcid: https://orcid.org/0000-0002-7198-7688\n  - family-names: Baker\n    given-names: Ruth E.\n    orcid: https://orcid.org/0000-0002-6304-9333\n  - family-names: Pitt-Francis\n    given-names: Joe M.\n    orcid: https://orcid.org/0000-0002-5094-5403\ntitle: Pakman\nversion: 1.1.0\ndate-released: 2020-03-05\ndoi: 10.5281/zenodo.3697312\nreferences:\n    - type: article\n      authors:\n          - family-names: Pak\n            given-names: Thomas F.\n            orcid: https://orcid.org/0000-0002-7198-7688\n          - family-names: Baker\n            given-names: Ruth E.\n            orcid: https://orcid.org/0000-0002-6304-9333\n          - family-names: Pitt-Francis\n            given-names: Joe M.\n            orcid: https://orcid.org/0000-0002-5094-5403\n      title: 'Pakman: a modular, efficient and portable tool for approximate Bayesian inference'\n      keywords:\n        - C++\n        - MPI\n        - approximate Bayesian computation\n        - Bayesian inference\n        - parallel computing\n        - distributed computing\n      date-released: 2020-03-07\n      doi: 10.21105/joss.01716\n      journal: The Journal of Open Source Software\n      volume: 5\n      issue: 47\n      start: 1716\n      url: https://joss.theoj.org/papers/10.21105/joss.01716\n      year: 2020\n"
+}

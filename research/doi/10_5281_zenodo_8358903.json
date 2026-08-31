@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.8358903",
+ "source": "datacite",
+ "state": "ok",
+ "title": "Spikeometric: Linear Non-Linear Cascade Spiking Neural Networks with Pytorch Geometric",
+ "type": "Software",
+ "container": ""
+}

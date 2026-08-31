@@ -1,0 +1,9 @@
+{
+ "repo": "youngkaneda/DemeterWatch",
+ "joss_doi": "10.21105/joss.07308",
+ "joss_title": "DemeterWatch: A Java tool to detect Law of Demeter violations in Java collections",
+ "joss_published": "2025-03-15T15:57:23.112Z",
+ "software_repository": "https://github.com/youngkaneda/DemeterWatch",
+ "status": 404,
+ "cff": null
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "silkemaes/MACE",
+ "joss_doi": "10.21105/joss.07148",
+ "joss_title": "MACE: a Machine-learning Approach to Chemistry Emulation",
+ "joss_published": "2025-04-04T10:37:28.384Z",
+ "software_repository": "https://github.com/silkemaes/MACE",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: Maes\n  given-names: Silke\norcid: https://orcid.org/0000-0003-4159-9964\n- family-names: De Ceuster\n  given-names: Frederik\n- family-names: Van de Sande\n  given-names: Marie\n- family-names: Decin\n  given-names: Leen\ntitle:silkemaes/MACE: a Machine-learning Approach to Chemistry Emulation\nversion: v1.1.0\ndate-released: 2025-03-11\n"
+}

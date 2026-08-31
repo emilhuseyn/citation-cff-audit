@@ -1,0 +1,9 @@
+{
+ "repo": "sntioudis/papreca",
+ "joss_doi": "10.21105/joss.06714",
+ "joss_title": "PAPRECA: A parallel hybrid off-lattice kinetic Monte Carlo/molecular dynamics simulator",
+ "joss_published": "2024-06-13T16:03:40.585Z",
+ "software_repository": "https://github.com/sntioudis/papreca",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Ntioudis\n  given-names: Stavros\n  orcid: \"https://orcid.org/0009-0000-8095-1727\"\n- family-names: Ewen\n  given-names: James P.\n  orcid: \"https://orcid.org/0000-0001-5110-6970\"\n- family-names: Dini\n  given-names: Daniele\n  orcid: \"https://orcid.org/0000-0002-5518-499X\"\n- family-names: Turner\n  given-names: C. Heath\n  orcid: \"https://orcid.org/0000-0002-5707-9480\"\ncontact:\n- family-names: Ntioudis\n  given-names: Stavros\n  orcid: \"https://orcid.org/0009-0000-8095-1727\"\ndoi: 10.5281/zenodo.11550493\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Ntioudis\n    given-names: Stavros\n    orcid: \"https://orcid.org/0009-0000-8095-1727\"\n  - family-names: Ewen\n    given-names: James P.\n    orcid: \"https://orcid.org/0000-0001-5110-6970\"\n  - family-names: Dini\n    given-names: Daniele\n    orcid: \"https://orcid.org/0000-0002-5518-499X\"\n  - family-names: Turner\n    given-names: C. Heath\n    orcid: \"https://orcid.org/0000-0002-5707-9480\"\n  date-published: 2024-06-13\n  doi: 10.21105/joss.06714\n  issn: 2475-9066\n  issue: 98\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6714\n  title: \"PAPRECA: A parallel hybrid off-lattice kinetic Monte\n    Carlo/molecular dynamics simulator\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06714\"\n  volume: 9\ntitle: \"PAPRECA: A parallel hybrid off-lattice kinetic Monte\n  Carlo/molecular dynamics simulator\"\n"
+}

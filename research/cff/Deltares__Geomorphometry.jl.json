@@ -1,0 +1,9 @@
+{
+ "repo": "Deltares/Geomorphometry.jl",
+ "joss_doi": "10.21105/joss.10395",
+ "joss_title": "Geomorphometry.jl: Analyzing and visualizing the shape of the Earth in Julia.",
+ "joss_published": "2026-06-23T21:22:27.302Z",
+ "software_repository": "https://github.com/Deltares/Geomorphometry.jl",
+ "status": 200,
+ "cff": "# This CITATION.cff file was generated with cffinit.\n# Visit https://bit.ly/cffinit to generate yours today!\n\ncff-version: 1.2.0\ntitle: Geomorphometry.jl\nmessage: >-\n  If you use this software, please cite it using the\n  metadata from this file.\ntype: software\nauthors:\n  - given-names: Maarten\n    family-names: Pronk\n    affiliation: Deltares\n    orcid: 'https://orcid.org/0000-0001-8758-3939'\n  - given-names: Rafael\n    family-names: Schouten\n    orcid: 'https://orcid.org/0000-0002-8380-0884'\n    affiliation: University of Melbourne\nidentifiers:\n  - type: doi\n    value: 10.21105/joss.10395\n    description: JOSS\n  - type: doi\n    value: 10.5281/zenodo.18851928\nrepository-code: 'https://github.com/Deltares/Geomorphometry.jl'\nurl: 'https://deltares.github.io/Geomorphometry.jl/dev/'\nabstract: >-\n  Geomorphometry related algorithms written in the Julia\n  language.\nkeywords:\n  - julia\n  - geomorphometry\n  - gis\n  - hydrology\nlicense: MIT\n"
+}

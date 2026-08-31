@@ -1,0 +1,9 @@
+{
+ "repo": "BioMeCIS-Lab/OpenOmics",
+ "joss_doi": "10.21105/joss.03249",
+ "joss_title": "OpenOmics: A bioinformatics API to integrate multi-omics datasets and interface with public databases.",
+ "joss_published": "2021-05-09T13:10:32.520Z",
+ "software_repository": "https://github.com/BioMeCIS-Lab/OpenOmics",
+ "status": 200,
+ "cff": "---\ncff-version: 1.2.0\nmessage: \"Please cite our paper if you use this code in your own work.\"\ntitle: \"OpenOmics: A bioinformatics API to integrate multi-omics datasets and interface with public databases.  [Computer software]\"\nauthors:\n- family-names: \"Tran\"\n  given-names: \"Nhat C.\"\n- family-names: \"Gao\"\n  given-names: \"Jean X.\"\ndate-released: 2021-05-06\nlicense: cc-by-4.0\nurl: \"https://joss.theoj.org/papers/10.21105/joss.03249#\"\n"
+}

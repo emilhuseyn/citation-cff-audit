@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.822073",
+ "source": "datacite",
+ "state": "ok",
+ "title": "Krylov.jl: A Julia basket of hand-picked Krylov methods",
+ "type": "Software",
+ "container": ""
+}

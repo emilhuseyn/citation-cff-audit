@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.08329",
+ "source": "crossref",
+ "state": "ok",
+ "title": "Piecewise: Flexible piecewise functions for fast integral transforms in Julia",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

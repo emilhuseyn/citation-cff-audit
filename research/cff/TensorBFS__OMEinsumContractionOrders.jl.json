@@ -1,0 +1,9 @@
+{
+ "repo": "TensorBFS/OMEinsumContractionOrders.jl",
+ "joss_doi": "10.21105/joss.09886",
+ "joss_title": "OMEinsumContractionOrders: A Julia package for tensor network contraction order optimization",
+ "joss_published": "2026-03-31T11:25:27.432Z",
+ "software_repository": "https://github.com/TensorBFS/OMEinsumContractionOrders.jl",
+ "status": 404,
+ "cff": null
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "tberlok/paicos",
+ "joss_doi": "10.21105/joss.06296",
+ "joss_title": "Paicos: A Python package for analysis of (cosmological) simulations performed with Arepo",
+ "joss_published": "2024-04-20T09:48:54.063Z",
+ "software_repository": "https://github.com/tberlok/paicos",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Berlok\n  given-names: Thomas\n  orcid: \"https://orcid.org/0000-0003-0466-603X\"\n- family-names: Jlassi\n  given-names: L\u00e9na\n  orcid: \"https://orcid.org/0009-0007-9039-294X\"\n- family-names: Puchwein\n  given-names: Ewald\n  orcid: \"https://orcid.org/0000-0001-8778-7587\"\n- family-names: Haugb\u00f8lle\n  given-names: Troels\n  orcid: \"https://orcid.org/0000-0002-9422-8684\"\ncontact:\n- family-names: Berlok\n  given-names: Thomas\n  orcid: \"https://orcid.org/0000-0003-0466-603X\"\ndoi: 10.5281/zenodo.10994256\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Berlok\n    given-names: Thomas\n    orcid: \"https://orcid.org/0000-0003-0466-603X\"\n  - family-names: Jlassi\n    given-names: L\u00e9na\n    orcid: \"https://orcid.org/0009-0007-9039-294X\"\n  - family-names: Puchwein\n    given-names: Ewald\n    orcid: \"https://orcid.org/0000-0001-8778-7587\"\n  - family-names: Haugb\u00f8lle\n    given-names: Troels\n    orcid: \"https://orcid.org/0000-0002-9422-8684\"\n  date-published: 2024-04-20\n  doi: 10.21105/joss.06296\n  issn: 2475-9066\n  issue: 96\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6296\n  title: \"Paicos: A Python package for analysis of (cosmological)\n    simulations performed with Arepo\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06296\"\n  volume: 9\ntitle: \"Paicos: A Python package for analysis of (cosmological)\n  simulations performed with Arepo\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "markean/aimz",
+ "joss_doi": "10.21105/joss.09738",
+ "joss_title": "aimz: Scalable probabilistic impact modeling",
+ "joss_published": "2026-04-23T13:53:35.636Z",
+ "software_repository": "https://github.com/markean/aimz",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n  - family-names: Kim\n    given-names: Eunseop\n    orcid: \"https://orcid.org/0009-0000-2138-788X\"\ndoi: 10.5281/zenodo.19638071\nmessage: If you use this software, please cite our article in the Journal of\n  Open Source Software.\npreferred-citation:\n  authors:\n    - family-names: Kim\n      given-names: Eunseop\n      orcid: \"https://orcid.org/0009-0000-2138-788X\"\n  date-published: 2026-04-23\n  doi: 10.21105/joss.09738\n  issn: 2475-9066\n  issue: 120\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9738\n  title: \"aimz: Scalable probabilistic impact modeling\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09738\"\n  volume: 11\ntitle: \"aimz: Scalable probabilistic impact modeling\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "adamantine-sim/adamantine",
+ "joss_doi": "10.21105/joss.07017",
+ "joss_title": "Adamantine 1.0: A Thermomechanical Simulator for Additive Manufacturing",
+ "joss_published": "2024-10-17T21:53:28.197Z",
+ "software_repository": "https://github.com/adamantine-sim/adamantine",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nrepository-code: \"https://github.com/admantine-sim/adamantine\"\nurl: \"https://adamantine-sim.github.io/adamantine\"\nlicense: \"BSD-3-Clause\"\nauthors:\n- family-names: \"Turcksin\"\n  given-names: \"Bruno\"\n  orcid: \"https://orcid.org/0000-0001-5954-6313\"\n- family-names: \"DeWitt\"\n  given-names: \"Stephen\"\n  orcid: \"https://orcid.org/0000-0002-9550-293X\"\ntitle: \"Adamantine 1.0: A Thermomechanical Simulator for Additive Manufacturing\"\ndoi: 10.21105/joss.07017\njournal: \"Journal of Open Source Software\"\nvolume: \"9\"\nnumber: \"102\" \nyear: \"2024\"\n"
+}

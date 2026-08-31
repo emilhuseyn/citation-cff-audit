@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.13835532",
+ "source": "datacite",
+ "state": "ok",
+ "title": "cgeniepy: A Python package for analysing cGENIE Earth System Model output",
+ "type": "Software",
+ "container": ""
+}

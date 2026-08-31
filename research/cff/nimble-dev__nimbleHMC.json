@@ -1,0 +1,9 @@
+{
+ "repo": "nimble-dev/nimbleHMC",
+ "joss_doi": "10.21105/joss.06745",
+ "joss_title": "nimbleHMC: An R package for Hamiltonian Monte Carlo sampling in nimble",
+ "joss_published": "2024-07-10T20:18:29.097Z",
+ "software_repository": "https://github.com/nimble-dev/nimbleHMC",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Turek\n  given-names: Daniel\n  orcid: \"https://orcid.org/0000-0002-1453-1908\"\n- family-names: Valpine\n  given-names: Perry\n  name-particle: de\n  orcid: \"https://orcid.org/0000-0002-8329-6796\"\n- family-names: Paciorek\n  given-names: Christopher J.\ncontact:\n- family-names: Turek\n  given-names: Daniel\n  orcid: \"https://orcid.org/0000-0002-1453-1908\"\ndoi: 10.5281/zenodo.12658544\nmessage: If you use this software, please cite our article in the Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Turek\n    given-names: Daniel\n    orcid: \"https://orcid.org/0000-0002-1453-1908\"\n  - family-names: Valpine\n    given-names: Perry\n    name-particle: de\n    orcid: \"https://orcid.org/0000-0002-8329-6796\"\n  - family-names: Paciorek\n    given-names: Christopher J.\n  date-published: 2024-07-10\n  doi: 10.21105/joss.06745\n  issn: 2475-9066\n  issue: 99\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6745\n  title: \"nimbleHMC: An R package for Hamiltonian Monte Carlo sampling in nimble\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06745\"\n  volume: 9\ntitle: \"nimbleHMC: An R package for Hamiltonian Monte Carlo sampling in nimble\"\n"
+}

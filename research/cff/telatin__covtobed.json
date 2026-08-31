@@ -1,0 +1,9 @@
+{
+ "repo": "telatin/covtobed",
+ "joss_doi": "10.21105/joss.02119",
+ "joss_title": "covtobed: a simple and fast tool to extract coverage tracks from BAM files",
+ "joss_published": "2020-03-06T17:24:08.367Z",
+ "software_repository": "https://github.com/telatin/covtobed/",
+ "status": 404,
+ "cff": null
+}

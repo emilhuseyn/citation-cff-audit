@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.00351",
+ "source": "crossref",
+ "state": "ok",
+ "title": "Nimbus: a Ruby gem to implement Random Forest algorithms in a genomic selection context",
+ "type": "journal-article",
+ "container": "The Journal of Open Source Software"
+}

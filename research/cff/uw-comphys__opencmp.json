@@ -1,0 +1,9 @@
+{
+ "repo": "uw-comphys/opencmp",
+ "joss_doi": "10.21105/joss.03742",
+ "joss_title": "OpenCMP: An Open-Source Computational Multiphysics Package",
+ "joss_published": "2022-05-06T14:31:58.324Z",
+ "software_repository": "https://github.com/uw-comphys/opencmp",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: Please cite the following works when using this software.\ntype: software\nauthors:\n  - family-names: Monte\n    given-names: Elizabeth Julia\n  - family-names: Vasile\n    given-names: Alexandru Andrei\n  - family-names: Lowman\n    given-names: James\n  - family-names: Abukhdeir\n    given-names: Nasser Mohieddin\ndoi: 10.21105/joss.03742\nidentifiers:\n  - type: doi\n    value: 10.21105/joss.03742\n  - type: url\n    value: http://dx.doi.org/10.21105/joss.03742\n  - type: other\n    value: urn:issn:2475-9066\ntitle: |-\n  OpenCMP: An Open-Source Computational Multiphysics\n  Package\nurl: http://dx.doi.org/10.21105/joss.03742\n"
+}

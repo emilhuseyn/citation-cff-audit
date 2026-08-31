@@ -1,0 +1,9 @@
+{
+ "repo": "SMTG-UCL/easyunfold",
+ "joss_doi": "10.21105/joss.05974",
+ "joss_title": "easyunfold: A Python package for unfolding electronic band structures",
+ "joss_published": "2024-01-15T13:46:58.000Z",
+ "software_repository": "https://github.com/SMTG-UCL/easyunfold",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Zhu\n  given-names: Bonan\n  orcid: \"https://orcid.org/0000-0001-5601-6130\"\n- family-names: Kavanagh\n  given-names: Se\u00e1n R.\n  orcid: \"https://orcid.org/0000-0003-4577-9647\"\n- family-names: Scanlon\n  given-names: David\n  orcid: \"https://orcid.org/0000-0001-9174-8601\"\ndoi: 10.5281/zenodo.10510884\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Zhu\n    given-names: Bonan\n    orcid: \"https://orcid.org/0000-0001-5601-6130\"\n  - family-names: Kavanagh\n    given-names: Se\u00e1n R.\n    orcid: \"https://orcid.org/0000-0003-4577-9647\"\n  - family-names: Scanlon\n    given-names: David\n    orcid: \"https://orcid.org/0000-0001-9174-8601\"\n  date-published: 2024-01-15\n  doi: 10.21105/joss.05974\n  issn: 2475-9066\n  issue: 93\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5974\n  title: \"easyunfold: A Python package for unfolding electronic band\n    structures\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05974\"\n  volume: 9\ntitle: \"easyunfold: A Python package for unfolding electronic band structures\"\n"
+}

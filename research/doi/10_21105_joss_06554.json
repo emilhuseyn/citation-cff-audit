@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.06554",
+ "source": "crossref",
+ "state": "ok",
+ "title": "InvertibleNetworks.jl: A Julia package for scalable\nnormalizing flows",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

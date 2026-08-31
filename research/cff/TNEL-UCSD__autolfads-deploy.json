@@ -1,0 +1,9 @@
+{
+ "repo": "TNEL-UCSD/autolfads-deploy",
+ "joss_doi": "10.21105/joss.05023",
+ "joss_title": "High-performance neural population dynamics modeling enabled by scalable computational infrastructure",
+ "joss_published": "2023-03-21T11:34:30.136Z",
+ "software_repository": "https://github.com/TNEL-UCSD/autolfads-deploy",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle: >-\n  Deployment strategies for scaling AutoLFADS to\n  model neural population dynamics\nmessage: >-\n  If you use this software, please cite it using the\n  metadata from this file.\ntype: software\nauthors:\n  - given-names: Aashish\n    family-names: Patel\n    affiliation: University of California San Diego\n  - given-names: Andrew\n    family-names: Sedler\n    affiliation: Georgia Institute of Technology\n  - given-names: Jingya\n    family-names: Huang\n    affiliation: University of California San Diego\n  - given-names: Chethan\n    family-names: Pandarinath\n    affiliation: Georgia Institute of Technology\n  - given-names: Vikash\n    family-names: Gilja\n    affiliation: University of California San Diego\nidentifiers:\n  - type: doi\n    value: 10.5281/zenodo.6786931\n"
+}

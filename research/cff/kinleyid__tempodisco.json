@@ -1,0 +1,9 @@
+{
+ "repo": "kinleyid/tempodisco",
+ "joss_doi": "10.21105/joss.07472",
+ "joss_title": "tempodisco: an R package for temporal discounting",
+ "joss_published": "2025-04-08T22:04:35.706Z",
+ "software_repository": "https://github.com/kinleyid/tempodisco/",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Kinley\n  given-names: Isaac\n  orcid: \"https://orcid.org/0000-0003-2057-9606\"\ncontact:\n- family-names: Kinley\n  given-names: Isaac\n  orcid: \"https://orcid.org/0000-0003-2057-9606\"\ndoi: 10.5281/zenodo.15076623\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Kinley\n    given-names: Isaac\n    orcid: \"https://orcid.org/0000-0003-2057-9606\"\n  date-published: 2025-04-08\n  doi: 10.21105/joss.07472\n  issn: 2475-9066\n  issue: 108\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7472\n  title: \"tempodisco: an R package for temporal discounting\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07472\"\n  volume: 10\ntitle: \"tempodisco: an R package for temporal discounting\"\n"
+}

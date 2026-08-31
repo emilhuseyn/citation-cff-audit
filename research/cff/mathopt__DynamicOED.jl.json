@@ -1,0 +1,9 @@
+{
+ "repo": "mathopt/DynamicOED.jl",
+ "joss_doi": "10.21105/joss.06605",
+ "joss_title": "DynamicOED.jl: A Julia package for solving optimum experimental design problems",
+ "joss_published": "2024-06-19T00:11:38.158Z",
+ "software_repository": "https://github.com/mathopt/DynamicOED.jl",
+ "status": 404,
+ "cff": null
+}

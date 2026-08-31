@@ -1,0 +1,9 @@
+{
+ "repo": "martinfleis/clustergram",
+ "joss_doi": "10.21105/joss.05240",
+ "joss_title": "Clustergram: Visualization and diagnostics for cluster analysis",
+ "joss_published": "2023-09-02T03:38:07.275Z",
+ "software_repository": "https://github.com/martinfleis/clustergram",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Fleischmann\n  given-names: Martin\n  orcid: \"https://orcid.org/0000-0003-3319-3366\"\ndoi: 10.5281/zenodo.8202396\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Fleischmann\n    given-names: Martin\n    orcid: \"https://orcid.org/0000-0003-3319-3366\"\n  date-published: 2023-09-02\n  doi: 10.21105/joss.05240\n  issn: 2475-9066\n  issue: 89\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5240\n  title: \"Clustergram: Visualization and diagnostics for cluster\n    analysis\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05240\"\n  volume: 8\ntitle: \"Clustergram: Visualization and diagnostics for cluster analysis\"\n"
+}

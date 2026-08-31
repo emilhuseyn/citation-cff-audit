@@ -1,0 +1,9 @@
+{
+ "repo": "OpenBfS/UncertRadio",
+ "joss_doi": "10.21105/joss.07398",
+ "joss_title": "UncertRadio: Software for determining characteristic limits in accordance to DIN EN ISO 11929 for radioactivity measurements",
+ "joss_published": "2026-05-04T15:27:59.537Z",
+ "software_repository": "https://github.com/OpenBfS/UncertRadio",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Kanisch\n  given-names: G\u00fcnter\n- family-names: Ober\n  given-names: Florian\n  orcid: \"https://orcid.org/0009-0008-4697-3242\"\n- family-names: Aust\n  given-names: Marc-Oliver\n  orcid: \"https://orcid.org/0000-0002-5165-8641\"\ncontact:\n- family-names: Ober\n  given-names: Florian\n  orcid: \"https://orcid.org/0009-0008-4697-3242\"\ndoi: 10.5281/zenodo.19880547\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Kanisch\n    given-names: G\u00fcnter\n  - family-names: Ober\n    given-names: Florian\n    orcid: \"https://orcid.org/0009-0008-4697-3242\"\n  - family-names: Aust\n    given-names: Marc-Oliver\n    orcid: \"https://orcid.org/0000-0002-5165-8641\"\n  date-published: 2026-05-04\n  doi: 10.21105/joss.07398\n  issn: 2475-9066\n  issue: 121\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7398\n  title: \"UncertRadio: Software for determining characteristic limits in\n    accordance to DIN EN ISO 11929 for radioactivity measurements\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07398\"\n  volume: 11\ntitle: \"`UncertRadio`: Software for determining characteristic limits in\n  accordance to DIN EN ISO 11929 for radioactivity measurements\""
+}

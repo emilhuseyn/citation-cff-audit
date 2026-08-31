@@ -1,0 +1,9 @@
+{
+ "repo": "mmore500/hstrat",
+ "joss_doi": "10.21105/joss.04866",
+ "joss_title": "hstrat: a Python Package for phylogenetic inference on distributed digital evolution populations",
+ "joss_published": "2022-12-16T13:14:37.081Z",
+ "software_repository": "https://github.com/mmore500/hstrat",
+ "status": 200,
+ "cff": "cff-version: 1.25.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Moreno\n    given-names: Matthew Andres\n    orcid: https://orcid.org/0000-0003-4726-4479\n  - family-names: Dolson\n    given-names: Emily\n    orcid: https://orcid.org/0000-0001-8616-4898\n  - family-names: Ofria\n    given-names: Charles\n    orcid: https://orcid.org/0000-0003-2924-1732\ntitle: \"hstrat\"\nversion: 1.25.0\npreferred-citation:\n  type: article\n  authors:\n  - family-names: Moreno\n    given-names: Matthew Andres\n    orcid: https://orcid.org/0000-0003-4726-4479\n  - family-names: Dolson\n    given-names: Emily\n    orcid: https://orcid.org/0000-0001-8616-4898\n  - family-names: Ofria\n    given-names: Charles\n    orcid: https://orcid.org/0000-0003-2924-1732\n  doi: \"https://doi.org/10.21105/joss.04866\"\n  journal: \"Journal of Open Source Software\"\n  month: 12\n  start: 4866 # First page number\n  end: 4866 # Last page number\n  title: \"hstrat: a Python Package for phylogenetic inference on distributed digital evolution populations\"\n  volume: 7\n  number: 80\n  year: 2022\n"
+}

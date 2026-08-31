@@ -1,0 +1,9 @@
+{
+ "repo": "MillionConcepts/pdr",
+ "joss_doi": "10.21105/joss.07256",
+ "joss_title": "PDR: The Planetary Data Reader",
+ "joss_published": "2024-10-09T08:52:42.506Z",
+ "software_repository": "https://github.com/MillionConcepts/pdr",
+ "status": 200,
+ "cff": "If you use pdr for any published work, please cite it using the reference below:\n\n@article{Brown2024,\n    author = {{Brown}, Sierra V. and {St. Clair}, Michael and {Million}, Chase\n              and {Curtis}, Sabrina and {Aye}, K. -Michael and {Weinberg}, Zack},\n    year = {2024},\n    journal = {Journal of Open Source Software},\n    title = {PDR: The Planetary Data Reader},\n    year = {2024},\n    url = {https://doi.org/10.21105/joss.07256},\n    publisher = {The Open Journal},\n    volume = {9},\n    number = {102},\n    pages = {7256},\n    doi = {10.21105/joss.07256}\n    }\n"
+}

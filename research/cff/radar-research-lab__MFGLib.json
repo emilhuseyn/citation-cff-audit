@@ -1,0 +1,9 @@
+{
+ "repo": "radar-research-lab/MFGLib",
+ "joss_doi": "10.21105/joss.10137",
+ "joss_title": "MFGLib: A Library for Mean-Field Games",
+ "joss_published": "2026-04-13T18:20:07.068Z",
+ "software_repository": "https://github.com/radar-research-lab/MFGLib/",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Guo\n  given-names: Xin\n  orcid: \"https://orcid.org/0000-0002-3350-4606\"\n- family-names: Hu\n  given-names: Anran\n  orcid: \"https://orcid.org/0000-0002-6781-0900\"\n- family-names: Santamaria\n  given-names: Matteo\n  orcid: \"https://orcid.org/0009-0000-1406-2083\"\n- family-names: Tajrobehkar\n  given-names: Mahan\n  orcid: \"https://orcid.org/0000-0002-0290-5255\"\n- family-names: Zhang\n  given-names: Junzi\n  orcid: \"https://orcid.org/0000-0002-5086-0063\"\ndoi: 10.5281/zenodo.19375906\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Guo\n    given-names: Xin\n    orcid: \"https://orcid.org/0000-0002-3350-4606\"\n  - family-names: Hu\n    given-names: Anran\n    orcid: \"https://orcid.org/0000-0002-6781-0900\"\n  - family-names: Santamaria\n    given-names: Matteo\n    orcid: \"https://orcid.org/0009-0000-1406-2083\"\n  - family-names: Tajrobehkar\n    given-names: Mahan\n    orcid: \"https://orcid.org/0000-0002-0290-5255\"\n  - family-names: Zhang\n    given-names: Junzi\n    orcid: \"https://orcid.org/0000-0002-5086-0063\"\n  date-published: 2026-04-13\n  doi: 10.21105/joss.10137\n  issn: 2475-9066\n  issue: 120\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 10137\n  title: \"MFGLib: A Library for Mean-Field Games\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.10137\"\n  volume: 11\ntitle: \"MFGLib: A Library for Mean-Field Games\"\n"
+}

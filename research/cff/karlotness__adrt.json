@@ -1,0 +1,9 @@
+{
+ "repo": "karlotness/adrt",
+ "joss_doi": "10.21105/joss.05083",
+ "joss_title": "adrt: approximate discrete Radon transform for Python",
+ "joss_published": "2023-03-16T01:48:45.113Z",
+ "software_repository": "https://github.com/karlotness/adrt",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software in your work, please cite our JOSS paper.\"\nauthors:\n- family-names: \"Otness\"\n  given-names: \"Karl\"\n  orcid: \"https://orcid.org/0000-0001-8534-2648\"\n- family-names: \"Rim\"\n  given-names: \"Donsub\"\n  orcid: \"https://orcid.org/0000-0002-6721-2070\"\ntitle: \"adrt: approximate discrete Radon transform for Python\"\ndoi: \"10.5281/zenodo.7738253\"\nurl: \"https://github.com/karlotness/adrt\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Otness\"\n    given-names: \"Karl\"\n    orcid: \"https://orcid.org/0000-0001-8534-2648\"\n  - family-names: \"Rim\"\n    given-names: \"Donsub\"\n    orcid: \"https://orcid.org/0000-0002-6721-2070\"\n  title: \"adrt: approximate discrete Radon transform for Python\"\n  doi: \"10.21105/joss.05083\"\n  url: \"https://doi.org/10.21105/joss.05083\"\n  publisher:\n    name: \"The Open Journal\"\n  journal: \"Journal of Open Source Software\"\n  volume: 8\n  number: 83\n  pages: 5083\n  year: 2023\n"
+}

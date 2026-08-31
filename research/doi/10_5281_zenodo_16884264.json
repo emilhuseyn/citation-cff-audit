@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.16884264",
+ "source": "datacite",
+ "state": "ok",
+ "title": "TMLE.jl: Targeted Minimum Loss-Based Estimation in Julia",
+ "type": "Software",
+ "container": ""
+}

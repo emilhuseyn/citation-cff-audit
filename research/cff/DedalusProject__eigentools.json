@@ -1,0 +1,9 @@
+{
+ "repo": "DedalusProject/eigentools",
+ "joss_doi": "10.21105/joss.03079",
+ "joss_title": "eigentools: A Python package for studying differential eigenvalue problems with an emphasis on robustness",
+ "joss_published": "2021-06-23T16:17:59.675Z",
+ "software_repository": "https://github.com/DedalusProject/eigentools",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Oishi\"\n    given-names: \"Jeffrey S\"\n    orcid: \"https://orcid.org/0000-0001-8531-6570\"\n  - family-names: \"Burns\"\n    given-names: \"Keaton J\"\n    orcid: \"https://orcid.org/0000-0003-4761-4766\"\n  - family-names: \"Clark\"\n    given-names: \"S E\"\n    orcid: \"https://orcid.org/0000-0002-7633-3376\"\n  - family-names: \"Anders\"\n    given-names: \"Evan H\"\n    orcid: \"https://orcid.org/0000-0002-3433-4733\"\n  - family-names: \"Brown\"\n    given-names: \"Benjamin P\"\n    orcid: \"https://orcid.org/0000-0001-8935-219X\"\n  - family-names: \"Vasil\"\n    given-names: \"Geoffrey M\"\n    orcid: \"https://orcid.org/0000-0002-8902-5030\"\n  - family-names: \"Lecoanet\"\n    given-names: \"Daniel\"\n    orcid: \"https://orcid.org/0000-0002-7635-9728\"\n  title: \"eigentools: A Python package for studying differential eigenvalue problems with an emphasis on robustness\"\n  journal: \"Journal of Open Source Software\"\n  doi: \"10.21105/joss.03079\"\n  volume: 6\n  issue: 62\n  start: 3079\n  month: 6\n  year: 2021\n"
+}

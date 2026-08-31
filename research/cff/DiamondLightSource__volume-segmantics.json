@@ -1,0 +1,9 @@
+{
+ "repo": "DiamondLightSource/volume-segmantics",
+ "joss_doi": "10.21105/joss.04691",
+ "joss_title": "Volume Segmantics: A Python Package for Semantic Segmentation of Volumetric Data Using Pre-trained PyTorch Deep Learning\nModels",
+ "joss_published": "2022-10-09T08:06:59.390Z",
+ "software_repository": "https://github.com/DiamondLightSource/volume-segmantics",
+ "status": 404,
+ "cff": null
+}

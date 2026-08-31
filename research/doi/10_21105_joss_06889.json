@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.06889",
+ "source": "crossref",
+ "state": "ok",
+ "title": "scores: A Python package for verifying and evaluating models and predictions with xarray",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "ropensci/targets",
+ "joss_doi": "10.21105/joss.02959",
+ "joss_title": "The targets R package: a dynamic Make-like function-oriented pipeline toolkit for reproducibility and high-performance computing",
+ "joss_published": "2021-01-15T10:49:26.813Z",
+ "software_repository": "https://github.com/ropensci/targets",
+ "status": 404,
+ "cff": null
+}

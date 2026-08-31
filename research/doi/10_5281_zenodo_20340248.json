@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.20340248",
+ "source": "datacite",
+ "state": "ok",
+ "title": "liblsl.dart: A Dart native API for Lab Streaming Layer (LSL)",
+ "type": "Software",
+ "container": ""
+}

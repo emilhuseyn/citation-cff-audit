@@ -1,0 +1,9 @@
+{
+ "repo": "mmrabe/hypr",
+ "joss_doi": "10.21105/joss.02134",
+ "joss_title": "hypr: An R package for hypothesis-driven contrast coding",
+ "joss_published": "2020-04-27T16:39:17.036Z",
+ "software_repository": "https://github.com/mmrabe/hypr",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Rabe\n    given-names: Maximilian M.\n    orcid: https://orcid.org/0000-0002-2556-5644\n  - family-names: Vasishth\n    given-names: Shravan\n    orcid: https://orcid.org/0000-0003-2027-1994\n  - family-names: Hohenstein\n    given-names: Sven\n    orcid: https://orcid.org/0000-0002-9708-1593\n  - family-names: Kliegl\n    given-names: Reinhold\n    orcid: https://orcid.org/0000-0002-0180-8488\n  - family-names: Schad\n    given-names: Daniel J.\n    orcid: https://orcid.org/0000-0003-2586-6823\ntitle: \"hypr: An R package for hypothesis-driven contrast coding\"\nversion: 0.2.2\ndoi: 10.5281/zenodo.3765842\ndate-released: 2021-08-18\n"
+}

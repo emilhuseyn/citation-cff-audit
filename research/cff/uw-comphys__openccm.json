@@ -1,0 +1,9 @@
+{
+ "repo": "uw-comphys/openccm",
+ "joss_doi": "10.21105/joss.06963",
+ "joss_title": "OpenCCM: An Open-Source Continuous Compartmental Modelling Package",
+ "joss_published": "2024-10-30T15:14:16.472Z",
+ "software_repository": "https://github.com/uw-comphys/openccm",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Vasile\n  given-names: Alexandru Andrei\n  orcid: \"https://orcid.org/0000-0002-0233-0172\"\n- family-names: Tino\n  given-names: Matthew Peres\n  orcid: \"https://orcid.org/0009-0005-6832-1761\"\n- family-names: Aseri\n  given-names: Yuvraj\n  orcid: \"https://orcid.org/0009-0008-4703-3711\"\n- family-names: Abukhdeir\n  given-names: Nasser Mohieddin\n  orcid: \"https://orcid.org/0000-0002-1772-0376\"\ncontact:\n- family-names: Abukhdeir\n  given-names: Nasser Mohieddin\n  orcid: \"https://orcid.org/0000-0002-1772-0376\"\ndoi: 10.5281/zenodo.13988255\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Vasile\n    given-names: Alexandru Andrei\n    orcid: \"https://orcid.org/0000-0002-0233-0172\"\n  - family-names: Tino\n    given-names: Matthew Peres\n    orcid: \"https://orcid.org/0009-0005-6832-1761\"\n  - family-names: Aseri\n    given-names: Yuvraj\n    orcid: \"https://orcid.org/0009-0008-4703-3711\"\n  - family-names: Abukhdeir\n    given-names: Nasser Mohieddin\n    orcid: \"https://orcid.org/0000-0002-1772-0376\"\n  date-published: 2024-10-30\n  doi: 10.21105/joss.06963\n  issn: 2475-9066\n  issue: 102\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6963\n  title: \"OpenCCM: An Open-Source Continuous Compartmental Modelling\n    Package\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06963\"\n  volume: 9\ntitle: \"`OpenCCM`: An Open-Source Continuous Compartmental Modelling\n  Package\"\n"
+}

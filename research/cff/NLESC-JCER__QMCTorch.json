@@ -1,0 +1,9 @@
+{
+ "repo": "NLESC-JCER/QMCTorch",
+ "joss_doi": "10.21105/joss.05472",
+ "joss_title": "QMCTorch: a PyTorch Implementation of Real-Space Quantum Monte Carlo Simulations of Molecular Systems",
+ "joss_published": "2023-11-21T16:27:28.777Z",
+ "software_repository": "https://github.com/NLESC-JCER/QMCTorch",
+ "status": 404,
+ "cff": null
+}

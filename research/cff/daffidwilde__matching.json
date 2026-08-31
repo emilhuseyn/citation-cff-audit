@@ -1,0 +1,9 @@
+{
+ "repo": "daffidwilde/matching",
+ "joss_doi": "10.21105/joss.02169",
+ "joss_title": "Matching: A Python library for solving matching games",
+ "joss_published": "2020-04-17T15:10:52.920Z",
+ "software_repository": "https://github.com/daffidwilde/matching",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle: 'Matching: A library for solving matching games'\nmessage: >-\n  If you use this software, please cite it using the\n  metadata from this file.\ntype: software\nauthors:\n  - given-names: Henry\n    family-names: Wilde\n    email: henrydavidwilde@gmail.com\n    orcid: 'https://orcid.org/0000-0002-3788-7691'\n  - given-names: Vince\n    family-names: Knight\n    orcid: 'https://orcid.org/0000-0002-4245-0638'\n  - given-names: Jonathan\n    family-names: Gillard\n    orcid: 'https://orcid.org/0000-0001-9166-298X'\nidentifiers:\n  - type: doi\n    value: 10.5281/zenodo.2553125\n    description: Zenodo archive\n  - type: doi\n    value: 10.21105/joss.02169\n    description: JOSS paper\nrepository-code: 'https://github.com/daffidwilde/matching'\nkeywords:\n  - matching\n  - python\n  - game\nlicense: MIT"
+}

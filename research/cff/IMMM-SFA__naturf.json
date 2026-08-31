@@ -1,0 +1,9 @@
+{
+ "repo": "IMMM-SFA/naturf",
+ "joss_doi": "10.21105/joss.06712",
+ "joss_title": "naturf: a package for generating urban parameters for numerical weather modeling",
+ "joss_published": "2024-06-06T22:14:16.495Z",
+ "software_repository": "https://github.com/IMMM-SFA/naturf.git",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Allen-Dumas\n    given-names: Melissa R.\n    orcid: \"https://orcid.org/0000-0002-3319-0846\"\n  - family-names: Sweet-Breu\n    given-names: Levi T.\n    orcid: \"https://orcid.org/0000-0003-3325-8086\"\n  - family-names: Rexer\n    given-names: Em\n    orcid: \"https://orcid.org/0000-0002-0327-183X\"\n  - family-names: Vernon\n    given-names: Chris R.\n    orcid: \"https://orcid.org/0000-0002-3406-6214\"\n\ntitle: \"naturf: a package for generating urban parameters for numerical weather modeling\"\nversion: 1.0.4\ndoi: 10.5281/zenodo.7036191\ndate-released: 2024-06-03\nurl: \"https://github.com/IMMM-SFA/naturf\"\n"
+}

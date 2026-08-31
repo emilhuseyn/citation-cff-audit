@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.cffr",
+ "source": "crossref",
+ "state": "ok",
+ "title": "cffr: Generate Citation File Format ('CFF') Metadata",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "LMBooth/pybci",
+ "joss_doi": "10.21105/joss.05706",
+ "joss_title": "PyBCI: A Python Package for Brain-Computer Interface (BCI) Design",
+ "joss_published": "2023-12-02T08:01:07.441Z",
+ "software_repository": "https://github.com/LMBooth/pybci",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Booth\n  given-names: Liam\n  orcid: \"https://orcid.org/0000-0002-8749-9726\"\n- family-names: Asghar\n  given-names: Aziz\n  orcid: \"https://orcid.org/0000-0002-3735-4449\"\n- family-names: Bateson\n  given-names: Anthony\n  orcid: \"https://orcid.org/0000-0002-4780-4458\"\ndoi: 10.5281/zenodo.10245437\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Booth\n    given-names: Liam\n    orcid: \"https://orcid.org/0000-0002-8749-9726\"\n  - family-names: Asghar\n    given-names: Aziz\n    orcid: \"https://orcid.org/0000-0002-3735-4449\"\n  - family-names: Bateson\n    given-names: Anthony\n    orcid: \"https://orcid.org/0000-0002-4780-4458\"\n  date-published: 2023-12-02\n  doi: 10.21105/joss.05706\n  issn: 2475-9066\n  issue: 92\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5706\n  title: \"PyBCI: A Python Package for Brain-Computer Interface (BCI)\n    Design\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05706\"\n  volume: 8\ntitle: \"PyBCI: A Python Package for Brain-Computer Interface (BCI)\n  Design\"\n"
+}

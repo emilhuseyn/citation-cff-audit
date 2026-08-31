@@ -1,0 +1,9 @@
+{
+ "repo": "unmannedlab/ekf_cal",
+ "joss_doi": "10.21105/joss.07793",
+ "joss_title": "EKF_CAL: Extended Kalman Filter-based Calibration and Localization",
+ "joss_published": "2025-05-29T07:12:21.526Z",
+ "software_repository": "https://github.com/unmannedlab/ekf_cal/",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Hartzer\"\n  given-names: \"Jacob\"\n  orcid: \"https://orcid.org/0000-0002-3051-2213\"\ntitle: \"ekf_cal\"\nversion: 0.4.0\n# doi:\n# date-released:\nurl: \"https://github.com/unmannedlab/ekf_cal\""
+}

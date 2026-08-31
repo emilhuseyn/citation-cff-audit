@@ -1,0 +1,9 @@
+{
+ "repo": "mpi4py/shmem4py",
+ "joss_doi": "10.21105/joss.05444",
+ "joss_title": "shmem4py: OpenSHMEM for Python",
+ "joss_published": "2023-07-19T18:21:11.898Z",
+ "software_repository": "https://github.com/mpi4py/shmem4py",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Rogowski\n  given-names: Marcin\n  orcid: \"https://orcid.org/0000-0002-5662-2082\"\n- family-names: Dalcin\n  given-names: Lisandro\n  orcid: \"https://orcid.org/0000-0001-8086-0155\"\n- family-names: Hammond\n  given-names: Jeff R.\n  orcid: \"https://orcid.org/0000-0003-3181-8190\"\n- family-names: Keyes\n  given-names: David E.\n  orcid: \"https://orcid.org/0000-0002-4052-7224\"\ncontact:\n- family-names: Rogowski\n  given-names: Marcin\n  orcid: \"https://orcid.org/0000-0002-5662-2082\"\ndoi: 10.5281/zenodo.8143862\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Rogowski\n    given-names: Marcin\n    orcid: \"https://orcid.org/0000-0002-5662-2082\"\n  - family-names: Dalcin\n    given-names: Lisandro\n    orcid: \"https://orcid.org/0000-0001-8086-0155\"\n  - family-names: Hammond\n    given-names: Jeff R.\n    orcid: \"https://orcid.org/0000-0003-3181-8190\"\n  - family-names: Keyes\n    given-names: David E.\n    orcid: \"https://orcid.org/0000-0002-4052-7224\"\n  date-published: 2023-07-19\n  doi: 10.21105/joss.05444\n  issn: 2475-9066\n  issue: 87\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5444\n  title: \"shmem4py: OpenSHMEM for Python\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05444\"\n  volume: 8\ntitle: \"shmem4py: OpenSHMEM for Python\"\n\n"
+}

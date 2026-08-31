@@ -1,0 +1,9 @@
+{
+ "repo": "frank1010111/pywaterflood",
+ "joss_doi": "10.21105/joss.06191",
+ "joss_title": "Pywaterflood: Well connectivity analysis through capacitance-resistance modeling",
+ "joss_published": "2024-03-20T16:19:58.597Z",
+ "software_repository": "https://github.com/frank1010111/pywaterflood",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Male\n  given-names: Frank\n  orcid: \"https://orcid.org/0000-0002-3402-5578\"\ncontact:\n- family-names: Male\n  given-names: Frank\n  orcid: \"https://orcid.org/0000-0002-3402-5578\"\ndoi: 10.5281/zenodo.10815882\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Male\n    given-names: Frank\n    orcid: \"https://orcid.org/0000-0002-3402-5578\"\n  date-published: 2024-03-20\n  doi: 10.21105/joss.06191\n  issn: 2475-9066\n  issue: 95\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6191\n  title: \"Pywaterflood: Well connectivity analysis through\n    capacitance-resistance modeling\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06191\"\n  volume: 9\ntitle: \"Pywaterflood: Well connectivity analysis through\n  capacitance-resistance modeling\"\n"
+}

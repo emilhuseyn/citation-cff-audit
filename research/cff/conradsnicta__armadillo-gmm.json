@@ -1,0 +1,9 @@
+{
+ "repo": "conradsnicta/armadillo-gmm",
+ "joss_doi": "10.21105/joss.00365",
+ "joss_title": "gmm_diag and gmm_full: C++ classes for multi-threaded Gaussian mixture models and Expectation-Maximisation",
+ "joss_published": "2017-10-16T00:00:00.000Z",
+ "software_repository": "https://github.com/conradsnicta/armadillo-gmm",
+ "status": 404,
+ "cff": null
+}

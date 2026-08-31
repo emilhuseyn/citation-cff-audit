@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.08487",
+ "source": "crossref",
+ "state": "ok",
+ "title": "CFTime.jl: a Julia package for representing time following the Climate and Forecast conventions",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

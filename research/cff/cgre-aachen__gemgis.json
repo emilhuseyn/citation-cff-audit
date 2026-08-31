@@ -1,0 +1,9 @@
+{
+ "repo": "cgre-aachen/gemgis",
+ "joss_doi": "10.21105/joss.03709",
+ "joss_title": "GemGIS - Spatial Data Processing for Geomodeling",
+ "joss_published": "2022-05-04T16:01:04.798Z",
+ "software_repository": "https://github.com/cgre-aachen/gemgis",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use GemGIS, please cite it as below.\"\nauthors:\n  - family-names: \"J\u00fcstel\"\n    given-names: \"Alexander\"\n    orcid: https://orcid.org/0000-0003-0980-7479\n  - family-names: \"Endlein Correira\"\n    given-names: \"Arthur\"\n  - family-names: \"Pischke\"\n    given-names: \"Marius\"\n  - family-names: \"de la Varga\"\n    given-names: \"Miguel\"\n    orcid: https://orcid.org/0000-0001-6941-2685\n  - family-names: \"Wellmann\"\n    given-names: \"Florian\"\n    orcid: https://orcid.org/0000-0003-2552-1876\ntitle: \"GemGIS - Spatial Data Processing for Geomodeling\"\nversion: 1.0.0\ndoi: https://doi.org/10.21105/joss.03709\ndate-released: 2022-05-04\nurl: \"https://github.com/cgre-aachen/gemgis\"\n"
+}

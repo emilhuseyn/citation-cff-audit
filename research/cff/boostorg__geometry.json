@@ -1,0 +1,9 @@
+{
+ "repo": "boostorg/geometry",
+ "joss_doi": "10.21105/joss.10328",
+ "joss_title": "Boost.Geometry: A Generic C++ Geometry Library",
+ "joss_published": "2026-05-19T19:47:32.126Z",
+ "software_repository": "https://github.com/boostorg/geometry",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Bartels\n  given-names: Tinko Sebastian\n  orcid: \"https://orcid.org/0000-0002-0084-7100\"\n- family-names: Fisikopoulos\n  given-names: Vissarion\n  orcid: \"https://orcid.org/0000-0002-0780-666X\"\n- family-names: Gehrels\n  given-names: Barend\n- family-names: Karavelas\n  given-names: Menelaos\n- family-names: Lalande\n  given-names: Bruno\n- family-names: \u0141oskot\n  given-names: Mateusz\n- family-names: Wulkiewicz\n  given-names: Adam\ndoi: 10.5281/zenodo.20281747\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Bartels\n    given-names: Tinko Sebastian\n    orcid: \"https://orcid.org/0000-0002-0084-7100\"\n  - family-names: Fisikopoulos\n    given-names: Vissarion\n    orcid: \"https://orcid.org/0000-0002-0780-666X\"\n  - family-names: Gehrels\n    given-names: Barend\n  - family-names: Karavelas\n    given-names: Menelaos\n  - family-names: Lalande\n    given-names: Bruno\n  - family-names: \u0141oskot\n    given-names: Mateusz\n  - family-names: Wulkiewicz\n    given-names: Adam\n  date-published: 2026-05-19\n  doi: 10.21105/joss.10328\n  issn: 2475-9066\n  issue: 121\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 10328\n  title: \"Boost.Geometry: A Generic C++ Geometry Library\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.10328\"\n  volume: 11\ntitle: \"Boost.Geometry: A Generic C++ Geometry Library\"\n"
+}

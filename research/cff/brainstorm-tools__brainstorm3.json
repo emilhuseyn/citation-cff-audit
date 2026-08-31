@@ -1,0 +1,9 @@
+{
+ "repo": "brainstorm-tools/brainstorm3",
+ "joss_doi": "10.21105/joss.10490",
+ "joss_title": "sEEG-Suite: An Interactive Pipeline for Semi-Automated Contact Localization and Anatomical Labeling with Brainstorm",
+ "joss_published": "2026-06-04T12:23:17.391Z",
+ "software_repository": "https://github.com/brainstorm-tools/brainstorm3",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"Please cite the following reference in your publications if you have used our software for your data analyses.\"\ntitle: \"Brainstorm\"\nauthors:\n  - name: \"The Brainstorm team\"\nurl: \"https://neuroimage.usc.edu/brainstorm\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Tadel\"\n    given-names: \"Fran\u00e7ois\"\n  - family-names: \"Baillet\"\n    given-names: \"Sylvain\"\n  - family-names: \"Mosher\"\n    given-names: \"John C\"\n  - family-names: \"Pantazis\"\n    given-names: \"Dimitrios\"\n  - family-names: \"Leahy\"\n    given-names: \"Richard M\"\n  doi: \"10.1155/2011/879716\"\n  journal: \"Computational intelligence and neuroscience\"\n  publisher: \"Hindawi\"\n  title: \"Brainstorm: a user-friendly application for MEG/EEG analysis\"\n  volume: 2011\n  year: 2011\n"
+}

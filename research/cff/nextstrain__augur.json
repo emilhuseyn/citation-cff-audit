@@ -1,0 +1,9 @@
+{
+ "repo": "nextstrain/augur",
+ "joss_doi": "10.21105/joss.02906",
+ "joss_title": "Augur: a bioinformatics toolkit for phylogenetic analyses of human pathogens",
+ "joss_published": "2021-01-07T14:27:34.629Z",
+ "software_repository": "https://github.com/nextstrain/augur/",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\n\npreferred-citation:\n  type: article\n  title: \"Augur: a bioinformatics toolkit for phylogenetic analyses of human pathogens\"\n  doi: \"10.21105/joss.02906\"\n  journal: \"Journal of Open Source Software\"\n  year: 2021\n  month: 1\n  volume: 6\n  issue: 57\n  start: 2906\n  end: 2906\n\n  authors:\n    - family-names: Huddleston\n      given-names:  John\n\n    - family-names: Hadfield\n      given-names:  James\n\n    - family-names: Sibley\n      given-names:  Thomas R.\n\n    - family-names: Lee\n      given-names:  Jover\n\n    - family-names: Fay\n      given-names:  Kairsten\n\n    - family-names: Ilcisin\n      given-names:  Misja\n\n    - family-names: Harkins\n      given-names:  Elias\n\n    - family-names: Bedford\n      given-names:  Trevor\n\n    - family-names: Neher\n      given-names:  Richard A.\n\n    - family-names: Hodcroft\n      given-names:  Emma B.\n"
+}

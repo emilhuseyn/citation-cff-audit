@@ -1,0 +1,9 @@
+{
+ "repo": "joule-profiler/joule-profiler",
+ "joss_doi": "10.21105/joss.10575",
+ "joss_title": "Joule Profiler: A phase-based energy measurement tool",
+ "joss_published": "2026-08-18T11:46:41.234Z",
+ "software_repository": "https://github.com/joule-profiler/joule-profiler/",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Woirhaye\n  given-names: J\u00e9r\u00e9my\n  orcid: \"https://orcid.org/0009-0005-0777-9090\"\n- family-names: Gibier\n  given-names: Fran\u00e7ois\n  orcid: \"https://orcid.org/0009-0005-5164-8063\"\n- family-names: Rouvoy\n  given-names: Romain\n  orcid: \"https://orcid.org/0000-0003-1771-8791\"\ndoi: 10.5281/zenodo.21919449\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Woirhaye\n    given-names: J\u00e9r\u00e9my\n    orcid: \"https://orcid.org/0009-0005-0777-9090\"\n  - family-names: Gibier\n    given-names: Fran\u00e7ois\n    orcid: \"https://orcid.org/0009-0005-5164-8063\"\n  - family-names: Rouvoy\n    given-names: Romain\n    orcid: \"https://orcid.org/0000-0003-1771-8791\"\n  date-published: 2026-08-18\n  doi: 10.21105/joss.10575\n  issn: 2475-9066\n  issue: 124\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 10575\n  title: \"Joule Profiler: A phase-based energy measurement tool\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.10575\"\n  volume: 11\ntitle: \"Joule Profiler: A phase-based energy measurement tool\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "ichlubna/vkCompViz",
+ "joss_doi": "10.21105/joss.08871",
+ "joss_title": "vkCompViz: Universal C++ Library for GPU-Based Experiments",
+ "joss_published": "2026-01-17T13:11:55.126Z",
+ "software_repository": "https://github.com/ichlubna/vkCompViz",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Chlubna\n  given-names: Tomas\n  orcid: \"https://orcid.org/0000-0003-3126-0545\"\ndoi: 10.5281/zenodo.18258201\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Chlubna\n    given-names: Tomas\n    orcid: \"https://orcid.org/0000-0003-3126-0545\"\n  date-published: 2026-01-17\n  doi: 10.21105/joss.08871\n  issn: 2475-9066\n  issue: 117\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 8871\n  title: \"vkCompViz: Universal C++ Library for GPU-Based Experiments\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.08871\"\n  volume: 11\ntitle: \"vkCompViz: Universal C++ Library for GPU-Based Experiments\"\n"
+}

@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.18262030",
+ "source": "datacite",
+ "state": "ok",
+ "title": "JustRelax.jl: A Julia package for geodynamic modeling with matrix-free solvers",
+ "type": "Software",
+ "container": ""
+}

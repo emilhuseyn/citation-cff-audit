@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.geojsonio",
+ "source": "crossref",
+ "state": "ok",
+ "title": "geojsonio: Convert Data from and to 'GeoJSON' or 'TopoJSON'",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

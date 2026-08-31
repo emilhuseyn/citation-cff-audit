@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.06725",
+ "source": "crossref",
+ "state": "ok",
+ "title": "OpenGeoSysUncertaintyQuantification.jl: a Julia library\nimplementing an uncertainty quantification toolbox for\nOpenGeoSys",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

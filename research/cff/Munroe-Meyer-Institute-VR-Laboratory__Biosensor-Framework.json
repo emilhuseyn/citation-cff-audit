@@ -1,0 +1,9 @@
+{
+ "repo": "Munroe-Meyer-Institute-VR-Laboratory/Biosensor-Framework",
+ "joss_doi": "10.21105/joss.03455",
+ "joss_title": "Biosensor Framework: A C# Library for Affective Computing",
+ "joss_published": "2021-08-06T20:58:25.209Z",
+ "software_repository": "https://github.com/Munroe-Meyer-Institute-VR-Laboratory/Biosensor-Framework",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Arce\"\n  given-names: \"Walker\"\n  orcid: \"https://orcid.org/0000-0003-0819-0710\"\n- family-names: \"Gehringer\"\n  given-names: \"James\"\n  orcid: \"https://orcid.org/0000-0003-3457-2288\"\ntitle: \"Biosensor-Framework\"\nversion: v1.0.0\ndate-released: 2021-08-04\nurl: \"https://github.com/Munroe-Meyer-Institute-VR-Laboratory/Biosensor-Framework\"\ndoi: 10.5281/zenodo.5159590\n"
+}

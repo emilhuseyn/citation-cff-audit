@@ -1,0 +1,9 @@
+{
+ "repo": "scikit-tda/kepler-mapper",
+ "joss_doi": "10.21105/joss.01315",
+ "joss_title": "Kepler Mapper: A flexible Python implementation of the Mapper algorithm.",
+ "joss_published": "2019-10-17T20:06:59.647Z",
+ "software_repository": "https://github.com/scikit-tda/kepler-mapper",
+ "status": 404,
+ "cff": null
+}

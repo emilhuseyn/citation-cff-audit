@@ -1,0 +1,9 @@
+{
+ "repo": "MeasureTransport/MParT",
+ "joss_doi": "10.21105/joss.04843",
+ "joss_title": "MParT: Monotone Parameterization Toolkit",
+ "joss_published": "2022-12-26T14:37:35.424Z",
+ "software_repository": "https://github.com/MeasureTransport/MParT",
+ "status": 200,
+ "cff": "# This CITATION.cff file was generated with cffinit.\n# Visit https://bit.ly/cffinit to generate yours today!\n\ncff-version: 1.2.0\ntitle: Monotone Parameterization Toolkit (MParT)\nmessage: 'If you use MParT, please cite it as below.'\ntype: software\nversion: 2.2.1\nauthors:\n  - given-names: Matthew\n    family-names: Parno\n    email: parnomd@gmail.com\n    orcid: https://orcid.org/0000-0002-9419-2693\n  - given-names: Daniel\n    family-names: Sharp\n    email: dannys4@vt.edu\n    orcid: https://orcid.org/0000-0002-0439-5084\n  - given-names: Paul-Baptiste\n    family-names: Rubio\n    email: rubiop@mit.edu\n    orcid: https://orcid.org/0000-0002-9765-1162\n  - given-names: Michael\n    family-names: Brennan\n    email: mcbrenn@mit.edu\n    orcid: https://orcid.org/0000-0001-7812-9347\n  - given-names: Henning\n    family-names: Bonart\n    email: hbonart@mit.edu\n    orcid: https://orcid.org/0000-0002-5026-4499\n  - given-names: Ricardo\n    family-names: Baptista\n    email: rsb@mit.edu\n    orcid: https://orcid.org/0000-0002-0421-890X\n  - given-names: Youssef \n    family-names: Marzouk\n    email: ymarz@mit.edu\n    orcid: https://orcid.org/0000-0001-8242-3290\n\n"
+}

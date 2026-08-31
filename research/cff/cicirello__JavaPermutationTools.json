@@ -1,0 +1,9 @@
+{
+ "repo": "cicirello/JavaPermutationTools",
+ "joss_doi": "10.21105/joss.00950",
+ "joss_title": "JavaPermutationTools: A Java Library of Permutation Distance Metrics",
+ "joss_published": "2018-11-06T06:39:39.524Z",
+ "software_repository": "https://github.com/cicirello/JavaPermutationTools",
+ "status": 200,
+ "cff": "cff-version: \"1.1.0\"\nmessage: \"If you use this software, please cite it using these metadata.\"\nauthors: \n- family-names: \"Cicirello\"\n  given-names: \"Vincent A\"\n  orcid: \"https://orcid.org/0000-0003-1072-8559\"\ntitle: \"JavaPermutationTools\"\ndoi: \"10.5281/zenodo.1478192\"\nlicense: \"GPL-3.0-or-later\"\nurl: \"https://github.com/cicirello/JavaPermutationTools\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Cicirello\"\n    given-names: \"Vincent A\"\n    orcid: \"https://orcid.org/0000-0003-1072-8559\"\n  doi: \"10.21105/joss.00950\"\n  journal: \"Journal of Open Source Software\"\n  start: 950\n  title: \"JavaPermutationTools: A Java Library of Permutation Distance Metrics\"\n  issue: 31\n  volume: 3\n  year: 2018\n"
+}

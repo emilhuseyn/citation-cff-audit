@@ -1,0 +1,9 @@
+{
+ "repo": "tenemark/mikecalsetup",
+ "joss_doi": "10.21105/joss.05548",
+ "joss_title": "mikecalsetup: an open-source python tool for automatically creating calibration setups of MIKE SHE models in PEST or OSTRICH",
+ "joss_published": "2023-10-12T19:24:50.464Z",
+ "software_repository": "https://github.com/tenemark/mikecalsetup",
+ "status": 404,
+ "cff": null
+}

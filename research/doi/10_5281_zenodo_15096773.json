@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.15096773",
+ "source": "datacite",
+ "state": "ok",
+ "title": "Long Memory.jl: Generating, Estimating, and Forecasting Long Memory Models in Julia",
+ "type": "Software",
+ "container": ""
+}

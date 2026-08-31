@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.17905205",
+ "source": "datacite",
+ "state": "ok",
+ "title": "SatRbedo: An R package for retrieving snow and ice albedo from optical satellite imagery",
+ "type": "Software",
+ "container": ""
+}

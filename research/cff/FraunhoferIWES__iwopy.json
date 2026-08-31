@@ -1,0 +1,9 @@
+{
+ "repo": "FraunhoferIWES/iwopy",
+ "joss_doi": "10.21105/joss.06014",
+ "joss_title": "IWOPY: Fraunhofer IWES optimization tools in Python",
+ "joss_published": "2024-10-09T18:19:35.044Z",
+ "software_repository": "https://github.com/FraunhoferIWES/iwopy",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Schulte\n  given-names: Jonas\n  orcid: \"https://orcid.org/0000-0002-8191-8141\"\ndoi: 10.21105/joss.06014\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Schulte\n    given-names: Jonas\n    orcid: \"https://orcid.org/0000-0002-8191-8141\"\n  date-published: 2024-10-09\n  doi: 10.21105/joss.06014\n  issue: 102\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6014\n  title: \"IWOPY: Fraunhofer IWES optimization tools in Python\"\n  type: article\n  url: \"https://doi.org/10.21105/joss.06014\"\n  volume: 9\ntitle: \"IWOPY: Fraunhofer IWES optimization tools in Python\"\n"
+}

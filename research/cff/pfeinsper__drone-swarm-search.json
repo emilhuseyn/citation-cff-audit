@@ -1,0 +1,9 @@
+{
+ "repo": "pfeinsper/drone-swarm-search",
+ "joss_doi": "10.21105/joss.06746",
+ "joss_title": "DSSE: An environment for simulation of reinforcement learning-empowered drone swarm maritime search and rescue missions",
+ "joss_published": "2024-07-11T17:09:35.850Z",
+ "software_repository": "https://github.com/pfeinsper/drone-swarm-search",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Laffranchi Falc\u00e3o\"\n  given-names: \"Renato\"\n  orcid: \"https://orcid.org/0009-0001-5943-0481\"\n- family-names: \"Cust\u00f3dio Campos de Oliveira\"\n  given-names: \"Jor\u00e1s\"\n  orcid: \"https://orcid.org/0009-0005-1883-8703\"\n- family-names: \"Britto Arag\u00e3o Andrade\"\n  given-names: \"Pedro Henrique\"\n  orcid: \"https://orcid.org/0009-0000-0056-4322\"\n- family-names: \"Ribeiro Rodrigues\"\n  given-names: \"Ricardo\"\n  orcid: \"https://orcid.org/0009-0008-1237-3353\"\n- family-names: \"Jailson Barth\"\n  given-names: \"Fabr\u00edcio\"\n  orcid: \"https://orcid.org/0000-0001-6263-121X\"\n- family-names: \"Basso Brancalion\"\n  given-names: \"Jos\u00e9 Fernando\"\n  orcid: \"https://orcid.org/0000-0002-4387-0204\"\ntitle: \"DSSE: An environment for simulation of reinforcement learning-empowered drone swarm maritime search and rescue missions\"\nversion: 0.2.5\ndoi: 10.5281/zenodo.12659848\ndate-released: 2024-07-05\nurl: \"https://doi.org/10.5281/zenodo.12659848\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "jmorris335/ConstraintHg",
+ "joss_doi": "10.21105/joss.09131",
+ "joss_title": "ConstraintHg: A Kernel for Systems Modeling and Simulation",
+ "joss_published": "2026-01-19T21:18:57.247Z",
+ "software_repository": "https://github.com/jmorris335/ConstraintHg",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Morris\n  given-names: John\n  orcid: \"https://orcid.org/0009-0005-6571-1959\"\n  affiliation: PLM Center at Clemson University\ncontact:\n- family-names: Morris\n  given-names: John\n  orcid: \"https://orcid.org/0009-0005-6571-1959\"\n  email: jhmrrs@clemson.edu\ndoi: 10.5281/zenodo.18190055\nmessage: If you use this software, please cite the article in the\n  Journal of Open Source Software.\nlicense: Apache-2.0\npreferred-citation:\n  authors:\n  - family-names: Morris\n    given-names: John\n    orcid: \"https://orcid.org/0009-0005-6571-1959\"\n  date-published: 2026-01-19\n  doi: 10.21105/joss.09131\n  issn: 2475-9066\n  issue: 117\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9131\n  title: \"ConstraintHg: A Kernel for Systems Modeling and Simulation\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09131\"\n  volume: 11\ntitle: \"ConstraintHg: A Kernel for Systems Modeling and Simulation\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "LandSciTech/ccviR",
+ "joss_doi": "10.21105/joss.07150",
+ "joss_title": "ccviR: an R package and Shiny app to implement the NatureServe Climate Change Vulnerability Index",
+ "joss_published": "2024-11-15T21:46:41.965Z",
+ "software_repository": "https://github.com/LandSciTech/ccviR",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Endicott\n  given-names: Sarah\n  orcid: \"https://orcid.org/0000-0001-9644-5343\"\n- family-names: Naujokaitis-Lewis\n  given-names: Ilona\n  orcid: \"https://orcid.org/0000-0001-9504-4484\"\ndoi: 10.5281/zenodo.14170051\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Endicott\n    given-names: Sarah\n    orcid: \"https://orcid.org/0000-0001-9644-5343\"\n  - family-names: Naujokaitis-Lewis\n    given-names: Ilona\n    orcid: \"https://orcid.org/0000-0001-9504-4484\"\n  date-published: 2024-11-15\n  doi: 10.21105/joss.07150\n  issn: 2475-9066\n  issue: 103\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7150\n  title: \"ccviR: an R package and Shiny app to implement the NatureServe\n    Climate Change Vulnerability Index\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07150\"\n  volume: 9\ntitle: \"ccviR: an R package and Shiny app to implement the NatureServe\n  Climate Change Vulnerability Index\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "JuliaDynamics/TimeseriesSurrogates.jl",
+ "joss_doi": "10.21105/joss.04414",
+ "joss_title": "TimeseriesSurrogates.jl: a Julia package for generating surrogate data",
+ "joss_published": "2022-09-12T20:19:57.846Z",
+ "software_repository": "https://github.com/JuliaDynamics/TimeseriesSurrogates.jl",
+ "status": 404,
+ "cff": null
+}

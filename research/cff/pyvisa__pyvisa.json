@@ -1,0 +1,9 @@
+{
+ "repo": "pyvisa/pyvisa",
+ "joss_doi": "10.21105/joss.05304",
+ "joss_title": "PyVISA: the Python instrumentation package",
+ "joss_published": "2023-04-27T12:05:39.232Z",
+ "software_repository": "https://github.com/pyvisa/pyvisa",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Grecco\"\n  given-names: \"Hern\u00e1n E.\"\n  orcid: \"https://orcid.org/0000-0002-1165-4320\"\n- family-names: \"Dartiailh\"\n  given-names: \"Matthieu C.\"\n  orcid: \"https://orcid.org/0000-0001-6451-0577\"\n- family-names: \"Thalhammer-Thurner\"\n  given-names: \"Gregor\"\n  orcid: \"https://orcid.org/0000-0002-3948-8045\"\n- family-names: \"Bronger\"\n  given-names: \"Torsten\"\n  orcid: \"https://orcid.org/0000-0002-5174-6684\"\n- family-names: \"Bauer\"\n  given-names: \"Florian\"\n  orcid: \"https://orcid.org/0009-0004-5271-5363\"\ntitle: \"PyVISA\"\nversion: 1.13.0\ndoi: 10.5281/zenodo.7868199\ndate-released: 2022-12-22\nurl: \"https://github.com/github-linguist/linguist\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Grecco\"\n    given-names: \"Hern\u00e1n E.\"\n    orcid: \"https://orcid.org/0000-0002-1165-4320\"\n  - family-names: \"Dartiailh\"\n    given-names: \"Matthieu C.\"\n    orcid: \"https://orcid.org/0000-0001-6451-0577\"\n  - family-names: \"Thalhammer-Thurner\"\n    given-names: \"Gregor\"\n    orcid: \"https://orcid.org/0000-0002-3948-8045\"\n  - family-names: \"Bronger\"\n    given-names: \"Torsten\"\n    orcid: \"https://orcid.org/0000-0002-5174-6684\"\n  - family-names: \"Bauer\"\n    given-names: \"Florian\"\n    orcid: \"https://orcid.org/0009-0004-5271-5363\"\n  doi: \"10.21105/joss.05304\"\n  journal: \"Journal of Open Source Software\"\n  month: 4\n  start: 5304\n  end: 5308 \n  title: \"PyVISA: the Python instrumentation package\"\n  issue: 84\n  volume: 8\n  year: 2023"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "UTEL-UIUC/gtfs_segments",
+ "joss_doi": "10.21105/joss.06306",
+ "joss_title": "GTFS Segments: A Fast and Efficient Library to Generate Bus Stop Spacings",
+ "joss_published": "2024-03-19T09:01:07.422Z",
+ "software_repository": "https://github.com/UTEL-UIUC/gtfs_segments",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Devunuri\n  given-names: Saipraneeth\n  orcid: \"https://orcid.org/0000-0002-5911-4681\"\n- family-names: Lehe\n  given-names: Lewis\n  orcid: \"https://orcid.org/0000-0001-8029-1706\"\ncontact:\n- family-names: Devunuri\n  given-names: Saipraneeth\n  orcid: \"https://orcid.org/0000-0002-5911-4681\"\ndoi: 10.5281/zenodo.10681151\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Devunuri\n    given-names: Saipraneeth\n    orcid: \"https://orcid.org/0000-0002-5911-4681\"\n  - family-names: Lehe\n    given-names: Lewis\n    orcid: \"https://orcid.org/0000-0001-8029-1706\"\n  date-published: 2024-03-19\n  doi: 10.21105/joss.06306\n  issn: 2475-9066\n  issue: 95\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6306\n  title: \"GTFS Segments: A Fast and Efficient Library to Generate Bus\n    Stop Spacings\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06306\"\n  volume: 9\ntitle: \"GTFS Segments: A Fast and Efficient Library to Generate Bus Stop\n  Spacings\"\n"
+}

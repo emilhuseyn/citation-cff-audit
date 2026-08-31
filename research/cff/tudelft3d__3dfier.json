@@ -1,0 +1,9 @@
+{
+ "repo": "tudelft3d/3dfier",
+ "joss_doi": "10.21105/joss.02866",
+ "joss_title": "3dfier: automatic reconstruction of 3D city models",
+ "joss_published": "2021-01-26T11:13:02.786Z",
+ "software_repository": "https://github.com/tudelft3d/3dfier",
+ "status": 200,
+ "cff": "# YAML 1.2\n---\nauthors: \n  -\n    affiliation: \"Delft University of Technology, the Netherlands\"\n    family-names: Ledoux\n    given-names: Hugo\n    orcid: \"https://orcid.org/0000-0002-1251-8654\"\n  -\n    affiliation: \"National University of Singapore, Singapore\"\n    family-names: Biljecki\n    given-names: Filip\n    orcid: \"https://orcid.org/0000-0002-6229-7749\"\n  -\n    affiliation: \"Delft University of Technology, the Netherlands\"\n    family-names: Dukai\n    given-names: \"Bal\u00e1zs\"\n    orcid: \"https://orcid.org/0000-0003-0193-5863\"\n  -\n    affiliation: \"Delft University of Technology, the Netherlands\"\n    family-names: Kumar\n    given-names: Kavisha\n  -\n    affiliation: \"Delft University of Technology, the Netherlands\"\n    family-names: Peters\n    given-names: Ravi\n  -\n    affiliation: \"Delft University of Technology, the Netherlands\"\n    family-names: Stoter\n    given-names: Jantien\n  -\n    affiliation: \"Delft University of Technology, the Netherlands\"\n    family-names: Commandeur\n    given-names: Tom\ncff-version: \"1.1.0\"\ndate-released: 2021-01-26\ndoi: \"10.21105/joss.02866\"\nmessage: \"If you use this software, please cite it using these metadata.\"\nrepository-code: \"https://github.com/tudelft3d/3dfier\"\ntitle: \"3dfier: automatic reconstruction of 3D city models\"\n..."
+}

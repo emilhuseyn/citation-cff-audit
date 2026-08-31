@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.21241837",
+ "source": "datacite",
+ "state": "ok",
+ "title": "Balsa: A Fast C++ Random Forest Classifier with Command-line and Python Interface",
+ "type": "Software",
+ "container": ""
+}

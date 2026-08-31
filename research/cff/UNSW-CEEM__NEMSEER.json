@@ -1,0 +1,9 @@
+{
+ "repo": "UNSW-CEEM/NEMSEER",
+ "joss_doi": "10.21105/joss.05883",
+ "joss_title": "NEMSEER: A Python package for downloading and handling historical National Electricity Market forecast data produced by the Australian Energy Market Operator",
+ "joss_published": "2023-12-09T20:29:33.679Z",
+ "software_repository": "https://github.com/UNSW-CEEM/NEMSEER",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Prakash\n  given-names: Abhijith\n  orcid: \"https://orcid.org/0000-0002-2945-4757\"\n- family-names: Bruce\n  given-names: Anna\n  orcid: \"https://orcid.org/0000-0003-1820-4039\"\n- family-names: MacGill\n  given-names: Iain\n  orcid: \"https://orcid.org/0000-0002-9587-6835\"\ncontact:\n- family-names: Prakash\n  given-names: Abhijith\n  orcid: \"https://orcid.org/0000-0002-2945-4757\"\ndoi: v1.0.7\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Prakash\n    given-names: Abhijith\n    orcid: \"https://orcid.org/0000-0002-2945-4757\"\n  - family-names: Bruce\n    given-names: Anna\n    orcid: \"https://orcid.org/0000-0003-1820-4039\"\n  - family-names: MacGill\n    given-names: Iain\n    orcid: \"https://orcid.org/0000-0002-9587-6835\"\n  date-published: 2023-12-09\n  doi: 10.21105/joss.05883\n  issn: 2475-9066\n  issue: 92\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5883\n  title: \"NEMSEER: A Python package for downloading and handling\n    historical National Electricity Market forecast data produced by the\n    Australian Energy Market Operator\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05883\"\n  volume: 8\ntitle: \"NEMSEER: A Python package for downloading and handling\n  historical National Electricity Market forecast data produced by the\n  Australian Energy Market Operator\"\n"
+}

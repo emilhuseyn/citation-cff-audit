@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.07996",
+ "source": "crossref",
+ "state": "ok",
+ "title": "MultiVae: A Python package for Multimodal Variational Autoencoders on Partial Datasets.",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

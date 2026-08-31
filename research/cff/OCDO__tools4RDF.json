@@ -1,0 +1,9 @@
+{
+ "repo": "OCDO/tools4RDF",
+ "joss_doi": "10.21105/joss.09482",
+ "joss_title": "tools4RDF: A Python toolkit for working with RDF data",
+ "joss_published": "2026-01-26T13:23:59.614Z",
+ "software_repository": "https://github.com/OCDO/tools4RDF",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Menon\n  given-names: Sarath\n  orcid: \"https://orcid.org/0000-0002-6776-1213\"\n- family-names: Guzm\u00e1n\n  given-names: Abril Az\u00f3car\n  orcid: \"https://orcid.org/0000-0001-7564-7990\"\n- family-names: Waseda\n  given-names: Osamu\n  orcid: \"https://orcid.org/0000-0002-1677-4057\"\n- family-names: Sandfeld\n  given-names: Stefan\n  orcid: \"https://orcid.org/0000-0001-9560-4728\"\n- family-names: Hickel\n  given-names: Tilmann\n  orcid: \"https://orcid.org/0000-0003-0698-4891\"\ndoi: 10.5281/zenodo.18370768\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Menon\n    given-names: Sarath\n    orcid: \"https://orcid.org/0000-0002-6776-1213\"\n  - family-names: Guzm\u00e1n\n    given-names: Abril Az\u00f3car\n    orcid: \"https://orcid.org/0000-0001-7564-7990\"\n  - family-names: Waseda\n    given-names: Osamu\n    orcid: \"https://orcid.org/0000-0002-1677-4057\"\n  - family-names: Sandfeld\n    given-names: Stefan\n    orcid: \"https://orcid.org/0000-0001-9560-4728\"\n  - family-names: Hickel\n    given-names: Tilmann\n    orcid: \"https://orcid.org/0000-0003-0698-4891\"\n  date-published: 2026-01-26\n  doi: 10.21105/joss.09482\n  issn: 2475-9066\n  issue: 117\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9482\n  title: \"tools4RDF: A Python toolkit for working with RDF data\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09482\"\n  volume: 11\ntitle: \"tools4RDF: A Python toolkit for working with RDF data\"\n"
+}

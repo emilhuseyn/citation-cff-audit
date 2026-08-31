@@ -1,0 +1,9 @@
+{
+ "repo": "gdalle/HiddenMarkovModels.jl",
+ "joss_doi": "10.21105/joss.06436",
+ "joss_title": "HiddenMarkovModels.jl: generic, fast and reliable state space modeling",
+ "joss_published": "2024-04-05T20:09:04.364Z",
+ "software_repository": "https://github.com/gdalle/HiddenMarkovModels.jl",
+ "status": 200,
+ "cff": "# This CITATION.cff file was generated with cffinit.\n# Visit https://bit.ly/cffinit to generate yours today!\n\ncff-version: \"1.2.0\"\nauthors:\n- family-names: Dalle\n  given-names: Guillaume\n  orcid: \"https://orcid.org/0000-0003-4866-1687\"\ndoi: 10.5281/zenodo.10931812\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Dalle\n    given-names: Guillaume\n    orcid: \"https://orcid.org/0000-0003-4866-1687\"\n  date-published: 2024-04-05\n  doi: 10.21105/joss.06436\n  issn: 2475-9066\n  issue: 96\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6436\n  title: \"HiddenMarkovModels.jl: generic, fast and reliable state space\n    modeling\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06436\"\n  volume: 9\ntitle: \"HiddenMarkovModels.jl: generic, fast and reliable state space\n  modeling\"\n"
+}

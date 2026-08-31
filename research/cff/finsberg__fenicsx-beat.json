@@ -1,0 +1,9 @@
+{
+ "repo": "finsberg/fenicsx-beat",
+ "joss_doi": "10.21105/joss.08416",
+ "joss_title": "fenicsx-beat - An Open Source Simulation Framework for Cardiac Electrophysiology",
+ "joss_published": "2025-10-09T03:07:59.578Z",
+ "software_repository": "https://github.com/finsberg/fenicsx-beat",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Fisberg\"\n  given-names: \"Henrik\"\n  orcid: \"https://orcid.org/0000-0003-3766-2393\"\ntitle: \"fenicsx-beat\"\nurl: \"https://github.com/finsberg/fenicsx-beat\"\npreferred-citation:\n  type: article\n  doi: \"10.21105/joss.08416\"\n  journal: \"Journal of Open Source Software\"\n  title: \"fenicsx-beat - An Open Source Simulation Framework for Cardiac Electrophysiology\"\n  year: 2024\n  volume: 10\n  issue: 114\n  pages: 8416\n  authors:\n  - family-names: \"Finsberg\"\n    given-names: \"Henrik\"\n    orcid: \"https://orcid.org/0000-0003-3766-2393\"\n"
+}

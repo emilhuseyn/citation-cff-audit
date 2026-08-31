@@ -1,0 +1,9 @@
+{
+ "repo": "marchirschvogel/ambit",
+ "joss_doi": "10.21105/joss.05744",
+ "joss_title": "Ambit \u2013 A FEniCS-based cardiovascular multi-physics solver",
+ "joss_published": "2024-01-16T15:49:05.996Z",
+ "software_repository": "https://github.com/marchirschvogel/ambit",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Hirschvogel\n  given-names: Marc\n  orcid: \"https://orcid.org/0000-0002-4575-9120\"\ndoi: 10.5281/zenodo.10501275\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Hirschvogel\n    given-names: Marc\n    orcid: \"https://orcid.org/0000-0002-4575-9120\"\n  date-published: 2024-01-16\n  doi: 10.21105/joss.05744\n  issn: 2475-9066\n  issue: 93\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5744\n  title: Ambit \u2013 A FEniCS-based cardiovascular multi-physics solver\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05744\"\n  volume: 9\ntitle: Ambit \u2013 A FEniCS-based cardiovascular multi-physics solver\n"
+}

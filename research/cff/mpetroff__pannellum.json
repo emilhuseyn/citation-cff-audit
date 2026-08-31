@@ -1,0 +1,9 @@
+{
+ "repo": "mpetroff/pannellum",
+ "joss_doi": "10.21105/joss.01628",
+ "joss_title": "Pannellum: a lightweight web-based panorama viewer",
+ "joss_published": "2019-08-31T22:04:34.582Z",
+ "software_repository": "https://github.com/mpetroff/pannellum",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle: Pannellum\nauthors:\n- family-names: Petroff\n  given-names: Matthew\n  orcid: \"https://orcid.org/0000-0002-4436-4215\"\ndoi: 10.5281/zenodo.3334433\nrepository-code: \"https://github.com/mpetroff/pannellum\"\nmessage: \"If you use this software, please cite it as below.\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: Petroff\n    given-names: Matthew A.\n    orcid: \"https://orcid.org/0000-0002-4436-4215\"\n  doi: 10.21105/joss.01628\n  journal: \"Journal of Open Source Software\"\n  start: 1628\n  title: \"Pannellum: a lightweight web-based panorama viewer\"\n  volume: 4\n  issue: 40\n  year: 2019\n"
+}

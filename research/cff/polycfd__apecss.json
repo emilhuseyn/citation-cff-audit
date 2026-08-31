@@ -1,0 +1,9 @@
+{
+ "repo": "polycfd/apecss",
+ "joss_doi": "10.21105/joss.05435",
+ "joss_title": "APECSS: A software library for cavitation bubble dynamics and acoustic emissions",
+ "joss_published": "2023-06-15T17:42:51.654Z",
+ "software_repository": "https://github.com/polycfd/apecss",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Denner\n  given-names: Fabian\n  orcid: \"https://orcid.org/0000-0001-5812-061X\"\n- family-names: Schenke\n  given-names: S\u00f6ren\n  orcid: \"https://orcid.org/0000-0001-8765-3722\"\ndoi: 10.5281/zenodo.8043400\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Denner\n    given-names: Fabian\n    orcid: \"https://orcid.org/0000-0001-5812-061X\"\n  - family-names: Schenke\n    given-names: S\u00f6ren\n    orcid: \"https://orcid.org/0000-0001-8765-3722\"\n  date-published: 2023-06-15\n  doi: 10.21105/joss.05435\n  issn: 2475-9066\n  issue: 86\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5435\n  title: \"APECSS: A software library for cavitation bubble dynamics and\n    acoustic emissions\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05435\"\n  volume: 8\ntitle: \"APECSS: A software library for cavitation bubble dynamics and\n  acoustic emissions\""
+}

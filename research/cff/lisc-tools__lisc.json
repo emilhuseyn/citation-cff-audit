@@ -1,0 +1,9 @@
+{
+ "repo": "lisc-tools/lisc",
+ "joss_doi": "10.21105/joss.01674",
+ "joss_title": "LISC: A Python Package for Scientific Literature Collection and Analysis",
+ "joss_published": "2019-09-26T18:10:24.994Z",
+ "software_repository": "https://github.com/lisc-tools/lisc",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: >-\n  If you use this software, please cite it using the metadata from this file.\ntype: software\ntitle: 'lisc: literature scanner'\nauthors:\n- given-names: 'Thomas'\n  family-names: 'Donoghue'\n  orcid: 'https://orcid.org/0000-0001-5911-0472'\nrepository-code: 'https://github.com/lisc-tools/lisc'\nurl: 'https://lisc-tools.github.io/'\nlicense: Apache-2.0\npreferred-citation:\n  type: article\n  title: 'LISC: A Python Package for Scientific Literature Collection and Analysis'\n  authors:\n  - given-names: Thomas\n    family-names: Donoghue\n    orcid: 'https://orcid.org/0000-0001-5911-0472'\n  journal: 'Journal of Open Source Software'\n  doi: '10.21105/joss.01674'\n  issue: 41\n  volume: 4\n  year: 2019\n  start: 1674\n"
+}

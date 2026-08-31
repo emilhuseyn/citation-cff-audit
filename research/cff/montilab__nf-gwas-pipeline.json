@@ -1,0 +1,9 @@
+{
+ "repo": "montilab/nf-gwas-pipeline",
+ "joss_doi": "10.21105/joss.02957",
+ "joss_title": "nf-gwas-pipeline: A Nextflow Genome-Wide Association Study Pipeline",
+ "joss_published": "2021-03-02T18:11:29.182Z",
+ "software_repository": "https://github.com/montilab/nf-gwas-pipeline",
+ "status": 404,
+ "cff": null
+}

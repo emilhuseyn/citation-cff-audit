@@ -1,0 +1,9 @@
+{
+ "repo": "eendebakpt/oapackage",
+ "joss_doi": "10.21105/joss.01097",
+ "joss_title": "OApackage: A Python package for generation and analysis of orthogonal arrays, optimal designs and conference designs",
+ "joss_published": "2019-02-27T14:19:11.962Z",
+ "software_repository": "https://github.com/eendebakpt/oapackage",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Eendebak\"\n  given-names: \"Pieter Thijs\"\n  orcid: \"https://orcid.org/0000-0001-7018-1124\"\n- family-names: \"Vazquez\"\n  given-names: \"Alan Roberto\"\n  orcid: \"https://orcid.org/0000-0002-3658-0911\"\ntitle: \"OAPackage\"\nversion: 2.7.6\ndoi: 10.21105/joss.01097\ndate-released: 2019-02-27\nurl: \"https://github.com/eendebakpt/oapackage\"\npreferred-citation:\n  type: article\n  authors:\n  authors:\n  - family-names: \"Eendebak\"\n    given-names: \"Pieter Thijs\"\n    orcid: \"https://orcid.org/0000-0001-7018-1124\"\n  - family-names: \"Vazquez\"\n    given-names: \"Alan Roberto\"\n    orcid: \"https://orcid.org/0000-0002-3658-0911\"\n  doi: 10.21105/joss.01097\n  journal: \"The Journal of Open Source Software\"\n  month: 2\n  title: \"OApackage: A Python package for generation and analysis of orthogonal arrays, optimal designs and conference designs\"\n  issue: 34\n  volume: 4\n  year: 2019\n"
+}

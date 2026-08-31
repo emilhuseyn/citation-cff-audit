@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.10728770",
+ "source": "datacite",
+ "state": "ok",
+ "title": "cppTPSA/pyTPSA: a C++/Python package for truncated power series algebra",
+ "type": "Software",
+ "container": ""
+}

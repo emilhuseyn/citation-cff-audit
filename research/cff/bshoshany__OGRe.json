@@ -1,0 +1,9 @@
+{
+ "repo": "bshoshany/OGRe",
+ "joss_doi": "10.21105/joss.03416",
+ "joss_title": "OGRe: An Object-Oriented General Relativity Package for Mathematica",
+ "joss_published": "2021-09-01T13:36:16.036Z",
+ "software_repository": "https://github.com/bshoshany/OGRe",
+ "status": 200,
+ "cff": "authors:\n  - family-names: Shoshany\n    given-names: Barak\n    orcid: https://orcid.org/0000-0003-2222-127X\ncff-version: 1.2.0\ndate-released: '2021-09-01'\ndoi: 10.21105/joss.03416\nlicense: MIT\nmessage: If you use this package in published research, please cite it as follows.\npreferred-citation:\n  authors:\n    - family-names: Shoshany\n      given-names: Barak\n      orcid: https://orcid.org/0000-0003-2222-127X\n  doi: 10.21105/joss.03416\n  issue: 65\n  journal: Journal of Open Source Software\n  month: 9\n  start: 3416\n  title: 'OGRe: An Object-Oriented General Relativity Package for Mathematica'\n  type: article\n  volume: 6\n  year: 2021\nrepository-code: https://github.com/bshoshany/OGRe\ntitle: 'OGRe: An Object-Oriented General Relativity Package for Mathematica'\n"
+}

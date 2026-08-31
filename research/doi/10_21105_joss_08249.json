@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.08249",
+ "source": "crossref",
+ "state": "ok",
+ "title": "gtexr: A convenient R interface to the Genotype-Tissue Expression (GTEx) Portal API",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

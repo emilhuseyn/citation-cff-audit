@@ -1,0 +1,9 @@
+{
+ "repo": "genomematt/survivalvolume",
+ "joss_doi": "10.21105/joss.00111",
+ "joss_title": "SurvivalVolume: interactive volume threshold survival graphs",
+ "joss_published": "2016-12-14T00:00:00.000Z",
+ "software_repository": "https://github.com/genomematt/survivalvolume",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Wakefield\"\n  given-names: \"Matthew\"\n  orcid: \"https://orcid.org/0000-0001-6624-4698\"\ntitle: \"SurvivalVolume\"\nversion: 1.2.3\ndoi: 10.5281/zenodo.1039994\ndate-released: 2021-05-31\nurl: \"https://github.com/genomematt/survivalvolume\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Wakefield\"\n    given-names: \"Matthew\"\n    orcid: \"https://orcid.org/0000-0001-6624-4698\"\n  doi: \"10.21105/joss.00111\"\n  journal: \"The Journal of Open Source Software\"\n  month: 9\n  start: 111 # First page number\n  end: 111 # Last page number\n  title: \"SurvivalVolume: interactive volume threshold survival graphs\"\n  issue: 1\n  volume: 8\n  year: 2016"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "wouterpeere/GHEtool",
+ "joss_doi": "10.21105/joss.04406",
+ "joss_title": "GHEtool: An open-source tool for borefield sizing in Python",
+ "joss_published": "2022-08-17T18:22:22.123Z",
+ "software_repository": "https://github.com/wouterpeere/GHEtool",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Peere\"\n  given-names: \"Wouter\"\n  orcid: \"https://orcid.org/0000-0002-9981-9926\"\ntitle: \"GHEtool\"\nversion: 2.2.0\ndate-released: 2023-09-15\nurl: \"https://github.com/wouterpeere/GHEtool\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Peere\"\n    given-names: \"Wouter\"\n    orcid: \"https://orcid.org/0000-0002-2311-5981\"\n  - family-names: \"Blanke\"\n    given-names: \"Tobias\"\n    orcid: \"https://orcid.org/0000-0003-1529-5529\"\n  doi: \"10.21105/joss.04406\"\n  journal: \"ournal of Open Source Software\"\n  start: 4406\n  title: \"GHEtool: An open-source tool for borefield sizing in Python\"\n  issue: 76\n  volume: 7\n  year: 2022\n"
+}

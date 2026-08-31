@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.03917",
+ "source": "crossref",
+ "state": "ok",
+ "title": "CR-Sparse: Hardware accelerated functional algorithms for sparse signal processing in Python using JAX",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

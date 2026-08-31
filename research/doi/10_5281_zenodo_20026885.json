@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.20026885",
+ "source": "datacite",
+ "state": "ok",
+ "title": "WoodTapper: a Python package for explaining decision tree ensembles",
+ "type": "Software",
+ "container": ""
+}

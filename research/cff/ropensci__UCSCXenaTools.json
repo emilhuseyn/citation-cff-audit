@@ -1,0 +1,9 @@
+{
+ "repo": "ropensci/UCSCXenaTools",
+ "joss_doi": "10.21105/joss.01627",
+ "joss_title": "The UCSCXenaTools R package: a toolkit for accessing genomics data from UCSC Xena platform, from cancer multi-omics to single-cell RNA-seq",
+ "joss_published": "2019-08-05T11:48:32.707Z",
+ "software_repository": "https://github.com/ropensci/UCSCXenaTools",
+ "status": 404,
+ "cff": null
+}

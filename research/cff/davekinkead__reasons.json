@@ -1,0 +1,9 @@
+{
+ "repo": "davekinkead/reasons",
+ "joss_doi": "10.21105/joss.01044",
+ "joss_title": "Reasons: A digital argument mapping library for modern browsers",
+ "joss_published": "2019-05-12T14:48:00.415Z",
+ "software_repository": "https://github.com/davekinkead/reasons",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Kinkead\"\n  given-names: \"Dave\"\n  orcid: \"https://orcid.org/0000-0001-5396-8099\"\n- family-names: \"Brown\"\n  given-names: \"Deborah\"\n  orcid: \"http://orcid.org/0000-0001-5707-7605\"\n- family-names: \"Ellerton\"\n  given-names: \"Peter\"\n  orcid: \"http://orcid.org/0000-0002-6588-376X\"\n- family-names: \"Mazzola\"\n  given-names: \"Claudio\"\n  orcid: \"http://orcid.org/0000-0001-6117-7465\"\ntitle: \"Reasons: A digital argument mapping library for modern\nbrowsers\"\nversion: 1.1.5\ndoi: 10.21105/joss.01044\ndate-released: 2019-05-12\nurl: \"https://github.com/davekinkead/reasons\"\n"
+}

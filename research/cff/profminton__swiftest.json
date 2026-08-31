@@ -1,0 +1,9 @@
+{
+ "repo": "profminton/swiftest",
+ "joss_doi": "10.21105/joss.05409",
+ "joss_title": "Swiftest: An \\textit{N}-body Integrator for Gravitational Systems",
+ "joss_published": "2023-10-10T17:00:25.568Z",
+ "software_repository": "https://github.com/profminton/swiftest",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - name: Wishard\n    given-names: Carlislse\n    orcid: https://orcid.org/0009-0001-0733-3268\n  - family-names: Pouplin\n    given-names: Jennifer \n  - family-names: Elliott\n    given-names: Jacob\n  - family-names: Dana\n    given-names: Singh\n  - family-names: Anand\n    given-names: Kaustub\n  - family-names: Minton\n    given-names: David\n    affiliation: \"1\"\n    orcid: https://orcid.org/0000-0003-1656-9704\ntitle: MintonGroup/swiftest: v2023.10.2\nversion: v2023.10.2\ndate-released: 2023-10-07\n            "
+}

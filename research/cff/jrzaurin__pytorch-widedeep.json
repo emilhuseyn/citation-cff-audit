@@ -1,0 +1,9 @@
+{
+ "repo": "jrzaurin/pytorch-widedeep",
+ "joss_doi": "10.21105/joss.05027",
+ "joss_title": "pytorch-widedeep: A flexible package for multimodal deep learning",
+ "joss_published": "2023-06-24T03:50:11.275Z",
+ "software_repository": "https://github.com/jrzaurin/pytorch-widedeep",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Zaurin\n  given-names: Javier Rodriguez\n  orcid: \"https://orcid.org/0000-0002-1082-1107\"\n- family-names: Mulinka\n  given-names: Pavol\n  orcid: \"https://orcid.org/0000-0002-9394-8794\"\ndoi: 10.5281/zenodo.7908172\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Zaurin\n    given-names: Javier Rodriguez\n    orcid: \"https://orcid.org/0000-0002-1082-1107\"\n  - family-names: Mulinka\n    given-names: Pavol\n    orcid: \"https://orcid.org/0000-0002-9394-8794\"\n  date-published: 2023-06-24\n  doi: 10.21105/joss.05027\n  issn: 2475-9066\n  issue: 86\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5027\n  title: \"pytorch-widedeep: A flexible package for multimodal deep\n    learning\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05027\"\n  volume: 8\ntitle: \"pytorch-widedeep: A flexible package for multimodal deep\n  learning\""
+}

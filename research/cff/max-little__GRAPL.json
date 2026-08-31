@@ -1,0 +1,9 @@
+{
+ "repo": "max-little/GRAPL",
+ "joss_doi": "10.21105/joss.04534",
+ "joss_title": "GRAPL: A computational library for nonparametric structural causal modelling, analysis and inference",
+ "joss_published": "2022-08-05T17:32:17.220Z",
+ "software_repository": "https://github.com/max-little/GRAPL",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Little\"\n  given-names: \"Max A.\"\n  orcid: \"0000-0002-1507-3822\"\n- family-names: \"Badawy\"\n  given-names: \"Reham\"\n  orcid: \"\"\ntitle: \"Causal bootstrapping\"\nversion: 1.5.1\ndoi: 10.48550/arXiv.1910.09648\ndate-released: 2019-10-21\nurl: \"https://arxiv.org/abs/1910.09648\"\n"
+}

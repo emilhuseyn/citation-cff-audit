@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.12917981",
+ "source": "datacite",
+ "state": "ok",
+ "title": "WearableHRV: A Python package for the validation of heart rate and heart rate variability in wearables",
+ "type": "Software",
+ "container": ""
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "willyfh/visualtorch",
+ "joss_doi": "10.21105/joss.06678",
+ "joss_title": "VisualTorch: Streamlining Visualization for PyTorch Neural Network Architectures",
+ "joss_published": "2024-10-08T01:11:43.884Z",
+ "software_repository": "https://github.com/willyfh/visualtorch",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\ntitle: \"VisualTorch\"\nabstract: \"Architecture visualization of PyTorch models.\"\nauthors:\n  - family-names: \"Hendria\"\n    given-names: \"Willy Fitra\"\nrepository-code: \"https://github.com/willyfh/visualtorch\"\nlicense: MIT\nversion: 1.1.0\ndate-released: \"2026-07-04\"\npreferred-citation:\n  type: article\n  title: \"VisualTorch: Streamlining Visualization for PyTorch Neural Network Architectures\"\n  authors:\n    - family-names: \"Hendria\"\n      given-names: \"Willy Fitra\"\n    - family-names: \"Gavrikov\"\n      given-names: \"Paul\"\n  journal: \"Journal of Open Source Software\"\n  year: 2024\n  volume: 9\n  issue: 102\n  start: 6678\n  doi: \"10.21105/joss.06678\"\n  url: \"https://doi.org/10.21105/joss.06678\"\n"
+}

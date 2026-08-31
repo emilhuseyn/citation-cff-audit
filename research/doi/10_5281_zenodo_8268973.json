@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.8268973",
+ "source": "datacite",
+ "state": "ok",
+ "title": "qujax: Simulating quantum circuits with JAX",
+ "type": "Software",
+ "container": ""
+}

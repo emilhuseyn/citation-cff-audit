@@ -1,0 +1,9 @@
+{
+ "repo": "ranocha/SummationByPartsOperators.jl",
+ "joss_doi": "10.21105/joss.03454",
+ "joss_title": "SummationByPartsOperators.jl: A Julia library of provably stable discretization techniques with mimetic properties",
+ "joss_published": "2021-08-25T13:40:20.041Z",
+ "software_repository": "https://github.com/ranocha/SummationByPartsOperators.jl",
+ "status": 404,
+ "cff": null
+}

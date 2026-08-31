@@ -1,0 +1,9 @@
+{
+ "repo": "dfki-ric-underactuated-lab/torque_limited_simple_pendulum",
+ "joss_doi": "10.21105/joss.03884",
+ "joss_title": "Torque-limited simple pendulum: A toolkit for getting familiar with control algorithms in underactuated robotics",
+ "joss_published": "2022-06-01T16:46:52.145Z",
+ "software_repository": "https://github.com/dfki-ric-underactuated-lab/torque_limited_simple_pendulum",
+ "status": 404,
+ "cff": null
+}

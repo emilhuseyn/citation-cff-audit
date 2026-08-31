@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.09734",
+ "source": "crossref",
+ "state": "ok",
+ "title": "FluxOptics.jl: A Differentiable Wave Optics Framework for Inverse Design in Julia",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "UniNE-CHYN/mmappickle",
+ "joss_doi": "10.21105/joss.00651",
+ "joss_title": "mmappickle: Python 3 module to store memory-mapped numpy array in pickle format",
+ "joss_published": "2018-06-18T11:50:17.514Z",
+ "software_repository": "https://github.com/UniNE-CHYN/mmappickle",
+ "status": 404,
+ "cff": null
+}

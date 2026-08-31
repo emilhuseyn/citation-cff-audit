@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.3562521",
+ "source": "datacite",
+ "state": "ok",
+ "title": "scivision/h5fortran: bugfix: string read size, cleanup build and comments",
+ "type": "Software",
+ "container": ""
+}

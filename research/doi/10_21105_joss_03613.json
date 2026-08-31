@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.03613",
+ "source": "crossref",
+ "state": "ok",
+ "title": "AuditoryStimuli.jl: A Julia package for generating real-time auditory stimuli",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

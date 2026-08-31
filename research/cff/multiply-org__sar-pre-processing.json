@@ -1,0 +1,9 @@
+{
+ "repo": "multiply-org/sar-pre-processing",
+ "joss_doi": "10.21105/joss.03337",
+ "joss_title": "SenSARP: A pipeline to pre-process Sentinel-1 SLC data by using ESA SNAP Sentinel-1 Toolbox",
+ "joss_published": "2022-01-29T00:08:44.262Z",
+ "software_repository": "https://github.com/multiply-org/sar-pre-processing.git",
+ "status": 404,
+ "cff": null
+}

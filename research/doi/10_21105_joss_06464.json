@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.06464",
+ "source": "crossref",
+ "state": "ok",
+ "title": "TransitionsInTimeseries.jl: A performant, extensible\nand reliable software for reproducible detection and prediction of\ntransitions in timeseries",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

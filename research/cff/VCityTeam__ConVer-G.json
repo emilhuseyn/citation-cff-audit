@@ -1,0 +1,9 @@
+{
+ "repo": "VCityTeam/ConVer-G",
+ "joss_doi": "10.21105/joss.10828",
+ "joss_title": "ConVer-G: A Suite for Versioning, Querying and Visualization of Dynamic Knowledge Graphs",
+ "joss_published": "2026-08-01T15:14:04.445Z",
+ "software_repository": "https://github.com/VCityTeam/ConVer-G",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Puget Gil\n  given-names: Jey \n  orcid: \"https://orcid.org/0009-0006-6198-7488\"\n- family-names: Coquery\n  given-names: Emmanuel\n  orcid: \"https://orcid.org/0000-0001-7015-5604\"\n- family-names: Samuel\n  given-names: John\n  orcid: \"https://orcid.org/0000-0001-8721-7007\"\n- family-names: Gesqui\u00e8re\n  given-names: Gilles\n  orcid: \"https://orcid.org/0000-0001-7088-1067\"\ndoi: 10.5281/zenodo.21724811\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Puget Gil\n    given-names: Jey \n    orcid: \"https://orcid.org/0009-0006-6198-7488\"\n  - family-names: Coquery\n    given-names: Emmanuel\n    orcid: \"https://orcid.org/0000-0001-7015-5604\"\n  - family-names: Samuel\n    given-names: John\n    orcid: \"https://orcid.org/0000-0001-8721-7007\"\n  - family-names: Gesqui\u00e8re\n    given-names: Gilles\n    orcid: \"https://orcid.org/0000-0001-7088-1067\"\n  date-published: 2026-08-01\n  doi: 10.21105/joss.10828\n  issn: 2475-9066\n  issue: 124\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 10828\n  title: \"ConVer-G: A Suite for Versioning, Querying and Visualization\n    of Dynamic Knowledge Graphs\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.10828\"\n  volume: 11\ntitle: \"ConVer-G: A Suite for Versioning, Querying and Visualization of\n  Dynamic Knowledge Graphs\"\n"
+}

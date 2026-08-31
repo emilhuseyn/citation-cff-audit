@@ -1,0 +1,9 @@
+{
+ "repo": "WhaleConnect/whaleconnect",
+ "joss_doi": "10.21105/joss.06964",
+ "joss_title": "WhaleConnect: A General-Purpose, Cross-Platform Network Communication Application",
+ "joss_published": "2024-08-27T18:46:03.400Z",
+ "software_repository": "https://github.com/WhaleConnect/whaleconnect",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Sun\n  given-names: Aidan\n  orcid: \"https://orcid.org/0009-0000-6282-2497\"\ndoi: 10.5281/zenodo.13328366\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Sun\n    given-names: Aidan\n    orcid: \"https://orcid.org/0009-0000-6282-2497\"\n  date-published: 2024-08-27\n  doi: 10.21105/joss.06964\n  issn: 2475-9066\n  issue: 100\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6964\n  title: \"WhaleConnect: A General-Purpose, Cross-Platform Network\n    Communication Application\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06964\"\n  volume: 9\ntitle: \"WhaleConnect: A General-Purpose, Cross-Platform Network\n  Communication Application\"\n"
+}

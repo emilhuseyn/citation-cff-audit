@@ -1,0 +1,9 @@
+{
+ "repo": "JuliaHEP/UnROOT.jl",
+ "joss_doi": "10.21105/joss.04452",
+ "joss_title": "UnROOT: an I/O library for the CERN ROOT file format written in Julia",
+ "joss_published": "2022-08-18T21:45:12.854Z",
+ "software_repository": "https://github.com/JuliaHEP/UnROOT.jl",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"Cite this paper whenever you use this package\"\nauthors:\n- family-names: \"G\u00e1l\"\n  given-names: \"Tam\u00e1s\"\n  orcid: \"https://orcid.org/0000-0001-7821-8673\"\n- family-names: \"Ling\"\n  given-names: \"Jerry\"\n  orcid: \"https://orcid.org/0000-0002-3359-0380\"\n- family-names: \"Amin\"\n  given-names: \"Nick\"\n  orcid: \"https://orcid.org/0000-0003-2560-0013\"\ntitle: \"UnROOT: an I/O library for the CERN ROOT file format written in Julia\"\nversion: \"v1\"\nlicense: \"MIT\"\ndoi: \"10.21105/joss.04452\"\ndate-released: 2021-10-11\nurl: \"https://github.com/JuliaHEP/UnROOT.jl/\"\n"
+}

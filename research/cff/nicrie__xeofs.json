@@ -1,0 +1,9 @@
+{
+ "repo": "nicrie/xeofs",
+ "joss_doi": "10.21105/joss.06060",
+ "joss_title": "xeofs: Comprehensive EOF analysis in Python with xarray",
+ "joss_published": "2024-01-02T18:24:48.331Z",
+ "software_repository": "https://github.com/nicrie/xeofs",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Rieger\"\n  given-names: \"Niclas\"\n  orcid: \"https://orcid.org/0000-0003-3357-1742\"\n- family-names: \"Levang\"\n  given-names: \"Samuel J.\"\ntitle: \"xeofs\"\nabstract: \"Comprehensive EOF analysis in Python with xarray.\"\nlicense: MIT\ndoi: 10.5281/zenodo.6323011\nurl: \"https://xeofs.readthedocs.io/en/latest/\"\nrepository-code: \"https://github.com/xarray-contrib/xeofs\"\npreferred-citation:\n  authors:\n  - family-names: \"Rieger\"\n    given-names: \"Niclas\"\n    orcid: \"https://orcid.org/0000-0003-3357-1742\"\n  - family-names: \"Levang\"\n    given-names: \"Samuel J.\"\n  date-published: \"2024-01-02\"\n  doi: 10.21105/joss.06060\n  issn: 2475-9066\n  issue: 93\n  journal: \"Journal of Open Source Software\"\n  publisher: \n    name: \"Open Journals\"\n  start: 6060\n  title: \"xeofs: Comprehensive EOF analysis in Python with xarray\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06060\"\n  volume: 9\n"
+}

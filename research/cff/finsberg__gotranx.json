@@ -1,0 +1,9 @@
+{
+ "repo": "finsberg/gotranx",
+ "joss_doi": "10.21105/joss.07063",
+ "joss_title": "gotranx: General ODE translator",
+ "joss_published": "2024-10-17T13:42:15.633Z",
+ "software_repository": "https://github.com/finsberg/gotranx",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Fisberg\"\n  given-names: \"Henrik\"\n  orcid: \"https://orcid.org/0000-0003-3766-2393\"\ntitle: \"gotranx\"\nurl: \"https://github.com/finsberg/gotranx\"\npreferred-citation:\n  type: article\n  doi: \"10.21105/joss.07063\"\n  journal: \"Journal of Open Source Software\"\n  title: \"gotranx: General ODE translator\"\n  year: 2024\n  volume: 9\n  issue: 102\n  authors:\n  - family-names: \"Finsberg\"\n    given-names: \"Henrik\"\n    orcid: \"https://orcid.org/0000-0003-3766-2393\"\n  - family-names: \"Hake\"\n    given-names: \"Johan\"\n"
+}

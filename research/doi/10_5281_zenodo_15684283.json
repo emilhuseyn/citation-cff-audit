@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.15684283",
+ "source": "datacite",
+ "state": "ok",
+ "title": "cuisto: A Python package to quantify histological data from QuPath and ABBA",
+ "type": "Software",
+ "container": ""
+}

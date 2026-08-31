@@ -1,0 +1,9 @@
+{
+ "repo": "ortk95/planetmapper",
+ "joss_doi": "10.21105/joss.05728",
+ "joss_title": "PlanetMapper: A Python package for visualising, navigating and mapping Solar System observations",
+ "joss_published": "2023-10-10T11:11:36.101Z",
+ "software_repository": "https://github.com/ortk95/planetmapper",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: King\n  given-names: Oliver R. T.\n  orcid: \"https://orcid.org/0000-0002-6271-0062\"\n- family-names: Fletcher\n  given-names: Leigh N.\n  orcid: \"https://orcid.org/0000-0001-5834-9588\"\ncontact:\n- family-names: King\n  given-names: Oliver R. T.\n  orcid: \"https://orcid.org/0000-0002-6271-0062\"\ndoi: 10.5281/zenodo.8410701\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: King\n    given-names: Oliver R. T.\n    orcid: \"https://orcid.org/0000-0002-6271-0062\"\n  - family-names: Fletcher\n    given-names: Leigh N.\n    orcid: \"https://orcid.org/0000-0001-5834-9588\"\n  date-published: 2023-10-10\n  doi: 10.21105/joss.05728\n  issn: 2475-9066\n  issue: 90\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5728\n  title: \"PlanetMapper: A Python package for visualising, navigating and\n    mapping Solar System observations\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05728\"\n  volume: 8\ntitle: \"PlanetMapper: A Python package for visualising, navigating and\n  mapping Solar System observations\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "EdwardBerman/shopt",
+ "joss_doi": "10.21105/joss.06144",
+ "joss_title": "ShOpt.jl: A Julia Package for Empirical Point Spread Function Characterization of JWST NIRCam Data",
+ "joss_published": "2024-08-09T19:44:18.207Z",
+ "software_repository": "https://github.com/EdwardBerman/shopt",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software in your work, please cite it using these metadata.\"\ntitle: \"ShOpt.jl: A Julia Package for Empirical Point Spread Function Characterization of JWST NIRCam Data\"\nauthors:\n  - family-names: Berman\n    given-names: Edward\n  - family-names: McCleary\n    given-names: Jacqueline\nyear: 2023\nversion: 1.0.0\ndoi: 10.5281/zenodo.1234567  # Replace with the actual DOI if available\nrepository-code: \"https://github.com/EdwardBerman/shopt\"  # Replace with your repository URL\n"
+}

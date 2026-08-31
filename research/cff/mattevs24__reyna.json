@@ -1,0 +1,9 @@
+{
+ "repo": "mattevs24/reyna",
+ "joss_doi": "10.21105/joss.09292",
+ "joss_title": "Reyna: A minimal overhead polytopal discontinuous Galerkin finite element library",
+ "joss_published": "2026-02-03T14:43:01.839Z",
+ "software_repository": "https://github.com/mattevs24/reyna",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Evans\n  given-names: Matthew\n  orcid: \"https://orcid.org/0009-0000-5950-3751\"\n- family-names: Pryer\n  given-names: Tristan\n  orcid: \"https://orcid.org/0000-0003-4499-0563\"\ncontact:\n- family-names: Evans\n  given-names: Matthew\n  orcid: \"https://orcid.org/0009-0000-5950-3751\"\ndoi: 10.5281/zenodo.18339335\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Evans\n    given-names: Matthew\n    orcid: \"https://orcid.org/0009-0000-5950-3751\"\n  - family-names: Pryer\n    given-names: Tristan\n    orcid: \"https://orcid.org/0000-0003-4499-0563\"\n  date-published: 2026-02-03\n  doi: 10.21105/joss.09292\n  issn: 2475-9066\n  issue: 118\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9292\n  title: \"Reyna: A minimal overhead polytopal discontinuous Galerkin\n    finite element library\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09292\"\n  volume: 11\ntitle: \"Reyna: A minimal overhead polytopal discontinuous Galerkin\n  finite element library\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "PyPSA/atlite",
+ "joss_doi": "10.21105/joss.03294",
+ "joss_title": "atlite: A Lightweight Python Package for Calculating Renewable Power Potentials and Time Series",
+ "joss_published": "2021-06-24T14:53:30.782Z",
+ "software_repository": "https://github.com/PyPSA/atlite",
+ "status": 200,
+ "cff": "# SPDX-FileCopyrightText: Contributors to atlite <https://github.com/pypsa/atlite>\n#\n# SPDX-License-Identifier: CC0-1.0\n\ncff-version: 1.2.0\nmessage: \"If you use this package, please cite our corresponding paper in JOSS (The Journal of Open Source Software).\"\ntitle: \"atlite: A Lightweight Python Package for Calculating Renewable Power Potentials and Time Series\"\njournal: The Journal of Open Source Software\ndoi: \"10.21105/joss.03294\"\nrepository: \"https://github.com/PyPSA/atlite\"\nversion: \"0.2.5\"\ndate-released: \"2021-06-24\"\nlicense: \"MIT\"\nauthors:\n  - family-names: \"Hofmann\"\n    given-names: \"Fabian\"\n    orcid: \"https://orcid.org/0000-0002-6604-5450\"\n  - family-names: \"Hampp\"\n    given-names: \"Johannes\"\n    orcid: \"https://orcid.org/0000-0002-1776-116X\"\n  - family-names: \"Neumann\"\n    given-names: \"Fabian\"\n    orcid: \"https://orcid.org/0000-0001-8551-1480\"\n  - family-names: \"Brown\"\n    given-names: \"Tom\"\n    orcid: \"https://orcid.org/0000-0001-5898-1911\"\n  - family-names: \"H\u00f6rsch\"\n    given-names: \"Jonas\"\n    orcid: \"https://orcid.org/0000-0001-9438-767X\"\n"
+}

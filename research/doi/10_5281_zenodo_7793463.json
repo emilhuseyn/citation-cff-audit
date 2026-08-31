@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.7793463",
+ "source": "datacite",
+ "state": "ok",
+ "title": "predictNMB: An R package to estimate if or when a clinical prediction model is worthwhile",
+ "type": "Software",
+ "container": ""
+}

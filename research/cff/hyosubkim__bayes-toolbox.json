@@ -1,0 +1,9 @@
+{
+ "repo": "hyosubkim/bayes-toolbox",
+ "joss_doi": "10.21105/joss.05526",
+ "joss_title": "bayes-toolbox: A Python package for Bayesian statistics",
+ "joss_published": "2023-10-27T15:27:51.086Z",
+ "software_repository": "https://github.com/hyosubkim/bayes-toolbox",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Kim\n  given-names: Hyosub E.\n  orcid: \"https://orcid.org/0000-0003-0109-593X\"\ndoi: 10.5281/zenodo.7849408\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Kim\n    given-names: Hyosub E.\n    orcid: \"https://orcid.org/0000-0003-0109-593X\"\n  date-published: 2023-10-27\n  doi: 10.21105/joss.05526\n  issn: 2475-9066\n  issue: 90\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5526\n  title: \"bayes-toolbox: A Python package for Bayesian statistics\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05526\"\n  volume: 8\ntitle: \"bayes-toolbox: A Python package for Bayesian statistics\"\n\n"
+}

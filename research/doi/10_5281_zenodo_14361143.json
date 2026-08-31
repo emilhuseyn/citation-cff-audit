@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.14361143",
+ "source": "datacite",
+ "state": "ok",
+ "title": "QuantizedSystemSolver: A discontinuous ODE system solver in Julia",
+ "type": "Software",
+ "container": ""
+}

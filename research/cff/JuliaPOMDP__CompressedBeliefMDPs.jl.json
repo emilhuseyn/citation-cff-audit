@@ -1,0 +1,9 @@
+{
+ "repo": "JuliaPOMDP/CompressedBeliefMDPs.jl",
+ "joss_doi": "10.21105/joss.07346",
+ "joss_title": "CompressedBeliefMDPs.jl: A Julia Package for Solving Large POMDPs with Belief Compression",
+ "joss_published": "2025-06-20T17:15:51.916Z",
+ "software_repository": "https://github.com/JuliaPOMDP/CompressedBeliefMDPs.jl",
+ "status": 404,
+ "cff": null
+}

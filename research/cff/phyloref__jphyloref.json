@@ -1,0 +1,9 @@
+{
+ "repo": "phyloref/jphyloref",
+ "joss_doi": "10.21105/joss.03374",
+ "joss_title": "JPhyloRef: a tool for testing and resolving phyloreferences",
+ "joss_published": "2021-08-14T06:32:59.179Z",
+ "software_repository": "https://github.com/phyloref/jphyloref",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nauthors:\n  - family-names: Vaidya\n    given-names: Gaurav\n    orcid: https://orcid.org/0000-0003-0587-0454\n  - family-names: Lapp\n    given-names: Hilmar\n    orcid: https://orcid.org/0000-0001-9107-0714\ntitle: \"JPhyloRef: a tool for testing and resolving phyloreferences\"\ntype: software\nlicense: MIT\ndate-released: 2021-08-11\nversion: 1.1.1\nidentifiers:\n  - type: doi\n    value: 10.5281/zenodo.4697964\n    description: The concept DOI for JPhyloRef.\n  - type: doi\n    value: 10.5281/zenodo.5178723\n    description: The versioned DOI for version 1.1.1 of JPhyloRef.\nurl: \"https://github.com/phyloref/jphyloref\"\nrepository-code: \"https://github.com/phyloref/jphyloref\"\npreferred-citation:\n  authors:\n    - family-names: Vaidya\n      given-names: Gaurav\n      orcid: https://orcid.org/0000-0003-0587-0454\n    - family-names: Cellinese\n      given-names: Nico\n      orcid: https://orcid.org/0000-0002-7157-9414\n    - family-names: Lapp\n      given-names: Hilmar\n      orcid: https://orcid.org/0000-0001-9107-0714\n  title: \"JPhyloRef: a tool for testing and resolving phyloreferences\"\n  type: article\n  doi: 10.21105/joss.03374\n  date-released: 2021-08-14\n"
+}

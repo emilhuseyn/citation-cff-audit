@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.08295",
+ "source": "crossref",
+ "state": "ok",
+ "title": "MPI-Rockstar: a Hybrid MPI and OpenMP Parallel Implementation of the Rockstar Halo finder",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

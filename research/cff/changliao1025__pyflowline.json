@@ -1,0 +1,9 @@
+{
+ "repo": "changliao1025/pyflowline",
+ "joss_doi": "10.21105/joss.05446",
+ "joss_title": "pyflowline: a mesh-independent river network generator for hydrologic models",
+ "joss_published": "2023-11-07T16:38:40.988Z",
+ "software_repository": "https://github.com/changliao1025/pyflowline",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Liao\n    given-names: Chang\n    orcid: https://orcid.org/0000-0002-7348-8858  \n  - family-names: Cooper\n    given-names: Matt\n    orcid: https://orcid.org/0000-0002-0165-209X\ntitle: \"Pyflowline: a mesh-independent river networks generator for hydrologic models\"\nversion: 0.1.22\ndoi: 10.5281/zenodo.6407299\ndate-released: 2022-03-31"
+}

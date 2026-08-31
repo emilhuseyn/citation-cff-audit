@@ -1,0 +1,9 @@
+{
+ "repo": "anvaldes/sklearn-migrator",
+ "joss_doi": "10.21105/joss.10374",
+ "joss_title": "sklearn-migrator: Cross-version migration of scikit-learn models for reproducible MLOps",
+ "joss_published": "2026-05-19T16:10:58.099Z",
+ "software_repository": "https://github.com/anvaldes/sklearn-migrator",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\n\ntitle: \"sklearn-migrator: Cross-version migration of scikit-learn models\"\n\nmessage: \"If you use this software, please cite it as below.\"\n\ntype: software\n\nauthors:\n  - family-names: Valdes Gonzalez\n    given-names: Alberto Andres\n    orcid: \"https://orcid.org/0009-0000-0752-8519\"\n\nrepository-code: \"https://github.com/anvaldes/sklearn-migrator\"\n\nurl: \"https://doi.org/10.5281/zenodo.17917931\"\n\nlicense: MIT\n\nversion: 0.21.1\n\ndate-released: 2025-12-12\n\ndoi: 10.5281/zenodo.17917931\n\npreferred-citation:\n  type: software\n  title: \"sklearn-migrator: Cross-version migration of scikit-learn models\"\n  authors:\n    - family-names: Valdes Gonzalez\n      given-names: Alberto Andres\n      orcid: \"https://orcid.org/0009-0000-0752-8519\"\n  version: 0.21.1\n  year: 2025\n  doi: 10.5281/zenodo.17917931\n  publisher: Zenodo\n"
+}

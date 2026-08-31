@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.12725333",
+ "source": "datacite",
+ "state": "ok",
+ "title": "rgfrosh: A Python package for calculating shock conditions using real gas equations of state.",
+ "type": "Software",
+ "container": ""
+}

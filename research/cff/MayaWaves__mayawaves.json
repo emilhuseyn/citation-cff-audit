@@ -1,0 +1,9 @@
+{
+ "repo": "MayaWaves/mayawaves",
+ "joss_doi": "10.21105/joss.06032",
+ "joss_title": "Mayawaves: Python Library for Interacting with the Einstein Toolkit and the MAYA Catalog",
+ "joss_published": "2024-06-15T12:48:39.337Z",
+ "software_repository": "https://github.com/MayaWaves/mayawaves",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: \"Ferguson\"\n    given-names: \"Deborah\"\n    orcid: \"https://orcid.org/0000-0002-4406-591X\"\n  - family-names: \"Anne\"\n    given-names: \"Surendra\"\n  - family-names: \"Gracia-Linares\"\n    given-names: \"Miguel\"\n    orcid: \"https://orcid.org/0000-0002-5033-2973\"\n  - family-names: \"Iglesias\"\n    given-names: \"Hector\"\n    orcid: \"https://orcid.org/0009-0008-1089-9239\"\n  - family-names: \"Jan\"\n    given-names: \"Aasim\"\n    orcid: \"https://orcid.org/0000-0003-2050-7231\"\n  - family-names: \"Martinez\"\n    given-names: \"Erick\"\n  - family-names: \"Lu\"\n    given-names: \"Lu\"\n  - family-names: \"Meoni\"\n    given-names: \"Filippo\"\n  - family-names: \"Nowicki\"\n    given-names: \"Ryan\"\n  - family-names: \"Trostel\"\n    given-names: \"Max\"\n    orcid: \"https://orcid.org/0000-0001-9743-0303\"\n  - family-names: \"Tsao\"\n    given-names: \"Bing-Jyun\"\n    orcid: \"https://orcid.org/0000-0003-4614-0378\"\n  - family-names: \"Valorz\"\n    given-names: \"Finny\"\ntitle: \"mayawaves\"\nversion: v2026.8\ndate-released: 2026-08-03\nurl: \"https://github.com/MayaWaves/mayawaves\"\ndoi: 10.5281/zenodo.8339252\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "SCIInstitute/UncertainSCI",
+ "joss_doi": "10.21105/joss.04249",
+ "joss_title": "UncertainSCI: A Python Package for Noninvasive Parametric Uncertainty Quantification of Simulation Pipelines",
+ "joss_published": "2023-10-27T15:31:05.158Z",
+ "software_repository": "https://github.com/SCIInstitute/UncertainSCI",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Tate\n    given-names: Jess\n    orcid: https://orcid.org/0000-0002-2934-1453 \n  - family-names: Liu\n    given-names: Zexin\n    orcid: https://orcid.org/0000-0003-3409-5709\n  - family-names: Bergquist\n    given-names: Jake A\n  - name: Jake A Bergquist\n    orcid: https://orcid.org/0000-0002-4586-6911\n  - family-names: Rampersad\n    given-names: Sumientra\n    orcid: https://orcid.org/0000-0001-9860-4459\n  - family-names: White\n    given-names: Dan\n  - family-names: Charlebois\n    given-names: Chantel\n    orcid: https://orcid.org/0000-0002-4139-3539\n  - family-names: Rupp\n    given-names: Lindsay\n    orcid: https://orcid.org/0000-0002-2688-7688\n  - family-names: Brooks\n    given-names: Dana H\n    orcid: https://orcid.org/0000-0003-3231-6715\n  - family-names: MacLeod\n    given-names: Rob S\n    orcid: https://orcid.org/0000-0002-0000-0356\n  - family-names: Narayan\n    given-names: Akil\n    orcid: https://orcid.org/0000-0002-5914-4207\ntitle: UncertainSCI: A Python Package for Noninvasive Parametric Uncertainty Quantification of Simulation Pipelines\nversion: v1.0.1\ndate-released: 2023-10-11\n"
+}

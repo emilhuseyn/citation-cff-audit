@@ -1,0 +1,9 @@
+{
+ "repo": "N-Wouda/ALNS",
+ "joss_doi": "10.21105/joss.05028",
+ "joss_title": "ALNS: a Python implementation of the adaptive large neighbourhood search metaheuristic",
+ "joss_published": "2023-01-20T13:20:08.288Z",
+ "software_repository": "https://github.com/N-Wouda/ALNS",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it using the following metadata.\"\nauthors:\n  - family-names: \"Wouda\"\n    given-names: \"Niels A.\"\n    orcid: \"https://orcid.org/0000-0003-2463-0309\"\n  - family-names: \"Lan\"\n    given-names: \"Leon\"\n    orcid: \"https://orcid.org/0000-0001-7479-0218\"\ntitle: \"ALNS\"\nversion: \"v5.0.4\"\ndate-released: \"2023-01-19\"\ndoi: \"10.5281/zenodo.7551649\"\nurl: \"https://github.com/N-Wouda/ALNS\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Wouda\"\n    given-names: \"Niels A.\"\n    orcid: \"https://orcid.org/0000-0003-2463-0309\"\n  - family-names: \"Lan\"\n    given-names: \"Leon\"\n    orcid: \"https://orcid.org/0000-0001-7479-0218\"\n  title: \"ALNS: a Python implementation of the adaptive large neighbourhood search metaheuristic\"\n  journal: \"Journal of Open Source Software\"\n  volume: 8\n  issue: 81\n  year: 2023\n  doi: \"10.21105/joss.05028\"\n  start: 5028\n"
+}

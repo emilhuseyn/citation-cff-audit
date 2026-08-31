@@ -1,0 +1,9 @@
+{
+ "repo": "diningphil/PyDGN",
+ "joss_doi": "10.21105/joss.05713",
+ "joss_title": "PyDGN: a Python Library for Flexible and Reproducible Research on Deep Learning for Graphs",
+ "joss_published": "2023-10-01T12:42:45.520Z",
+ "software_repository": "https://github.com/diningphil/PyDGN/",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Errica\n  given-names: Federico\n  orcid: \"https://orcid.org/0000-0001-5181-2904\"\n- family-names: Bacciu\n  given-names: Davide\n  orcid: \"https://orcid.org/0000-0001-5213-2468\"\n- family-names: Micheli\n  given-names: Alessio\n  orcid: \"https://orcid.org/0000-0001-5764-5238\"\ncontact:\n- family-names: Errica\n  given-names: Federico\n  orcid: \"https://orcid.org/0000-0001-5181-2904\"\ndoi: 10.5281/zenodo.8396373\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Errica\n    given-names: Federico\n    orcid: \"https://orcid.org/0000-0001-5181-2904\"\n  - family-names: Bacciu\n    given-names: Davide\n    orcid: \"https://orcid.org/0000-0001-5213-2468\"\n  - family-names: Micheli\n    given-names: Alessio\n    orcid: \"https://orcid.org/0000-0001-5764-5238\"\n  date-published: 2023-10-01\n  doi: 10.21105/joss.05713\n  issn: 2475-9066\n  issue: 90\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5713\n  title: \"PyDGN: a Python Library for Flexible and Reproducible Research\n    on Deep Learning for Graphs\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05713\"\n  volume: 8\ntitle: \"PyDGN: a Python Library for Flexible and Reproducible Research\n  on Deep Learning for Graphs\"\n"
+}

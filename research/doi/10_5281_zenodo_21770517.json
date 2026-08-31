@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.21770517",
+ "source": "datacite",
+ "state": "ok",
+ "title": "pharmsol: A high-performance Rust library for pharmacokinetic and pharmacodynamic modeling and simulation",
+ "type": "Software",
+ "container": ""
+}

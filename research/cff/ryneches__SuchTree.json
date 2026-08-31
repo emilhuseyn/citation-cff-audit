@@ -1,0 +1,9 @@
+{
+ "repo": "ryneches/SuchTree",
+ "joss_doi": "10.21105/joss.00678",
+ "joss_title": "SuchTree: Fast, thread-safe computations with phylogenetic trees",
+ "joss_published": "2018-06-22T00:00:00.000Z",
+ "software_repository": "https://github.com/ryneches/SuchTree",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Neches\n    given-names: Russell Y.\n    orcid: https://orcid.org/0000-0002-2055-8381\n  - family-names: Scott\n    given-names: Camille\n    orcid: https://orcid.org/0000-0001-8822-8779\ntitle: \"SuchTree: Fast, thread-safe computations with phylogenetic trees\"\nversion: 1.0\ndoi: https://doi.org/10.21105/joss.00678\ndate-released: 2022-06-20\n"
+}

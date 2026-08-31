@@ -1,0 +1,9 @@
+{
+ "repo": "lrnv/Copulas.jl",
+ "joss_doi": "10.21105/joss.06189",
+ "joss_title": "Copulas.jl: A fully Distributions.jl-compliant copula package",
+ "joss_published": "2024-02-29T10:09:07.243Z",
+ "software_repository": "https://github.com/lrnv/Copulas.jl",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Laverny\n  given-names: Oskar\n  orcid: \"https://orcid.org/0000-0002-7508-999X\"\n- family-names: Jimenez\n  given-names: Santiago\n  orcid: \"https://orcid.org/0000-0002-8198-3656\"\ncontact:\n- family-names: Laverny\n  given-names: Oskar\n  orcid: \"https://orcid.org/0000-0002-7508-999X\"\ndoi: 10.5281/zenodo.6652672\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Laverny\n    given-names: Oskar\n    orcid: \"https://orcid.org/0000-0002-7508-999X\"\n  - family-names: Jimenez\n    given-names: Santiago\n    orcid: \"https://orcid.org/0000-0002-8198-3656\"\n  date-published: 2024-02-29\n  doi: 10.21105/joss.06189\n  issn: 2475-9066\n  issue: 94\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6189\n  title: \"Copulas.jl: A fully Distributions.jl-compliant copula package\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06189\"\n  volume: 9\ntitle: \"Copulas.jl: A fully Distributions.jl-compliant copula package\"\n"
+}

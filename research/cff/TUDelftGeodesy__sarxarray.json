@@ -1,0 +1,9 @@
+{
+ "repo": "TUDelftGeodesy/sarxarray",
+ "joss_doi": "10.21105/joss.10492",
+ "joss_title": "SARXarray: Xarray extension for Synthetic Aperture Radar data",
+ "joss_published": "2026-08-20T20:20:55.427Z",
+ "software_repository": "https://github.com/TUDelftGeodesy/sarxarray",
+ "status": 200,
+ "cff": "# This CITATION.cff file was generated with cffinit.\n# Visit https://bit.ly/cffinit to generate yours today!\n\ncff-version: 1.2.0\ntitle: sarxarray\nabstract: \"SARXarray is an open-source Xarray extension for Synthetic Aperture Radar (SAR) data.\"\nmessage: >-\n  If you use this software, please cite it using the\n  metadata from this file.\ntype: software\nauthors:\n  - given-names: Ou\n    family-names: Ku\n    email: o.ku@esciencecenter.nl\n    affiliation: Netherlands eScience Center\n    orcid: 'https://orcid.org/0000-0002-5373-5209'\n  - given-names: Fakhereh (Sarah)\n    family-names: Alidoost\n    affiliation: Netherlands eScience Center\n    orcid: 'https://orcid.org/0000-0001-8407-6472'\n  - given-names: Simon\n    family-names: van Diepen\n    affiliation: Delft University of Technology\n    orcid: 'https://orcid.org/0000-0002-9350-3779'\n  - given-names: Freek\n    family-names: van Leijen\n    affiliation: Delft University of Technology\n    orcid: 'https://orcid.org/0000-0002-2582-9267'\nidentifiers:\n  - type: doi\n    value: 10.5281/zenodo.7717112\n    description: Zenodo\nrepository-code: 'https://github.com/TUDelftGeodesy/sarxarray'\nkeywords:\n  - earth-observation\n  - sar\n  - insar\n  - radar\n  - distributed computation \nlicense: Apache-2.0\n"
+}

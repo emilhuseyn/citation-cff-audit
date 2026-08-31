@@ -1,0 +1,9 @@
+{
+ "repo": "MedMaxLab/selfEEG",
+ "joss_doi": "10.21105/joss.06224",
+ "joss_title": "SelfEEG: A Python library for Self-Supervised Learning in Electroencephalography",
+ "joss_published": "2024-03-17T15:00:35.688Z",
+ "software_repository": "https://github.com/MedMaxLab/selfEEG",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Del Pup\n  given-names: Federico\n  orcid: \"https://orcid.org/0009-0004-0698-962X\"\n- family-names: Zanola\n  given-names: Andrea\n  orcid: \"https://orcid.org/0000-0001-6973-8634\"\n- family-names: Tshimanga\n  given-names: Louis Fabrice\n  orcid: \"https://orcid.org/0009-0002-1240-4830\"\n- family-names: Mazzon\n  given-names: Paolo Emilio\n- family-names: Atzori\n  given-names: Manfredo\n  orcid: \"https://orcid.org/0000-0001-5397-2063\"\ndoi: 10.5281/zenodo.10813095\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Del Pup\n    given-names: Federico\n    orcid: \"https://orcid.org/0009-0004-0698-962X\"\n  - family-names: Zanola\n    given-names: Andrea\n    orcid: \"https://orcid.org/0000-0001-6973-8634\"\n  - family-names: Tshimanga\n    given-names: Louis Fabrice\n    orcid: \"https://orcid.org/0009-0002-1240-4830\"\n  - family-names: Mazzon\n    given-names: Paolo Emilio\n  - family-names: Atzori\n    given-names: Manfredo\n    orcid: \"https://orcid.org/0000-0001-5397-2063\"\n  date-published: 2024-03-17\n  doi: 10.21105/joss.06224\n  issn: 2475-9066\n  issue: 95\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6224\n  title: \"SelfEEG: A Python library for Self-Supervised Learning in\n    Electroencephalography\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06224\"\n  volume: 9\ntitle: \"SelfEEG: A Python library for Self-Supervised Learning in\n  Electroencephalography\"\n"
+}

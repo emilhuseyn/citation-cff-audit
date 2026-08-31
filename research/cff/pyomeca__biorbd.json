@@ -1,0 +1,9 @@
+{
+ "repo": "pyomeca/biorbd",
+ "joss_doi": "10.21105/joss.02562",
+ "joss_title": "biorbd: A C++, Python and MATLAB library to analyze and simulate the human body biomechanics",
+ "joss_published": "2021-01-19T18:46:24.922Z",
+ "software_repository": "https://github.com/pyomeca/biorbd",
+ "status": 404,
+ "cff": null
+}

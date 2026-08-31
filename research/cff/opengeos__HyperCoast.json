@@ -1,0 +1,9 @@
+{
+ "repo": "opengeos/HyperCoast",
+ "joss_doi": "10.21105/joss.07025",
+ "joss_title": "HyperCoast: A Python Package for Visualizing and Analyzing Hyperspectral Data in Coastal Environments",
+ "joss_published": "2024-08-26T17:55:49.252Z",
+ "software_repository": "https://github.com/opengeos/HyperCoast",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n    - family-names: Liu\n      given-names: Bingqing\n      orcid: \"https://orcid.org/0000-0003-4651-6996\"\n    - family-names: Wu\n      given-names: Qiusheng\n      orcid: \"https://orcid.org/0000-0001-5437-4073\"\ndoi: 10.5281/zenodo.13368024\nmessage: If you use this software, please cite our article in the\n    Journal of Open Source Software.\npreferred-citation:\n    authors:\n        - family-names: Liu\n          given-names: Bingqing\n          orcid: \"https://orcid.org/0000-0003-4651-6996\"\n        - family-names: Wu\n          given-names: Qiusheng\n          orcid: \"https://orcid.org/0000-0001-5437-4073\"\n    date-published: 2024-08-26\n    doi: 10.21105/joss.07025\n    issn: 2475-9066\n    issue: 100\n    journal: Journal of Open Source Software\n    publisher:\n        name: Open Journals\n    start: 7025\n    title: \"HyperCoast: A Python Package for Visualizing and Analyzing\n        Hyperspectral Data in Coastal Environments\"\n    type: article\n    url: \"https://joss.theoj.org/papers/10.21105/joss.07025\"\n    volume: 9\ntitle: \"HyperCoast: A Python Package for Visualizing and Analyzing\n    Hyperspectral Data in Coastal Environments\"\n"
+}

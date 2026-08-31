@@ -1,0 +1,9 @@
+{
+ "repo": "BlueBrain/BlueCelluLab",
+ "joss_doi": "10.21105/joss.07026",
+ "joss_title": "BlueCelluLab: Biologically Detailed Neural Network Experimentation API",
+ "joss_published": "2024-08-17T09:39:26.405Z",
+ "software_repository": "https://github.com/BlueBrain/BlueCelluLab",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\ntitle: \"BlueCelluLab\"\ndoi: 10.5281/zenodo.8113483\nurl: https://zenodo.org/doi/10.5281/zenodo.8113483\nabstract: \"The Blue Brain Cellular Laboratory is designed for simulations and experiments on individual cells or groups of cells. Use cases for which bluecellulab is well suited include: scripting and statistics across single or pairs of cells, light-weight detailed reporting on a few state variables post-simulation, development of synaptic plasticity rules, dynamics validations of e.g. synaptic properties, automation of in-silico whole-cell patching experiments, debugging both scientifically and computationally.\"\nauthors:\n  - family-names: \"Tuncel\"\n    given-names: \"Anil\"\n  - family-names: \"Van Geit\"\n    given-names: \"Werner\"\n  - family-names: \"Gevaert\"\n    given-names: \"Mike\"\n  - family-names: \"Torben-Nielsen\"\n    given-names: \"Benjamin\"\n  - family-names: \"Mandge\"\n    given-names: \"Darshan\"\n  - family-names: \"Kilic\"\n    given-names: \"Ilkan\"\n  - family-names: \"Jaquier\"\n    given-names: \"Aur\u00e9lien\"\n  - family-names: \"Muller\"\n    given-names: \"Eilif\"\n  - family-names: \"Kanari\"\n    given-names: \"Lida\"\n  - family-names: \"Markram\"\n    given-names: \"Henry\"\ndate-released: 2020-03-01\npublisher: \"Zenodo\""
+}

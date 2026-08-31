@@ -1,0 +1,9 @@
+{
+ "repo": "LDEO-CREW/Pythonic-DISORT",
+ "joss_doi": "10.21105/joss.06442",
+ "joss_title": "PythonicDISORT: A Python reimplementation of the Discrete Ordinate Radiative Transfer package DISORT",
+ "joss_published": "2024-11-18T22:07:03.316Z",
+ "software_repository": "https://github.com/LDEO-CREW/Pythonic-DISORT",
+ "status": 200,
+ "cff": "# This CITATION.cff file was generated with cffinit.\n# Visit https://bit.ly/cffinit to generate yours today!\n\ncff-version: 1.2.0\ntitle: PythonicDISORT\nmessage: >-\n  If you use this software, please cite it using the\n  metadata from this file. Please also cite the JOSS paper:\n  https://doi.org/10.21105/joss.06442\ntype: software\nauthors:\n  - given-names: Dion J. X.\n    family-names: Ho\n    email: dh3065@columbia.edu\n    affiliation: Columbia University, Department of Applied Physics and Applied Mathematics\n    orcid: 'https://orcid.org/0009-0000-5829-5081'\nrepository-code: 'https://github.com/LDEO-CREW/Pythonic-DISORT'\nabstract: >-\n  PythonicDISORT is a Discrete Ordinates Solver for the (1D) Radiative Transfer\n  Equation in a single or multi-layer plane-parallel atmosphere. \n  It is coded entirely in Python 3 and is based on Stamnes'\n  FORTRAN DISORT (see references in the Jupyter Notebook)\n  and has its main features.\nkeywords:\n  - Python\n  - Radiative Transfer\n  - Discrete Ordinates Method\n  - Atmospheric Science\n  - Climate Science\n  - DISORT\nlicense: MIT\ndate-released: 2023-05-30\n"
+}

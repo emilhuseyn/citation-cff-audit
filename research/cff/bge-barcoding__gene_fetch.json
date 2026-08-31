@@ -1,0 +1,9 @@
+{
+ "repo": "bge-barcoding/gene_fetch",
+ "joss_doi": "10.21105/joss.08456",
+ "joss_title": "Gene Fetch: A Python tool for sequence retrieval from GenBank across the tree of life",
+ "joss_published": "2025-08-14T08:05:44.724Z",
+ "software_repository": "https://github.com/bge-barcoding/gene_fetch",
+ "status": 404,
+ "cff": null
+}

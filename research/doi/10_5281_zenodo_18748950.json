@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.18748950",
+ "source": "datacite",
+ "state": "ok",
+ "title": "EMGFlow: A Python package for preprocessing and feature extraction of electromyographic signals",
+ "type": "Software",
+ "container": ""
+}

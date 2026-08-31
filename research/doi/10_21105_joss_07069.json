@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.07069",
+ "source": "crossref",
+ "state": "ok",
+ "title": "Dynamax: A Python package for probabilistic state space modeling with JAX",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

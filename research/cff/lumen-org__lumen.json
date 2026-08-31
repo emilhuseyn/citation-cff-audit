@@ -1,0 +1,9 @@
+{
+ "repo": "lumen-org/lumen",
+ "joss_doi": "10.21105/joss.03395",
+ "joss_title": "Lumen: A software for the interactive visualization of probabilistic models together with data",
+ "joss_published": "2021-07-17T16:42:20.073Z",
+ "software_repository": "https://github.com/lumen-org/lumen",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - given-names: Philipp\n    family-names: Lucas\n    email: philipp.lucas@gmail.com\n    orcid: 'https://orcid.org/0000-0002-6687-8209'\n    affiliation: Friedrich-Schiller-Universit\u00e4t Jena\n  - given-names: Joachim\n    family-names: Giesen\n    email: joachim.giesen@uni-jena.de\n    affiliation: Friedrich-Schiller-Universit\u00e4t Jena\ntitle: \"Lumen: A software for the interactive visualization of probabilistic models together with data\"\nversion: 1.0.0\ndoi: https://doi.org/10.21105/joss.03395\ndate-released: 2021-07-17\nurl: \"https://github.com/lumen-org/lumen\"\n"
+}

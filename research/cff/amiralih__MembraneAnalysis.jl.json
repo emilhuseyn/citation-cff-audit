@@ -1,0 +1,9 @@
+{
+ "repo": "amiralih/MembraneAnalysis.jl",
+ "joss_doi": "10.21105/joss.05380",
+ "joss_title": "MembraneAnalysis.jl: A Julia package for analyzing molecular dynamics simulations of lipid membranes",
+ "joss_published": "2023-07-06T15:27:41.596Z",
+ "software_repository": "https://github.com/amiralih/MembraneAnalysis.jl",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Hossein\n  given-names: Amirali\n  orcid: \"https://orcid.org/0000-0002-2580-3577\"\n- family-names: Sodt\n  given-names: Alexander J.\n  orcid: \"https://orcid.org/0000-0002-5570-8212\"\ndoi: 10.5281/zenodo.8084178\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Hossein\n    given-names: Amirali\n    orcid: \"https://orcid.org/0000-0002-2580-3577\"\n  - family-names: Sodt\n    given-names: Alexander J.\n    orcid: \"https://orcid.org/0000-0002-5570-8212\"\n  date-published: 2023-07-06\n  doi: 10.21105/joss.05380\n  issn: 2475-9066\n  issue: 87\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5380\n  title: \"MembraneAnalysis.jl: A Julia package for analyzing molecular\n    dynamics simulations of lipid membranes\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05380\"\n  volume: 8\ntitle: \"MembraneAnalysis.jl: A Julia package for analyzing molecular\n  dynamics simulations of lipid membranes\"\n"
+}

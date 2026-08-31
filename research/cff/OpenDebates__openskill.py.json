@@ -1,0 +1,9 @@
+{
+ "repo": "OpenDebates/openskill.py",
+ "joss_doi": "10.21105/joss.05901",
+ "joss_title": "OpenSkill: A faster asymmetric multi-team, multiplayer rating system",
+ "joss_published": "2024-01-09T15:47:38.618Z",
+ "software_repository": "https://github.com/OpenDebates/openskill.py",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Joshy\n  given-names: Vivek\n  orcid: \"https://orcid.org/0000-0003-2443-8827\"\ndoi: 10.5281/zenodo.8280051\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Joshy\n    given-names: Vivek\n    orcid: \"https://orcid.org/0000-0003-2443-8827\"\n  date-published: 2024-01-09\n  doi: 10.21105/joss.05901\n  issn: 2475-9066\n  issue: 93\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5901\n  title: \"OpenSkill: A faster asymmetric multi-team, multiplayer rating\n    system\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05901\"\n  volume: 9\ntitle: \"OpenSkill: A faster asymmetric multi-team, multiplayer rating\n  system\"\n"
+}

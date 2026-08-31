@@ -1,0 +1,9 @@
+{
+ "repo": "suchanek/proteusPy",
+ "joss_doi": "10.21105/joss.06169",
+ "joss_title": "proteusPy: A Python Package for Protein Structure and Disulfide Bond Modeling and Analysis",
+ "joss_published": "2024-08-07T13:57:40.714Z",
+ "software_repository": "https://github.com/suchanek/proteusPy",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use proteusPy in your research, please cite it as below.\"\ntitle: \"proteusPy: A Python Package for Protein Structure and Disulfide Bond Modeling and Analysis\"\nabstract: >-\n  proteusPy is a Python package for the modeling and analysis of proteins of\n  known structure, with an emphasis on disulfide bonds.\ntype: software\nauthors:\n  - family-names: \"Suchanek\"\n    given-names: \"Eric G.\"\n    email: \"suchanek@mac.com\"\nversion: \"0.100.1\"\nlicense: BSD-3-Clause\nrepository-code: \"https://github.com/suchanek/proteusPy\"\nurl: \"https://suchanek.github.io/proteusPy/\"\ndoi: \"10.5281/zenodo.11148440\"\npreferred-citation:\n  type: article\n  title: \"proteusPy: A Python Package for Protein Structure and Disulfide Bond Modeling and Analysis\"\n  authors:\n    - family-names: \"Suchanek\"\n      given-names: \"Eric G.\"\n      email: \"suchanek@mac.com\"\n  doi: \"10.21105/joss.06169\"\n  journal: \"Journal of Open Source Software\"\n  year: 2024\n  volume: 9\n  issue: 100\n  start: 6169\n  publisher:\n    name: \"The Open Journal\"\n"
+}

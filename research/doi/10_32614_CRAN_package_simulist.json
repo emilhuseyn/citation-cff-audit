@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.simulist",
+ "source": "crossref",
+ "state": "ok",
+ "title": "simulist: Simulate Disease Outbreak Line List and Contacts Data",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

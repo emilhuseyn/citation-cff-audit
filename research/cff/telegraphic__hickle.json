@@ -1,0 +1,9 @@
+{
+ "repo": "telegraphic/hickle",
+ "joss_doi": "10.21105/joss.01115",
+ "joss_title": "Hickle: A HDF5-based python pickle replacement",
+ "joss_published": "2018-12-17T00:00:00.000Z",
+ "software_repository": "https://github.com/telegraphic/hickle",
+ "status": 404,
+ "cff": null
+}

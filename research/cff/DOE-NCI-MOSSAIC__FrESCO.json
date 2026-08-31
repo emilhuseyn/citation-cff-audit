@@ -1,0 +1,9 @@
+{
+ "repo": "DOE-NCI-MOSSAIC/FrESCO",
+ "joss_doi": "10.21105/joss.05345",
+ "joss_title": "FrESCO: Framework for Exploring Scalable Computational Oncology",
+ "joss_published": "2023-09-11T12:58:31.085Z",
+ "software_repository": "https://github.com/DOE-NCI-MOSSAIC/FrESCO",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Spannaus\n  given-names: Adam\n  orcid: \"https://orcid.org/0000-0002-2521-3657\"\n- family-names: Gounley\n  given-names: John\n- family-names: Shekar\n  given-names: Mayanka Chandra\n- family-names: Fox\n  given-names: Zachary R.\n- family-names: Mohd-Yusof\n  given-names: Jamaludin\n- family-names: Schaefferkoetter\n  given-names: Noah\n- family-names: Hanson\n  given-names: Heidi A.\ncontact:\n- family-names: Spannaus\n  given-names: Adam\n  orcid: \"https://orcid.org/0000-0002-2521-3657\"\ndoi: 10.5281/zenodo.8325993\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Spannaus\n    given-names: Adam\n    orcid: \"https://orcid.org/0000-0002-2521-3657\"\n  - family-names: Gounley\n    given-names: John\n  - family-names: Shekar\n    given-names: Mayanka Chandra\n  - family-names: Fox\n    given-names: Zachary R.\n  - family-names: Mohd-Yusof\n    given-names: Jamaludin\n  - family-names: Schaefferkoetter\n    given-names: Noah\n  - family-names: Hanson\n    given-names: Heidi A.\n  date-published: 2023-09-11\n  doi: 10.21105/joss.05345\n  issn: 2475-9066\n  issue: 89\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5345\n  title: \"FrESCO: Framework for Exploring Scalable Computational\n    Oncology\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05345\"\n  volume: 8\ntitle: \"FrESCO: Framework for Exploring Scalable Computational Oncology\"\n\n"
+}

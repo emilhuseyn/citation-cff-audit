@@ -1,0 +1,9 @@
+{
+ "repo": "felixbur/nkululeko",
+ "joss_doi": "10.21105/joss.08049",
+ "joss_title": "Nkululeko 1.0: A Python package to predict speaker characteristics with a high-level interface",
+ "joss_published": "2025-11-03T14:36:47.908Z",
+ "software_repository": "https://github.com/felixbur/nkululeko",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Burkhardt\n  given-names: Felix\n  orcid: \"https://orcid.org/0000-0002-2689-0545\"\n- family-names: Atmaja\n  given-names: Bagus Tris\n  orcid: \"https://orcid.org/0000-0003-1560-2824\"\ndoi: 10.5281/zenodo.17349217\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Burkhardt\n    given-names: Felix\n    orcid: \"https://orcid.org/0000-0002-2689-0545\"\n  - family-names: Atmaja\n    given-names: Bagus Tris\n    orcid: \"https://orcid.org/0000-0003-1560-2824\"\n  date-published: 2025-11-03\n  doi: 10.21105/joss.08049\n  issn: 2475-9066\n  issue: 115\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 8049\n  title: \"Nkululeko 1.0: A Python package to predict speaker\n    characteristics with a high-level interface\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.08049\"\n  volume: 10\ntitle: \"Nkululeko 1.0: A Python package to predict speaker\n  characteristics with a high-level interface\"\n"
+}

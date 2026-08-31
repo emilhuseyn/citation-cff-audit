@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.15577722",
+ "source": "datacite",
+ "state": "ok",
+ "title": "MultiVae: A Python package for Multimodal Variational Autoencoders on Partial Datasets.",
+ "type": "Software",
+ "container": ""
+}

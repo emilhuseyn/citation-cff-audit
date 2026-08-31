@@ -1,0 +1,9 @@
+{
+ "repo": "CEA-MetroCarac/fitspy",
+ "joss_doi": "10.21105/joss.05868",
+ "joss_title": "Fitspy: A Python package for spectral decomposition",
+ "joss_published": "2024-04-15T17:08:58.722Z",
+ "software_repository": "https://github.com/CEA-MetroCarac/fitspy",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\r\nauthors:\r\n- family-names: Qu\u00e9m\u00e9r\u00e9\r\n  given-names: Patrick\r\n  orcid: \"https://orcid.org/0009-0008-6936-1249\"\r\ndoi: 10.5281/zenodo.10812332\r\nmessage: If you use this software, please cite our article in the\r\n  Journal of Open Source Software.\r\npreferred-citation:\r\n  authors:\r\n  - family-names: Qu\u00e9m\u00e9r\u00e9\r\n    given-names: Patrick\r\n    orcid: \"https://orcid.org/0009-0008-6936-1249\"\r\n  date-published: 2024-04-15\r\n  doi: 10.21105/joss.05868\r\n  issn: 2475-9066\r\n  issue: 96\r\n  journal: Journal of Open Source Software\r\n  publisher:\r\n    name: Open Journals\r\n  start: 5868\r\n  title: \"Fitspy: A Python package for spectral decomposition\"\r\n  type: article\r\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05868\"\r\n  volume: 9\r\ntitle: \"Fitspy: A Python package for spectral decomposition\""
+}

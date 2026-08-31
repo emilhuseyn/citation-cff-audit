@@ -1,0 +1,9 @@
+{
+ "repo": "hugoledoux/startinpy",
+ "joss_doi": "10.21105/joss.07123",
+ "joss_title": "startinpy: A Python library for modelling and processing 2.5D triangulated terrains",
+ "joss_published": "2024-11-12T16:15:44.681Z",
+ "software_repository": "https://github.com/hugoledoux/startinpy",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Ledoux\n  given-names: Hugo\n  orcid: \"https://orcid.org/0000-0002-1251-8654\"\ndoi: 10.5281/zenodo.14001126\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Ledoux\n    given-names: Hugo\n    orcid: \"https://orcid.org/0000-0002-1251-8654\"\n  date-published: 2024-11-12\n  doi: 10.21105/joss.07123\n  issn: 2475-9066\n  issue: 103\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7123\n  title: \"startinpy: A Python library for modelling and processing 2.5D\n    triangulated terrains\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07123\"\n  volume: 9\ntitle: \"startinpy: A Python library for modelling and processing 2.5D\n  triangulated terrains\"\n"
+}

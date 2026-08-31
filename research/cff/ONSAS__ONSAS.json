@@ -1,0 +1,9 @@
+{
+ "repo": "ONSAS/ONSAS",
+ "joss_doi": "10.21105/joss.09604",
+ "joss_title": "ONSAS: an Open Nonlinear Structural Analysis Solver for GNU-Octave/MATLAB",
+ "joss_published": "2026-04-01T20:09:26.375Z",
+ "software_repository": "https://github.com/ONSAS/ONSAS",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"P\u00e9rez Zerpa\"\n  given-names: \"J. M.\"\n  orcid: \"https://orcid.org/0000-0002-8778-624X\"\n- family-names: \"Vanzulli Pena\"\n  given-names: \"M. C.\"\n  orcid: \"https://orcid.org/0000-0001-6080-3815\"\n- family-names: \"Villi\u00e9\"\n  given-names: \"A.\"\n  orcid: \"https://orcid.org/0000-0001-5431-2892\" \n- family-names: \"Viera Sosa\"\n  given-names: \"J.\"\n  orcid: \"https://orcid.org/0000-0003-3615-6966\"\n- family-names: \"Merlino Chiozza\"\n  given-names: \"S. A.\"\n- family-names: \"Schaedler de Almeida\"\n  given-names: \"F.\"\n  orcid: \"https://orcid.org/0000-0003-1535-5405\"\n- family-names: \"Bazzano Garc\u00eda\"\n  given-names: \"J. B.\"\ntitle: \"ONSAS: an Open Nonlinear Structural Analysis Solver for GNU-Octave/Matlab\"\nversion: 0.4.4\nurl: \"https://github.com/ONSAS/ONSAS\"\n"
+}

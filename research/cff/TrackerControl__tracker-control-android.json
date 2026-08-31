@@ -1,0 +1,9 @@
+{
+ "repo": "TrackerControl/tracker-control-android",
+ "joss_doi": "10.21105/joss.04270",
+ "joss_title": "TrackerControl: Transparency and Choice around App Tracking",
+ "joss_published": "2022-07-08T15:43:16.266Z",
+ "software_repository": "https://github.com/TrackerControl/tracker-control-android",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Kollnig\"\n  given-names: \"Konrad\"\n  orcid: \"https://orcid.org/0000-0002-7412-8731\"\n- family-names: \"Shadbolt\"\n  given-names: \"Nigel\"\n  orcid: \"https://orcid.org/0000-0002-5085-9724\"\ntitle: \"TrackerControl\"\ndate-released: 2022-07-08\ndoi: 10.21105/joss.04270\nurl: \"https://github.com/TrackerControl/tracker-control-android\"\n"
+}

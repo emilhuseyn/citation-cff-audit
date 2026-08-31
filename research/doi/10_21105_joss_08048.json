@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.08048",
+ "source": "crossref",
+ "state": "ok",
+ "title": "grepq: A Rust application that quickly filters FASTQ files by matching sequences to a set of regular expressions",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

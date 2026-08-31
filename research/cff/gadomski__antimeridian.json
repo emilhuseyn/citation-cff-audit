@@ -1,0 +1,9 @@
+{
+ "repo": "gadomski/antimeridian",
+ "joss_doi": "10.21105/joss.07530",
+ "joss_title": "antimeridian: A Python package for correcting geometries that cross the 180th meridian",
+ "joss_published": "2025-01-08T20:49:23.855Z",
+ "software_repository": "https://github.com/gadomski/antimeridian",
+ "status": 404,
+ "cff": null
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "ImperialCollegeLondon/champ",
+ "joss_doi": "10.21105/joss.03824",
+ "joss_title": "CHAMP is a HPC Access and Metadata Portal",
+ "joss_published": "2022-02-10T03:20:12.079Z",
+ "software_repository": "https://github.com/ImperialCollegeLondon/champ",
+ "status": 200,
+ "cff": "cff-version: 2.0.0\nmessage: \"If you use this software, please cite it as below\"\nauthors:\n  - family-names: Cave-Ayland\n    given-names: Christopher\n    orcid: 0000-0003-0942-8030\n  - family-names: Bearpark\n    given-names: Michael \n    orcid: 0000-0002-1117-7536\n  - family-names: Charles\n    given-names: Romain\n    orcid: 0000-0002-1851-8612\n  - family-names: Rzepa\n    given-names: Henry S.\n    orcid: 0000-0002-8635-8390\ntitle: \"CHAMP is an HPC Access and Metadata Portal\"\nversion: 2.0.0\ndoi: 10.5281/zenodo.5557269\ndate-released: 2021-10-08\nurl: \"https://github.com/ImperialCollegeLondon/champ/\"\n"
+}

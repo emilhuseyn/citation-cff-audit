@@ -1,0 +1,9 @@
+{
+ "repo": "devnums/pyheartlib",
+ "joss_doi": "10.21105/joss.05792",
+ "joss_title": "Pyheartlib: A Python package for processing electrocardiogram signals",
+ "joss_published": "2024-03-09T21:25:31.416Z",
+ "software_repository": "https://github.com/devnums/pyheartlib",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Mohammadi\n  given-names: Sadegh\n  orcid: \"https://orcid.org/0000-0001-9763-4963\"\ndoi: 10.5281/zenodo.10730468\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Mohammadi\n    given-names: Sadegh\n    orcid: \"https://orcid.org/0000-0001-9763-4963\"\n  date-published: 2024-03-09\n  doi: 10.21105/joss.05792\n  issn: 2475-9066\n  issue: 95\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5792\n  title: \"Pyheartlib: A Python package for processing electrocardiogram\n    signals\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05792\"\n  volume: 9\ntitle: \"Pyheartlib: A Python package for processing electrocardiogram\n  signals\"\n"
+}

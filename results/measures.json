@@ -1,0 +1,321 @@
+{
+ "analysed_utc": "2026-08-31T02:11:04.669242+00:00",
+ "harvest": {
+  "harvested_utc": "2026-08-31T01:24:08.375607+00:00",
+  "joss_papers": 3696,
+  "papers_without_github": 190,
+  "distinct_repos": 3486,
+  "cached": 3486,
+  "with_citation_cff": 1120
+ },
+ "joss_papers": 3696,
+ "repos_probed": 3486,
+ "repos_with_cff": 1120,
+ "missing_status": {
+  "404": 2366
+ },
+ "files_with_top_doi": 847,
+ "files_without_doi": 273,
+ "resolution": {
+  "ok": 841,
+  "missing": 6
+ },
+ "kinds": {
+  "Software": 693,
+  "ComputationalNotebook": 1,
+  "journal-article": 128,
+  "Text": 8,
+  "dataset": 3,
+  "Preprint": 4,
+  "book": 1,
+  "Dataset": 3
+ },
+ "names_paper": 140,
+ "names_software": 693,
+ "joss_doi_in_top_field": 121,
+ "any_joss_doi_in_top_field": 121,
+ "uses_preferred_citation": 837,
+ "title_mismatches": 78,
+ "title_mismatches_raw": 86,
+ "title_mismatches_unescaped": 85,
+ "title_same_work_reworded": 19,
+ "title_substantially_rewritten": 22,
+ "title_names_different_thing": 37,
+ "title_band_high": 0.8,
+ "title_band_low": 0.5,
+ "title_far_zenodo_release": 21,
+ "title_far_placeholder": 2,
+ "title_far_different_name": 15,
+ "placeholder_doi_exact": 3,
+ "invented_doi_other": 2,
+ "plausible_but_dead_doi": 1,
+ "examples": {
+  "unresolved": [
+   {
+    "repo": "EdwardBerman/shopt",
+    "doi": "10.5281/zenodo.1234567"
+   },
+   {
+    "repo": "FSEC-Photovoltaics/pvrpm-lcoe",
+    "doi": "10.5281/zenodo.1234"
+   },
+   {
+    "repo": "NiklasMelton/AdaptiveResonanceLib",
+    "doi": "10.5281/zenodo.9999999"
+   },
+   {
+    "repo": "USNavalResearchLaboratory/eispac",
+    "doi": "10.5281/zenodo.1234"
+   },
+   {
+    "repo": "connectomicslab/connectomemapper3",
+    "doi": "10.5281/zenodo.347596"
+   },
+   {
+    "repo": "hippylib/hippylib",
+    "doi": "10.5281/zenodo.1234"
+   }
+  ],
+  "joss_in_top": [
+   {
+    "repo": "ConorMacBride/mcalf",
+    "doi": "10.21105/joss.03265"
+   },
+   {
+    "repo": "ExObsSim/ExoRad2-public",
+    "doi": "10.21105/joss.05348"
+   },
+   {
+    "repo": "FRBCesab/chessboard",
+    "doi": "10.21105/joss.05753"
+   },
+   {
+    "repo": "FraunhoferIWES/iwopy",
+    "doi": "10.21105/joss.06014"
+   },
+   {
+    "repo": "Groupe-ElementR/cartography",
+    "doi": "10.21105/joss.00054"
+   },
+   {
+    "repo": "JuliaGraphs/MultilayerGraphs.jl",
+    "doi": "10.21105/joss.05116"
+   },
+   {
+    "repo": "JuliaHEP/UnROOT.jl",
+    "doi": "10.21105/joss.04452"
+   },
+   {
+    "repo": "NKI-AI/direct",
+    "doi": "10.21105/joss.04278"
+   },
+   {
+    "repo": "NREL/OpenOA",
+    "doi": "10.21105/joss.02171"
+   },
+   {
+    "repo": "NiaOrg/NiaPy",
+    "doi": "10.21105/joss.00613"
+   },
+   {
+    "repo": "OpenWaterAnalytics/pyswmm",
+    "doi": "10.21105/joss.02292"
+   },
+   {
+    "repo": "PRIDE-Archive/pridepy",
+    "doi": "10.21105/joss.07563"
+   },
+   {
+    "repo": "PyPSA/atlite",
+    "doi": "10.21105/joss.03294"
+   },
+   {
+    "repo": "PyTorchLightning/metrics",
+    "doi": "10.21105/joss.04101"
+   },
+   {
+    "repo": "SALib/SALib",
+    "doi": "10.21105/joss.00097"
+   },
+   {
+    "repo": "SWIFTSIM/SOAP",
+    "doi": "10.21105/joss.08252"
+   },
+   {
+    "repo": "Sbozzolo/kuibit",
+    "doi": "10.21105/joss.03099"
+   },
+   {
+    "repo": "SchlossLab/mikropml",
+    "doi": "10.21105/joss.03073"
+   },
+   {
+    "repo": "TomKellyGenetics/graphsim",
+    "doi": "10.21105/joss.02161"
+   },
+   {
+    "repo": "TrackerControl/tracker-control-android",
+    "doi": "10.21105/joss.04270"
+   }
+  ],
+  "title_mismatch": [
+   {
+    "repo": "BRAIN-TO/GIRFReco.jl",
+    "cff": "GIRFReco.jl: An Open-Source Pipeline for Spiral Magnetic",
+    "record": "GIRFReco.jl: An open-source pipeline for spiral MRI reconstruction in ",
+    "ratio": 0.782
+   },
+   {
+    "repo": "CoLRev-Environment/search-query",
+    "cff": "search-query: An open source Python library for academic search",
+    "record": "Search-query: A Python package for queries in academic literature sear",
+    "ratio": 0.621
+   },
+   {
+    "repo": "FRBCesab/chessboard",
+    "cff": "chessboard: Create Network Connections Based on Chess Moves",
+    "record": "chessboard: An R package for creating network connections based on che",
+    "ratio": 0.855
+   },
+   {
+    "repo": "Groupe-ElementR/cartography",
+    "cff": "cartography: Thematic Cartography",
+    "record": "cartography: Create and Integrate Maps in your R Workflow",
+    "ratio": 0.487,
+    "zenodo_release_title": false,
+    "placeholder_title": false
+   },
+   {
+    "repo": "IAMconsortium/pyam",
+    "cff": "pyam: analysis and visualization of integrated-assessment and macro-en",
+    "record": "pyam: Analysis and visualisation of integrated assessment and macro-en",
+    "ratio": 0.986
+   },
+   {
+    "repo": "IceKhan13/purplecaffeine",
+    "cff": "PurpleCaffeine: tracking of quantum programs and experiments",
+    "record": "IceKhan13/purplecaffeine: v0.2.4",
+    "ratio": 0.368,
+    "zenodo_release_title": true,
+    "placeholder_title": false
+   },
+   {
+    "repo": "ImperialCollegeLondon/champ",
+    "cff": "CHAMP is an HPC Access and Metadata Portal",
+    "record": "ImperialCollegeLondon/champ: Version 2.0.0",
+    "ratio": 0.164,
+    "zenodo_release_title": true,
+    "placeholder_title": false
+   },
+   {
+    "repo": "JuliaGeodynamics/GeophysicalModelGenerator.jl",
+    "cff": "GeophysicalModelGenerator.jl: A Julia package to visualise",
+    "record": "JuliaGeodynamics/GeophysicalModelGenerator.jl: v0.7.11",
+    "ratio": 0.574
+   },
+   {
+    "repo": "NeotomaDB/neotoma2",
+    "cff": "neotoma2: Working with the Neotoma Paleoecology Database",
+    "record": "NeotomaDB/neotoma2: CRANv1.0.2",
+    "ratio": 0.27,
+    "zenodo_release_title": true,
+    "placeholder_title": false
+   },
+   {
+    "repo": "Pecnut/stokesian-dynamics",
+    "cff": "Stokesian Dynamics in Python",
+    "record": "Pecnut/stokesian-dynamics: v3.0.2: Reviewed version for JOSS",
+    "ratio": 0.571
+   },
+   {
+    "repo": "PyFstat/PyFstat",
+    "cff": "PyFstat: a python package for gravitational wave analysis with the F-s",
+    "record": "PyFstat/PyFstat: v2.4.0",
+    "ratio": 0.35,
+    "zenodo_release_title": true,
+    "placeholder_title": false
+   },
+   {
+    "repo": "R-Computing-Lab/ggpedigree",
+    "cff": "ggpedigree: Visualizing Pedigrees with 'ggplot2' and 'plotly",
+    "record": "BGmisc: An R Package for Extended Behavior Genetics Analysis",
+    "ratio": 0.238,
+    "zenodo_release_title": false,
+    "placeholder_title": false
+   },
+   {
+    "repo": "Robaina/Pynteny",
+    "cff": "Pynteny: synteny-aware hmm searches made easy",
+    "record": "Pynteny: a Python package to perform synteny-aware, profile HMM-based ",
+    "ratio": 0.541
+   },
+   {
+    "repo": "STEllAR-GROUP/hpx",
+    "cff": "TheHPXProject/hpx: HPX V1.11.0: The C++ Standards Library for Parallel",
+    "record": "STEllAR-GROUP/hpx: HPX V1.7.1: The C++ Standards Library for Paralleli",
+    "ratio": 0.77
+   },
+   {
+    "repo": "Saran-nns/sorn",
+    "cff": "Saran-nns/sorn: Stable pre-release of Self Organizing Recurrent Neural",
+    "record": "sorn: A Python package for Self Organizing Recurrent Neural Network",
+    "ratio": 0.715
+   },
+   {
+    "repo": "TeamNCMC/cuisto",
+    "cff": "cuisto: A Python package to quantify neurohistological data from",
+    "record": "cuisto: A Python package to quantify histological data from QuPath and",
+    "ratio": 0.847
+   },
+   {
+    "repo": "WilliamLwj/PyXAB",
+    "cff": "PyXAB - A Python Library for $\\mathcal{X}$-Armed Bandit and",
+    "record": "PyXAB - A Python Library for X-Armed Bandit and Online Blackbox Optimi",
+    "ratio": 0.632
+   },
+   {
+    "repo": "anderslogg/geco",
+    "cff": "GECo: A collection of solvers for the self-gravitating Vlasov",
+    "record": "GECo - Gothenburg Einstein solver Collection 1.0.1",
+    "ratio": 0.304,
+    "zenodo_release_title": false,
+    "placeholder_title": false
+   },
+   {
+    "repo": "andrewjpage/tiptoft",
+    "cff": "In Silico Detection and Typing of Plasmids using PlasmidFinder and Pla",
+    "record": "<i>In Silico</i> Detection and Typing of Plasmids using PlasmidFinder ",
+    "ratio": 0.989
+   },
+   {
+    "repo": "ascii-supply-networks/ascii-hydra",
+    "cff": "ASCII Hydra",
+    "record": "Cost-Effective Big Data Orchestration Using Dagster: A Multi-Platform ",
+    "ratio": 0.104,
+    "zenodo_release_title": false,
+    "placeholder_title": false
+   }
+  ],
+  "placeholder": [
+   "FSEC-Photovoltaics/pvrpm-lcoe",
+   "USNavalResearchLaboratory/eispac",
+   "hippylib/hippylib"
+  ],
+  "invented": [
+   [
+    "EdwardBerman/shopt",
+    "10.5281/zenodo.1234567"
+   ],
+   [
+    "NiklasMelton/AdaptiveResonanceLib",
+    "10.5281/zenodo.9999999"
+   ]
+  ],
+  "plausible_dead": [
+   {
+    "repo": "connectomicslab/connectomemapper3",
+    "doi": "10.5281/zenodo.347596"
+   }
+  ]
+ }
+}

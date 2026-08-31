@@ -1,0 +1,9 @@
+{
+ "repo": "Niemeyer-Research-Group/pyMARS",
+ "joss_doi": "10.21105/joss.01543",
+ "joss_title": "pyMARS: automatically reducing chemical kinetic models in Python",
+ "joss_published": "2019-09-08T15:43:44.984Z",
+ "software_repository": "https://github.com/Niemeyer-Research-Group/pyMARS",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: \"If you use this software, please cite it as below.\"\ntitle: \"pyMARS\"\nversion: 1.2.0\ndate-released: 2026-06-24\nauthors:\n  - family-names: Mestas\n    given-names: Phillip O.\n    orcid: https://orcid.org/0000-0003-4379-3592\n  - family-names: Clayton\n    given-names: Parker\n  - family-names: Niemeyer\n    given-names: Kyle E.\n    orcid: https://orcid.org/0000-0003-4425-7097\nidentifiers:\n  - description: This is the archived snapshot of version 1.2.0 of pyMARS\n    type: doi\n    value: 10.5281/zenodo.20855575\n  - description: This is the published JOSS paper for pyMARS version v1.1.0\n    type: doi\n    value: 10.21105/joss.01543\nlicense: MIT\nrepository-code: \"https://github.com/Niemeyer-Research-Group/pyMARS\"\n"
+}

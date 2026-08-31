@@ -1,0 +1,9 @@
+{
+ "repo": "MLHale/eyestream",
+ "joss_doi": "10.21105/joss.01620",
+ "joss_title": "Eyestream: An Open WebSocket-based Middleware for Serializing and Streaming Eye Tracker Event Data from Gazepoint GP3 HD Research Hardware",
+ "joss_published": "2019-11-21T21:23:47.502Z",
+ "software_repository": "https://github.com/MLHale/eyestream",
+ "status": 404,
+ "cff": null
+}

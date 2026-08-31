@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.08085",
+ "source": "crossref",
+ "state": "ok",
+ "title": "ConleyDynamics.jl: A Julia package for multivector dynamics on Lefschetz complexes",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

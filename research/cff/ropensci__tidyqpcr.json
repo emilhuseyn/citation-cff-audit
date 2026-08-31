@@ -1,0 +1,9 @@
+{
+ "repo": "ropensci/tidyqpcr",
+ "joss_doi": "10.21105/joss.04507",
+ "joss_title": "tidyqpcr: Quantitative PCR analysis in the tidyverse.",
+ "joss_published": "2022-06-27T17:40:23.672Z",
+ "software_repository": "https://github.com/ropensci/tidyqpcr",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Wallace\n    given-names: Edward\n  - family-names: Haynes\n    given-names: Sam\ntitle: \"The tidyqpcr R Package: Quantitative PCR analysis in the tidyverse.\" \nversion: 0.3.0\ndate-released: 2021-10-07\nlicense: Apache-2.0\nrepository-code: \"https://github.com/ewallace/tidyqpcr\"\n"
+}

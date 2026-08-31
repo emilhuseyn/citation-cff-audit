@@ -1,0 +1,9 @@
+{
+ "repo": "rgerum/pylustrator",
+ "joss_doi": "10.21105/joss.01989",
+ "joss_title": "pylustrator: code generation for reproducible figures for publication",
+ "joss_published": "2020-07-20T20:17:00.792Z",
+ "software_repository": "https://github.com/rgerum/pylustrator",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Gerum\"\n  given-names: \"Richard\"\n  orcid: \"https://orcid.org/0000-0001-5893-2650\"\ntitle: \"pylustrator: code generation for reproducible figures for publication\"\nversion: 1.1.0\nidentifiers:\n  - description: This is the published paper\n    type: doi\n    value: \"10.21105/joss.01989\"\ndate-released: 2020-07-20\nurl: \"https://github.com/rgerum/pylustrator/\"\n"
+}

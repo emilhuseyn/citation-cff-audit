@@ -1,0 +1,9 @@
+{
+ "repo": "williambdean/conjugate",
+ "joss_doi": "10.21105/joss.09890",
+ "joss_title": "conjugate-models: Conjugate Models in Python",
+ "joss_published": "2026-04-29T21:25:15.446Z",
+ "software_repository": "https://github.com/williambdean/conjugate",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Dean\n  given-names: William\n  orcid: \"https://orcid.org/0009-0003-6510-3545\"\ndoi: 10.5281/zenodo.19488126\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Dean\n    given-names: William\n    orcid: \"https://orcid.org/0009-0003-6510-3545\"\n  date-published: 2026-04-29\n  doi: 10.21105/joss.09890\n  issn: 2475-9066\n  issue: 120\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9890\n  title: \"conjugate-models: Conjugate Models in Python\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09890\"\n  volume: 11\ntitle: \"conjugate-models: Conjugate Models in Python\"\n"
+}

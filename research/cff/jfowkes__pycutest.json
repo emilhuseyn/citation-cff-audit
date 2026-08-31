@@ -1,0 +1,9 @@
+{
+ "repo": "jfowkes/pycutest",
+ "joss_doi": "10.21105/joss.04377",
+ "joss_title": "PyCUTEst: an open source Python package of optimization test problems",
+ "joss_published": "2022-10-25T12:33:55.955Z",
+ "software_repository": "https://github.com/jfowkes/pycutest",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Fowkes\n    given-names: Jaroslav\n    orcid: https://orcid.org/0000-0002-8048-4572\n  - family-names: Roberts\n    given-names: Lindon\n    orcid: https://orcid.org/0000-0001-6438-9703\n  - family-names: B\u0171rmen\n    given-names: \u00c1rp\u00e1d\n    orcid: https://orcid.org/0000-0002-3035-1376\ntitle: \"PyCUTEst: an open source Python package of optimization test problems\"\nversion: 1.4\ndoi: 10.21105/joss.04377\ndate-released: 2022-10-24\n"
+}

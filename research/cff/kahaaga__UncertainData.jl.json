@@ -1,0 +1,9 @@
+{
+ "repo": "kahaaga/UncertainData.jl",
+ "joss_doi": "10.21105/joss.01666",
+ "joss_title": "UncertainData.jl: a Julia package for working with measurements and datasets with uncertainties.",
+ "joss_published": "2019-11-01T14:18:49.955Z",
+ "software_repository": "https://github.com/kahaaga/UncertainData.jl",
+ "status": 404,
+ "cff": null
+}

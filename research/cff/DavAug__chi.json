@@ -1,0 +1,9 @@
+{
+ "repo": "DavAug/chi",
+ "joss_doi": "10.21105/joss.05925",
+ "joss_title": "Chi: A Python package for treatment response modelling",
+ "joss_published": "2024-02-07T22:25:26.402Z",
+ "software_repository": "https://github.com/DavAug/chi",
+ "status": 200,
+ "cff": "cff-version: 1.0.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Augustin\"\n  given-names: \"David\"\n  orcid: \"https://orcid.org/0000-0002-4885-1088\"\ntitle: \"Chi: A Python package for treatment response modelling\"\nversion: 1.0.0\nyear: 2024\nurl: \"https://github.com/DavAug/chi\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Augustin\"\n    given-names: \"David\"\n    orcid: \"https://orcid.org/0000-0002-4885-1088\"\n  title: \"Chi: A Python package for treatment response modelling\"\n  version: 1.0.0\n  year: 2024\n  url: \"https://doi.org/10.21105/joss.05925\"\n  doi: \"10.21105/joss.05925\"\n  publisher: \"The Open Journal\"\n  journal: \"Journal of Open Source Software\"\n  volume: 9\n  number: 94\n  pages: 5925\n"
+}

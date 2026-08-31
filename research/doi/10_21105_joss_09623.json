@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.09623",
+ "source": "crossref",
+ "state": "ok",
+ "title": "LightKrylov: Lightweight implementation of Krylov subspace techniques in modern Fortran",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

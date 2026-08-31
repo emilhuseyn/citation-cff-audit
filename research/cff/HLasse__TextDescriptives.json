@@ -1,0 +1,9 @@
+{
+ "repo": "HLasse/TextDescriptives",
+ "joss_doi": "10.21105/joss.05153",
+ "joss_title": "TextDescriptives: A Python package for calculating a large variety of metrics from text",
+ "joss_published": "2023-04-25T14:06:49.961Z",
+ "software_repository": "https://github.com/HLasse/TextDescriptives",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Hansen\n  given-names: Lasse\n  orcid: \"https://orcid.org/0000-0003-1113-4779\"\n- family-names: Olsen\n  given-names: Ludvig Renbo\n  orcid: \"https://orcid.org/0009-0006-6798-7454\"\n- family-names: Enevoldsen\n  given-names: Kenneth\n  orcid: \"https://orcid.org/0000-0001-8733-0966\"\ncontact:\n- family-names: Hansen\n  given-names: Lasse\n  orcid: \"https://orcid.org/0000-0003-1113-4779\"\ndoi: 10.5281/zenodo.7858731\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Hansen\n    given-names: Lasse\n    orcid: \"https://orcid.org/0000-0003-1113-4779\"\n  - family-names: Olsen\n    given-names: Ludvig Renbo\n    orcid: \"https://orcid.org/0009-0006-6798-7454\"\n  - family-names: Enevoldsen\n    given-names: Kenneth\n    orcid: \"https://orcid.org/0000-0001-8733-0966\"\n  date-published: 2023-04-25\n  doi: 10.21105/joss.05153\n  issn: 2475-9066\n  issue: 84\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5153\n  title: \"TextDescriptives: A Python package for calculating a large\n    variety of metrics from text\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05153\"\n  volume: 8\ntitle: \"TextDescriptives: A Python package for calculating a large\n  variety of metrics from text\"\n"
+}

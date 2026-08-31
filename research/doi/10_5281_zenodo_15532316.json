@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.15532316",
+ "source": "datacite",
+ "state": "ok",
+ "title": "CatLLM: A Reproducible Python Ecosystem for Generating, Assigning, and Scoring Open-Ended Text, Images, and Documents Across Research Domains",
+ "type": "Software",
+ "container": ""
+}

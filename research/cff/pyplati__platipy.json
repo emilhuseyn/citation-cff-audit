@@ -1,0 +1,9 @@
+{
+ "repo": "pyplati/platipy",
+ "joss_doi": "10.21105/joss.05374",
+ "joss_title": "PlatiPy: Processing Library and Analysis Toolkit for Medical Imaging in Python",
+ "joss_published": "2023-06-26T12:22:29.610Z",
+ "software_repository": "https://github.com/pyplati/platipy",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Chlap\n  given-names: Phillip\n  orcid: \"https://orcid.org/0000-0002-6517-8745\"\n- family-names: Finnegan\n  given-names: Robert N.\n  orcid: \"https://orcid.org/0000-0003-4728-8462\"\ndoi: 10.5281/zenodo.8032858\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Chlap\n    given-names: Phillip\n    orcid: \"https://orcid.org/0000-0002-6517-8745\"\n  - family-names: Finnegan\n    given-names: Robert N.\n    orcid: \"https://orcid.org/0000-0003-4728-8462\"\n  date-published: 2023-06-26\n  doi: 10.21105/joss.05374\n  issn: 2475-9066\n  issue: 86\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5374\n  title: \"PlatiPy: Processing Library and Analysis Toolkit for Medical\n    Imaging in Python\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05374\"\n  volume: 8\ntitle: \"PlatiPy: Processing Library and Analysis Toolkit for Medical\n  Imaging in Python\""
+}

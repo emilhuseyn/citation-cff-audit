@@ -1,0 +1,9 @@
+{
+ "repo": "damar-wicaksono/uqtestfuns",
+ "joss_doi": "10.21105/joss.05671",
+ "joss_title": "UQTestFuns: A Python3 library of uncertainty quantification (UQ) test functions",
+ "joss_published": "2023-10-30T21:01:26.363Z",
+ "software_repository": "https://github.com/damar-wicaksono/uqtestfuns",
+ "status": 200,
+ "cff": "# This CITATION.cff file was generated with cffinit.\n# Visit https://bit.ly/cffinit to generate yours today!\n\ncff-version: 1.2.0\ntitle: UQTestFuns\nmessage: >-\n  If you use this software, please cite it using the\n  metadata from this file.\ntype: software\nauthors:\n  - given-names: Damar\n    family-names: Wicaksono\n    affiliation: CASUS/HZDR\n    orcid: 'https://orcid.org/0000-0001-8587-7730'\n  - given-names: Michael\n    family-names: Hecht\n    affiliation: CASUS/HZDR\n    orcid: 'https://orcid.org/0000-0001-9214-8253'\nidentifiers:\n  - type: doi\n    value: 10.5281/zenodo.14710452\n    description: The Zenodo URL of version 0.6.0 of the package\nrepository-code: 'https://github.com/damar-wicaksono/uqtestfuns'\nurl: 'https://uqtestfuns.readthedocs.io/en/latest/'\nrepository-artifact: 'https://pypi.org/project/uqtestfuns/'\nabstract: >-\n  UQTestFuns is an open-source Python3 library of test\n  functions commonly used within the uncertainty\n  quantification (UQ) community. The package aims to provide\n  an implementation with minimal dependencies and a common interface\n  of many test functions available in the UQ literature,\n  a single entry point collecting test functions and their probabilistic\n  input specifications in a single Python package,\n  and an opportunity for an open-source contribution,\n  supporting the implementation of new test functions\n  or posting reference results.\nkeywords:\n  - uncertainty-quantification\n  - test-functions\n  - sensitivity-analysis\n  - metamodeling\n  - reliability-analysis\n  - surrogate-modeling\nlicense: MIT\nversion: 0.6.0\ndate-released: '2025-01-21'\n"
+}

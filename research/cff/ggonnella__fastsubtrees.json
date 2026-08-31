@@ -1,0 +1,9 @@
+{
+ "repo": "ggonnella/fastsubtrees",
+ "joss_doi": "10.21105/joss.04755",
+ "joss_title": "Fastsubtrees: simple and efficient subtrees extractions in Python with applications to NCBI taxonomy",
+ "joss_published": "2022-11-13T15:46:15.472Z",
+ "software_repository": "https://github.com/ggonnella/fastsubtrees",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Gonnella\"\n  given-names: \"Giorgio\"\n  orcid: \"https://orcid.org/0000-0003-3900-5397\"\ntitle: 'Fastsubtrees: simple and efficient subtrees extractions in Python with applications to NCBI taxonomy'\nversion: 2.2\ndate-released: 2025-02-17\nurl: \"htts://github.com/ggonnella/fastsubtrees/\"\n"
+}

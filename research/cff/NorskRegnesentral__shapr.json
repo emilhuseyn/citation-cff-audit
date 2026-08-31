@@ -1,0 +1,9 @@
+{
+ "repo": "NorskRegnesentral/shapr",
+ "joss_doi": "10.21105/joss.02027",
+ "joss_title": "shapr: An R-package for explaining machine learning models with dependence-aware Shapley values",
+ "joss_published": "2020-02-05T18:14:54.048Z",
+ "software_repository": "https://github.com/NorskRegnesentral/shapr",
+ "status": 404,
+ "cff": null
+}

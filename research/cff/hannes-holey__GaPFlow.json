@@ -1,0 +1,9 @@
+{
+ "repo": "hannes-holey/GaPFlow",
+ "joss_doi": "10.21105/joss.09645",
+ "joss_title": "GaPFlow: Gap-averaged flow simulations with Gaussian process regression",
+ "joss_published": "2026-05-13T22:56:03.312Z",
+ "software_repository": "https://github.com/hannes-holey/GaPFlow",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Huber\n  given-names: Christoph\n  orcid: \"https://orcid.org/0009-0003-3034-0364\"\n- family-names: Holey\n  given-names: Hannes\n  orcid: \"https://orcid.org/0000-0002-4547-8791\"\ndoi: 10.5281/zenodo.20021529\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Huber\n    given-names: Christoph\n    orcid: \"https://orcid.org/0009-0003-3034-0364\"\n  - family-names: Holey\n    given-names: Hannes\n    orcid: \"https://orcid.org/0000-0002-4547-8791\"\n  date-published: 2026-05-13\n  doi: 10.21105/joss.09645\n  issn: 2475-9066\n  issue: 121\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9645\n  title: \"GaPFlow: Gap-averaged flow simulations with Gaussian process\n    regression\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09645\"\n  volume: 11\ntitle: \"GaPFlow: Gap-averaged flow simulations with Gaussian process\n  regression\"\n"
+}

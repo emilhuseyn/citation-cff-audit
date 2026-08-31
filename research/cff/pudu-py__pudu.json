@@ -1,0 +1,9 @@
+{
+ "repo": "pudu-py/pudu",
+ "joss_doi": "10.21105/joss.05873",
+ "joss_title": "pudu: A Python library for agnostic feature selection and explainability of Machine Learning spectroscopic problems",
+ "joss_published": "2023-12-12T17:00:34.248Z",
+ "software_repository": "https://github.com/pudu-py/pudu",
+ "status": 404,
+ "cff": null
+}

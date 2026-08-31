@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.18512020",
+ "source": "datacite",
+ "state": "ok",
+ "title": "jaxDecomp: JAX Library for 3D Domain Decomposition and Parallel FFTs",
+ "type": "Software",
+ "container": ""
+}

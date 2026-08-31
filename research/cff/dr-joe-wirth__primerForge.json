@@ -1,0 +1,9 @@
+{
+ "repo": "dr-joe-wirth/primerForge",
+ "joss_doi": "10.21105/joss.06850",
+ "joss_title": "primerForge: a Python program for identifying primer pairs capable of distinguishing groups of genomes from each other",
+ "joss_published": "2024-09-16T08:53:27.321Z",
+ "software_repository": "https://github.com/dr-joe-wirth/primerForge/",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Wirth\n  given-names: Joseph S.\n  orcid: \"https://orcid.org/0000-0002-9750-2845\"\n- family-names: Katz\n  given-names: Lee S.\n  orcid: \"https://orcid.org/0000-0002-2533-9161\"\n- family-names: Williams\n  given-names: Grant M.\n  orcid: \"https://orcid.org/0000-0002-6033-485X\"\n- family-names: Chen\n  given-names: Jessica C.\n  orcid: \"https://orcid.org/0000-0002-9320-6774\"\ndoi: 10.5281/zenodo.13759569\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Wirth\n    given-names: Joseph S.\n    orcid: \"https://orcid.org/0000-0002-9750-2845\"\n  - family-names: Katz\n    given-names: Lee S.\n    orcid: \"https://orcid.org/0000-0002-2533-9161\"\n  - family-names: Williams\n    given-names: Grant M.\n    orcid: \"https://orcid.org/0000-0002-6033-485X\"\n  - family-names: Chen\n    given-names: Jessica C.\n    orcid: \"https://orcid.org/0000-0002-9320-6774\"\n  date-published: 2024-09-16\n  doi: 10.21105/joss.06850\n  issn: 2475-9066\n  issue: 101\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6850\n  title: \"primerForge: a Python program for identifying primer pairs\n    capable of distinguishing groups of genomes from each other\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06850\"\n  volume: 9\ntitle: \"primerForge: a Python program for identifying primer pairs\n  capable of distinguishing groups of genomes from each other\"\n"
+}

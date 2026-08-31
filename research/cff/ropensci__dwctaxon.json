@@ -1,0 +1,9 @@
+{
+ "repo": "ropensci/dwctaxon",
+ "joss_doi": "10.21105/joss.06215",
+ "joss_title": "dwctaxon, an R package for editing and validating taxonomic data in Darwin Core format",
+ "joss_published": "2024-01-12T08:36:31.213Z",
+ "software_repository": "https://github.com/ropensci/dwctaxon",
+ "status": 200,
+ "cff": "# -----------------------------------------------------------\n# CITATION file created with {cffr} R package, v0.5.0\n# See also: https://docs.ropensci.org/cffr/\n# -----------------------------------------------------------\n \ncff-version: 1.2.0\nmessage: 'To cite package \"dwctaxon\" in publications use:'\ntype: software\nlicense: MIT\ntitle: 'dwctaxon: Edit and Validate Darwin Core Taxon Data'\nversion: 2.0.2.9000\nabstract: Edit and validate taxonomic data in compliance with Darwin Core standards\n  (Darwin Core 'Taxon' class <https://dwc.tdwg.org/terms/#taxon>).\nauthors:\n- family-names: Nitta\n  given-names: Joel H.\n  email: joelnitta@gmail.com\n  orcid: https://orcid.org/0000-0003-4719-7472\npreferred-citation:\n  type: manual\n  title: The dwctaxon R package for working with Darwin Core Taxon data\n  authors:\n  - family-names: Nitta\n    given-names: Joel H.\n    email: joelnitta@gmail.com\n    orcid: https://orcid.org/0000-0003-4719-7472\n  - family-names: Iwasaki\n    given-names: Wataru\n  year: '2023'\n  url: https://github.com/ropensci/dwctaxon\nrepository: https://CRAN.R-project.org/package=dwctaxon\nrepository-code: https://github.com/ropensci/dwctaxon\nurl: https://docs.ropensci.org/dwctaxon/\ncontact:\n- family-names: Nitta\n  given-names: Joel H.\n  email: joelnitta@gmail.com\n  orcid: https://orcid.org/0000-0003-4719-7472\nkeywords:\n- database\n- r-package\n- rstats\n"
+}

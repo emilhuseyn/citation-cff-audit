@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.09000",
+ "source": "crossref",
+ "state": "ok",
+ "title": "trud: An R interface to the NHS England Technology Reference data Update Distribution (TRUD) API",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

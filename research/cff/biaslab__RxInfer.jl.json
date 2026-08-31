@@ -1,0 +1,9 @@
+{
+ "repo": "biaslab/RxInfer.jl",
+ "joss_doi": "10.21105/joss.05161",
+ "joss_title": "RxInfer: A Julia package for reactive real-time Bayesian inference",
+ "joss_published": "2023-04-20T14:54:21.195Z",
+ "software_repository": "https://github.com/biaslab/RxInfer.jl",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Bagaev\n  given-names: Dmitry\n  orcid: \"https://orcid.org/0000-0001-9655-7986\"\n- family-names: Podusenko\n  given-names: Albert\n  orcid: \"https://orcid.org/0000-0003-0515-0465\"\n- family-names: Vries\n  given-names: Bert\n  name-particle: de\n  orcid: \"https://orcid.org/0000-0003-0839-174X\"\ncontact:\n- family-names: Bagaev\n  given-names: Dmitry\n  orcid: \"https://orcid.org/0000-0001-9655-7986\"\ndoi: 10.5281/zenodo.7774921\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Bagaev\n    given-names: Dmitry\n    orcid: \"https://orcid.org/0000-0001-9655-7986\"\n  - family-names: Podusenko\n    given-names: Albert\n    orcid: \"https://orcid.org/0000-0003-0515-0465\"\n  - family-names: Vries\n    given-names: Bert\n    name-particle: de\n    orcid: \"https://orcid.org/0000-0003-0839-174X\"\n  date-published: 2023-04-20\n  doi: 10.21105/joss.05161\n  issn: 2475-9066\n  issue: 84\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5161\n  title: \"RxInfer: A Julia package for reactive real-time Bayesian\n    inference\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05161\"\n  volume: 8\ntitle: \"RxInfer: A Julia package for reactive real-time Bayesian\n  inference\"\n"
+}

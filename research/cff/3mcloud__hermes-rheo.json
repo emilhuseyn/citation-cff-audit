@@ -1,0 +1,9 @@
+{
+ "repo": "3mcloud/hermes-rheo",
+ "joss_doi": "10.21105/joss.08753",
+ "joss_title": "hermes-rheo: An open-source Python package for rheological data analysis",
+ "joss_published": "2026-01-20T21:19:31.798Z",
+ "software_repository": "https://github.com/3mcloud/hermes-rheo/",
+ "status": 200,
+ "cff": "# This CITATION.cff file was generated with cffinit.\n# Visit https://bit.ly/cffinit to generate yours today!\n\ncff-version: 1.2.0\ntitle: hermes-rheo\nmessage: >-\n  If you use this software, please cite it using the  \n  metadata from this file.\ntype: software\nauthors:\n  - given-names: 'Alessandro '\n    family-names: Perego\n    email: aperego@mmm.com\n    affiliation: 3M\n    orcid: 'https://orcid.org/0000-0002-0570-3210'\n  - given-names: Mathew J. L.\n    family-names: Mills\n    email: mmills2@mmm.com\n    affiliation: 3M\n  - given-names: Damien C.\n    family-names: Vadillo\n    email: dvadillo@mmm.com\n    affiliation: 3M\nrepository-code: 'https://github.com/3mcloud/hermes-rheo'\nabstract: >\n  The rapid evolution of data science has opened new\n  possibilities for advanced analysis in measurement\n  science, particularly within the field of rheology.\n  However, the gap between generalized data processing\n  techniques and the specific needs of rheological data\n  analysis often leaves researchers in need of more\n  specialized tools. To meet this demand, we introduce the\n  hermes Python package. Building on the abstraction\n  provided by the piblin library, hermes delivers a suite of\n  specialized transforms and analytical tools designed\n  explicitly for rheological data. This package enhances\n  workflows by enabling precise reading, visualization,\n  processing, and export of rheological datasets.\nkeywords:\n  - rheology\n  - data science\n  - python\nlicense: MIT\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "CQCL/qujax",
+ "joss_doi": "10.21105/joss.05504",
+ "joss_title": "qujax: Simulating quantum circuits with JAX",
+ "joss_published": "2023-09-12T14:28:53.565Z",
+ "software_repository": "https://github.com/CQCL/qujax",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Duffield\n  given-names: Samuel\n  orcid: \"https://orcid.org/0000-0002-8656-8734\"\n- family-names: Matos\n  given-names: Gabriel\n  orcid: \"https://orcid.org/0000-0002-3373-0128\"\n- family-names: Johannsen\n  given-names: Melf\ncontact:\n- family-names: Duffield\n  given-names: Samuel\n  orcid: \"https://orcid.org/0000-0002-8656-8734\"\ndoi: 10.5281/zenodo.8268973\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Duffield\n    given-names: Samuel\n    orcid: \"https://orcid.org/0000-0002-8656-8734\"\n  - family-names: Matos\n    given-names: Gabriel\n    orcid: \"https://orcid.org/0000-0002-3373-0128\"\n  - family-names: Johannsen\n    given-names: Melf\n  date-published: 2023-09-12\n  doi: 10.21105/joss.05504\n  issn: 2475-9066\n  issue: 89\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5504\n  title: \"qujax: Simulating quantum circuits with JAX\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05504\"\n  volume: 8\ntitle: \"qujax: Simulating quantum circuits with JAX\""
+}

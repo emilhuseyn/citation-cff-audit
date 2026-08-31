@@ -1,0 +1,9 @@
+{
+ "repo": "hpgem/nanomesh",
+ "joss_doi": "10.21105/joss.04654",
+ "joss_title": "Nanomesh: A Python workflow tool for generating meshes from image data",
+ "joss_published": "2022-10-09T08:15:05.424Z",
+ "software_repository": "https://github.com/hpgem/nanomesh",
+ "status": 200,
+ "cff": "# YAML 1.2\n---\ncff-version: \"1.1.0\"\ntitle: \"nanomesh\"\nabstract: Create 2d and 3d meshes from experimental imaging data.\nauthors:\n  -\n    affiliation: \"Netherlands eScience Center\"\n    family-names: Renaud\n    given-names: Nicolas\n    orcid: \"0000-0001-9589-2694\"\n  -\n    affiliation: \"Netherlands eScience Center\"\n    family-names: Smeets\n    given-names: Stef\n    orcid: \"0000-0002-5413-9038\"\n  -\n    affiliation: \"University of Twente\"\n    family-names: \"Corbijn van Willenswaard\"\n    given-names: \"Lars J.\"\n    orcid: \"0000-0001-6554-1527\"\nversion: \"0.9.1\"\nrepository-code: \"https://github.com/hpgem/nanomesh\"\nidentifiers:\nkeywords:\n  - \"image-analysis\"\n  - \"finite-element-analysis\"\n  - \"materials-science\"\n  - \"mesh-generation\"\n  - \"microscopy\"\nmessage: \"If you use this software, please cite it using these metadata.\"\nlicense: \"Apache-2.0\"\n"
+}

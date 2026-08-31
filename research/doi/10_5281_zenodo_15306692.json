@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.15306692",
+ "source": "datacite",
+ "state": "ok",
+ "title": "Topography-based surface water modeling in Julia, with support for infiltration and temporal developments",
+ "type": "Software",
+ "container": ""
+}

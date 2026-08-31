@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.06720",
+ "source": "crossref",
+ "state": "ok",
+ "title": "Catalyst: a Python JIT compiler for auto-differentiable\nhybrid quantum programs",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

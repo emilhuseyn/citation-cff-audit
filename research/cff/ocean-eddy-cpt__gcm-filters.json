@@ -1,0 +1,9 @@
+{
+ "repo": "ocean-eddy-cpt/gcm-filters",
+ "joss_doi": "10.21105/joss.03947",
+ "joss_title": "GCM-Filters: A Python Package for Diffusion-based Spatial Filtering of Gridded Data",
+ "joss_published": "2022-02-11T19:38:53.229Z",
+ "software_repository": "https://github.com/ocean-eddy-cpt/gcm-filters",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Loose\n    given-names: Nora\n    orcid: https://orcid.org/0000-0002-3684-9634\n  - family-names: Abernathey\n    given-names: Ryan\n    orcid: https://orcid.org/0000-0001-5999-4917\n  - family-names: Grooms\n    given-names: Ian\n    orcid: https://orcid.org/0000-0002-4678-7203\n  - family-names: Busecke\n    given-names: Julius\n    orcid: https://orcid.org/0000-0001-8571-865X\n  - family-names: Guillaumin\n    given-names: Arthur\n    orcid: https://orcid.org/0000-0003-1571-4228\n  - family-names: Yankovsky\n    given-names: Elizabeth\n    orcid: https://orcid.org/0000-0003-3612-549X\n  - family-names: Marques\n    given-names: Gustavo\n    orcid: https://orcid.org/0000-0001-7238-0290\n  - family-names: Steinberg\n    given-names: Jacob\n    orcid: https://orcid.org/0000-0002-2609-6405\n  - family-names: Ross\n    given-names: Andrew Slavin\n    orcid: https://orcid.org/0000-0002-2368-6979\n  - family-names: Khatri\n    given-names: Hemant\n    orcid: https://orcid.org/0000-0001-6559-9059\n  - family-names: Bachman\n    given-names: Scott\n    orcid: https://orcid.org/0000-0002-6479-4300\n  - family-names: Zanna\n    given-names: Laure\n    orcid: https://orcid.org/0000-0002-8472-4828\n  - family-names: Martin\n    given-names: Paige\n    orcid: https://orcid.org/0000-0003-3538-633X\n\n\ntitle: \"GCM-Filters: A Python Package for Diffusion-based Spatial Filtering of Gridded Data\"\nversion: v0.2.1\ndate-released: 2022-02-10\n"
+}

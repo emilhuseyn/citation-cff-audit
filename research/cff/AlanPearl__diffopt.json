@@ -1,0 +1,9 @@
+{
+ "repo": "AlanPearl/diffopt",
+ "joss_doi": "10.21105/joss.07522",
+ "joss_title": "DiffOpt: Parallel optimization of Jax models",
+ "joss_published": "2024-12-20T22:46:40.590Z",
+ "software_repository": "https://github.com/AlanPearl/diffopt",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Pearl\n  given-names: Alan N.\n  orcid: \"https://orcid.org/0000-0001-9820-9619\"\n- family-names: Beltz-Mohrmann\n  given-names: Gillian D.\n  orcid: \"https://orcid.org/0000-0002-4392-8920\"\n- family-names: Hearin\n  given-names: Andrew P.\n  orcid: \"https://orcid.org/0000-0003-2219-6852\"\ndoi: 10.5281/zenodo.14291795\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Pearl\n    given-names: Alan N.\n    orcid: \"https://orcid.org/0000-0001-9820-9619\"\n  - family-names: Beltz-Mohrmann\n    given-names: Gillian D.\n    orcid: \"https://orcid.org/0000-0002-4392-8920\"\n  - family-names: Hearin\n    given-names: Andrew P.\n    orcid: \"https://orcid.org/0000-0003-2219-6852\"\n  date-published: 2024-12-20\n  doi: 10.21105/joss.07522\n  issn: 2475-9066\n  issue: 104\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7522\n  title: \"DiffOpt: Parallel optimization of Jax models\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07522\"\n  volume: 9\ntitle: \"DiffOpt: Parallel optimization of Jax models\"\n"
+}

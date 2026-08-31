@@ -1,0 +1,9 @@
+{
+ "repo": "ctkelley/MultiPrecisionArrays.jl",
+ "joss_doi": "10.21105/joss.06698",
+ "joss_title": "MultiPrecisionArrays.jl: A Julia package for iterative refinement",
+ "joss_published": "2024-09-30T15:07:04.491Z",
+ "software_repository": "https://github.com/ctkelley/MultiPrecisionArrays.jl",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Kelley\n  given-names: C. T.\n  orcid: \"https://orcid.org/0000-0003-2791-0648\"\ndoi: 10.5281/zenodo.13851500\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Kelley\n    given-names: C. T.\n    orcid: \"https://orcid.org/0000-0003-2791-0648\"\n  date-published: 2024-09-30\n  doi: 10.21105/joss.06698\n  issn: 2475-9066\n  issue: 101\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6698\n  title: \"MultiPrecisionArrays.jl: A Julia package for iterative\n    refinement\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06698\"\n  volume: 9\ntitle: \"MultiPrecisionArrays.jl: A Julia package for iterative\n  refinement\"\n"
+}

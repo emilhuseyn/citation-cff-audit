@@ -1,0 +1,9 @@
+{
+ "repo": "simoninireland/epyc",
+ "joss_doi": "10.21105/joss.03764",
+ "joss_title": "epyc: Computational experiment management in Python",
+ "joss_published": "2022-04-18T11:51:59.278Z",
+ "software_repository": "https://github.com/simoninireland/epyc",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software and want to cite it, please reference the following.\"\nauthors:\n- family-names: \"Dobson\"\n  given-names: \"Simon\"\n  orcid: \"https://orcid.org/0000-0001-9633-2103\"\ntitle: \"epyc\"\ndoi: 10.5281/zenodo.6460760\ndate-released: 2022-04-14\nurl: \"https://github.com/simoninireland/epyc\"\n"
+}

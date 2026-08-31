@@ -1,0 +1,9 @@
+{
+ "repo": "rikhuijzer/SIRUS.jl",
+ "joss_doi": "10.21105/joss.05786",
+ "joss_title": "SIRUS.jl: Interpretable Machine Learning via Rule Extraction",
+ "joss_published": "2023-10-12T07:00:05.266Z",
+ "software_repository": "https://github.com/rikhuijzer/SIRUS.jl",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Huijzer\n  given-names: Rik\n  orcid: \"https://orcid.org/0000-0001-9445-8466\"\n- family-names: Blaauw\n  given-names: Frank\n  orcid: \"https://orcid.org/0000-0002-6588-5079\"\n- family-names: Hartigh\n  given-names: Ruud J. R.\n  name-particle: den\n  orcid: \"https://orcid.org/0000-0002-0094-8307\"\ncontact:\n- family-names: Huijzer\n  given-names: Rik\n  orcid: \"https://orcid.org/0000-0001-9445-8466\"\ndoi: 10.5281/zenodo.8398350\nmessage: \"If you use this software, please cite our article in the Journal of Open Source Software.\"\npreferred-citation:\n  authors:\n  - family-names: Huijzer\n    given-names: Rik\n    orcid: \"https://orcid.org/0000-0001-9445-8466\"\n  - family-names: Blaauw\n    given-names: Frank\n    orcid: \"https://orcid.org/0000-0002-6588-5079\"\n  - family-names: Hartigh\n    given-names: Ruud J. R.\n    name-particle: den\n    orcid: \"https://orcid.org/0000-0002-0094-8307\"\n  date-published: 2023-10-12\n  doi: 10.21105/joss.05786\n  issn: 2475-9066\n  issue: 90\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5786\n  title: \"SIRUS.jl: Interpretable Machine Learning via Rule Extraction\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05786\"\n  volume: 8\ntitle: \"SIRUS.jl: Interpretable Machine Learning via Rule Extraction\"\n"
+}

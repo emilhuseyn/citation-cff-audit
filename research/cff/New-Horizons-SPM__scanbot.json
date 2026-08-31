@@ -1,0 +1,9 @@
+{
+ "repo": "New-Horizons-SPM/scanbot",
+ "joss_doi": "10.21105/joss.06028",
+ "joss_title": "Scanbot: An STM Automation Bot",
+ "joss_published": "2024-07-15T18:11:00.989Z",
+ "software_repository": "https://github.com/New-Horizons-SPM/scanbot",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Ceddia\n  given-names: Julian\n  orcid: \"https://orcid.org/0000-0003-3990-8852\"\n- family-names: Hellerstedt\n  given-names: Jack\n  orcid: \"https://orcid.org/0000-0003-2282-8223\"\n- family-names: Lowe\n  given-names: Benjamin\n  orcid: \"https://orcid.org/0000-0002-5157-7737\"\n- family-names: Schiffrin\n  given-names: Agustin\n  orcid: \"https://orcid.org/0000-0003-1140-8485\"\ncontact:\n- family-names: Ceddia\n  given-names: Julian\n  orcid: \"https://orcid.org/0000-0003-3990-8852\"\ndoi: 10.5281/zenodo.12669343\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Ceddia\n    given-names: Julian\n    orcid: \"https://orcid.org/0000-0003-3990-8852\"\n  - family-names: Hellerstedt\n    given-names: Jack\n    orcid: \"https://orcid.org/0000-0003-2282-8223\"\n  - family-names: Lowe\n    given-names: Benjamin\n    orcid: \"https://orcid.org/0000-0002-5157-7737\"\n  - family-names: Schiffrin\n    given-names: Agustin\n    orcid: \"https://orcid.org/0000-0003-1140-8485\"\n  date-published: 2024-07-15\n  doi: 10.21105/joss.06028\n  issn: 2475-9066\n  issue: 99\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6028\n  title: \"Scanbot: An STM Automation Bot\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06028\"\n  volume: 9\ntitle: \"Scanbot: An STM Automation Bot\"\n"
+}

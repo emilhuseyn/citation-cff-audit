@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.17016438",
+ "source": "datacite",
+ "state": "ok",
+ "title": "Piecewise: Flexible piecewise functions for fast integral transforms in Julia",
+ "type": "ComputationalNotebook",
+ "container": ""
+}

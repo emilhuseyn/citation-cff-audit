@@ -1,0 +1,9 @@
+{
+ "repo": "cseptesting/floatcsep",
+ "joss_doi": "10.21105/joss.09408",
+ "joss_title": "floatCSEP: An application to deploy and conduct reproducible prospective earthquake forecasting experiments",
+ "joss_published": "2026-02-20T19:28:22.551Z",
+ "software_repository": "https://github.com/cseptesting/floatcsep",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use floatCSEP in your research, please cite the Zenodo release.\"\ntitle: \"floatCSEP: An application to deploy and conduct reproducible prospective earthquake forecasting experiments\"\ntype: software\nlicense: \"BSD-3-Clause\"\n\nrepository-code: \"https://github.com/cseptesting/floatcsep\"\nurl: \"https://floatcsep.readthedocs.io\"\n\nversion: \"0.3.0\"\ndoi: \"10.5281/zenodo.15576250\"\npublisher: \"Zenodo\"\n\nauthors:\n  - family-names: \"Iturrieta\"\n    given-names: \"Pablo\"\n    orcid: \"https://orcid.org/0000-0002-4787-1343\"\n    affiliation: \"GFZ Helmholtz Centre for Geosciences, Potsdam, Germany\"\n\n  - family-names: \"Khawaja\"\n    given-names: \"Asim M.\"\n    orcid: \"https://orcid.org/0000-0002-6196-4503\"\n    affiliation: \"GFZ Helmholtz Centre for Geosciences, Potsdam, Germany\"\n\n  - family-names: \"Savran\"\n    given-names: \"William H.\"\n    orcid: \"https://orcid.org/0000-0001-5404-0778\"\n    affiliation: \"University of Nevada, Reno, United States\"\n\n  - family-names: \"Schorlemmer\"\n    given-names: \"Danijel\"\n    orcid: \"https://orcid.org/0000-0003-3969-1059\"\n    affiliation: \"GFZ Helmholtz Centre for Geosciences, Potsdam, Germany; Swiss Seismological Service at ETH Z\u00fcrich, Z\u00fcrich, Switzerland\"\n"
+}

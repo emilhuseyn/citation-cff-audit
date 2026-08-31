@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.07882",
+ "source": "crossref",
+ "state": "ok",
+ "title": "ez-zarr: A Python package for easy access and visualisation of OME-Zarr filesets",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

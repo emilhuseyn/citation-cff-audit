@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.13777404",
+ "source": "datacite",
+ "state": "ok",
+ "title": "MicroFloatingPoints.jl: providing very small IEEE\u00a0754-compliant floating-point types",
+ "type": "Software",
+ "container": ""
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "UM-PEPL/HallThruster.jl",
+ "joss_doi": "10.21105/joss.04672",
+ "joss_title": "HallThruster.jl: a Julia package for 1D Hall thruster discharge simulation",
+ "joss_published": "2023-06-28T15:48:02.555Z",
+ "software_repository": "https://github.com/UM-PEPL/HallThruster.jl",
+ "status": 404,
+ "cff": null
+}

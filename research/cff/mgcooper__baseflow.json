@@ -1,0 +1,9 @@
+{
+ "repo": "mgcooper/baseflow",
+ "joss_doi": "10.21105/joss.05492",
+ "joss_title": "baseflow: a MATLAB and GNU Octave package for baseflow recession analysis",
+ "joss_published": "2023-10-24T16:13:59.929Z",
+ "software_repository": "https://github.com/mgcooper/baseflow",
+ "status": 200,
+ "cff": "# This CITATION.cff file was generated with cffinit.\n# Visit https://bit.ly/cffinit to generate yours today!\n\ncff-version: 1.2.0\ntitle: baseflow\nmessage: >-\n  If you use this software, please cite it using the\n  metadata from this file.\ntype: software\nauthors:\n  - given-names: Matthew G\n    family-names: Cooper\n    orcid: 'https://orcid.org/0000-0002-0165-209X'\nidentifiers:\n  - type: doi\n    value: 10.5281/zenodo.8401301\n    description: The DOI for version 1.0.0 of the software\nrepository-code: 'https://github.com/mgcooper/baseflow'\nurl: 'https://github.com/mgcooper/baseflow'\nkeywords:\n  - hydrology\n  - baseflow\n  - groundwater\n  - storage\n  - permafrost\nlicense: BSD-3-Clause\nversion: 1.0.0\ndate-released: '2023-10-02'\n"
+}

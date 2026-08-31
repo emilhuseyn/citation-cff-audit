@@ -1,0 +1,9 @@
+{
+ "repo": "connor-makowski/type_enforced",
+ "joss_doi": "10.21105/joss.08832",
+ "joss_title": "Type Enforced: A Python type enforcer for type annotations",
+ "joss_published": "2025-09-30T12:29:24.892Z",
+ "software_repository": "https://github.com/connor-makowski/type_enforced",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle: >-\n  Type Enforced: A Python type enforcer for type annotations\nmessage: >-\n  If you use this software, please cite it using the\n  metadata from this file.\ntype: article\nauthors:\n  - given-names: Connor\n    family-names: Makowski\n    email: conmak@mit.edu\n    affiliation: MIT\n    orcid: 'https://orcid.org/0009-0005-1522-022X'\n  - given-names: Willem\n    family-names: Guter\n  - given-names: Tim\n    family-names: Russell\njournal: Journal of Open Source Software\nissue: '10-113'\nyear: 2025\nurl: 'https://joss.theoj.org/papers/10.21105/joss.08832'\nrepository-code: 'https://github.com/connor-makowski/type-enforced'\nabstract: >-\n  A pure python runtime type enforcer for type annotations. Enforce types in python functions and methods."
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "mrazomej/AutoEncoderToolkit.jl",
+ "joss_doi": "10.21105/joss.06794",
+ "joss_title": "AutoEncoderToolkit.jl: A Julia package for training (Variational) Autoencoders",
+ "joss_published": "2024-07-30T21:08:13.322Z",
+ "software_repository": "https://github.com/mrazomej/AutoEncoderToolkit.jl",
+ "status": 404,
+ "cff": null
+}

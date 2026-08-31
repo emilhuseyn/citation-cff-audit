@@ -1,0 +1,9 @@
+{
+ "repo": "baxmittens/OpenGeoSysUncertaintyQuantification.jl",
+ "joss_doi": "10.21105/joss.06725",
+ "joss_title": "OpenGeoSysUncertaintyQuantification.jl: a Julia library implementing an uncertainty quantification toolbox for OpenGeoSys",
+ "joss_published": "2024-06-20T14:18:24.068Z",
+ "software_repository": "https://github.com/baxmittens/OpenGeoSysUncertaintyQuantification.jl",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Bittens\n  given-names: Maximilian\n  orcid: \"https://orcid.org/0000-0001-9954-294X\"\ndoi: 10.5281/zenodo.11923516\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Bittens\n    given-names: Maximilian\n    orcid: \"https://orcid.org/0000-0001-9954-294X\"\n  date-published: 2024-06-20\n  doi: 10.21105/joss.06725\n  issn: 2475-9066\n  issue: 98\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6725\n  title: \"OpenGeoSysUncertaintyQuantification.jl: a Julia library\n    implementing an uncertainty quantification toolbox for OpenGeoSys\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06725\"\n  volume: 9\ntitle: \"OpenGeoSysUncertaintyQuantification.jl: a Julia library\n  implementing an uncertainty quantification toolbox for OpenGeoSys\"\n"
+}

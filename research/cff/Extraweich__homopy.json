@@ -1,0 +1,9 @@
+{
+ "repo": "Extraweich/homopy",
+ "joss_doi": "10.21105/joss.05295",
+ "joss_title": "A Python package for homogenization procedures in fiber reinforced polymers",
+ "joss_published": "2023-07-11T09:24:59.526Z",
+ "software_repository": "https://github.com/Extraweich/homopy",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Christ\n  given-names: Nicolas\n  orcid: \"https://orcid.org/0000-0002-4713-8096\"\n- family-names: Scheuring\n  given-names: Benedikt M.\n  orcid: \"https://orcid.org/0000-0003-2971-1431\"\n- family-names: Montesano\n  given-names: John\n  orcid: \"https://orcid.org/0000-0003-2723-052X\"\n- family-names: Hohe\n  given-names: J\u00f6rg\n  orcid: \"https://orcid.org/0000-0003-3994-4562\"\ndoi: 10.5281/zenodo.8124344\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Christ\n    given-names: Nicolas\n    orcid: \"https://orcid.org/0000-0002-4713-8096\"\n  - family-names: Scheuring\n    given-names: Benedikt M.\n    orcid: \"https://orcid.org/0000-0003-2971-1431\"\n  - family-names: Montesano\n    given-names: John\n    orcid: \"https://orcid.org/0000-0003-2723-052X\"\n  - family-names: Hohe\n    given-names: J\u00f6rg\n    orcid: \"https://orcid.org/0000-0003-3994-4562\"\n  date-published: 2023-07-11\n  doi: 10.21105/joss.05295\n  issn: 2475-9066\n  issue: 87\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5295\n  title: \"HomoPy: A Python package for homogenization procedures in\n    fiber reinforced polymers\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05295\"\n  volume: 8\ntitle: \"HomoPy: A Python package for homogenization procedures in fiber\n  reinforced polymers\"\n"
+}

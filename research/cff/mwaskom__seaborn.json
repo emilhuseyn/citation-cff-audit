@@ -1,0 +1,9 @@
+{
+ "repo": "mwaskom/seaborn",
+ "joss_doi": "10.21105/joss.03021",
+ "joss_title": "seaborn: statistical data visualization",
+ "joss_published": "2021-04-06T11:58:37.899Z",
+ "software_repository": "https://github.com/mwaskom/seaborn",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If seaborn is integral to a scientific publication, please cite the following paper:\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Waskom\"\n    given-names: \"Michael Lawrence\"\n    orcid: \"https://orcid.org/0000-0002-9817-6869\"\n  doi: \"10.21105/joss.03021\"\n  journal: \"Journal of Open Source Software\"\n  month: April\n  title: \"seaborn: statistical data visualization\"\n  issue: 6\n  volume: 60\n  year: 2021\n  url: \"https://joss.theoj.org/papers/10.21105/joss.03021\"\n"
+}

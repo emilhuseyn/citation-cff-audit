@@ -1,0 +1,9 @@
+{
+ "repo": "USEPA/harmonize-wq",
+ "joss_doi": "10.21105/joss.07305",
+ "joss_title": "harmonize-wq: Standardize, clean and wrangle Water Quality Portal data into more analytic-ready formats",
+ "joss_published": "2024-10-22T15:40:50.342Z",
+ "software_repository": "https://github.com/USEPA/harmonize-wq",
+ "status": 200,
+ "cff": "CITATION.cff\n\ncff-version: \"1.2.0\"\nauthors:\n- family-names: Bousquin\n  given-names: Justin\n  orcid: \"https://orcid.org/0000-0001-5797-4322\"\n- family-names: Mullin\n  given-names: Cristina A.\n  orcid: \"https://orcid.org/0000-0002-0615-6087\"\ndoi: 10.5281/zenodo.13356847\nmessage: If you use this package, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Bousquin\n    given-names: Justin\n    orcid: \"https://orcid.org/0000-0001-5797-4322\"\n  - family-names: Mullin\n    given-names: Cristina A.\n    orcid: \"https://orcid.org/0000-0002-0615-6087\"\n  date-published: 2024-10-22\n  doi: 10.21105/joss.07305\n  issn: 2475-9066\n  issue: 102\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7305\n  title: \"harmonize-wq: Standardize, clean and wrangle Water Quality\n    Portal data into more analytic-ready formats\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07305\"\n  volume: 9\ntitle: \"harmonize-wq: Standardize, clean and wrangle Water Quality\n  Portal data into more analytic-ready formats\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "raspishake/rsudp",
+ "joss_doi": "10.21105/joss.02565",
+ "joss_title": "rsudp: A Python package for real-time seismic monitoring with Raspberry Shake instruments",
+ "joss_published": "2021-12-10T13:01:07.860Z",
+ "software_repository": "https://github.com/raspishake/rsudp",
+ "status": 404,
+ "cff": null
+}

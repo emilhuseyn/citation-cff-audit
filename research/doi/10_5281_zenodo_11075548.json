@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.11075548",
+ "source": "datacite",
+ "state": "ok",
+ "title": "GIRFReco.jl: An open-source pipeline for spiral MRI reconstruction in Julia",
+ "type": "Software",
+ "container": ""
+}

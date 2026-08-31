@@ -1,0 +1,9 @@
+{
+ "repo": "DrafProject/elmada",
+ "joss_doi": "10.21105/joss.03625",
+ "joss_title": "elmada: Dynamic electricity carbon emission factors and prices for Europe",
+ "joss_published": "2021-10-15T11:51:16.225Z",
+ "software_repository": "https://github.com/DrafProject/elmada",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Fleschutz\"\n  given-names: \"Markus\"\n  orcid: \"https://orcid.org/0000-0002-8516-9635\"\n- family-names: \"Murphy\"\n  given-names: \"Michael D.\"\n  orcid: \"https://orcid.org/0000-0002-4269-2581\"\ntitle: \"elmada: Dynamic electricity carbon emission factors and prices for Europe\"\nversion: 0.1.0\ndoi: 10.5281/zenodo.5566694\ndate-released: 2021-10-13\nurl: \"https://github.com/DrafProject/elmada\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Fleschutz\"\n    given-names: \"Markus\"\n    orcid: \"https://orcid.org/0000-0002-8516-9635\"\n  - family-names: \"Murphy\"\n    given-names: \"Michael D.\"\n    orcid: \"https://orcid.org/0000-0002-4269-2581\"\n  doi: \"10.21105/joss.03625\"\n  journal: \"Journal of Open Source Software\"\n  month: 10\n  start: 3625\n  title: \"elmada: Dynamic electricity carbon emission factors and prices for Europe\"\n  issue: 66\n  volume: 6\n  year: 2021\n"
+}

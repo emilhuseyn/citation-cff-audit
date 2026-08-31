@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.00538",
+ "source": "crossref",
+ "state": "ok",
+ "title": "psrqpy: a python interface for querying the ATNF pulsar catalogue",
+ "type": "journal-article",
+ "container": "The Journal of Open Source Software"
+}

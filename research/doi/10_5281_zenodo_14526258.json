@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.14526258",
+ "source": "datacite",
+ "state": "ok",
+ "title": "delfies: a Python package for the detection of DNA breakpoints with neo-telomere addition",
+ "type": "Software",
+ "container": ""
+}

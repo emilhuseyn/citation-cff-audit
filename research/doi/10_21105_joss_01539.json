@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.01539",
+ "source": "crossref",
+ "state": "ok",
+ "title": "pulse: A python package based on FEniCS for solving problems in cardiac mechanics",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

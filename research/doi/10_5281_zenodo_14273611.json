@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.14273611",
+ "source": "datacite",
+ "state": "ok",
+ "title": "StreamGen: a Python framework for generating streams of labeled data",
+ "type": "Software",
+ "container": ""
+}

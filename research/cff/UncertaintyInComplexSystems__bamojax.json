@@ -1,0 +1,9 @@
+{
+ "repo": "UncertaintyInComplexSystems/bamojax",
+ "joss_doi": "10.21105/joss.08642",
+ "joss_title": "Bamojax: Bayesian Modelling with JAX",
+ "joss_published": "2025-10-27T17:07:31.461Z",
+ "software_repository": "https://github.com/UncertaintyInComplexSystems/bamojax",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Hinne\n  given-names: Max\n  orcid: \"https://orcid.org/0000-0002-9279-6725\"\ndoi: 10.5281/zenodo.17456689\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Hinne\n    given-names: Max\n    orcid: \"https://orcid.org/0000-0002-9279-6725\"\n  date-published: 2025-10-27\n  doi: 10.21105/joss.08642\n  issn: 2475-9066\n  issue: 114\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 8642\n  title: \"Bamojax: Bayesian Modelling with JAX\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.08642\"\n  volume: 10\ntitle: \"Bamojax: Bayesian Modelling with JAX\"\n"
+}

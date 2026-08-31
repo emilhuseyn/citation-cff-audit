@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.5056628",
+ "source": "datacite",
+ "state": "ok",
+ "title": "PDENLPModels.jl: A NLPModel API for optimization problems with PDE-constraints",
+ "type": "Software",
+ "container": ""
+}

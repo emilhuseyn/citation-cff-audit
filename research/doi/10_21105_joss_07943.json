@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.07943",
+ "source": "crossref",
+ "state": "ok",
+ "title": "Zarrtraj: A Python package for streaming molecular dynamics trajectories from cloud services",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "JuliaGraphs/MultilayerGraphs.jl",
+ "joss_doi": "10.21105/joss.05116",
+ "joss_title": "MultilayerGraphs.jl: Multilayer Network Science in Julia",
+ "joss_published": "2023-03-05T11:43:18.833Z",
+ "software_repository": "https://github.com/JuliaGraphs/MultilayerGraphs.jl",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: If you use this software, please cite both the article from preferred-citation and the software itself.\nauthors:\n  - family-names: Moroni\n    given-names: Claudio\n  - family-names: Monticone\n    given-names: Pietro\ntitle: 'MultilayerGraphs.jl: Multilayer Network Science in Julia'\nversion: 1.0.0\nurl: https://doi.org/10.21105/joss.05116\ndoi: 10.21105/joss.05116\ndate-released: '2023-01-07'\npreferred-citation:\n  authors:\n    - family-names: Moroni\n      given-names: Claudio\n    - family-names: Monticone\n      given-names: Pietro\n  title: 'MultilayerGraphs.jl: Multilayer Network Science in Julia'\n  doi: 10.21105/joss.05116\n  url: https://doi.org/10.21105/joss.05116\n  type: article-journal\n  pages: '5116'\n  year: '2023'\n  conference: {}\n  publisher:\n    name: The Open Journal\n"
+}

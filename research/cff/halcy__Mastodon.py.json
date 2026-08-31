@@ -1,0 +1,9 @@
+{
+ "repo": "halcy/Mastodon.py",
+ "joss_doi": "10.21105/joss.08946",
+ "joss_title": "Mastodon.py: A Python library for the Mastodon API",
+ "joss_published": "2026-04-12T12:08:41.396Z",
+ "software_repository": "https://github.com/halcy/Mastodon.py",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\r\nmessage: If you use this software, please cite the article from preferred-citation.\r\ntype: software\r\nabstract: Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.\r\nauthors:\r\n  - family-names: Diener\r\n    given-names: Lorenz\r\n  - family-names: Delcourt\r\n    given-names: Corentin\r\nidentifiers:\r\n  - type: doi\r\n    value: 10.21105/joss.08946\r\n  - type: url\r\n    value: https://github.com/halcy/Mastodon.py\r\ntitle: Mastodon.py\r\nurl: https://github.com/halcy/Mastodon.py\r\npreferred-citation:\r\n  type: article\r\n  authors:\r\n    - family-names: Diener\r\n      given-names: Lorenz\r\n    - family-names: Delcourt\r\n      given-names: Corentin\r\n  title: \"Mastodon.py: A Python library for the Mastodon API\"\r\n  journal: Journal of Open Source Software\r\n  year: 2026\r\n  volume: 11\r\n  issue: 120\r\n  start: 8946\r\n  doi: 10.21105/joss.08946\r\n  url: https://doi.org/10.21105/joss.08946\r\n"
+}

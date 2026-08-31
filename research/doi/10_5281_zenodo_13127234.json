@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.13127234",
+ "source": "datacite",
+ "state": "ok",
+ "title": "FastVPINNs: An efficient tensor-based Python library for solving partial differential equations using hp-Variational Physics Informed Neural Networks",
+ "type": "Software",
+ "container": ""
+}

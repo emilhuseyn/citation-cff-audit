@@ -1,0 +1,9 @@
+{
+ "repo": "openclimatedata/pymagicc",
+ "joss_doi": "10.21105/joss.00516",
+ "joss_title": "Pymagicc: A Python wrapper for the simple climate model MAGICC",
+ "joss_published": "2018-02-04T13:39:55.674Z",
+ "software_repository": "https://github.com/openclimatedata/pymagicc",
+ "status": 404,
+ "cff": null
+}

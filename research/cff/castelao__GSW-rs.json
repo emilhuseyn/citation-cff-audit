@@ -1,0 +1,9 @@
+{
+ "repo": "castelao/GSW-rs",
+ "joss_doi": "10.21105/joss.05988",
+ "joss_title": "Gibbs Sea Water Oceanographic Toolbox of TEOS-10 implemented in Rust",
+ "joss_published": "2024-01-03T15:30:53.347Z",
+ "software_repository": "https://github.com/castelao/GSW-rs",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: If you use this software, please cite it using these metadata.\ntitle: 'Gibbs Sea Water Oceanographic Toolbox of TEOS-10 implemented in Rust'\nauthors:\n  - given-names: Guilherme\n    family-names: Castelao\n    affiliation: Scripps Institution of Oceanography - UC San Diego\n    orcid: https://orcid.org/0000-0002-6765-0708\n  - given-names: Luiz\n    family-names: Irber\n    affiliation: UC Davis\n    orcid: https://orcid.org/0000-0003-4371-9659\nversion: 0.2.0\ndoi: 10.21105/joss.05988\ndate-released: 2023-12-21\nrepository-code: https://github.com/castelao/GSW-rs\nlicense: BSD-3-Clause\n"
+}

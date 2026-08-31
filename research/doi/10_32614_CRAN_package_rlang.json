@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.rlang",
+ "source": "crossref",
+ "state": "ok",
+ "title": "rlang: Functions for Base Types and Core R and 'Tidyverse' Features",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "castelao/CoTeDe",
+ "joss_doi": "10.21105/joss.02063",
+ "joss_title": "A Framework to Quality Control Oceanographic Data",
+ "joss_published": "2020-04-07T18:41:34.613Z",
+ "software_repository": "https://github.com/castelao/CoTeDe",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: If you use this software, please cite it using these metadata.\ntitle: 'A Framework to Quality Control Oceanographic Data'\nauthors:\n- given-names: Guilherme\n  family-names: Castelao\n  affiliation: Scripps Institution of Oceanography - UC San Diego\n  orcid: https://orcid.org/0000-0002-6765-0708\nversion: 0.23.8\ndoi: 10.21105/joss.02063\ndate-released: 2021-01-26\nrepository-code: https://github.com/castelao/CoTeDe\nlicense: BSD-3 Clause\n"
+}

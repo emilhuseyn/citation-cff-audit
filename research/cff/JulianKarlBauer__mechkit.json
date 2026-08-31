@@ -1,0 +1,9 @@
+{
+ "repo": "JulianKarlBauer/mechkit",
+ "joss_doi": "10.21105/joss.04389",
+ "joss_title": "Mechkit: A continuum mechanics toolkit in Python",
+ "joss_published": "2022-10-11T16:37:07.733Z",
+ "software_repository": "https://github.com/JulianKarlBauer/mechkit",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Bauer\"\n  given-names: \"Julian Karl\"\n  orcid: \"https://orcid.org/0000-0002-4931-5869\"\ntitle: \"mechkit\"\ndoi: 10.5281/zenodo.3898702\nurl: \"https://github.com/JulianKarlBauer/mechkit\"\n"
+}

@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.10960370",
+ "source": "datacite",
+ "state": "ok",
+ "title": "gcamreport: An R tool to process and standardize GCAM outputs",
+ "type": "Software",
+ "container": ""
+}

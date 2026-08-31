@@ -1,0 +1,9 @@
+{
+ "repo": "robashaw/libecpint",
+ "joss_doi": "10.21105/joss.03039",
+ "joss_title": "libecpint: A C++ library for  the efficient evaluation of integrals over effective core potentials",
+ "joss_published": "2021-04-15T15:48:48.051Z",
+ "software_repository": "https://github.com/robashaw/libecpint",
+ "status": 404,
+ "cff": null
+}

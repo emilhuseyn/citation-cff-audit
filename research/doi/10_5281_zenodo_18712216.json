@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.18712216",
+ "source": "datacite",
+ "state": "ok",
+ "title": "ParallelKDE.jl: A Package for Highly Parallel Kernel Density Estimation",
+ "type": "Software",
+ "container": ""
+}

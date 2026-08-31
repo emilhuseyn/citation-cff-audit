@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.7839894",
+ "source": "datacite",
+ "state": "ok",
+ "title": "byteparsing: a functional parser combinator for mixed ASCII/binary data",
+ "type": "Software",
+ "container": ""
+}

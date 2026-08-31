@@ -1,0 +1,9 @@
+{
+ "repo": "husseinaluie/FlowSieve",
+ "joss_doi": "10.21105/joss.04277",
+ "joss_title": "FlowSieve: A Coarse-Graining Utility for Geophysical Flows on the Sphere",
+ "joss_published": "2023-04-11T15:47:05.494Z",
+ "software_repository": "https://github.com/husseinaluie/FlowSieve",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Storer\n  given-names: Benjamin A.\n  orcid: \"https://orcid.org/0000-0001-5955-2158\"\n- family-names: Aluie\n  given-names: Hussein\n  orcid: \"https://orcid.org/0000-0003-3516-3697\"\ncontact:\n- family-names: Aluie\n  given-names: Hussein\n  orcid: \"https://orcid.org/0000-0003-3516-3697\"\ndoi: 10.5281/zenodo.7818192\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Storer\n    given-names: Benjamin A.\n    orcid: \"https://orcid.org/0000-0001-5955-2158\"\n  - family-names: Aluie\n    given-names: Hussein\n    orcid: \"https://orcid.org/0000-0003-3516-3697\"\n  date-published: 2023-04-11\n  doi: 10.21105/joss.04277\n  issn: 2475-9066\n  issue: 84\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 4277\n  title: \"FlowSieve: A Coarse-Graining Utility for Geophysical Flows on\n    the Sphere\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.04277\"\n  volume: 8\ntitle: \"FlowSieve: A Coarse-Graining Utility for Geophysical Flows on\n  the Sphere\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "dfki-ric/ugv_nav4d",
+ "joss_doi": "10.21105/joss.06983",
+ "joss_title": "ugv_nav4d: Advanced Multi-Surface Navigation for Unmanned Ground Vehicles Using 4D Path Planning Techniques",
+ "joss_published": "2024-12-02T15:11:58.688Z",
+ "software_repository": "https://github.com/dfki-ric/ugv_nav4d",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: B\u00f6ckmann\n  given-names: Arne\n- family-names: Machowinski\n  given-names: Janosch\n- family-names: Lodhi\n  given-names: Muhammad Haider Khan\n  orcid: \"https://orcid.org/0009-0008-1199-3489\"\ndoi: 10.5281/zenodo.14236941\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: B\u00f6ckmann\n    given-names: Arne\n  - family-names: Machowinski\n    given-names: Janosch\n  - family-names: Lodhi\n    given-names: Muhammad Haider Khan\n    orcid: \"https://orcid.org/0009-0008-1199-3489\"\n  date-published: 2024-12-02\n  doi: 10.21105/joss.06983\n  issn: 2475-9066\n  issue: 104\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6983\n  title: \"ugv_nav4d: Advanced Multi-Surface Navigation for Unmanned\n    Ground Vehicles Using 4D Path Planning Techniques\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06983\"\n  volume: 9\ntitle: \"ugv_nav4d: Advanced Multi-Surface Navigation for Unmanned Ground\n  Vehicles Using 4D Path Planning Techniques\"\n"
+}

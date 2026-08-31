@@ -1,0 +1,9 @@
+{
+ "repo": "UM-RMRS/raster_tools",
+ "joss_doi": "10.21105/joss.08134",
+ "joss_title": "Raster Tools: An Open Source Toolbox for Raster Processing",
+ "joss_published": "2026-03-24T14:13:25.683Z",
+ "software_repository": "https://github.com/UM-RMRS/raster_tools",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Bunt\n  given-names: Fredrick\n  orcid: \"https://orcid.org/0000-0003-4139-5355\"\n- family-names: Johnson\n  given-names: Jesse\n  orcid: \"https://orcid.org/0000-0002-7387-6500\"\n- family-names: Hogland\n  given-names: John\n  orcid: \"https://orcid.org/0000-0003-2676-6277\"\ndoi: 10.5281/zenodo.19100698\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Bunt\n    given-names: Fredrick\n    orcid: \"https://orcid.org/0000-0003-4139-5355\"\n  - family-names: Johnson\n    given-names: Jesse\n    orcid: \"https://orcid.org/0000-0002-7387-6500\"\n  - family-names: Hogland\n    given-names: John\n    orcid: \"https://orcid.org/0000-0003-2676-6277\"\n  date-published: 2026-03-24\n  doi: 10.21105/joss.08134\n  issn: 2475-9066\n  issue: 119\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 8134\n  title: \"Raster Tools: An Open Source Toolbox for Raster Processing\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.08134\"\n  volume: 11\ntitle: \"Raster Tools: An Open Source Toolbox for Raster Processing\"\n"
+}

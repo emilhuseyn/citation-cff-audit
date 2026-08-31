@@ -1,0 +1,9 @@
+{
+ "repo": "FEniCS/basix",
+ "joss_doi": "10.21105/joss.03982",
+ "joss_title": "Basix: a runtime finite element basis evaluation library",
+ "joss_published": "2022-05-25T14:30:04.298Z",
+ "software_repository": "https://github.com/FEniCS/basix",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: If you use this software, please cite it as below.\nlicense: MIT\nurl: https://github.com/FEniCS/basix\npreferred-citation:\n  type: article\n  authors:\n  - family-names: Scroggs\n    given-names: Matthew W.\n    orcid: 0000-0002-4658-2443\n  - family-names: Baratta\n    given-names: Igor A.\n    orcid: 0000-0003-4298-2973\n  - family-names: Richardson\n    given-names: Chris N.\n    orcid: 0000-0003-3137-1392\n  - family-names: Wells\n    given-names: Garth N.\n    orcid: 0000-0001-5291-7951\n  doi: 10.21105/joss.03982\n  journal: Journal of Open Source Software\n  title: \"Basix: a runtime finite element basis evaluation library\"\n  volume: 7\n  issue: 73\n  start: 3982\n  month: 5\n  year: 2022\n"
+}

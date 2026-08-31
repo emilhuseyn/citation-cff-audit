@@ -1,0 +1,9 @@
+{
+ "repo": "firefly-cpp/NiaARM",
+ "joss_doi": "10.21105/joss.04448",
+ "joss_title": "NiaARM: A minimalistic framework for Numerical Association Rule Mining",
+ "joss_published": "2022-09-29T21:20:38.310Z",
+ "software_repository": "https://github.com/firefly-cpp/NiaARM",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Stupan\"\n  given-names: \"\u017diga\"\n  orcid: \"https://orcid.org/0000-0001-9847-7306\"\n- family-names: \"Fister Jr.\"\n  given-names: \"Iztok\"\n  orcid: \"https://orcid.org/0000-0002-6418-1272\"\ntitle: \"NiaARM: A minimalistic framework for Numerical Association Rule Mining\"\nversion: 0.2.1\ndoi: 10.21105/joss.04448\ndate-released: 2022-09-29\nurl: \"https://github.com/firefly-cpp/NiaARM\"\n"
+}

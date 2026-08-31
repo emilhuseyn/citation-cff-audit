@@ -1,0 +1,9 @@
+{
+ "repo": "Battery-Intelligence-Lab/dtw-cpp",
+ "joss_doi": "10.21105/joss.06881",
+ "joss_title": "DTW-C++: Fast dynamic time warping and clustering of time series data",
+ "joss_published": "2024-09-06T16:45:06.544Z",
+ "software_repository": "https://github.com/Battery-Intelligence-Lab/dtw-cpp",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Kumtepeli\n  given-names: Volkan\n  orcid: \"https://orcid.org/0000-0003-2392-9771\"\n- family-names: Perriment\n  given-names: Rebecca\n  orcid: \"https://orcid.org/0009-0003-2781-0724\"\n- family-names: Howey\n  given-names: David A.\n  orcid: \"https://orcid.org/0000-0002-0620-3955\"\ndoi: 10.5281/zenodo.13551469\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Kumtepeli\n    given-names: Volkan\n    orcid: \"https://orcid.org/0000-0003-2392-9771\"\n  - family-names: Perriment\n    given-names: Rebecca\n    orcid: \"https://orcid.org/0009-0003-2781-0724\"\n  - family-names: Howey\n    given-names: David A.\n    orcid: \"https://orcid.org/0000-0002-0620-3955\"\n  date-published: 2024-09-06\n  doi: 10.21105/joss.06881\n  issn: 2475-9066\n  issue: 101\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6881\n  title: \"DTW-C++: Fast dynamic time warping and clustering of time\n    series data\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06881\"\n  volume: 9\ntitle: \"DTW-C++: Fast dynamic time warping and clustering of time series\n  data\""
+}

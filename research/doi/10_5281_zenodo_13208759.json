@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.13208759",
+ "source": "datacite",
+ "state": "ok",
+ "title": "cortecs: A Python package for compressing opacities",
+ "type": "Software",
+ "container": ""
+}

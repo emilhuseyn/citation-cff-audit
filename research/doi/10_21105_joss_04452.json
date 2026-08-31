@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.04452",
+ "source": "crossref",
+ "state": "ok",
+ "title": "UnROOT: an I/O library for the CERN ROOT file format\nwritten in Julia",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

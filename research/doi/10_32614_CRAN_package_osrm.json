@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.osrm",
+ "source": "crossref",
+ "state": "ok",
+ "title": "osrm: Interface Between R and the OpenStreetMap-Based Routing Service OSRM",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

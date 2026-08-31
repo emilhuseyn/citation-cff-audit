@@ -1,0 +1,4 @@
+# The cached files in research/ are evidence, not source. Git must not translate their line endings
+# on checkout, or a clone on Windows would hold different bytes from the ones the analysis read and a
+# checksum taken here would not match one taken there.
+* -text

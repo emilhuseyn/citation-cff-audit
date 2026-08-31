@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.18611473",
+ "source": "datacite",
+ "state": "ok",
+ "title": "traversability_generator3d: A C++ library for 3D traversability estimation from MLS maps",
+ "type": "Software",
+ "container": ""
+}

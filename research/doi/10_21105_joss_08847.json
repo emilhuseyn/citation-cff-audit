@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.08847",
+ "source": "crossref",
+ "state": "ok",
+ "title": "pychoco: all-inclusive Python bindings for the Choco-solver constraint programming library",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

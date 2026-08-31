@@ -1,0 +1,9 @@
+{
+ "repo": "cai4cai/rano2.0-assist",
+ "joss_doi": "10.21105/joss.09629",
+ "joss_title": "RANO2.0-assist: A 3D Slicer Extension for (semi-)automatic Assessment of Response to Glioma Treatment",
+ "joss_published": "2026-03-15T21:13:48.084Z",
+ "software_repository": "https://github.com/cai4cai/rano2.0-assist",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Kujawa\n  given-names: Aaron\n  orcid: \"https://orcid.org/0000-0002-1445-6207\"\n- family-names: Shi\n  given-names: Tangqi\n  orcid: \"https://orcid.org/0009-0002-5668-239X\"\n- family-names: Booth\n  given-names: Thomas\n  orcid: \"https://orcid.org/0000-0003-0984-3998\"\n- family-names: Vercauteren\n  given-names: Tom\n  orcid: \"https://orcid.org/0000-0003-1794-0456\"\ndoi: 10.5281/zenodo.18853917\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Kujawa\n    given-names: Aaron\n    orcid: \"https://orcid.org/0000-0002-1445-6207\"\n  - family-names: Shi\n    given-names: Tangqi\n    orcid: \"https://orcid.org/0009-0002-5668-239X\"\n  - family-names: Booth\n    given-names: Thomas\n    orcid: \"https://orcid.org/0000-0003-0984-3998\"\n  - family-names: Vercauteren\n    given-names: Tom\n    orcid: \"https://orcid.org/0000-0003-1794-0456\"\n  date-published: 2026-03-15\n  doi: 10.21105/joss.09629\n  issn: 2475-9066\n  issue: 119\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9629\n  title: \"RANO2.0-assist: A 3D Slicer Extension for (semi-)automatic\n    Assessment of Response to Glioma Treatment\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09629\"\n  volume: 11\ntitle: \"RANO2.0-assist: A 3D Slicer Extension for (semi-)automatic\n  Assessment of Response to Glioma Treatment\"\n"
+}

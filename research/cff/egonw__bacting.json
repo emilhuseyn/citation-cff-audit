@@ -1,0 +1,9 @@
+{
+ "repo": "egonw/bacting",
+ "joss_doi": "10.21105/joss.02558",
+ "joss_title": "Bacting: a next generation, command line version of Bioclipse",
+ "joss_published": "2021-06-23T16:08:27.397Z",
+ "software_repository": "https://github.com/egonw/bacting",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Willighagen\n    given-names: Egon\n    orcid: https://orcid.org/0000-0001-7542-0286\ntitle: Bacting\nversion: 1.0.13\ndate-released: 2026-08-29\ndoi: 10.5281/zenodo.2638709\nurl: \"https://github.com/egonw/bacting\"\npreferred-citation:\n  type: article\n  authors:\n    - family-names: Willighagen\n      given-names: Egon L.\n  title: \"Bacting: a next generation, command line version of Bioclipse\"\n  year: 2021\n  month: 6\n  day: 23\n  journal: Journal of Open Source Software\n  volume: 6\n  issue: 62\n  doi: 10.21105/joss.02558\n  url: https://doi.org/10.21105/joss.02558\n"
+}

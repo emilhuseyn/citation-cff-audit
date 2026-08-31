@@ -1,0 +1,9 @@
+{
+ "repo": "thieu1995/permetrics",
+ "joss_doi": "10.21105/joss.06143",
+ "joss_title": "PerMetrics: A Framework of Performance Metrics for Machine Learning Models",
+ "joss_published": "2024-03-09T08:42:01.636Z",
+ "software_repository": "https://github.com/thieu1995/permetrics",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Thieu\n  given-names: Nguyen Van\n  orcid: \"https://orcid.org/0000-0001-9994-8747\"\ndoi: 10.5281/zenodo.3951205\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Thieu\n    given-names: Nguyen Van\n    orcid: \"https://orcid.org/0000-0001-9994-8747\"\n  date-published: 2024-03-09\n  doi: 10.21105/joss.06143\n  issn: 2475-9066\n  issue: 95\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6143\n  title: \"PerMetrics: A Framework of Performance Metrics for Machine\n    Learning Models\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06143\"\n  volume: 9\ntitle: \"PerMetrics: A Framework of Performance Metrics for Machine\n  Learning Models\"\n"
+}

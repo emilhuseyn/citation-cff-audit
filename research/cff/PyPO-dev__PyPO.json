@@ -1,0 +1,9 @@
+{
+ "repo": "PyPO-dev/PyPO",
+ "joss_doi": "10.21105/joss.05478",
+ "joss_title": "PyPO: a Python package for Physical Optics",
+ "joss_published": "2023-08-12T20:00:20.930Z",
+ "software_repository": "https://github.com/PyPO-dev/PyPO",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Moerman\n  given-names: Arend\n  orcid: \"https://orcid.org/0000-0002-0475-6134\"\n- family-names: Gafaji\n  given-names: Maikel H.\n- family-names: Karatsu\n  given-names: Kenichi\n  orcid: \"https://orcid.org/0000-0003-4562-5584\"\n- family-names: Endo\n  given-names: Akira\n  orcid: \"https://orcid.org/0000-0003-0379-2341\"\ncontact:\n- family-names: Moerman\n  given-names: Arend\n  orcid: \"https://orcid.org/0000-0002-0475-6134\"\ndoi: 10.5281/zenodo.8241427\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Moerman\n    given-names: Arend\n    orcid: \"https://orcid.org/0000-0002-0475-6134\"\n  - family-names: Gafaji\n    given-names: Maikel H.\n  - family-names: Karatsu\n    given-names: Kenichi\n    orcid: \"https://orcid.org/0000-0003-4562-5584\"\n  - family-names: Endo\n    given-names: Akira\n    orcid: \"https://orcid.org/0000-0003-0379-2341\"\n  date-published: 2023-08-12\n  doi: 10.21105/joss.05478\n  issn: 2475-9066\n  issue: 88\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5478\n  title: \"PyPO: a Python package for Physical Optics\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05478\"\n  volume: 8\ntitle: \"PyPO: a Python package for Physical Optics\"\n"
+}

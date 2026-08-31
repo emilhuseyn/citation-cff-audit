@@ -1,0 +1,9 @@
+{
+ "repo": "VincentStimper/normalizing-flows",
+ "joss_doi": "10.21105/joss.05361",
+ "joss_title": "normflows: A PyTorch Package for Normalizing Flows",
+ "joss_published": "2023-06-24T19:39:19.919Z",
+ "software_repository": "https://github.com/VincentStimper/normalizing-flows",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Stimper\n  given-names: Vincent\n  orcid: \"https://orcid.org/0000-0002-4965-4297\"\n- family-names: Liu\n  given-names: David\n- family-names: Campbell\n  given-names: Andrew\n- family-names: Berenz\n  given-names: Vincent\n- family-names: Ryll\n  given-names: Lukas\n- family-names: Sch\u00f6lkopf\n  given-names: Bernhard\n  orcid: \"https://orcid.org/0000-0002-8177-0925\"\n- family-names: Hern\u00e1ndez-Lobato\n  given-names: Jos\u00e9 Miguel\ndoi: 10.5281/zenodo.8027667\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Stimper\n    given-names: Vincent\n    orcid: \"https://orcid.org/0000-0002-4965-4297\"\n  - family-names: Liu\n    given-names: David\n  - family-names: Campbell\n    given-names: Andrew\n  - family-names: Berenz\n    given-names: Vincent\n  - family-names: Ryll\n    given-names: Lukas\n  - family-names: Sch\u00f6lkopf\n    given-names: Bernhard\n    orcid: \"https://orcid.org/0000-0002-8177-0925\"\n  - family-names: Hern\u00e1ndez-Lobato\n    given-names: Jos\u00e9 Miguel\n  date-published: 2023-06-24\n  doi: 10.21105/joss.05361\n  issn: 2475-9066\n  issue: 86\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5361\n  title: \"normflows: A PyTorch Package for Normalizing Flows\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05361\"\n  volume: 8\ntitle: \"normflows: A PyTorch Package for Normalizing Flows\"\n"
+}

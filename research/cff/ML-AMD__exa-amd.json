@@ -1,0 +1,9 @@
+{
+ "repo": "ML-AMD/exa-amd",
+ "joss_doi": "10.21105/joss.08879",
+ "joss_title": "exa-AMD: A Scalable Workflow for Accelerating AI-Assisted Materials Discovery and Design",
+ "joss_published": "2025-11-17T09:13:32.094Z",
+ "software_repository": "https://github.com/ML-AMD/exa-amd",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Moraru\n  given-names: Maxim\n- family-names: Xia\n  given-names: Weiyi\n- family-names: Ye\n  given-names: Zhuo\n- family-names: Zhang\n  given-names: Feng\n- family-names: Yao\n  given-names: Yongxin\n- family-names: Li\n  given-names: Ying Wai\n- family-names: Wang\n  given-names: Cai-Zhuang\ndoi: 10.5281/zenodo.17477447\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Moraru\n    given-names: Maxim\n  - family-names: Xia\n    given-names: Weiyi\n  - family-names: Ye\n    given-names: Zhuo\n  - family-names: Zhang\n    given-names: Feng\n  - family-names: Yao\n    given-names: Yongxin\n  - family-names: Li\n    given-names: Ying Wai\n  - family-names: Wang\n    given-names: Cai-Zhuang\n  date-published: 2025-11-17\n  doi: 10.21105/joss.08879\n  issn: 2475-9066\n  issue: 115\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 8879\n  title: \"exa-AMD: A Scalable Workflow for Accelerating AI-Assisted\n    Materials Discovery and Design\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.08879\"\n  volume: 10\ntitle: \"exa-AMD: A Scalable Workflow for Accelerating AI-Assisted\n  Materials Discovery and Design\"\n"
+}

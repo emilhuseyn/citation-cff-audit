@@ -1,0 +1,9 @@
+{
+ "repo": "microplastics-cluster/fragment-mnp",
+ "joss_doi": "10.21105/joss.08061",
+ "joss_title": "FRAGMENT-MNP: A model of micro- and nanoplastic fragmentation in the environment",
+ "joss_published": "2025-06-12T10:23:28.432Z",
+ "software_repository": "https://github.com/microplastics-cluster/fragment-mnp",
+ "status": 200,
+ "cff": "# This CITATION.cff file was generated with cffinit.\n# Visit https://bit.ly/cffinit to generate yours today!\n\ncff-version: 1.2.0\ntitle: FRAGMENT-MNP\nmessage: >-\n  If you use this software, please cite it using the\n  metadata from this file.\ntype: software\nauthors:\n  - given-names: Sam\n    family-names: Harrison\n    email: sharrison@ceh.ac.uk\n    affiliation: UK Centre for Ecology & Hydrology\n    orcid: 'https://orcid.org/0000-0001-8491-4720'\n  - given-names: Cansu\n    family-names: Uluseker\n    affiliation: UK Centre for Ecology & Hydrology\n    orcid: 'https://orcid.org/0000-0001-9828-0458'\n  - given-names: Brandon\n    family-names: Lopez\n    email: brandon.d.lopez@duke.edu\n    affiliation: Duke University\n  - given-names: Mark\n    family-names: Wiesner\n    email: wiesner@duke.edu\n    affiliation: Duke University\nrepository-code: 'https://github.com/microplastics-cluster/fragment-mnp'\nurl: 'https://microplastics-cluster.github.io/fragment-mnp'\nabstract: >-\n  FRAGMENT-MNP is model of Micro and NanoPlastic\n  FRAGMentation in the ENvironmenT.\nkeywords:\n  - microplastics\n  - nanoplastics\n  - environment\nlicense: BSD-3-Clause\n"
+}

@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.10757333",
+ "source": "datacite",
+ "state": "ok",
+ "title": "GPCERF - An R package for implementing Gaussian processes for estimating causal exposure response curves",
+ "type": "Software",
+ "container": ""
+}

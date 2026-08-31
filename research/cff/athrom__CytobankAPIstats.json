@@ -1,0 +1,9 @@
+{
+ "repo": "athrom/CytobankAPIstats",
+ "joss_doi": "10.21105/joss.00445",
+ "joss_title": "CytobankAPIstats: Computes Signaling and Population Statistics for Cytometry Data on Cytobank using 'CytobankAPI'",
+ "joss_published": "2019-03-13T17:44:10.615Z",
+ "software_repository": "https://github.com/athrom/CytobankAPIstats",
+ "status": 404,
+ "cff": null
+}

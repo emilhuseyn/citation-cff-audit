@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.yaml",
+ "source": "crossref",
+ "state": "ok",
+ "title": "yaml: Methods to Convert R Data to YAML and Back",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

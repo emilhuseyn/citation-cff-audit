@@ -1,0 +1,9 @@
+{
+ "repo": "FZJ-PGI-12/QAOA.jl",
+ "joss_doi": "10.21105/joss.05364",
+ "joss_title": "QAOA.jl: Toolkit for the Quantum and Mean-Field Approximate Optimization Algorithms",
+ "joss_published": "2023-06-28T09:40:55.514Z",
+ "software_repository": "https://github.com/FZJ-PGI-12/QAOA.jl",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Bode\n  given-names: Tim\n  orcid: \"https://orcid.org/0000-0001-8280-3891\"\n- family-names: Bagrets\n  given-names: Dmitry\n- family-names: Misra-Spieldenner\n  given-names: Aditi\n- family-names: Stollenwerk\n  given-names: Tobias\n- family-names: Wilhelm\n  given-names: Frank K.\ncontact:\n- family-names: Bode\n  given-names: Tim\n  orcid: \"https://orcid.org/0000-0001-8280-3891\"\ndoi: 10.5281/zenodo.8086187\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Bode\n    given-names: Tim\n    orcid: \"https://orcid.org/0000-0001-8280-3891\"\n  - family-names: Bagrets\n    given-names: Dmitry\n  - family-names: Misra-Spieldenner\n    given-names: Aditi\n  - family-names: Stollenwerk\n    given-names: Tobias\n  - family-names: Wilhelm\n    given-names: Frank K.\n  date-published: 2023-06-28\n  doi: 10.21105/joss.05364\n  issn: 2475-9066\n  issue: 86\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5364\n  title: \"QAOA.jl: Toolkit for the Quantum and Mean-Field Approximate\n    Optimization Algorithms\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05364\"\n  volume: 8\ntitle: \"QAOA.jl: Toolkit for the Quantum and Mean-Field Approximate\n  Optimization Algorithms\"\n"
+}

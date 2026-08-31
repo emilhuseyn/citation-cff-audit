@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.8027667",
+ "source": "datacite",
+ "state": "ok",
+ "title": "normflows: A PyTorch Package for Normalizing Flows",
+ "type": "Software",
+ "container": ""
+}

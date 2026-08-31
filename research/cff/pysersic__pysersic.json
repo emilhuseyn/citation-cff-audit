@@ -1,0 +1,9 @@
+{
+ "repo": "pysersic/pysersic",
+ "joss_doi": "10.21105/joss.05703",
+ "joss_title": "pysersic: A Python package for determining galaxy structural properties via Bayesian inference, accelerated with jax",
+ "joss_published": "2023-09-15T22:14:43.568Z",
+ "software_repository": "https://github.com/pysersic/pysersic",
+ "status": 404,
+ "cff": null
+}

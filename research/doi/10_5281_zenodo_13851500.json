@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.13851500",
+ "source": "datacite",
+ "state": "ok",
+ "title": "MulitPrecision Arrays.jl: A Julia package for iterative refinement",
+ "type": "Software",
+ "container": ""
+}

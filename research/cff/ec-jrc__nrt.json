@@ -1,0 +1,9 @@
+{
+ "repo": "ec-jrc/nrt",
+ "joss_doi": "10.21105/joss.06815",
+ "joss_title": "nrt: operational monitoring of satellite image time-series in Python",
+ "joss_published": "2024-08-15T19:54:33.059Z",
+ "software_repository": "https://github.com/ec-jrc/nrt",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Dutrieux\n  given-names: Lo\u00efc\n  orcid: \"https://orcid.org/0000-0002-5058-2526\"\n- family-names: Viehweger\n  given-names: Jonas\n  orcid: \"https://orcid.org/0000-0002-1610-4600\"\ndoi: 10.5281/zenodo.12799278\nmessage: If you use nrt in your research or project, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Dutrieux\n    given-names: Lo\u00efc\n    orcid: \"https://orcid.org/0000-0002-5058-2526\"\n  - family-names: Viehweger\n    given-names: Jonas\n    orcid: \"https://orcid.org/0000-0002-1610-4600\"\n  date-published: 2024-08-15\n  doi: 10.21105/joss.06815\n  issn: 2475-9066\n  issue: 100\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6815\n  title: \"nrt: operational monitoring of satellite image time-series in\n    Python\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06815\"\n  volume: 9\ntitle: \"nrt: operational monitoring of satellite image time-series in\n  Python\"\n\n"
+}

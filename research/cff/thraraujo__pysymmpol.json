@@ -1,0 +1,9 @@
+{
+ "repo": "thraraujo/pysymmpol",
+ "joss_doi": "10.21105/joss.06724",
+ "joss_title": "PySymmPol - Symmetric Polynomials",
+ "joss_published": "2024-05-30T16:42:39.674Z",
+ "software_repository": "https://github.com/thraraujo/pysymmpol",
+ "status": 200,
+ "cff": "# This CITATION.cff file was generated with cffinit.\n# Visit https://bit.ly/cffinit to generate yours today!\n\ncff-version: 1.2.0\ntitle: 'pySymmPol: Symmetric Polynomials'\nmessage: >-\n  If you use this software, please cite it using the\n  metadata from this file.\ntype: software\nauthors:\n  - given-names: Thiago\n    family-names: Rocha Araujo\n    email: tr.araujo@unesp.br\n    affiliation: 'Institute for Theoretical Physics, UNESP'\n    orcid: 'https://orcid.org/0000-0001-5792-2530'\nidentifiers:\n  - type: other\n    value: 'arxiv: 2403.13580 [math.CO]'\n    description: arXiv\n  - type: doi\n    value: 10.48550/arXiv.2403.13580\n    description: Arxiv-issued DOI\n  - type: doi\n    value: 10.5281/zenodo.11214736\n    description: Zenodo-issued Doi\nrepository-code: 'https://github.com/thraraujo/pysymmpol'\nkeywords:\n  - python\n  - combinatorics\n  - high energy physics\nlicense: GPL-3.0\nversion: v0.1.2\n"
+}

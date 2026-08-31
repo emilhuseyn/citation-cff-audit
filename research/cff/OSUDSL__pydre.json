@@ -1,0 +1,9 @@
+{
+ "repo": "OSUDSL/pydre",
+ "joss_doi": "10.21105/joss.07870",
+ "joss_title": "Pydre: A Python package for driving simulation data reduction",
+ "joss_published": "2025-04-21T19:35:20.638Z",
+ "software_repository": "https://github.com/OSUDSL/pydre",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Kerwin\n  given-names: Thomas\n  orcid: \"https://orcid.org/0000-0003-4560-3203\"\ndoi: 10.6084/m9.figshare.28765025.v1\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Kerwin\n    given-names: Thomas\n    orcid: \"https://orcid.org/0000-0003-4560-3203\"\n  date-published: 2025-04-21\n  doi: 10.21105/joss.07870\n  issn: 2475-9066\n  issue: 108\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7870\n  title: \"Pydre: A Python package for driving simulation data reduction\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07870\"\n  volume: 10\ntitle: \"Pydre: A Python package for driving simulation data reduction\"\n\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "PyTomography/slicer_spect_recon",
+ "joss_doi": "10.21105/joss.07399",
+ "joss_title": "SlicerSPECTRecon: A 3D Slicer Extension for SPECT Image Reconstruction",
+ "joss_published": "2024-12-10T14:42:56.575Z",
+ "software_repository": "https://github.com/PyTomography/slicer_spect_recon.git",
+ "status": 404,
+ "cff": null
+}

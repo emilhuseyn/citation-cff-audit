@@ -1,0 +1,9 @@
+{
+ "repo": "JIBSIL/DistriFS",
+ "joss_doi": "10.21105/joss.06625",
+ "joss_title": "DistriFS: A Platform and User Agnostic Approach to Dataset Distribution",
+ "joss_published": "2024-07-02T15:22:56.389Z",
+ "software_repository": "https://github.com/JIBSIL/DistriFS",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Boesch\n  given-names: Julian\n  orcid: \"https://orcid.org/0009-0006-8945-0092\"\ndoi: 10.6084/m9.figshare.26049448\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Boesch\n    given-names: Julian\n    orcid: \"https://orcid.org/0009-0006-8945-0092\"\n  date-published: 2024-07-02\n  doi: 10.21105/joss.06625\n  issn: 2475-9066\n  issue: 99\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6625\n  title: \"DistriFS: A Platform and User Agnostic Approach to Dataset\n    Distribution\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06625\"\n  volume: 9\ntitle: \"DistriFS: A Platform and User Agnostic Approach to Dataset\n  Distribution\"\n"
+}

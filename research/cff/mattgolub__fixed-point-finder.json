@@ -1,0 +1,9 @@
+{
+ "repo": "mattgolub/fixed-point-finder",
+ "joss_doi": "10.21105/joss.01003",
+ "joss_title": "FixedPointFinder: A Tensorflow toolbox for identifying and characterizing fixed points in recurrent neural networks",
+ "joss_published": "2018-11-01T13:04:23.738Z",
+ "software_repository": "https://github.com/mattgolub/fixed-point-finder",
+ "status": 404,
+ "cff": null
+}

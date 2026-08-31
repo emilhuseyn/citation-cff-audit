@@ -1,0 +1,9 @@
+{
+ "repo": "inducer/modepy",
+ "joss_doi": "10.21105/joss.09294",
+ "joss_title": "modepy: Basis Functions, Interpolation, and Quadrature (not just) for Finite Elements",
+ "joss_published": "2026-01-27T19:11:25.288Z",
+ "software_repository": "https://github.com/inducer/modepy",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Kloeckner\"\n  given-names: \"Andreas\"\n  orcid: \"https://orcid.org/0000-0003-1228-519X\"\n- family-names: \"Fikl\"\n  given-names: \"Alexandru\"\n  orcid: \"https://orcid.org/0000-0002-0552-5936\"\n- family-names: \"Wei\"\n  given-names: \"Xiaoyu\"\n  orcid: \"https://orcid.org/0000-0001-7063-7865\"\n- family-names: \"Gibson\"\n  given-names: \"Thomas\"\n  orcid: \"https://orcid.org/0000-0002-7978-6848\"\n- family-names: \"Alvey-Blanco\"\n  given-names: \"Addison\"\n\ntitle: \"modepy\"\nversion: 2026.1\ndoi: 10.5281/zenodo.18304836\ndate-released: 2026-01-19\nurl: \"https://github.com/inducer/modepy\"\nlicense: MIT\n\npreferred-citation:\n  authors:\n  - family-names: Kloeckner\n    given-names: Andreas\n    orcid: \"https://orcid.org/0000-0003-1228-519X\"\n  - family-names: Fikl\n    given-names: Alexandru\n    orcid: \"https://orcid.org/0000-0002-0552-5936\"\n  - family-names: Wei\n    given-names: Xiaoyu\n    orcid: \"https://orcid.org/0000-0001-7063-7865\"\n  - family-names: Gibson\n    given-names: Thomas\n    orcid: \"https://orcid.org/0000-0002-7978-6848\"\n  - family-names: Alvey-Blanco\n    given-names: Addison\n  date-published: 2026-01-27\n  doi: 10.21105/joss.09294\n  issn: 2475-9066\n  issue: 117\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9294\n  title: \"modepy: Basis Functions, Interpolation, and Quadrature (not\n    just) for Finite Elements\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09294\"\n  volume: 11\n"
+}

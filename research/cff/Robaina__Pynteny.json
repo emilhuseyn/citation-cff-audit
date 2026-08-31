@@ -1,0 +1,9 @@
+{
+ "repo": "Robaina/Pynteny",
+ "joss_doi": "10.21105/joss.05289",
+ "joss_title": "Pynteny: a Python package to perform synteny-aware, profile HMM-based searches in sequence databases",
+ "joss_published": "2023-03-22T09:42:42.413Z",
+ "software_repository": "https://github.com/Robaina/Pynteny",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: \"Robaina Est\u00e9vez\"\n    given-names: \"Semid\u00e1n\"\n    orcid: \"https://orcid.org/0000-0003-0781-1677\"\n    affiliation: \"Department of Microbiology. University of La Laguna. Spain\"\n    email: \"srobaina@ull.edu.es\"\ntitle: \"Pynteny: synteny-aware hmm searches made easy\"\nversion: 1.3.0\ndoi: 10.5281/zenodo.7696204\ndate-released: 2026-06-19\nurl: \"https://github.com/Robaina/Pynteny\""
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "TheoRGirard/hughes2d",
+ "joss_doi": "10.21105/joss.10106",
+ "joss_title": "hughes2d: Approximating solutions to the Hughes pedestrian-flow model",
+ "joss_published": "2026-07-20T20:25:59.278Z",
+ "software_repository": "https://github.com/TheoRGirard/hughes2d",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Girard\n  given-names: Th\u00e9o\n  orcid: \"https://orcid.org/0000-0002-9382-6746\"\ndoi: 10.5281/zenodo.21453600\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Girard\n    given-names: Th\u00e9o\n    orcid: \"https://orcid.org/0000-0002-9382-6746\"\n  date-published: 2026-07-20\n  doi: 10.21105/joss.10106\n  issn: 2475-9066\n  issue: 123\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 10106\n  title: \"hughes2d: Approximating solutions to the Hughes\n    pedestrian-flow model\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.10106\"\n  volume: 11\ntitle: \"hughes2d: Approximating solutions to the Hughes pedestrian-flow\n  model\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "zhanghe9704/tpsa",
+ "joss_doi": "10.21105/joss.04818",
+ "joss_title": "cppTPSA/pyTPSA: a C++/Python package for truncated power series algebra",
+ "joss_published": "2024-02-29T18:30:52.541Z",
+ "software_repository": "https://github.com/zhanghe9704/tpsa",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Zhang\n  given-names: He\n  orcid: \"https://orcid.org/0000-0001-7701-4118\"\ncontact:\n- family-names: Zhang\n  given-names: He\n  orcid: \"https://orcid.org/0000-0001-7701-4118\"\ndoi: 10.5281/zenodo.10728770\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Zhang\n    given-names: He\n    orcid: \"https://orcid.org/0000-0001-7701-4118\"\n  date-published: 2024-02-29\n  doi: 10.21105/joss.04818\n  issn: 2475-9066\n  issue: 94\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 4818\n  title: \"cppTPSA/pyTPSA: a C++/Python package for truncated power\n    series algebra\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.04818\"\n  volume: 9\ntitle: \"cppTPSA/pyTPSA: a C++/Python package for truncated power series\n  algebra\"\n"
+}

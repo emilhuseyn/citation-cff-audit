@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.20084457",
+ "source": "datacite",
+ "state": "ok",
+ "title": "TNC: Distributed Tensor Network Contractions in Rust",
+ "type": "Software",
+ "container": ""
+}

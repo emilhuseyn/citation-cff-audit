@@ -1,0 +1,9 @@
+{
+ "repo": "Sarc-Graph/sarcgraph",
+ "joss_doi": "10.21105/joss.05322",
+ "joss_title": "SarcGraph: A Python package for analyzing the contractile behavior of pluripotent stem cell-derived cardiomyocytes",
+ "joss_published": "2023-05-23T20:08:43.336Z",
+ "software_repository": "https://github.com/Sarc-Graph/sarcgraph",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Mohammadzadeh\n  given-names: Saeed\n  orcid: \"https://orcid.org/0000-0001-9879-044X\"\n- family-names: Lejeune\n  given-names: Emma\n  orcid: \"https://orcid.org/0000-0001-8099-3468\"\ncontact:\n- family-names: Lejeune\n  given-names: Emma\n  orcid: \"https://orcid.org/0000-0001-8099-3468\"\ndoi: 10.5281/zenodo.7963553\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Mohammadzadeh\n    given-names: Saeed\n    orcid: \"https://orcid.org/0000-0001-9879-044X\"\n  - family-names: Lejeune\n    given-names: Emma\n    orcid: \"https://orcid.org/0000-0001-8099-3468\"\n  date-published: 2023-05-23\n  doi: 10.21105/joss.05322\n  issn: 2475-9066\n  issue: 85\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5322\n  title: \"SarcGraph: A Python package for analyzing the contractile\n    behavior of pluripotent stem cell-derived cardiomyocytes\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05322\"\n  volume: 8\ntitle: \"SarcGraph: A Python package for analyzing the contractile\n  behavior of pluripotent stem cell-derived cardiomyocytes\"\n"
+}

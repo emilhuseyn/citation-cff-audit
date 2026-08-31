@@ -1,0 +1,9 @@
+{
+ "repo": "bessagroup/CRATE",
+ "joss_doi": "10.21105/joss.05594",
+ "joss_title": "CRATE: A Python package to perform fast material simulations",
+ "joss_published": "2023-07-31T20:59:26.990Z",
+ "software_repository": "https://github.com/bessagroup/CRATE",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Ferreira\n  given-names: Bernardo P.\n  orcid: \"https://orcid.org/0000-0001-5956-3877\"\n- family-names: Pires\n  given-names: F. M. Andrade\n  orcid: \"https://orcid.org/0000-0002-4802-6360\"\n- family-names: Bessa\n  given-names: Miguel A.\n  orcid: \"https://orcid.org/0000-0002-6216-0355\"\ncontact:\n- family-names: Bessa\n  given-names: Miguel A.\n  orcid: \"https://orcid.org/0000-0002-6216-0355\"\ndoi: 10.5281/zenodo.8199879\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Ferreira\n    given-names: Bernardo P.\n    orcid: \"https://orcid.org/0000-0001-5956-3877\"\n  - family-names: Pires\n    given-names: F. M. Andrade\n    orcid: \"https://orcid.org/0000-0002-4802-6360\"\n  - family-names: Bessa\n    given-names: Miguel A.\n    orcid: \"https://orcid.org/0000-0002-6216-0355\"\n  date-published: 2023-07-31\n  doi: 10.21105/joss.05594\n  issn: 2475-9066\n  issue: 87\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5594\n  title: \"CRATE: A Python package to perform fast material simulations\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05594\"\n  volume: 8\ntitle: \"CRATE: A Python package to perform fast material simulations\""
+}

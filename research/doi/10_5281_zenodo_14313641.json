@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.14313641",
+ "source": "datacite",
+ "state": "ok",
+ "title": "r2ogs6: An R wrapper of the OpenGeoSys 6 Multiphysics Simulator",
+ "type": "Software",
+ "container": ""
+}

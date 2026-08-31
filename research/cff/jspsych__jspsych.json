@@ -1,0 +1,9 @@
+{
+ "repo": "jspsych/jspsych",
+ "joss_doi": "10.21105/joss.05351",
+ "joss_title": "jsPsych: Enabling an Open-Source Collaborative Ecosystem of Behavioral Experiments",
+ "joss_published": "2023-05-11T07:34:42.275Z",
+ "software_repository": "https://github.com/jspsych/jspsych",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Leeuw\n  given-names: Joshua R.\n  name-particle: de\n  orcid: \"https://orcid.org/0000-0003-4815-2364\"\n- family-names: Gilbert\n  given-names: Rebecca A.\n  orcid: \"https://orcid.org/0000-0003-4574-7792\"\n- family-names: Luchterhandt\n  given-names: Bj\u00f6rn\n  orcid: \"https://orcid.org/0000-0002-9225-2787\"\ncontact:\n- family-names: Leeuw\n  given-names: Joshua R.\n  name-particle: de\n  orcid: \"https://orcid.org/0000-0003-4815-2364\"\ndoi: 10.5281/zenodo.7702307\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Leeuw\n    given-names: Joshua R.\n    name-particle: de\n    orcid: \"https://orcid.org/0000-0003-4815-2364\"\n  - family-names: Gilbert\n    given-names: Rebecca A.\n    orcid: \"https://orcid.org/0000-0003-4574-7792\"\n  - family-names: Luchterhandt\n    given-names: Bj\u00f6rn\n    orcid: \"https://orcid.org/0000-0002-9225-2787\"\n  date-published: 2023-05-11\n  doi: 10.21105/joss.05351\n  issn: 2475-9066\n  issue: 85\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5351\n  title: \"jsPsych: Enabling an Open-Source Collaborative Ecosystem of\n    Behavioral Experiments\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05351\"\n  volume: 8\ntitle: \"jsPsych: Enabling an Open-Source Collaborative Ecosystem of\n  Behavioral Experiments\"\n"
+}

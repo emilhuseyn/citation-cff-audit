@@ -1,0 +1,9 @@
+{
+ "repo": "APGG-Lab/APGG",
+ "joss_doi": "10.21105/joss.04944",
+ "joss_title": "APGG - A Modular C++ Framework for Asymmetric Public Goods Games",
+ "joss_published": "2023-09-13T07:59:06.079Z",
+ "software_repository": "https://github.com/APGG-Lab/APGG",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Rosenthal\n  given-names: Mirko\n- family-names: Richter\n  given-names: David J.\n  orcid: \"https://orcid.org/0000-0001-5413-6710\"\n- family-names: H\u00fcbner\n  given-names: Falk\n- family-names: Staudacher\n  given-names: Jochen\n  orcid: \"https://orcid.org/0000-0002-0619-4606\"\n- family-names: Hintze\n  given-names: Arend\n  orcid: \"https://orcid.org/0000-0002-4872-1961\"\ndoi: 10.5281/zenodo.8334926\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Rosenthal\n    given-names: Mirko\n  - family-names: Richter\n    given-names: David J.\n    orcid: \"https://orcid.org/0000-0001-5413-6710\"\n  - family-names: H\u00fcbner\n    given-names: Falk\n  - family-names: Staudacher\n    given-names: Jochen\n    orcid: \"https://orcid.org/0000-0002-0619-4606\"\n  - family-names: Hintze\n    given-names: Arend\n    orcid: \"https://orcid.org/0000-0002-4872-1961\"\n  date-published: 2023-09-13\n  doi: 10.21105/joss.04944\n  issn: 2475-9066\n  issue: 89\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 4944\n  title: APGG - A Modular C++ Framework for Asymmetric Public Goods\n    Games\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.04944\"\n  volume: 8\ntitle: APGG - A Modular C++ Framework for Asymmetric Public Goods Games\n"
+}

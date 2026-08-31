@@ -1,0 +1,9 @@
+{
+ "repo": "sebasquirarte/biostats",
+ "joss_doi": "10.21105/joss.10317",
+ "joss_title": "biostats: Biostatistics and Clinical Data Analysis in R",
+ "joss_published": "2026-06-24T18:00:18.843Z",
+ "software_repository": "https://github.com/sebasquirarte/biostats/",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Quirarte-Justo\n  given-names: Sebastian\n  orcid: \"https://orcid.org/0009-0004-2730-4343\"\n- family-names: Monta\u00f1o-Ruiz\n  given-names: Angela Carolina\n  orcid: \"https://orcid.org/0009-0009-1705-763X\"\n- family-names: Torres-Arellano\n  given-names: Jos\u00e9 M.\n  orcid: \"https://orcid.org/0000-0003-4632-2243\"\ncontact:\n- family-names: Quirarte-Justo\n  given-names: Sebastian\n  orcid: \"https://orcid.org/0009-0004-2730-4343\"\ndoi: 10.5281/zenodo.20596378\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Quirarte-Justo\n    given-names: Sebastian\n    orcid: \"https://orcid.org/0009-0004-2730-4343\"\n  - family-names: Monta\u00f1o-Ruiz\n    given-names: Angela Carolina\n    orcid: \"https://orcid.org/0009-0009-1705-763X\"\n  - family-names: Torres-Arellano\n    given-names: Jos\u00e9 M.\n    orcid: \"https://orcid.org/0000-0003-4632-2243\"\n  date-published: 2026-06-24\n  doi: 10.21105/joss.10317\n  issn: 2475-9066\n  issue: 122\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 10317\n  title: \"biostats: Biostatistics and Clinical Data Analysis in R\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.10317\"\n  volume: 11\ntitle: \"biostats: Biostatistics and Clinical Data Analysis in R\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "pnnl/ConStrain",
+ "joss_doi": "10.21105/joss.08083",
+ "joss_title": "Control Strainer (ConStrain): a data-driven control verification framework",
+ "joss_published": "2026-06-30T21:15:40.462Z",
+ "software_repository": "https://github.com/pnnl/ConStrain",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle: ConStrain\nmessage: >-\n  If you use this software, please cite it using the\n  metadata from this file.\ntype: software\nauthors:\n  - given-names: Xuechen\n    family-names: Lei\n    email: xuechen.lei@pnnl.gov\n    affiliation: Pacific Northwest National Laboratory\n    orcid: 'https://orcid.org/0000-0003-3310-9750'\n  - given-names: Jeremy\n    family-names: Lerond\n    email: jeremy.lerond@pnnl.gov\n    affiliation: Pacific Northwest National Laboratory\n    orcid: 'https://orcid.org/0000-0002-1630-6886'\n  - given-names: Yun Joon\n    family-names: Jung\n    orcid: 'https://orcid.org/0000-0003-1311-8932'\n    affiliation: Pacific Northwest National Laboratory\n    email: yunjoon.jung@pnnl.gov\n  - given-names: Yan\n    family-names: Chen\n    email: yan.chen@pnnl.gov\n    affiliation: Pacific Northwest National Laboratory\n    orcid: 'https://orcid.org/0000-0002-2988-9136'\nidentifiers:\n  - type: url\n    value: 'https://github.com/github/ConStrain'\nrepository-code: 'https://github.com/github/ConStrain'\nurl: 'https://pnnl.github.io/ConStrain/'\nabstract: >-\n  Control Strainer (ConStrain): A Data-driven Control\n  Performance Verification Framework (formally known as\n  ANIMATE)\nlicense: BSD-2-Clause\ncommit: 7f1798889b07e02cd126549e1c8ae5b1c89f24cd\nversion: 0.8.0\ndate-released: '2026-05-05'\n"
+}

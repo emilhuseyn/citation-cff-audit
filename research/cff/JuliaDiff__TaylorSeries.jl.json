@@ -1,0 +1,9 @@
+{
+ "repo": "JuliaDiff/TaylorSeries.jl",
+ "joss_doi": "10.21105/joss.01043",
+ "joss_title": "TaylorSeries.jl: Taylor expansions in one and several variables in Julia",
+ "joss_published": "2019-04-07T14:52:46.876Z",
+ "software_repository": "https://github.com/JuliaDiff/TaylorSeries.jl",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite both the article from preferred-citation and the software itself.\"\nauthors:\n- family-names: \"Benet\"\n  given-names: \"Luis\"\n  orcid: \"https://orcid.org/0000-0002-8470-9054\"\n- family-names: \"Sanders\"\n  given-names: \"David P.\"\n  orcid: \"https://orcid.org/0000-0001-5593-1564\"\ntitle: \"TaylorSeries.jl\"\ntype: software\nversion: 0.11.2\ndate-released: \"2021-06-25\"\nidentifiers:\n  - description: The concept DOI of the software (cite all versions)\n    type: doi\n    value: \"10.5281/zenodo.2601941\"\n  - description: The versioned DOI for version 0.11.2 of the software\n    type: doi\n    value: \"10.5281/zenodo.5032862\"\nlicense: \"MIT\"\nrepository-code: \"https://github.com/JuliaDiff/TaylorSeries.jl\"\npreferred-citation:\n  authors:\n    - family-names: \"Benet\"\n      given-names: \"Luis\"\n      orcid: \"https://orcid.org/0000-0002-8470-9054\"\n    - family-names: \"Sanders\"\n      given-names: \"David P.\"\n      orcid: \"https://orcid.org/0000-0001-5593-1564\"\n  title: \"TaylorSeries.jl: Taylor expansions in one and several variables in Julia\"\n  type: article\n  doi: \"10.5281/zenodo.2601941\"\n  journal: \"Journal of Open Source Software\"\n  start: 1\n  end: 4\n  pages: 4\n  volume: 4\n  issue: 36\n  year: 2019\n"
+}

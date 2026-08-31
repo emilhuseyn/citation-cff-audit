@@ -1,0 +1,9 @@
+{
+ "repo": "Patrick-Cole/pygmi",
+ "joss_doi": "10.21105/joss.07019",
+ "joss_title": "PyGMI - a python package for geoscience modelling and interpretation",
+ "joss_published": "2025-07-08T18:30:02.866Z",
+ "software_repository": "https://github.com/Patrick-Cole/pygmi",
+ "status": 200,
+ "cff": "# This CITATION.cff file was generated with cffinit.\n# Visit https://bit.ly/cffinit to generate yours today!\n\ncff-version: 1.2.0\ntitle: PyGMI\nmessage: >-\n  If you use this software, please cite it using the\n  metadata from this file.\ntype: software\nauthors:\n  - given-names: Patrick\n    family-names: Cole\n    name-particle: Patrick\n    email: pcole@geoscience.org.za\n    affiliation: Council for Geoscience\n    orcid: 'https://orcid.org/0000-0002-3563-8704'\nrepository-code: 'https://github.com/Patrick-Cole/pygmi'\nurl: 'https://patrick-cole.github.io/pygmi/'\nabstract: >-\n  PyGMI stands for Python Geoscience Modelling and\n  Interpretation. It is a modelling and interpretation suite\n  aimed at magnetic, gravity and other datasets.\nkeywords:\n  - geophysics\n  - remote-sensing\nlicense: GPL-3.0\npreferred-citation:\n  type: conference-paper\n  authors:\n  - family-names: \"Cole\"\n    given-names: \"Patrick\"\n    orcid: \"https://orcid.org/0000-0002-3563-8704\"\n  month: 7\n  title: \"The history and design behind the Python Geophysical Modelling and Interpretation (PyGMI) package\"\n  conference:\n    name: \"SciPy 2014: 13th Python in Science Conference\"\n  collection-title: \"SciPy 2014: 13th Python in Science Conference, Austin, Texas\"\n  year: 2014\n"
+}

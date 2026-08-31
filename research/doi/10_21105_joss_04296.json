@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.04296",
+ "source": "crossref",
+ "state": "ok",
+ "title": "Pyrodigal: Python bindings and interface to Prodigal,\nan efficient method for gene prediction in prokaryotes",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "althonos/pyrodigal",
+ "joss_doi": "10.21105/joss.04296",
+ "joss_title": "Pyrodigal: Python bindings and interface to Prodigal, an efficient method for gene prediction in prokaryotes",
+ "joss_published": "2022-04-25T13:43:17.621Z",
+ "software_repository": "https://github.com/althonos/pyrodigal/",
+ "status": 200,
+ "cff": "# This CITATION.cff file was generated with cffinit.\n# Visit https://bit.ly/cffinit to generate yours today!\n\ncff-version: 1.2.0\ntitle: >-\n  Pyrodigal: Python bindings and interface to\n  Prodigal, an efficient method for gene prediction\n  in prokaryotes\nmessage: Please cite this software using these metadata.\ntype: software\nauthors:\n  - given-names: Martin\n    family-names: Larralde\n    email: martin.larralde@embl.de\n    affiliation: European Molecular Biology Laboratory\n    orcid: 'https://orcid.org/0000-0002-3947-4444'\nidentifiers:\n  - type: doi\n    value: 10.21105/joss.04296\n    description: JOSS paper\nrepository-code: 'https://github.com/althonos/pyrodigal'\nurl: 'https://pyrodigal.readthedocs.io'\nkeywords:\n  - orf-finder\n  - gene\nlicense: GPL-3.0-or-later\npreferred-citation:\n  type: article\n  authors:\n  - given-names: Martin\n    family-names: Larralde\n    email: martin.larralde@embl.de\n    affiliation: European Molecular Biology Laboratory\n    orcid: 'https://orcid.org/0000-0002-3947-4444'\n  doi: 10.21105/joss.04296\n  journal: \"Journal of Open Source Software\"\n  month: 4\n  start: 4296\n  end: 4296\n  title: \"Pyrodigal: Python bindings and interface to Prodigal, an efficient method for gene prediction in prokaryotes\"\n  issue: 72\n  volume: 7\n  year: 2022\n  \n"
+}

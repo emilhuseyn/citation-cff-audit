@@ -1,0 +1,9 @@
+{
+ "repo": "mad-lab-fau/imucal",
+ "joss_doi": "10.21105/joss.04338",
+ "joss_title": "imucal - A Python library to calibrate 6 DOF IMUs",
+ "joss_published": "2022-05-26T04:18:10.103Z",
+ "software_repository": "https://github.com/mad-lab-fau/imucal",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"K\u00fcderle\"\n  given-names: \"Arne\"\n  orcid: \"https://orcid.org/0000-0002-5686-281X\"\n- family-names: \"Roth\"\n  given-names: \"Nils\"\n  orcid: \"https://orcid.org/0000-0002-9166-3920\"\n- family-names: \"Richer\"\n  given-names: \"Robert\"\n  orcid: \"https://orcid.org/0000-0003-0272-5403\"\n- family-names: \"Eskofier\"\n  given-names: \"Bjoern M.\"\n  orcid: \"https://orcid.org/0000-0002-0417-0336\"\ntitle: \"imucal - A Python library to calibrate 6 DOF IMUs\"\nversion: 2.0.2\ndoi: 10.17605/OSF.IO/37TD9\nurl: \"https://github.com/mad-lab-fau/imucal\"\n\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"K\u00fcderle\"\n    given-names: \"Arne\"\n    orcid: \"https://orcid.org/0000-0002-5686-281X\"\n  - family-names: \"Roth\"\n    given-names: \"Nils\"\n    orcid: \"https://orcid.org/0000-0002-9166-3920\"\n  - family-names: \"Richer\"\n    given-names: \"Robert\"\n    orcid: \"https://orcid.org/0000-0003-0272-5403\"\n  - family-names: \"Eskofier\"\n    given-names: \"Bjoern M.\"\n    orcid: \"https://orcid.org/0000-0002-0417-0336\"\n  doi: 10.21105/joss.04338\n  journal: \"Journal of Open Source Software\"\n  start: 4338\n  title: \"imucal - A Python library to calibrate 6 DOF IMUs\"\n  issue: 73\n  volume: 7\n  year: 2022\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "Valires/er-evaluation",
+ "joss_doi": "10.21105/joss.05619",
+ "joss_title": "ER-Evaluation: End-to-End Evaluation of Entity Resolution Systems",
+ "joss_published": "2023-11-11T03:36:29.327Z",
+ "software_repository": "https://github.com/Valires/er-evaluation",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Binette\n  given-names: Olivier\n  orcid: \"https://orcid.org/0000-0001-6009-5206\"\n- family-names: Reiter\n  given-names: Jerome P.\n  orcid: \"https://orcid.org/0000-0002-8374-3832\"\ncontact:\n- family-names: Binette\n  given-names: Olivier\n  orcid: \"https://orcid.org/0000-0001-6009-5206\"\ndoi: 10.5281/zenodo.10086102\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Binette\n    given-names: Olivier\n    orcid: \"https://orcid.org/0000-0001-6009-5206\"\n  - family-names: Reiter\n    given-names: Jerome P.\n    orcid: \"https://orcid.org/0000-0002-8374-3832\"\n  date-published: 2023-11-11\n  doi: 10.21105/joss.05619\n  issn: 2475-9066\n  issue: 91\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5619\n  title: \"ER-Evaluation: End-to-End Evaluation of Entity Resolution\n    Systems\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05619\"\n  volume: 8\ntitle: \"ER-Evaluation: End-to-End Evaluation of Entity Resolution\n  Systems\"\n"
+}

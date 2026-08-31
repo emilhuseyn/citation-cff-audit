@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.dtplyr",
+ "source": "crossref",
+ "state": "ok",
+ "title": "dtplyr: Data Table Back-End for 'dplyr'",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "QEC-pages/QDistRnd",
+ "joss_doi": "10.21105/joss.04120",
+ "joss_title": "QDistRnd: A GAP package for computing the distance of quantum error-correcting codes",
+ "joss_published": "2022-03-22T19:48:42.229Z",
+ "software_repository": "https://github.com/QEC-pages/QDistRnd/",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Pryadko\n    given-names: \"Leonid P.\"\n    orcid: https://orcid.org/0000-0002-4990-0259\n  - family-names: Shabashov\n    given-names: \"V. A.\"\n  - family-names: Kozin\n    given-names: \"V. K.\"\ntitle: \"QDistRnd: Calculate the distance of a q-ary quantum stabilizer code\"\nversion: v0.9.5\ndate-released: 2024-11-20\nrepository-code: \"https://github.com/QEC-pages/QDistRnd\"\nurl: \"https://QEC-pages.github.io/QDistRnd/\"\nkeywords:\n  - QECC\n  - \"quantum code\"\n  - \"stabilizer code\"\n  - \"quantum error correcting code\"\n  - \"minimal distance\"\n  - \"GAP package\"\nlicense:\n  - GPL-2.0-or-later\n "
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "seisman/HinetPy",
+ "joss_doi": "10.21105/joss.06840",
+ "joss_title": "HinetPy: A Python package for accessing and processing NIED Hi-net seismic data",
+ "joss_published": "2024-06-25T15:31:02.757Z",
+ "software_repository": "https://github.com/seisman/HinetPy",
+ "status": 200,
+ "cff": "# YAML 1.2\n# Metadata for citation of this software according to the CFF format (https://citation-file-format.github.io/)\ncff-version: \"1.2.0\"\nmessage: If you use this software, please cite our article in the Journal of Open Source Software.\ntitle: \"HinetPy: A Python package for accessing and processing NIED Hi-net seismic data\"\nauthors:\n- family-names: Tian\n  given-names: Dongdong\n  orcid: \"https://orcid.org/0000-0001-7967-1197\"\ntype: software\nlicense: MIT\nrepository-code: \"https://github.com/seisman/HinetPy\"\npreferred-citation:\n  title: \"HinetPy: A Python package for accessing and processing NIED Hi-net seismic data\"\n  authors:\n  - family-names: Tian\n    given-names: Dongdong\n    orcid: \"https://orcid.org/0000-0001-7967-1197\"\n  date-published: 2024-06-25\n  doi: 10.21105/joss.06840\n  volume: 9\n  issue: 98\n  start: 6840\n  journal: Journal of Open Source Software\n  issn: 2475-9066\n  publisher:\n    name: Open Journals\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06840\"\n"
+}

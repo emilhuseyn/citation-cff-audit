@@ -1,0 +1,9 @@
+{
+ "repo": "mathLab/PINA",
+ "joss_doi": "10.21105/joss.05352",
+ "joss_title": "Physics-Informed Neural networks for Advanced modeling",
+ "joss_published": "2023-07-19T17:41:02.862Z",
+ "software_repository": "https://github.com/mathLab/PINA",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Coscia\n  given-names: Dario\n  orcid: \"https://orcid.org/0000-0001-8833-6833\"\n- family-names: Ivagnes\n  given-names: Anna\n  orcid: \"https://orcid.org/0000-0002-2369-4493\"\n- family-names: Demo\n  given-names: Nicola\n  orcid: \"https://orcid.org/0000-0003-3107-9738\"\n- family-names: Rozza\n  given-names: Gianluigi\n  orcid: \"https://orcid.org/0000-0002-0810-8812\"\ndoi: 10.5281/zenodo.8163732\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Coscia\n    given-names: Dario\n    orcid: \"https://orcid.org/0000-0001-8833-6833\"\n  - family-names: Ivagnes\n    given-names: Anna\n    orcid: \"https://orcid.org/0000-0002-2369-4493\"\n  - family-names: Demo\n    given-names: Nicola\n    orcid: \"https://orcid.org/0000-0003-3107-9738\"\n  - family-names: Rozza\n    given-names: Gianluigi\n    orcid: \"https://orcid.org/0000-0002-0810-8812\"\n  date-published: 2023-07-19\n  doi: 10.21105/joss.05352\n  issn: 2475-9066\n  issue: 87\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5352\n  title: Physics-Informed Neural networks for Advanced modeling\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05352\"\n  volume: 8\ntitle: Physics-Informed Neural networks for Advanced modeling\n"
+}

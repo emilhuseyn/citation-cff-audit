@@ -1,0 +1,9 @@
+{
+ "repo": "PatrickJTaylor/pengWann",
+ "joss_doi": "10.21105/joss.07890",
+ "joss_title": "pengWann: Descriptors of chemical bonding from Wannier functions",
+ "joss_published": "2025-04-28T09:00:21.551Z",
+ "software_repository": "https://github.com/PatrickJTaylor/pengWann",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Taylor\n  given-names: Patrick J.\n  orcid: \"https://orcid.org/0009-0003-6511-6442\"\n- family-names: Morgan\n  given-names: Benjamin J.\n  orcid: \"https://orcid.org/0000-0002-3056-8233\"\ndoi: 10.5281/zenodo.15238442\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Taylor\n    given-names: Patrick J.\n    orcid: \"https://orcid.org/0009-0003-6511-6442\"\n  - family-names: Morgan\n    given-names: Benjamin J.\n    orcid: \"https://orcid.org/0000-0002-3056-8233\"\n  date-published: 2025-04-28\n  doi: 10.21105/joss.07890\n  issn: 2475-9066\n  issue: 108\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7890\n  title: \"pengWann: Descriptors of chemical bonding from Wannier\n    functions\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07890\"\n  volume: 10\ntitle: \"pengWann: Descriptors of chemical bonding from Wannier\n  functions\"\n"
+}

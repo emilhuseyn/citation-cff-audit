@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.14624991",
+ "source": "datacite",
+ "state": "ok",
+ "title": "ExpFamilyPCA.jl: A Julia Package for Exponential Family Principal Component Analysis",
+ "type": "Software",
+ "container": ""
+}

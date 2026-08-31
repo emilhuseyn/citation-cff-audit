@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.05663",
+ "source": "crossref",
+ "state": "ok",
+ "title": "samgeo: A Python package for segmenting geospatial data\nwith the Segment Anything Model (SAM)",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

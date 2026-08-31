@@ -1,0 +1,9 @@
+{
+ "repo": "anderslogg/geco",
+ "joss_doi": "10.21105/joss.05979",
+ "joss_title": "GECo: A collection of solvers for the self-gravitating Vlasov equations",
+ "joss_published": "2023-12-11T16:32:10.709Z",
+ "software_repository": "https://github.com/anderslogg/geco",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Ames\n  given-names: Ellery\n  orcid: \"https://orcid.org/0000-0001-9444-585X\"\n- family-names: Logg\n  given-names: Anders\n  orcid: \"https://orcid.org/0000-0002-1547-4773\"\ndoi: 10.5281/zenodo.10351519\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Ames\n    given-names: Ellery\n    orcid: \"https://orcid.org/0000-0001-9444-585X\"\n  - family-names: Logg\n    given-names: Anders\n    orcid: \"https://orcid.org/0000-0002-1547-4773\"\n  date-published: 2023-12-11\n  doi: 10.21105/joss.05979\n  issn: 2475-9066\n  issue: 92\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5979\n  title: \"GECo: A collection of solvers for the self-gravitating Vlasov\n    equations\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05979\"\n  volume: 8\ntitle: \"GECo: A collection of solvers for the self-gravitating Vlasov\n  equations\"\n"
+}

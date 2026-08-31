@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.shinycssloaders",
+ "source": "crossref",
+ "state": "ok",
+ "title": "shinycssloaders: Add Loading Animations to a 'shiny' Output While It's Recalculating",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

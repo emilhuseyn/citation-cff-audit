@@ -1,0 +1,9 @@
+{
+ "repo": "Aminsinichi/wearable-hrv",
+ "joss_doi": "10.21105/joss.06240",
+ "joss_title": "WearableHRV: A Python package for the validation of heart rate and heart rate variability in wearables",
+ "joss_published": "2024-08-26T10:35:56.920Z",
+ "software_repository": "https://github.com/Aminsinichi/wearable-hrv/",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Sinichi\n  given-names: Mohammadamin\n  orcid: \"https://orcid.org/0009-0008-2491-1542\"\n- family-names: Gevonden\n  given-names: Martin\n- family-names: Krabbendam\n  given-names: Lydia\n  orcid: \"https://orcid.org/0000-0003-4074-5149\"\ncontact:\n- family-names: Sinichi\n  given-names: Mohammadamin\n  orcid: \"https://orcid.org/0009-0008-2491-1542\"\ndoi: 10.5281/zenodo.12917981\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Sinichi\n    given-names: Mohammadamin\n    orcid: \"https://orcid.org/0009-0008-2491-1542\"\n  - family-names: Gevonden\n    given-names: Martin\n  - family-names: Krabbendam\n    given-names: Lydia\n    orcid: \"https://orcid.org/0000-0003-4074-5149\"\n  date-published: 2024-08-26\n  doi: 10.21105/joss.06240\n  issn: 2475-9066\n  issue: 100\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6240\n  title: \"WearableHRV: A Python package for the validation of heart rate\n    and heart rate variability in wearables\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06240\"\n  volume: 9\ntitle: \"WearableHRV: A Python package for the validation of heart rate\n  and heart rate variability in wearables\"\n"
+}

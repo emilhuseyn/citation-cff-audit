@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.10819242",
+ "source": "datacite",
+ "state": "ok",
+ "title": "Automatic Computation for Robot Design (ACRoD): A Python package for numerical calculation of Jacobian of a robot at a given configuration around a specified end-effector point",
+ "type": "Software",
+ "container": ""
+}

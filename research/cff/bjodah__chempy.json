@@ -1,0 +1,9 @@
+{
+ "repo": "bjodah/chempy",
+ "joss_doi": "10.21105/joss.00565",
+ "joss_title": "ChemPy: A package useful for chemistry written in Python",
+ "joss_published": "2018-04-04T18:34:28.206Z",
+ "software_repository": "https://github.com/bjodah/chempy",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Dahlgren\"\n  given-names: \"Bj\u00f6rn\"\n  orcid: \"https://orcid.org/0000-0003-0596-0222\"\ntitle: \"ChemPy\"\nversion: 0.8.2\nurl: \"https://github.com/bjodah/chempy\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Dahlgren\"\n    given-names: \"Bj\u00f6rn\"\n    orcid: \"https://orcid.org/0000-0003-0596-0222\"\n  doi: \"10.21105/joss.00565\"\n  journal: \"Journal of Open Source Software\"\n  title: \"ChemPy: A package useful for chemistry written in Python\"\n  date-released: \"2018-04-04\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "cvs-health/langfair",
+ "joss_doi": "10.21105/joss.07570",
+ "joss_title": "LangFair: A Python Package for Assessing Bias and Fairness in Large Language Model Use Cases",
+ "joss_published": "2025-01-23T15:21:42.552Z",
+ "software_repository": "https://github.com/cvs-health/langfair",
+ "status": 404,
+ "cff": null
+}

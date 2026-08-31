@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.18189906",
+ "source": "datacite",
+ "state": "ok",
+ "title": "pythainer: composable and reusable Docker builders and runners for reproducible research",
+ "type": "Software",
+ "container": ""
+}

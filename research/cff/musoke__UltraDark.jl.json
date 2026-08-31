@@ -1,0 +1,9 @@
+{
+ "repo": "musoke/UltraDark.jl",
+ "joss_doi": "10.21105/joss.06035",
+ "joss_title": "UltraDark.jl: A Julia package for simulation of cosmological scalar fields",
+ "joss_published": "2024-04-17T15:10:23.374Z",
+ "software_repository": "https://github.com/musoke/UltraDark.jl",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle: UltraDark.jl\nmessage: >-\n  If you use this software, please cite our article in the Journal of Open\n  Source Software.\ntype: software\nauthors:\n  - given-names: Nathan\n    family-names: Musoke\n    email: nathan.musoke@gmail.com\n    orcid: 'https://orcid.org/0000-0001-9839-9256'\nidentifiers:\n  - type: doi\n    value: 10.5281/zenodo.5033655\n    description: concept DOI\nrepository-code: 'https://github.com/musoke/UltraDark.jl'\nkeywords:\n  - cosmology\n  - dark matter\n  - scalar dark matter\n  - ultralight dark matter\n  - inflation\nlicense: MIT\n\npreferred-citation:\n  authors:\n  - family-names: Musoke\n    given-names: Nathan\n    orcid: \"https://orcid.org/0000-0001-9839-9256\"\n  date-published: 2024-04-17\n  doi: 10.21105/joss.06035\n  identifiers:\n    - type: other\n      value: \"arXiv:2405.04593\"\n      description: The ArXiv preprint of the paper\n  issn: 2475-9066\n  issue: 96\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6035\n  title: \"UltraDark.jl: A Julia package for simulation of cosmological\n    scalar fields\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06035\"\n  volume: 9\n"
+}

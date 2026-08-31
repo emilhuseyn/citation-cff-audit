@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.7026548",
+ "source": "datacite",
+ "state": "ok",
+ "title": "A python package for retrieving wind profiles from Doppler lidar observations",
+ "type": "Software",
+ "container": ""
+}

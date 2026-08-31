@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.10044601",
+ "source": "datacite",
+ "state": "ok",
+ "title": "JetNet: A Python package for accessing open datasets and benchmarking machine learning methods in high energy physics",
+ "type": "Software",
+ "container": ""
+}

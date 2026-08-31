@@ -1,0 +1,9 @@
+{
+ "repo": "ERC-INJECT/solve_nivp",
+ "joss_doi": "10.21105/joss.09775",
+ "joss_title": "solve_nivp: A Python toolkit for integrating nonsmooth dynamical systems",
+ "joss_published": "2026-03-16T12:58:05.643Z",
+ "software_repository": "https://github.com/ERC-INJECT/solve_nivp",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\ntitle: \"solve_nivp: A Python toolkit for integrating nonsmooth dynamical systems\"\nversion: 0.1.1\nauthors:\n  - family-names: Riley\n    given-names: David Michael\n    orcid: \"https://orcid.org/0000-0002-5463-5357\"\n  - family-names: Stefanou\n    given-names: Ioannis\n    orcid: \"https://orcid.org/0000-0002-4552-7717\"\nrepository-code: \"https://github.com/ERC-INJECT/solve_nivp\"\nlicense: MIT\nkeywords:\n  - nonsmooth dynamics\n  - ODE\n  - DAE\n  - variational inequalities\n  - semismooth Newton\n  - projection methods\nmessage: \"If you use this software, please cite it as below.\"\n"
+}

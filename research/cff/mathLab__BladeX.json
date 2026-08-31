@@ -1,0 +1,9 @@
+{
+ "repo": "mathLab/BladeX",
+ "joss_doi": "10.21105/joss.01203",
+ "joss_title": "BladeX: Python Blade Morphing",
+ "joss_published": "2019-02-04T18:30:41.532Z",
+ "software_repository": "https://github.com/mathLab/BladeX",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Gadalla\"\n  given-names: \"Mahmoud\"\n  orcid: \"https://orcid.org/0000-0001-9507-9468\"\n- family-names: \"Tezzele\"\n  given-names: \"Marco\"\n  orcid: \"https://orcid.org/0000-0001-9747-6328\"\n- family-names: \"Mola\"\n  given-names: \"Andrea\"\n  orcid: \"https://orcid.org/0000-0002-4483-0212\"\n- family-names: \"Rozza\"\n  given-names: \"Gianluigi\"\n  orcid: \"https://orcid.org/0000-0002-0810-8812\"\ntitle: \"BladeX: Python Blade Morphing\"\nversion: 0.1\ndoi: 10.21105/joss.01203\ndate-released: 2019-02-4\nurl: \"https://github.com/mathLab/BladeX\"\n"
+}

@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.fs",
+ "source": "crossref",
+ "state": "ok",
+ "title": "fs: Cross-Platform File System Operations Based on 'libuv'",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

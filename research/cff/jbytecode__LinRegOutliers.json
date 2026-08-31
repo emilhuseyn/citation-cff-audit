@@ -1,0 +1,9 @@
+{
+ "repo": "jbytecode/LinRegOutliers",
+ "joss_doi": "10.21105/joss.02892",
+ "joss_title": "LinRegOutliers: A Julia package for detecting outliers in linear regression",
+ "joss_published": "2021-01-05T11:31:37.395Z",
+ "software_repository": "https://github.com/jbytecode/LinRegOutliers",
+ "status": 404,
+ "cff": null
+}

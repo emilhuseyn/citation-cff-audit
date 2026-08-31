@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.18313585",
+ "source": "datacite",
+ "state": "ok",
+ "title": "torch_blue: A Flexible Python Package for Bayesian Neural Networks in PyTorch",
+ "type": "Software",
+ "container": ""
+}

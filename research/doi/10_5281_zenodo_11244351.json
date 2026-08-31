@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.11244351",
+ "source": "datacite",
+ "state": "ok",
+ "title": "Pybehave: a hardware agnostic, Python-based framework for controlling behavioral neuroscience experiments",
+ "type": "Software",
+ "container": ""
+}

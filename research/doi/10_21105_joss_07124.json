@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.07124",
+ "source": "crossref",
+ "state": "ok",
+ "title": "kifmm-rs: A Kernel-Independent Fast Multipole Framework in Rust",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

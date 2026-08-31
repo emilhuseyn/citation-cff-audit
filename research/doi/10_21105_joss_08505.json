@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.08505",
+ "source": "crossref",
+ "state": "ok",
+ "title": "smolyax: a high-performance implementation of the Smolyak interpolation operator in JAX",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

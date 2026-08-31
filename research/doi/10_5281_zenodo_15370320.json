@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.15370320",
+ "source": "datacite",
+ "state": "ok",
+ "title": "ez-zarr: A Python package for easy access and visualisation of OME-Zarr filesets",
+ "type": "Software",
+ "container": ""
+}

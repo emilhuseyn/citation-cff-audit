@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.4655145",
+ "source": "datacite",
+ "state": "ok",
+ "title": "DCISolver.jl: A Julia Solver for Nonlinear Optimization using Dynamic Control of Infeasibility",
+ "type": "Software",
+ "container": ""
+}

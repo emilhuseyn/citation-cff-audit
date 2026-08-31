@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.6652672",
+ "source": "datacite",
+ "state": "ok",
+ "title": "Copulas.jl: A fully Distributions.jl-compliant copula package",
+ "type": "Software",
+ "container": ""
+}

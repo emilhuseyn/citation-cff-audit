@@ -1,0 +1,9 @@
+{
+ "repo": "cumbof/hdlib",
+ "joss_doi": "10.21105/joss.05704",
+ "joss_title": "hdlib: A Python library for designing Vector-Symbolic Architectures",
+ "joss_published": "2023-09-11T14:11:18.694Z",
+ "software_repository": "https://github.com/cumbof/hdlib",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n  - family-names: Cumbo\n    given-names: Fabio\n    orcid: https://orcid.org/0000-0003-2920-5838\ntitle: \"cumbof/hdlib: hdlib v0.1.18\"\nversion: 0.1.18\ndate-released: 2024-08-16\nurl: https://github.com/cumbof/hdlib\n"
+}

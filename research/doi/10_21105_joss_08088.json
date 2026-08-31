@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.08088",
+ "source": "crossref",
+ "state": "ok",
+ "title": "MNE-LSL: Real-time framework integrated with MNE-Python for online neuroscience research through LSL-compatible devices.",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

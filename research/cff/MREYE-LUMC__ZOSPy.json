@@ -1,0 +1,9 @@
+{
+ "repo": "MREYE-LUMC/ZOSPy",
+ "joss_doi": "10.21105/joss.05756",
+ "joss_title": "ZOSPy: optical ray tracing in Python through OpticStudio",
+ "joss_published": "2024-04-04T08:39:11.951Z",
+ "software_repository": "https://github.com/MREYE-LUMC/ZOSPy",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Vught\n  given-names: Luc\n  name-particle: van\n  orcid: \"https://orcid.org/0000-0001-8290-9071\"\n- family-names: Haasjes\n  given-names: Corn\u00e9\n  orcid: \"https://orcid.org/0000-0003-0187-4116\"\n- family-names: Beenakker\n  given-names: Jan-Willem M.\n  orcid: \"https://orcid.org/0000-0003-0479-5587\"\ncontact:\n- family-names: Vught\n  given-names: Luc\n  name-particle: van\n  orcid: \"https://orcid.org/0000-0001-8290-9071\"\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Vught\n    given-names: Luc\n    name-particle: van\n    orcid: \"https://orcid.org/0000-0001-8290-9071\"\n  - family-names: Haasjes\n    given-names: Corn\u00e9\n    orcid: \"https://orcid.org/0000-0003-0187-4116\"\n  - family-names: Beenakker\n    given-names: Jan-Willem M.\n    orcid: \"https://orcid.org/0000-0003-0479-5587\"\n  date-published: 2024-04-04\n  doi: 10.21105/joss.05756\n  issn: 2475-9066\n  issue: 96\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5756\n  title: \"ZOSPy: optical ray tracing in Python through OpticStudio\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05756\"\n  volume: 9\ntitle: \"ZOSPy: optical ray tracing in Python through OpticStudio\"\nrepository-code: 'https://github.com/MREYE-LUMC/ZOSPy'\nlicense: MIT\n"
+}

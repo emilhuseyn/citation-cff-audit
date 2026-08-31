@@ -1,0 +1,9 @@
+{
+ "repo": "silvandeleemput/memcnn",
+ "joss_doi": "10.21105/joss.01576",
+ "joss_title": "MemCNN: A Python/PyTorch package for creating memory-efficient invertible neural networks",
+ "joss_published": "2019-07-30T16:20:45.685Z",
+ "software_repository": "https://github.com/silvandeleemput/memcnn",
+ "status": 404,
+ "cff": null
+}

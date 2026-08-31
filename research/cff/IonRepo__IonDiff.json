@@ -1,0 +1,9 @@
+{
+ "repo": "IonRepo/IonDiff",
+ "joss_doi": "10.21105/joss.06616",
+ "joss_title": "IonDiff: command-line tool to identify ionic diffusion events and hopping correlations in molecular dynamics simulations",
+ "joss_published": "2024-07-30T07:30:59.149Z",
+ "software_repository": "https://github.com/IonRepo/IonDiff",
+ "status": 404,
+ "cff": null
+}

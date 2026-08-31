@@ -1,0 +1,9 @@
+{
+ "repo": "mad-lab-fau/tpcp",
+ "joss_doi": "10.21105/joss.04953",
+ "joss_title": "tpcp: Tiny Pipelines for Complex Problems - A set of framework independent helpers for algorithms development and evaluation",
+ "joss_published": "2023-02-13T13:47:30.938Z",
+ "software_repository": "https://github.com/mad-lab-fau/tpcp/",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"K\u00fcderle\"\n  given-names: \"Arne\"\n  orcid: \"https://orcid.org/0000-0002-5686-281X\"\n- family-names: \"Richer\"\n  given-names: \"Robert\"\n  orcid: \"https://orcid.org/0000-0003-0272-5403\"\n- family-names: \"S\u00eempetru\"\n  given-names: \"Raul C.\"\n  orcid: \"https://orcid.org/0000-0003-0455-0168\"\n- family-names: \"Eskofier\"\n  given-names: \"Bjoern M.\"\n  orcid: \"https://orcid.org/0000-0002-0417-0336\"\ntitle: \"tpcp: Tiny Pipelines for Complex Problems - A set of framework independent helpers for algorithms development and evaluation\"\nversion: 0.13.0\ndoi: 10.17605/OSF.IO/GKY2U\nurl: \"https://github.com/mad-lab-fau/tpcp\"\n\npreferred-citation:\n  type: article\n  authors:\n    - family-names: \"K\u00fcderle\"\n      given-names: \"Arne\"\n      orcid: \"https://orcid.org/0000-0002-5686-281X\"\n    - family-names: \"Richer\"\n      given-names: \"Robert\"\n      orcid: \"https://orcid.org/0000-0003-0272-5403\"\n    - family-names: \"S\u00eempetru\"\n      given-names: \"Raul C.\"\n      orcid: \"https://orcid.org/0000-0003-0455-0168\"\n    - family-names: \"Eskofier\"\n      given-names: \"Bjoern M.\"\n      orcid: \"https://orcid.org/0000-0002-0417-0336\"\n  doi: 10.21105/joss.04953\n  journal: \"Journal of Open Source Software\"\n  start: 4953\n  title: \"tpcp: Tiny Pipelines for Complex Problems - A set of framework independent helpers for algorithms development and evaluation\"\n  issue: 82\n  volume: 8\n  year: 2023"
+}

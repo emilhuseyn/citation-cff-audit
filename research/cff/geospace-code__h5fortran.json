@@ -1,0 +1,9 @@
+{
+ "repo": "geospace-code/h5fortran",
+ "joss_doi": "10.21105/joss.02842",
+ "joss_title": "h5fortran: object-oriented polymorphic Fortran interface for HDF5 file IO",
+ "joss_published": "2021-06-25T23:31:25.613Z",
+ "software_repository": "https://github.com/geospace-code/h5fortran",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nauthors:\n  - family-names: Hirsch\n    given-names: Michael\n    orcid: https://orcid.org/0000-0002-1637-6526\ntitle: h5fortran\ndoi: 10.5281/zenodo.3562521\n"
+}

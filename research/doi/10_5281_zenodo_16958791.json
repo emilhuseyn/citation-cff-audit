@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.16958791",
+ "source": "datacite",
+ "state": "ok",
+ "title": "RustSASA: A Rust Crate for Accelerated Solvent Accessible Surface Area Calculations",
+ "type": "Software",
+ "container": ""
+}

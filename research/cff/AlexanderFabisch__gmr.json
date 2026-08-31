@@ -1,0 +1,9 @@
+{
+ "repo": "AlexanderFabisch/gmr",
+ "joss_doi": "10.21105/joss.03054",
+ "joss_title": "gmr: Gaussian Mixture Regression",
+ "joss_published": "2021-06-06T09:37:22.240Z",
+ "software_repository": "https://github.com/AlexanderFabisch/gmr",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: Fabisch\n  given-names: Alexander\n  orcid: https://orcid.org/0000-0003-2824-7956\ntitle: \"gmr\"\nurl: https://github.com/AlexanderFabisch/gmr\ndoi: 10.5281/zenodo.4449631\npreferred-citation:\n    type: article\n    authors:\n    - family-names: Fabisch\n      given-names: Alexander\n      orcid: https://orcid.org/0000-0003-2824-7956\n    title: \"gmr: Gaussian Mixture Regression\"\n    doi: 10.21105/joss.03054\n    journal: Journal of Open Source Software\n    start: 3054\n    issue: 62\n    volume: 6\n    month: 6\n    year: 2021\n"
+}

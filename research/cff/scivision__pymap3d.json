@@ -1,0 +1,9 @@
+{
+ "repo": "scivision/pymap3d",
+ "joss_doi": "10.21105/joss.00580",
+ "joss_title": "PyMap3D: 3-D coordinate conversions for terrestrial and geospace environments",
+ "joss_published": "2018-03-12T15:36:45.283Z",
+ "software_repository": "https://github.com/scivision/pymap3d",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nauthors:\n  - orcid: 0000-0002-1637-6526\n    name: SciVision\ntitle: PyMap3D\ndoi: 10.21105/joss.00580\n"
+}

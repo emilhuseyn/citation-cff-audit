@@ -1,0 +1,9 @@
+{
+ "repo": "kpeeters/cadabra2",
+ "joss_doi": "10.21105/joss.01118",
+ "joss_title": "Cadabra2: computer algebra for field theory revisited",
+ "joss_published": "2018-12-22T17:05:52.616Z",
+ "software_repository": "https://github.com/kpeeters/cadabra2",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Peeters\"\n  given-names: \"Kasper\"\n  orcid: \"https://orcid.org/0000-0002-3077-8193\"\ntitle: \"My Research Software\"\nversion: 2.0.4\ndoi: 10.5281/zenodo.2500762\ndate-released: 2017-12-18\nurl: \"https://github.com/kpeeters/cadabra2\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Peeters\"\n    given-names: \"Kasper\"\n    orcid: \"https://orcid.org/0000-0002-3077-8193\"\n  doi: doi.org/10.21105/joss.01118\n  journal: \"The Journal of Open Source Software\"\n  start: 1118 # First page number\n  end: 1119 # Last page number\n  title: \"Cadabra2: computer algebra for field theory revisited\"\n  issue: 3\n  volume: 32\n  year: 2018"
+}

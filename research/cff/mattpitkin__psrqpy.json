@@ -1,0 +1,9 @@
+{
+ "repo": "mattpitkin/psrqpy",
+ "joss_doi": "10.21105/joss.00538",
+ "joss_title": "psrqpy: a python interface for querying the ATNF pulsar catalogue",
+ "joss_published": "2018-02-19T17:08:43.605Z",
+ "software_repository": "https://github.com/mattpitkin/psrqpy",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Pitkin\n  given-names: Matthew\n  orcid: \"https://orcid.org/0000-0003-4548-526X\"\ncontact:\n- family-names: Pitkin\n  given-names: Matthew\n  orcid: \"https://orcid.org/0000-0003-4548-526X\"\ndoi: 10.5281/zenodo.1489692\nmessage: If you use this software, please cite my article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Pitkin\n    given-names: Matthew\n    orcid: \"https://orcid.org/0000-0003-4548-526X\"\n  date-published: 2018-02-19\n  doi: 10.21105/joss.00538\n  issn: 2475-9066\n  issue: 22\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 538\n  title: \"psrqpy: a python interface for querying the ATNF pulsar\n    catalogue\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05582\"\n  volume: 3\ntitle: \"psrqpy: a python interface for querying the ATNF pulsar catalogue\""
+}

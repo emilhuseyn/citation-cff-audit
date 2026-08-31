@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.13942954",
+ "source": "datacite",
+ "state": "ok",
+ "title": "py-ananke: a Python pipeline to generate synthetic star catalogs from cosmological simulations",
+ "type": "Software",
+ "container": ""
+}

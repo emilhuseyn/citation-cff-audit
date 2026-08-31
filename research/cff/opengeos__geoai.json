@@ -1,0 +1,9 @@
+{
+ "repo": "opengeos/geoai",
+ "joss_doi": "10.21105/joss.09605",
+ "joss_title": "GeoAI: A Python package for integrating artificial intelligence with geospatial data analysis and visualization",
+ "joss_published": "2026-02-03T21:26:44.872Z",
+ "software_repository": "https://github.com/opengeos/geoai",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Wu\n  given-names: Qiusheng\n  orcid: \"https://orcid.org/0000-0001-5437-4073\"\ndoi: 10.5281/zenodo.18424048\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Wu\n    given-names: Qiusheng\n    orcid: \"https://orcid.org/0000-0001-5437-4073\"\n  date-published: 2026-02-03\n  doi: 10.21105/joss.09605\n  issn: 2475-9066\n  issue: 118\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 9605\n  title: \"GeoAI: A Python package for integrating artificial\n    intelligence with geospatial data analysis and visualization\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.09605\"\n  volume: 11\ntitle: \"GeoAI: A Python package for integrating artificial intelligence\n  with geospatial data analysis and visualization\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "johnsonandjohnson/open_nipals",
+ "joss_doi": "10.21105/joss.08598",
+ "joss_title": "open_nipals: An sklearn-compatible Python package for NIPALS dimensionality reduction",
+ "joss_published": "2026-07-22T15:38:46.200Z",
+ "software_repository": "https://github.com/johnsonandjohnson/open_nipals",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Schlusser\n  given-names: Niels\n  orcid: \"https://orcid.org/0000-0002-3534-2153\"\n- family-names: Wall\n  given-names: Ryan M.\n  orcid: \"https://orcid.org/0000-0003-2051-5899\"\n- family-names: Ochsenbein\n  given-names: David R.\n  orcid: \"https://orcid.org/0000-0001-8066-9561\"\ndoi: 10.5281/zenodo.20560917\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Schlusser\n    given-names: Niels\n    orcid: \"https://orcid.org/0000-0002-3534-2153\"\n  - family-names: Wall\n    given-names: Ryan M.\n    orcid: \"https://orcid.org/0000-0003-2051-5899\"\n  - family-names: Ochsenbein\n    given-names: David R.\n    orcid: \"https://orcid.org/0000-0001-8066-9561\"\n  date-published: 2026-07-22\n  doi: 10.21105/joss.08598\n  issn: 2475-9066\n  issue: 123\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 8598\n  title: \"open_nipals: An sklearn-compatible Python package for NIPALS\n    dimensionality reduction\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.08598\"\n  volume: 11\ntitle: \"open_nipals: An sklearn-compatible Python package for NIPALS\n  dimensionality reduction\"\n"
+}

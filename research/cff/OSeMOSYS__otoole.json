@@ -1,0 +1,9 @@
+{
+ "repo": "OSeMOSYS/otoole",
+ "joss_doi": "10.21105/joss.05511",
+ "joss_title": "otoole: OSeMOSYS Tools for Energy Work",
+ "joss_published": "2023-12-20T13:52:34.511Z",
+ "software_repository": "https://github.com/OSeMOSYS/otoole",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Barnes\n  given-names: Trevor\n  orcid: \"https://orcid.org/0000-0003-2458-2968\"\n- family-names: Usher\n  given-names: Will\n  orcid: \"https://orcid.org/0000-0001-9367-1791\"\ncontact:\n- family-names: Barnes\n  given-names: Trevor\n  orcid: \"https://orcid.org/0000-0003-2458-2968\"\ndoi: 10.5281/zenodo.10360538\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Barnes\n    given-names: Trevor\n    orcid: \"https://orcid.org/0000-0003-2458-2968\"\n  - family-names: Usher\n    given-names: Will\n    orcid: \"https://orcid.org/0000-0001-9367-1791\"\n  date-published: 2023-12-20\n  doi: 10.21105/joss.05511\n  issn: 2475-9066\n  issue: 92\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 5511\n  title: \"otoole: OSeMOSYS Tools for Energy Work\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.05511\"\n  volume: 8\ntitle: \"otoole: OSeMOSYS Tools for Energy Work\"\n"
+}

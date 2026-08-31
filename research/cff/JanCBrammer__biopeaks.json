@@ -1,0 +1,9 @@
+{
+ "repo": "JanCBrammer/biopeaks",
+ "joss_doi": "10.21105/joss.02621",
+ "joss_title": "biopeaks: a graphical user interface for feature extraction from heart- and breathing biosignals",
+ "joss_published": "2020-10-27T20:42:52.664Z",
+ "software_repository": "https://github.com/JanCBrammer/biopeaks",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\r\nmessage: \"You can cite this software as below.\"\r\nauthors:\r\n- family-names: \"Brammer\"\r\n  given-names: \"Jan C.\"\r\n  orcid: \"https://orcid.org/0000-0002-7664-3753\"\r\ntitle: \"biopeaks\"\r\nversion: 1.4.4\r\ndoi: 10.5281/zenodo.3698561\r\ndate-released: 2022-01-04\r\nurl: \"https://github.com/JanCBrammer/biopeaks\"\r\npreferred-citation:\r\n  type: article\r\n  authors:\r\n  - family-names: \"Brammer\"\r\n    given-names: \"Jan C.\"\r\n    orcid: \"https://orcid.org/0000-0002-7664-3753\"\r\n  doi: \"10.21105/joss.02621\"\r\n  journal: \"Journal of Open Source Software\"\r\n  title: \"biopeaks: a graphical user interface for feature extraction from heart- and breathing biosignals\"\r\n  volume: 5\r\n  year: 2020\r\n"
+}

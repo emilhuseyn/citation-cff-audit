@@ -1,0 +1,9 @@
+{
+ "repo": "jeetsukumaran/DendroPy",
+ "joss_doi": "10.21105/joss.06943",
+ "joss_title": "DendroPy 5: a mature Python library for phylogenetic computing",
+ "joss_published": "2024-09-23T09:33:08.650Z",
+ "software_repository": "https://github.com/jeetsukumaran/DendroPy",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Moreno\n  given-names: Matthew Andres\n  orcid: \"https://orcid.org/0000-0003-4726-4479\"\n- family-names: Holder\n  given-names: Mark T.\n  orcid: \"https://orcid.org/0000-0001-5575-0536\"\n- family-names: Sukumaran\n  given-names: Jeet\n  orcid: \"https://orcid.org/0000-0002-9222-9608\"\ndoi: 10.5281/zenodo.13340136\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Moreno\n    given-names: Matthew Andres\n    orcid: \"https://orcid.org/0000-0003-4726-4479\"\n  - family-names: Holder\n    given-names: Mark T.\n    orcid: \"https://orcid.org/0000-0001-5575-0536\"\n  - family-names: Sukumaran\n    given-names: Jeet\n    orcid: \"https://orcid.org/0000-0002-9222-9608\"\n  date-published: 2024-09-23\n  doi: 10.21105/joss.06943\n  issn: 2475-9066\n  issue: 101\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6943\n  title: \"DendroPy 5: a mature Python library for phylogenetic\n    computing\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06943\"\n  volume: 9\ntitle: \"DendroPy 5: a mature Python library for phylogenetic computing\"\n"
+}

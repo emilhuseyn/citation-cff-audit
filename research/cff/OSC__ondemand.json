@@ -1,0 +1,9 @@
+{
+ "repo": "OSC/ondemand",
+ "joss_doi": "10.21105/joss.00622",
+ "joss_title": "Open OnDemand: A web-based client portal for HPC centers",
+ "joss_published": "2018-05-15T00:28:14.497Z",
+ "software_repository": "https://github.com/OSC/ondemand",
+ "status": 200,
+ "cff": "@software{OSC_software_2022_6323791,\n  author       = {Jeff Ohrstrom and\n                  Travis Ravert and\n                  Hazel Randquist and\n                  Trey Dockendorf and\n                  Matt Walton and\n                  Alan Chalker},\n  title        = {Open OnDemand Source Code},\n  month        = mar,\n  year         = 2022,\n  publisher    = {Zenodo},\n  version      = {2.0.23},\n  doi          = {10.5281/zenodo.6323791},\n  url          = {https://doi.org/10.5281/zenodo.6323791}\n}"
+}

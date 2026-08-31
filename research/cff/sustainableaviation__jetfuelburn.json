@@ -1,0 +1,9 @@
+{
+ "repo": "sustainableaviation/jetfuelburn",
+ "joss_doi": "10.21105/joss.09280",
+ "joss_title": "JetFuelBurn: A Python package for calculating fuel burn of commercial aircraft",
+ "joss_published": "2026-01-10T18:34:12.215Z",
+ "software_repository": "https://github.com/sustainableaviation/jetfuelburn",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Weinold\"\n  given-names: \"Michael P.\"\n- family-names: \"McKenna\"\n  given-names: \"Russell\"\ntitle: \"JetFuelBurn: A Python package for calculating fuel burn of commercial aircraft\"\nlicense: MIT\ndoi: 10.21105/joss.09280\ndate-released: 2026-01-10\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Weinold\"\n    given-names: \"Michael P.\"\n  - family-names: \"McKenna\"\n    given-names: \"Russell\"\n  doi: \"10.21105/joss.09280\"\n  journal: \"Journal of Open Source Software\"\n  month: 1\n  start: 9280\n  title: \"JetFuelBurn: A Python package for calculating fuel burn of commercial aircraft\"\n  issue: 117\n  volume: 11\n  year: 2026"
+}

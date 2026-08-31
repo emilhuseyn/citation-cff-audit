@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.21718881",
+ "source": "datacite",
+ "state": "ok",
+ "title": "Eegle: An open-source Julia integrative package for EEG data analysis and machine learning",
+ "type": "Software",
+ "container": ""
+}

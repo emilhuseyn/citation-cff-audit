@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.7760173",
+ "source": "datacite",
+ "state": "ok",
+ "title": "`BridgeStan`: Efficient in-memory access to the methods of a Stan model",
+ "type": "Software",
+ "container": ""
+}

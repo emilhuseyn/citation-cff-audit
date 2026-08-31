@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.20139775",
+ "source": "datacite",
+ "state": "ok",
+ "title": "kooplearn: A scikit-learn compatible library of algorithms for evolution operator learning",
+ "type": "Software",
+ "container": ""
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "cbrnr/sleepecg",
+ "joss_doi": "10.21105/joss.05411",
+ "joss_title": "SleepECG: a Python package for sleep staging based on heart rate",
+ "joss_published": "2023-06-09T08:01:28.511Z",
+ "software_repository": "https://github.com/cbrnr/sleepecg",
+ "status": 404,
+ "cff": null
+}

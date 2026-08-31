@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.14291795",
+ "source": "datacite",
+ "state": "ok",
+ "title": "DiffOpt: Parallel optimization of Jax models",
+ "type": "Software",
+ "container": ""
+}

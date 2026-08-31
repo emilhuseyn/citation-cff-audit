@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.10815823",
+ "source": "datacite",
+ "state": "ok",
+ "title": "Peroxide: A Batteries-Included Numerical Computing Library for Rust",
+ "type": "Software",
+ "container": ""
+}

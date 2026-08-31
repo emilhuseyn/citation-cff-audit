@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.07403",
+ "source": "crossref",
+ "state": "ok",
+ "title": "ExpFamilyPCA.jl: A Julia Package for Exponential Family Principal Component Analysis",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

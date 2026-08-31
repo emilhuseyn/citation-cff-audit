@@ -1,0 +1,9 @@
+{
+ "repo": "AlexanderJuestel/pyheatdemand",
+ "joss_doi": "10.21105/joss.06275",
+ "joss_title": "PyHeatDemand - Processing Tool for Heat Demand Data",
+ "joss_published": "2024-03-06T18:22:42.129Z",
+ "software_repository": "https://github.com/AlexanderJuestel/pyheatdemand",
+ "status": 200,
+ "cff": "cff-version: 1.1.0\nmessage: \"If you use PyHeatDemand, please cite it as below.\"\nauthors:\n  - family-names: \"J\u00fcstel\"\n    given-names: \"Alexander\"\n    orcid: https://orcid.org/0000-0003-0980-7479\n  - family-names: \"Strozyk\"\n    given-names: \"Frank\"\n    orcid: https://orcid.org/0000-0002-3067-831X\ntitle: \"PyHeatDemand - Processing Tool for Heat Demand Data\"\nversion: 0.1.2\ndoi: https://doi.org/10.21105/joss.06275\ndate-released: 2023-03-04\nurl: \"https://github.com/AlexanderJuestel/pyheatdemand/\"\n"
+}

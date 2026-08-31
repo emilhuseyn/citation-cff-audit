@@ -1,0 +1,9 @@
+{
+ "repo": "kazewong/flowMC",
+ "joss_doi": "10.21105/joss.05021",
+ "joss_title": "flowMC: Normalizing flow enhanced sampling package for probabilistic inference in JAX",
+ "joss_published": "2023-03-09T21:00:11.142Z",
+ "software_repository": "https://github.com/kazewong/flowMC",
+ "status": 404,
+ "cff": null
+}

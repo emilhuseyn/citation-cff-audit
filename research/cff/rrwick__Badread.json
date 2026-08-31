@@ -1,0 +1,9 @@
+{
+ "repo": "rrwick/Badread",
+ "joss_doi": "10.21105/joss.01316",
+ "joss_title": "Badread: simulation of error-prone long reads",
+ "joss_published": "2019-04-04T03:07:41.685Z",
+ "software_repository": "https://github.com/rrwick/Badread",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Wick\"\n  given-names: \"Ryan R\"\n  orcid: \"https://orcid.org/0000-0001-8349-0778\"\ntitle: \"Badread\"\nurl: \"https://github.com/rrwick/Badread\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Wick\"\n    given-names: \"Ryan R\"\n    orcid: \"https://orcid.org/0000-0001-8349-0778\"\n  doi: \"10.21105/joss.01316\"\n  journal: \"Journal of Open Source Software\"\n  month: 4\n  title: \"Badread: simulation of error-prone long reads\"\n  volume: 4\n  number: 36\n  year: 2019\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "ropensci/rnassqs",
+ "joss_doi": "10.21105/joss.01880",
+ "joss_title": "rnassqs: An R package to access agricultural data via the USDA National Agricultural Statistics Service (USDA-NASS) 'Quick Stats' API",
+ "joss_published": "2019-11-17T16:16:31.440Z",
+ "software_repository": "https://github.com/ropensci/rnassqs",
+ "status": 404,
+ "cff": null
+}

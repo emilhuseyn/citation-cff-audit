@@ -1,0 +1,9 @@
+{
+ "repo": "ropensci/workloopR",
+ "joss_doi": "10.21105/joss.01856",
+ "joss_title": "workloopR: Analysis of work loops and other data from muscle physiology experiments in R",
+ "joss_published": "2019-11-01T14:57:54.805Z",
+ "software_repository": "https://github.com/ropensci/workloopR/",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Baliga\"\n  given-names: \"Vikram B.\"\n  orcid: \"https://orcid.org/0000-0002-9367-8974\"\n- family-names: \"Senthivasan\"\n  given-names: \"Shreeram\"\n  orcid: \"https://orcid.org/0000-0002-7118-9547\"\ntitle: \"workloopR\"\nversion: 1.1.4\ndoi: 10.21105/joss.01856\ndate-released: 2019-11-01\nurl: \"https://github.com/ropensci/workloopR\"\n"
+}

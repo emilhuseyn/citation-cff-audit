@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.09384",
+ "source": "crossref",
+ "state": "ok",
+ "title": "diffsol: Rust crate for solving differential equations",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

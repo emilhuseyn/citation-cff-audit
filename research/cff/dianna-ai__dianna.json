@@ -1,0 +1,9 @@
+{
+ "repo": "dianna-ai/dianna",
+ "joss_doi": "10.21105/joss.04493",
+ "joss_title": "DIANNA: Deep Insight And Neural Network Analysis",
+ "joss_published": "2022-12-15T20:02:32.842Z",
+ "software_repository": "https://github.com/dianna-ai/dianna",
+ "status": 200,
+ "cff": "# YAML 1.2\n---\ncff-version: 1.2.0\ntitle: \"dianna\"\nauthors:\n  -\n    family-names: Ranguelova\n    given-names: Elena\n    orcid: \"https://orcid.org/0000-0002-9834-1756\"\n  -\n    family-names: Bos\n    given-names: Patrick\n    orcid: \"https://orcid.org/0000-0002-6033-960X\"\n  -\n    family-names: Liu\n    given-names: Yang\n    orcid: \"https://orcid.org/0000-0002-1966-8460\"\n  -\n    family-names: Meijer\n    given-names: Christiaan\n    orcid: \"https://orcid.org/0000-0002-5529-5761\"\n  -\n    family-names: Alidoost\n    given-names: Fakhereh (Sarah)\n    orcid: \"https://orcid.org/0000-0001-8407-6472\"\n  -\n    family-names: Oostrum\n    given-names: Leon\n    orcid: \"https://orcid.org/0000-0001-8724-8372\"\n  -\n    family-names: Crocioni\n    given-names: Giulia\n    orcid: \"https://orcid.org/0000-0002-0823-0121\"\n  -\n    family-names: Jansen\n    given-names: Aron\n    orcid: \"https://orcid.org/0000-0002-4764-9347\"\n  -\n    family-names: Ootes\n    given-names: Laura\n    orcid: \"https://orcid.org/0000-0002-2800-8309\"\n  -\n    family-names: Chandramouli\n    given-names: Pranav\n    orcid: \"https://orcid.org/0000-0002-7896-2969\"\n  -\n    family-names: Smeets\n    given-names: Stef\n    orcid: \"https://orcid.org/0000-0002-5413-9038\"\n  -\n    family-names: Spek\n    given-names: Willem\n    name-particle: \"van der\"\n\ndoi: 10.5281/zenodo.5801485\nversion: \"1.8.1\"\nrepository-code: \"https://github.com/dianna-ai/dianna\"\nkeywords:\n  - XAI\n  - machine learning\nmessage: \"If you use this software, please cite it using these metadata.\"\nlicense: Apache-2.0\n"
+}

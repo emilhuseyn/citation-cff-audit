@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.14710452",
+ "source": "datacite",
+ "state": "ok",
+ "title": "UQTestFuns: A Python3 Library of Uncertainty Quantification (UQ) Test Functions",
+ "type": "Software",
+ "container": ""
+}

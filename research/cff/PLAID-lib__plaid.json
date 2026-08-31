@@ -1,0 +1,9 @@
+{
+ "repo": "PLAID-lib/plaid",
+ "joss_doi": "10.21105/joss.08830",
+ "joss_title": "PLAID: Physics-Learning AI Datamodel",
+ "joss_published": "2026-07-07T19:55:59.176Z",
+ "software_repository": "https://github.com/PLAID-lib/plaid",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\ntitle: \"PLAID: Physics-Learning AI Datamodel\"\nversion: \"1.0.0\"\ndate-released: \"2026-07-07\"\nlicense: BSD-3-Clause\nrepository-code: \"https://github.com/PLAID-lib/plaid\"\nurl: \"https://plaid-lib.readthedocs.io/\"\nkeywords:\n  - machine learning\n  - physics\n  - data-model\nauthors:\n  - name: \"PLAID authors\""
+}

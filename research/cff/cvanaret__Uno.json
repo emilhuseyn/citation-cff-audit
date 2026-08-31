@@ -1,0 +1,9 @@
+{
+ "repo": "cvanaret/Uno",
+ "joss_doi": "10.21105/joss.10229",
+ "joss_title": "Uno: a composable framework for nonlinearly constrained optimization",
+ "joss_published": "2026-07-14T16:04:51.924Z",
+ "software_repository": "https://github.com/cvanaret/Uno",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use Uno, please cite it using the metadata from this file.\"\ntitle: \"Uno\"\nversion: 2.8.0\ndoi: 10.5281/zenodo.18795863\nurl: \"https://github.com/cvanaret/Uno\"\nauthors:\n- family-names: \"Vanaret\"\n  given-names: \"Charlie\"\n  orcid: \"https://orcid.org/0000-0002-1131-7631\"\n- family-names: \"Montoison\"\n  given-names: \"Alexis\"\n  orcid: \"https://orcid.org/0000-0002-3403-5450\"\ncontact:\n- family-names: \"Vanaret\"\n  given-names: \"Charlie\"\n  orcid: \"https://orcid.org/0000-0002-1131-7631\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Vanaret\"\n    given-names: \"Charlie\"\n    orcid: \"https://orcid.org/0000-0002-1131-7631\"\n  - family-names: \"Montoison\"\n    given-names: \"Alexis\"\n    orcid: \"https://orcid.org/0000-0002-3403-5450\"\n  title: \"Uno: a composable framework for nonlinearly constrained optimization\"\n  journal: \"Journal of Open Source Software\"\n  publisher:\n    name: \"Open Journals\"\n  year: 2026\n  date-published: 2026-07-14\n  doi: 10.21105/joss.10229\n  issn: 2475-9066\n  volume: 11\n  issue: 123\n  start: 10229\n  url: \"https://joss.theoj.org/papers/10.21105/joss.10229\"\nreferences:\n- type: article\n  authors:\n  - family-names: \"Vanaret\"\n    given-names: \"Charlie\"\n    orcid: \"https://orcid.org/0000-0002-1131-7631\"\n  - family-names: \"Leyffer\"\n    given-names: \"Sven\"\n    orcid: \"https://orcid.org/0000-0001-8839-5876\"\n  title: \"Implementing a unified solver for nonlinearly constrained optimization\"\n  journal: \"Mathematical Programming Computation\"\n  year: 2026\n  doi: 10.1007/s12532-026-00310-9\n"
+}

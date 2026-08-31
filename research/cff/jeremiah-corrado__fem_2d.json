@@ -1,0 +1,9 @@
+{
+ "repo": "jeremiah-corrado/fem_2d",
+ "joss_doi": "10.21105/joss.04172",
+ "joss_title": "FEM_2D: A Rust Package for 2D Finite Element Method Computations with Extensive Support for hp-refinement",
+ "joss_published": "2023-04-21T16:59:33.902Z",
+ "software_repository": "https://github.com/jeremiah-corrado/fem_2d",
+ "status": 404,
+ "cff": null
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "chrissoria/cat-llm",
+ "joss_doi": "10.21105/joss.09678",
+ "joss_title": "CatLLM: A Python package for Generating, Assigning, and Scoring Open-Ended Survey Data and Images",
+ "joss_published": "2026-05-18T11:58:38.179Z",
+ "software_repository": "https://github.com/chrissoria/cat-llm",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use CatLLM in your research, please cite it as below.\"\ntitle: \"CatLLM: A Reproducible Python Ecosystem for Generating, Assigning, and Scoring Open-Ended Text, Images, and Documents Across Research Domains\"\ntype: software\nversion: 3.0.0\ndate-released: 2026-05-01\nauthors:\n  - family-names: Soria\n    given-names: Chris\n    affiliation: \"University of California, Berkeley\"\n    email: chrissoria@berkeley.edu\n    orcid: \"https://orcid.org/0009-0007-3558-5896\"\nlicense: GPL-3.0-or-later\nrepository-code: \"https://github.com/chrissoria/cat-llm\"\nurl: \"https://github.com/chrissoria/cat-llm\"\nkeywords:\n  - large language models\n  - text classification\n  - open-ended responses\n  - survey research\n  - social media analysis\n  - academic text\n  - political text\n  - cognitive assessment\n  - image classification\n  - PDF analysis\n  - ensemble methods\n  - reproducibility\n  - Python\n  - R\n  - Stata\n  - computational social science\nidentifiers:\n  - type: doi\n    value: 10.5281/zenodo.15532316\n    description: \"The concept DOI for all versions of CatLLM.\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "neuroanatomy/thresholdmann",
+ "joss_doi": "10.21105/joss.06336",
+ "joss_title": "Thresholdmann: A Web tool for interactively creating adaptive thresholds to segment MRI data.",
+ "joss_published": "2024-05-03T07:08:11.921Z",
+ "software_repository": "https://github.com/neuroanatomy/thresholdmann",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Heuer\n  given-names: Katja\n  orcid: \"https://orcid.org/0000-0002-7237-0196\"\n- family-names: Traut\n  given-names: Nicolas\n  orcid: \"https://orcid.org/0000-0003-3277-6316\"\n- family-names: Toro\n  given-names: Roberto\n  orcid: \"https://orcid.org/0000-0002-6671-858X\"\ndoi: 10.5281/zenodo.11080336\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Heuer\n    given-names: Katja\n    orcid: \"https://orcid.org/0000-0002-7237-0196\"\n  - family-names: Traut\n    given-names: Nicolas\n    orcid: \"https://orcid.org/0000-0003-3277-6316\"\n  - family-names: Toro\n    given-names: Roberto\n    orcid: \"https://orcid.org/0000-0002-6671-858X\"\n  date-published: 2024-05-03\n  doi: 10.21105/joss.06336\n  issn: 2475-9066\n  issue: 97\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6336\n  title: \"Thresholdmann: A Web tool for interactively creating adaptive\n    thresholds to segment MRI data.\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06336\"\n  volume: 9\ntitle: \"Thresholdmann: A Web tool for interactively creating adaptive\n  thresholds to segment MRI data.\"\n"
+}

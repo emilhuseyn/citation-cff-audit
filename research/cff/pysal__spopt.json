@@ -1,0 +1,9 @@
+{
+ "repo": "pysal/spopt",
+ "joss_doi": "10.21105/joss.03330",
+ "joss_title": "spopt: a python package for solving spatial optimization problems in PySAL",
+ "joss_published": "2022-06-14T21:12:20.561Z",
+ "software_repository": "https://github.com/pysal/spopt",
+ "status": 404,
+ "cff": null
+}

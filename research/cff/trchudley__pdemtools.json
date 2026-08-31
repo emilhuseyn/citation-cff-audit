@@ -1,0 +1,9 @@
+{
+ "repo": "trchudley/pdemtools",
+ "joss_doi": "10.21105/joss.07149",
+ "joss_title": "pDEMtools: conveniently search, download, and process ArcticDEM and REMA products",
+ "joss_published": "2024-10-23T19:45:38.987Z",
+ "software_repository": "https://github.com/trchudley/pdemtools",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Chudley\n  given-names: Thomas R.\n  orcid: \"https://orcid.org/0000-0001-8547-1132\"\n- family-names: Howat\n  given-names: Ian M.\n  orcid: \"https://orcid.org/0000-0002-8072-6260\"\ncontact:\n- family-names: Chudley\n  given-names: Thomas R.\n  orcid: \"https://orcid.org/0000-0001-8547-1132\"\ndoi: 10.5281/zenodo.13936813\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Chudley\n    given-names: Thomas R.\n    orcid: \"https://orcid.org/0000-0001-8547-1132\"\n  - family-names: Howat\n    given-names: Ian M.\n    orcid: \"https://orcid.org/0000-0002-8072-6260\"\n  date-published: 2024-10-23\n  doi: 10.21105/joss.07149\n  issn: 2475-9066\n  issue: 102\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7149\n  title: \"pDEMtools: conveniently search, download, and process\n    ArcticDEM and REMA products\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07149\"\n  volume: 9\ntitle: \"pDEMtools: conveniently search, download, and process ArcticDEM\n  and REMA products\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "wtraylor/modular_megafauna_model",
+ "joss_doi": "10.21105/joss.03631",
+ "joss_title": "MMM: A C++ library for simulating large herbivores",
+ "joss_published": "2021-12-15T21:29:19.833Z",
+ "software_repository": "https://github.com/wtraylor/modular_megafauna_model",
+ "status": 200,
+ "cff": "# SPDX-FileCopyrightText: 2020 W. Traylor <wolfgang.traylor@senckenberg.de>\n#\n# SPDX-License-Identifier: CC0-1.0\n\ncff-version: 1.1.0\nmessage: If you use this software, please cite it as below.\nauthors:\n  - family-names: Traylor\n    given-names: Wolfgang\n    affiliation: Senckenberg Biodiversity and Climate Research Centre\n    orcid: https://orcid.org/0000-0002-4813-1072\ntitle: \"Modular Megafauna Model\"\nversion: 1.1.6\n# This DOI represents all versions, and will always resolve to the latest one.\ndoi: 10.5281/zenodo.4710254\ndate-released: 2023-10-27\nlicense: LGPL-3.0-or-later\nrepository-code: https://github.com/wtraylor/modular_megafauna_model\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "dfki-ric/better_launch",
+ "joss_doi": "10.21105/joss.08958",
+ "joss_title": "better_launch: A better replacement for the ROS2 launch system",
+ "joss_published": "2026-02-25T22:39:16.288Z",
+ "software_repository": "https://github.com/dfki-ric/better_launch",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Dahn\n  given-names: Nikolas\n  orcid: \"https://orcid.org/0000-0003-2262-2989\"\ndoi: 10.5281/zenodo.18414064\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Dahn\n    given-names: Nikolas\n    orcid: \"https://orcid.org/0000-0003-2262-2989\"\n  date-published: 2026-02-25\n  doi: 10.21105/joss.08958\n  issn: 2475-9066\n  issue: 118\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 8958\n  title: \"better_launch: A better replacement for the ROS2 launch\n    system\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.08958\"\n  volume: 11\ntitle: \"better_launch: A better replacement for the ROS2 launch system\"\n"
+}

@@ -1,0 +1,9 @@
+{
+ "repo": "AnyBody-Research-Group/AnyPyTools",
+ "joss_doi": "10.21105/joss.01108",
+ "joss_title": "AnyPyTools: A Python package for reproducible research with the AnyBody Modeling System",
+ "joss_published": "2019-01-07T15:21:45.858Z",
+ "software_repository": "https://github.com/AnyBody-Research-Group/AnyPyTools",
+ "status": 200,
+ "cff": "cff-version: 1.2.0\nmessage: \"If you use this software, please cite it as below.\"\nauthors:\n- family-names: \"Lund\"\n  given-names: \"Morten Enemark\"\n  orcid: \"https://orcid.org/0000-0001-9920-4051\"\ntitle: \"AnyPyTools\"\nversion: 2.0.4\ndoi: 10.5281/zenodo.5187643\ndate-released: 2021-08-12\nurl: \"https://github.com/AnyBody-Research-Group/AnyPyTools\"\npreferred-citation:\n  type: article\n  authors:\n  - family-names: \"Lund\"\n    given-names: \"Morten Enemark\"\n    orcid: \"https://orcid.org/0000-0001-9920-4051\"\n  - family-names: \"Rasmussen\"\n    given-names: \"John\"\n    orcid: \"https://orcid.org/0000-0003-3257-5653\"\n  - family-names: \"Andersen\"\n    given-names: \"Michael Skipper\"\n    orcid: \"https://orcid.org/0000-0001-8275-9472\"\n  doi: \"10.21105/joss.01108\"\n  journal: \"Journal of Open Source Software\"\n  month: 1\n  start: 1108 # First page number\n  title: \"AnyPyTools: A Python package for reproducible research with the AnyBody Modeling System\"\n  issue: 33\n  volume: 4\n  year: 2018\n\n"
+}

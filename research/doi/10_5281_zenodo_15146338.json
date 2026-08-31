@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.15146338",
+ "source": "datacite",
+ "state": "ok",
+ "title": "volesti: A C++ library for sampling and volume computation on convex bodies",
+ "type": "Software",
+ "container": ""
+}

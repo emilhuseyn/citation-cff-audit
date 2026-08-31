@@ -1,0 +1,8 @@
+{
+ "doi": "10.21105/joss.01109",
+ "source": "crossref",
+ "state": "ok",
+ "title": "gtk-fortran: a GTK+ binding to build Graphical User Interfaces in Fortran",
+ "type": "journal-article",
+ "container": "Journal of Open Source Software"
+}

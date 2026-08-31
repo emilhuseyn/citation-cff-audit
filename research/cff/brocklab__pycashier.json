@@ -1,0 +1,9 @@
+{
+ "repo": "brocklab/pycashier",
+ "joss_doi": "10.21105/joss.06891",
+ "joss_title": "Pycashier: cash in on DNA barcode tags",
+ "joss_published": "2024-10-31T10:57:15.731Z",
+ "software_repository": "https://github.com/brocklab/pycashier",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Morgan\n  given-names: Daylin\n  orcid: \"https://orcid.org/0000-0002-4218-2805\"\n- family-names: Brock\n  given-names: Amy\n  orcid: \"https://orcid.org/0000-0001-8255-9024\"\ncontact:\n- family-names: Brock\n  given-names: Amy\n  orcid: \"https://orcid.org/0000-0001-8255-9024\"\ndoi: 10.5281/zenodo.13863889\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Morgan\n    given-names: Daylin\n    orcid: \"https://orcid.org/0000-0002-4218-2805\"\n  - family-names: Brock\n    given-names: Amy\n    orcid: \"https://orcid.org/0000-0001-8255-9024\"\n  date-published: 2024-10-31\n  doi: 10.21105/joss.06891\n  issn: 2475-9066\n  issue: 102\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 6891\n  title: \"Pycashier: cash in on DNA barcode tags\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.06891\"\n  volume: 9\ntitle: \"Pycashier: cash in on DNA barcode tags\"\n\n"
+}

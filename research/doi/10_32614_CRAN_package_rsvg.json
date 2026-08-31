@@ -1,0 +1,8 @@
+{
+ "doi": "10.32614/CRAN.package.rsvg",
+ "source": "crossref",
+ "state": "ok",
+ "title": "rsvg: Render SVG Images into PDF, PNG, (Encapsulated) PostScript, or Bitmap Arrays",
+ "type": "dataset",
+ "container": "CRAN: Contributed Packages"
+}

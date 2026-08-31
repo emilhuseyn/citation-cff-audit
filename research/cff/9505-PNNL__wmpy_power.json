@@ -1,0 +1,9 @@
+{
+ "repo": "9505-PNNL/wmpy_power",
+ "joss_doi": "10.21105/joss.07225",
+ "joss_title": "wmpy-power: A Python package for process-based regional hydropower simulation",
+ "joss_published": "2024-11-08T16:02:15.974Z",
+ "software_repository": "https://github.com/9505-PNNL/wmpy_power",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Thurber\n  given-names: Travis B.\n  orcid: \"https://orcid.org/0000-0002-4370-9971\"\n- family-names: Broman\n  given-names: Daniel\n  orcid: \"https://orcid.org/0000-0001-8281-3299\"\n- family-names: Zhou\n  given-names: Tian\n  orcid: \"https://orcid.org/0000-0003-1582-4005\"\n- family-names: Voisin\n  given-names: Nathalie\n  orcid: \"https://orcid.org/0000-0002-6848-449X\"\ncontact:\n- family-names: Thurber\n  given-names: Travis B.\n  orcid: \"https://orcid.org/0000-0002-4370-9971\"\ndoi: 10.5281/zenodo.14053013\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Thurber\n    given-names: Travis B.\n    orcid: \"https://orcid.org/0000-0002-4370-9971\"\n  - family-names: Broman\n    given-names: Daniel\n    orcid: \"https://orcid.org/0000-0001-8281-3299\"\n  - family-names: Zhou\n    given-names: Tian\n    orcid: \"https://orcid.org/0000-0003-1582-4005\"\n  - family-names: Voisin\n    given-names: Nathalie\n    orcid: \"https://orcid.org/0000-0002-6848-449X\"\n  date-published: 2024-11-08\n  doi: 10.21105/joss.07225\n  issn: 2475-9066\n  issue: 103\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7225\n  title: \"wmpy-power: A Python package for process-based regional\n    hydropower simulation\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07225\"\n  volume: 9\ntitle: \"wmpy-power: A Python package for process-based regional\n  hydropower simulation\"\n"
+}

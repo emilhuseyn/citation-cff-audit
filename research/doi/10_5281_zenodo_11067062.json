@@ -1,0 +1,8 @@
+{
+ "doi": "10.5281/zenodo.11067062",
+ "source": "datacite",
+ "state": "ok",
+ "title": "NCDatasets.jl: a Julia package for manipulating netCDF data sets",
+ "type": "Software",
+ "container": ""
+}

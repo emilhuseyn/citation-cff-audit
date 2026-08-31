@@ -1,0 +1,9 @@
+{
+ "repo": "OFFIS-DAI/Mango.jl",
+ "joss_doi": "10.21105/joss.07098",
+ "joss_title": "Mango.jl: A Julia-Based Multi-Agent Simulation Framework",
+ "joss_published": "2024-10-01T14:22:22.624Z",
+ "software_repository": "https://github.com/OFFIS-DAI/Mango.jl",
+ "status": 200,
+ "cff": "cff-version: \"1.2.0\"\nauthors:\n- family-names: Sager\n  given-names: Jens\n  orcid: \"https://orcid.org/0000-0001-6352-4213\"\n- family-names: Schrage\n  given-names: Rico\n  orcid: \"https://orcid.org/0000-0001-5339-6553\"\ndoi: 10.5281/zenodo.13860452\nmessage: If you use this software, please cite our article in the\n  Journal of Open Source Software.\npreferred-citation:\n  authors:\n  - family-names: Sager\n    given-names: Jens\n    orcid: \"https://orcid.org/0000-0001-6352-4213\"\n  - family-names: Schrage\n    given-names: Rico\n    orcid: \"https://orcid.org/0000-0001-5339-6553\"\n  date-published: 2024-10-01\n  doi: 10.21105/joss.07098\n  issn: 2475-9066\n  issue: 102\n  journal: Journal of Open Source Software\n  publisher:\n    name: Open Journals\n  start: 7098\n  title: \"Mango.jl: A Julia-Based Multi-Agent Simulation Framework\"\n  type: article\n  url: \"https://joss.theoj.org/papers/10.21105/joss.07098\"\n  volume: 9\ntitle: \"Mango.jl: A Julia-Based Multi-Agent Simulation Framework\"\n"
+}
